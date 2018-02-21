@@ -1,0 +1,78 @@
+
+NAME: Meridian Bioscience, Inc.
+CID: 0000794172
+KEYWORDS: feb2016screen
+
+Dec 31, 2016
+
+Feb 2016 stock screen,
+
+Industry: Diagnostic Substances
+Sector: Healthcare
+CEO: John A. Kraeutler
+Year took office: COO since 92; CEO 2008
+
+Annual Reports
+ read 5 yrs ago
+ read current
+
+Look for moat: brand, switching, cost, protected
+Look for CEO consistency
+Identify competitors
+
+=== 2016 10K ===
+
+"""
+Meridian is a fully-integrated life science company with principal businesses in (i) the development, manufacture, sale and distribution of diagnostic test kits, primarily for certain gastrointestinal, viral, respiratory, and parasitic infectious diseases, and elevated blood lead levels; and (ii) the manufacture and distribution of bulk antigens, antibodies, PCR/qPCR reagents, nucleotides, competent cells, and bioresearch reagents used by researchers and other diagnostic manufacturers.
+"""
+
+Two segments: Diagnostics and Life Science. Diagnostic 78% of rev.  Broad range of products. Portfolio has 140 productions sold in 70 countries throughout the world.
+
+- Many competitors.
+
++ Patents and licenses on some products.
+
+- Regulated environment
+
+- Acquisitions are a big part of the business
+
+- Goodwill is skyrocketing in the last year
+
+- Cash flow is crazy lumpy
+
+================
+
+Calc annualized 5 year eps growth: -1%
+
+Morningstar key ratios: 
+2011
+Book Value per Share: 3.36
+2016
+book value per share: 4.01
+cumulative div per share: 3.90
+Calc annualized 5 year book value growth + divy: 18.7%
+
+Compare these numbers to 10 year note (1.9%) and each other.
+
+9/16
+rev 46,998	50,665	51,259	47,160
+inc 5,491	8,754	9,091	8,893
+shares 42,108,217
+price 17.70
+div 0.80
+==>
+EPS $0.77
+PE 23.1
+MC $745.3M
+Margins 16.4%
+Dividend $0.80
+Yield 4.5%
+Payout Ratio 104.5%
+
+There are a number of bad things about this stock: a complex industry, high PE, unsustainable payout ratio, rising goodwill. I don't think it's worth looking at even if there is a price correction.
+
+Seeking alpha had an interesting article that claims the company is fine except for the valuation.  Stick a low watch price on this.
+http://seekingalpha.com/article/3954416-meridian-bioscience-overvalued-cash-cow
+
+BUY $12
+

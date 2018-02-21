@@ -1,0 +1,19 @@
+
+NAME: Nuance Communications, Inc.
+CID: 0001002517
+
+Jan 3, 2010
+
+Analysts best picks 2010
+
+speech recognition; normal SW multiple
+
+Need to look at this.
+
+Oct 31, 2010
+
+Interesting voice recognition.  They have an iphone app (free and paid) which allows for dictaion.  Unfortunately, google is a direct competitor by releasing voice actions for android in Aug.  My phone won't get it until the Froyo update which should be any month now.  If the google product compares at all with their's then that could be game over the same way that free google maps is killing Garmin.
+
+Note: their three main segments are mobile-enterprise, healthcare-dictation, and imaging (pdf to text).  The bulk of revenue is split between mobile and healthcare with a fraction for imaging.
+
+This would be a much better bet if they were profitable now but not making money and facing this kind of competition seems bad.  Check back in six months and compare Dragon Dictation to Google Voice Actions.

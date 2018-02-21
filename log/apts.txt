@@ -1,0 +1,62 @@
+
+NAME: Preferred Apartment Communities
+CID: 0001481832
+KEYWORDS: barbara_owned
+
+June 16, 2011
+
+Apartment REIT for regular income recommended by Steve.
+
+TRADE buy 100@8.60 balance 100 commission 7.00
+
+June 20, 2011
+
+TRADE buy 100@8.60 balance 200 commission 7.00
+
+June 21, 2011
+
+TRADE buy 3288@8.60 balance 3488 commission 7.00
+
+July 22, 2011
+
+TRADE buy 2409@8.30 balance 5897 commission 7.00
+
+August 09, 2011
+
+TRADE buy 1575@6.35 balance 7472 commission 7.00
+
+September 23, 2011
+
+TRADE buy 1613@6.20 balance 9085 commission 7.00
+
+November 28, 2011
+
+TRADE buy 7@5.75 balance 9092 commission 7.00
+
+January 10, 2012
+
+TRADE buy 1724@5.67 balance 10816 commission 7.00
+
+May 28, 2014
+
+TRADE buy 2380@8.3992 balance 13196 commission 7.00
+
+Aug 3, 2014
+
+TD Ameritrade: none
+JHS Trust: none
+JHS IRA: 49,220
+Crowell Weedon IRA: 35,000
+
+Mar 4, 2017
+
+I had my federal taxes done yesterday and it turns out that the quarterly payments from this stock are not dividendes but instead "distributions" which are non-taxable but reduce the cost basis of the stock.  This gives me even more incentive to hang onto this stock. I'm not sure how to adjust the cost basis of this thing.
+
+May 9, 2017
+
+TRADE buy 670@14.8264 balance 13866 commission 6.95
+
+Feb 4, 2018
+
+The big run up and collapse this last year means a lot of losers own the stock and may put more downward pressure on this. I really need a way to judge the value of this thing so I can buy more if necessary.
+

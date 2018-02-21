@@ -1,0 +1,19 @@
+
+NAME: Mueller Water Products, Inc.
+CID: 0001350593
+KEYWORDS: new
+
+Feb 1, 2017
+
+From Jan 23 Barrons:
+
+"""
+Gabelli: Mueller Water Products has 161M shares, and trades for $13. It has no debt.
+
+Witmer: Do you like the management team?
+
+Gabelli: That's why I'm recommending it. They just hired a new CEO from Textron [TXT]. He's taking over a company with $800M of revenue; $200M comes from fire hydrants, and $500M from valves. Ebita is about $275M, and capex is $25M to $30M. Those are the kinds of things I like. Today, the company announced the sale of its Anvil International piping-system division.
+
+There are so many attractive companies when you think about how a 25% tax rate would boost earnings. we expect more corporate takeovers, too. Romance is in the air.
+"""
+

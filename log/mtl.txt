@@ -1,0 +1,25 @@
+
+NAME: Mechel Open Joint Stock Company
+CID: 0001302362
+
+Feb 11, 2006
+
+Steel company found after looking at USAP
+
+Coal/iron Mines and steel mills in Russia.  huge growth 02 to 04
+
+rev 3,635,955   	2,050,088   	1,314,149 
+inc $1,342,706   	$143,508   	$89,253
+
+Strange foreign reporting leaves out quarterly data.  No visibility.  Too risky.
+
+May 27, 2013
+
+Russian mining company.
+
+rev 11,274,933 
+inc (1,743,624)
+price 3.58
+
+Not worth looking further.
+

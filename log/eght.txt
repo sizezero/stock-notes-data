@@ -1,0 +1,25 @@
+
+NAME: Eight by eight
+CID: 0001023731
+
+Dec 12, 2009
+
+LD Microcap conference
+
+Call forwarding service?  Conference calls?
+
+Dec 27, 2009
+
+Seems like a straightforward VOIP company
+
+rev 16,027  	15,558  	15,765  	16,203
+inc 1,336  	$414  	($3,912)	$180
+price 1.47
+shares 62,776,590
+==>
+EPS ($0.03)
+PE N/A
+MC $92.3M
+
+Not an interesting story with lots of competition.
+

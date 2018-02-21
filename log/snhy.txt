@@ -1,0 +1,90 @@
+
+NAME: Sun Hydraulics Corp.
+CID: 0001024795
+KEYWORDS: feb2016screen great
+
+Aug 14, 2016
+
+Feb 2016 stock screen,
+
+Industry: Industrial Equipment & Components
+Sector: Industrial Goods
+CEO: Wolfgang H. Dangel
+Year took office: 2016; involved with co for 10 years
+
+Annual Reports
+ read 5 yrs ago
+ read current
+
+Look for moat: brand, switching, cost, protected
+Look for CEO consistency
+Identify competitors
+
+=== 20xx 10K ===
+
+=== 2016 10K ===
+
+year ended JANUARY 2016
+
+Valves and control mechanisms.  Sells globally.
+
+"The Company has been profitable every year since 1972 and has paid a dividend every quarter since going public in January 1997."
+
+Two customers mobile and industrial (factories, non-mobile).  Two thirds of sales are mobile.
+
+Avoids risky customers "The Company does not warrant its products for use in any of the following applications, (i) any product that comes under the Federal Highway Safety Act, such as steering or braking systems for passenger-carrying vehicles or on-highway trucks, (ii) aircraft or space vehicles, (iii) ordnance equipment, (iv) life support equipment, and (v) any product that, when sold, would be subject to the rules and regulations of the United States Nuclear Regulatory Commission. These “application limitations” have alleviated the need for the Company to maintain the internal bureaucracy necessary to conduct business in these market segments."
+
+risk based on the possibility of new standards
+
+"""
+Most of the Company’s competitors produce screw-in cartridge valves that fit an industry common cavity that sometimes allows their products to be interchangeable. The industry common cavity is not currently supported by any national or global standards organizations, although there is an ongoing effort to standardize a modified version of this cavity in the United States. The International Standards Organization (ISO) has a standard screw-in cartridge cavity that is different from the industry common cavity, but the Company is not aware of any major competitor that currently produces a full line of standard products conforming to the ISO standard. The Company does not manufacture a product that fits either the industry common or the ISO standard cavity. Some competitors manufacture selected screw-in cartridge valves that fit the Company’s cavity. (See Risk Factors: The marketplace could adopt an industry standard cavity.)
+"""
+
+risk based on copy-cat competitors
+
+"""
+A new class of competitors is emerging in low cost production areas such as Asia and Eastern Europe. These competitors will typically copy both the Company’s products and like products designed by competitors to fit industry common cavities. One of the barriers to these offshore competitors gaining a foothold in established markets is establishing suitable channels or routes to market. The Company recognizes this new class of competitor exists and will continue to monitor its growth and impact.
+The Company believes that it competes based upon the quality, reliability, price, value, speed of delivery and technological characteristics of its products and services.
+"""
+
+Says plainly that the business is subject to intense competition.
+
+================
+
+Calc annualized 5 year eps growth: 7.9%
+This is not fully accurate as 2009 and 2010 where particularly bad years.  2011+ had earnings bouncing around $1.50 with no indication of growth.
+
+Morningstar key ratios:
+2010
+Book Value per Share: $4.50
+2015
+book value per share: $8.90
+solid regular growth of book value for ten years
+cumulative div per share: 
+Calc annualized 5 year book value growth + divy: 18.5%
+
+Compare these numbers to 10 year note (1.9%) and each other.
+
+Great company?  If so add keyword "great".  I don't like the intense competition but I can't argue with the equity growth.
+
+4/16
+rev 51,028	44,289	48,036	54,016
+inc 8,208	5,103	8,410	9,248
+shares 26,922,090
+price 29.47
+div 0.36
+==>
+Income $31.0M
+Revenue $197.4M
+EPS $1.15
+PE 25.6
+MC $793.4M
+Margins 15.7%
+Dividend $0.36
+Yield 1.2%
+Payout Ratio 31.3%
+
+Crazy PE for a company that is not growing revenue.  Maybe there is a story for some serious short term upside.  Maybe it's owned by insiders who better understand the value?  Seeking alpha articles agree it is overvalued.  Stock has held these inflated prices for a long time so it's unlikely the PE would drop significantly.  Pick some up if a crash happens.
+
+BUY $14.00
+

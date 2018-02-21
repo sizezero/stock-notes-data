@@ -1,0 +1,23 @@
+
+NAME: Lam Research Corporation
+CID: 0000707549
+
+Jun 18, 2017
+
+Lots of articles in Barrons and elsewhere talk about this company that supplies equipment to chip manufacturers has lots of upside due to new foundries in China. I can't help but think that supplying equipent to these large, powerful businesses is precarious.
+
+Mar 2017
+rev 2,153,995	1,882,299	1,632,419	1,546,261
+inc 574,713	332,791	263,835	258,939
+shares 161,311,880
+price 148.21
+div 1.80
+==>
+EPS $8.87
+PE 16.7
+MC $23908.0M
+Margins 19.8%
+Yield 1.2%
+Payout Ratio 20.3%
+
+Numbers look good and the latest quarter is much higher than previous. I know it's irrational but seeing this strong growth makes me nervous as I wonder when it's going to stop.

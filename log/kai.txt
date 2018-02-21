@@ -1,0 +1,77 @@
+
+NAME: Kadant Inc.
+CID: 0000886346
+KEYWORDS: feb2016screen
+
+May 29, 2016
+
+Feb 2016 stock screen,
+
+Industry: Diversified Machinery
+Sector: Industrial Goods
+CEO: Jonathan W. Painter (57)
+Year took office: 2009
+
+Look for moat: brand, switching, cost, protected
+Look for CEO consistency
+Identify competitors
+
+=== 2011 10K ===
+
+=== 2016 10K ===
+
+"""
+We are a leading global supplier of equipment used in process industries, including papermaking, paper recycling, and oriented strand board (OSB), an engineered wood panel product used primarily in home construction. In addition, we manufacture granules made from papermaking byproducts. We have a large customer base that includes most of the world's major paper and OSB manufacturers. We believe our large installed base provides us with a spare parts and consumables business that yields higher margins than our capital equipment business.
+
+Our continuing operations are comprised of two (three) reportable operating segments, 
+
+Papermaking Systems: we develop, manufacture, and market a range of equipment and products for the global papermaking, paper recycling, and other process industries.
+
+Wood Processing Systems: we design, manufacture, and market stranders and related equipment used in the production of OSB and sell debarking and wood chipping equipment used in the forest products and the pulp and paper industries.
+
+Fiber-based Products: we manufacture and sell granules derived from pulp fiber for use as carriers for agricultural, home lawn and garden, and professional lawn, turf and ornamental applications, as well as for oil and grease absorption.
+"""
+
+- various patents expire in 2-15 years
+- no credit or inventory is provided to customers
+- no customer is greater than 10% of revenue
+- 1800 worldwide employees
+- worldwide real estate for manufacturing, engineering and office space.  Corporate headquarters in Mass
+
+Complicated demand for various products
+- newsprint decline (12% of rev)
+- packaging slightly increases (64% of rev)
+- OSB (oriented strand board) is used in US house construction and is thus tied to North American housing growth (9% of rev)
+- lower eps of 2.8-2.9 expected in 2016
+
+================
+
+Calc annualized 5 year eps growth: 
+
+Morningstar key ratios:
+2010
+Book Value per Share:  $16.89
+2015
+book value per share:  $24.26
+cumulative div per share: $1.51
+Calc annualized 5 year book value growth + divy: 8.8%
+EPS growth 20% annually for the past 25 years (1.5 ==> 3.6) but lost money in 2008, 2009
+
+Five year growth has been great but losses before that and lowering of next years estimates show that this is not a reliable industry.  Not great.
+
+apr 16
+rev 96,538  	107,600  	91,929  	98,327
+inc 6,876  	10,385  	8,643  	8,464 
+shares 10,854,322
+price 49.07
+div 0.76
+==>
+EPS $3.17
+PE 15.5
+MC $532.6M
+Margins 8.7%
+Dividend $0.76
+Yield 1.5%
+Payout Ratio 24.0%
+
+

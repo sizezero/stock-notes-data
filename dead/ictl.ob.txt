@@ -1,0 +1,38 @@
+
+NAME: International Commercial Television Inc.
+CID: 0001076522
+
+Mar 1, 2005
+
+Infomercial company.  Never made money.  Going downhill.
+
+< $50M MC
+
+Dec 16, 2005
+
+Minuscule revenue and earnings (but positive) in 2005.
+
+MC of 6.91M and a PE of 14.  They made a small amount of money in each of the last 4 quarters.  I'm not used to seeing a company this small actually profitable.
+
+Their balance sheet is terrible.  Current assets (minus inventory) of $465 and current liabilities of $847.  I'm not sure how they can operate with so much deficit.
+
+10M shares outstanding.  1M stock options have been offered to date with an average price of $0.49.
+
+"""
+In  an effort to reach profitability and become less dependent on the
+requirement  to  finance  continuing  operations,  we  are  working  to increase
+revenues  and  profit  margins by continuing the trend of generating revenues by
+selling  our own products where our margins are much higher than our third-party
+products.  Furthermore, we are actively pursuing additional financing so that we
+may  produce  two long-form infomercials and one short-form infomercial over the
+course of the next twelve months. We have no binding commitments or arrangements
+for  additional financing, and there is no assurance that our management will be
+able to obtain any additional financing on terms acceptable to us, if at all.
+"""
+
+The plan for the company is to use infomercials to sell their own products but they also sell other products at a lower margin.
+
+Nov 1, 2008
+
+Acquired.
+

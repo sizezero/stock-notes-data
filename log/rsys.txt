@@ -1,0 +1,39 @@
+
+NAME: RadiSys Corp.
+CID: 0000873044
+
+Mar 1, 2005
+
+$100 to $500 MC
+
+MBoards, Blades, cards, embedded and high reliability.  Also sells
+OS-9.  Teaming with Wind River for linux product.  In the black the
+past couple years.
+
+Apr 19, 2005
+
+Press announcement.  Porting carrier grade linux (with help from
+MontaVista SW) to their embedded platforms.
+
+P:14:51 EPS:0.60 PE:24.3
+
+Flat earnings still do not justify valuation. Look for Apr 28 earnings
+call.
+
+Apr 4, 2006
+
+dec05 to mar05
+inc $4,885   	$5,922   	$2,565   	$2,586
+shares 24,832K
+price 19.50
+==>
+EPS $0.64
+PE 30.3
+MC $484.2M
+
+Valuation is just getting higher.  More reason to stay away.
+
+Apr 5, 2006
+
+Interesting article on the embedded market.  Discusses Linux and it's large footprint, the open source TRON standard, and various commercial alternatives.
+http://linux.slashdot.org/article.pl?sid=06/04/05/0215249

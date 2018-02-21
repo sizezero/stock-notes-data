@@ -1,0 +1,26 @@
+
+NAME: Lionbridge Technologies Inc.
+CID: 0001058299
+
+Nov 10, 1995
+
+DDIM (Data Dimensions) transaction history.  Bought as a private placement and as a public stock.
+
+06/30/94 buy   6K@0.75 balance 6K
+03/28/95 buy   5K@0.90 balance 11K
+11/10/95 buy  30K@0.33 balance 41K
+04/04/96 sell 10998@6.70
+04/08/96 sell   2@8.02 balance 30K
+05/19/97 sell  15K@31.69 balance 15K
+09/26/97 sell   5K@36.56 balance 10K
+
+Each DDIM share turned into 0.19 LIOX shares.  Translates into 10K pre-acquisition shares.  Cost basis is 0.33 of ddim shares.  0.33/0.19 == 1.74
+
+TRADE buy 1908@1.74 Balance 1908
+
+Apr 5, 2006
+
+Increasing revenues but the company is still not profitable.  It seems risky for a company with a $465M MC.  I should sell this one.
+
+TRADE sell 1908@7.7771 commission 230.01 balance 0
+

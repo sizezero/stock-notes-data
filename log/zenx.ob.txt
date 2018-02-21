@@ -1,0 +1,37 @@
+
+NAME: Zenex International Inc.
+CID: 0000928373
+
+Feb 27, 2006
+
+"magic" screen feb 06
+
+Provides commercial and residential roofing services.  Also, provides roofing construction services, e.g. sheet metal for metal roofs.
+
+May get the worst web site of the year award.  The entire thing is an ugly flash program.  Zenex is the holding company for Aduddell Roofing:
+http://www.aduddellroofing.com/
+
+Huge two year growth.  Slim margins.
+inc $6,917   	($288) 	$119   	$1,951
+shares 80,137,921 (diluted)
+price 0.69
+==>
+Income $8.7M
+EPS $0.11
+PE 6.4
+MC $55.3M
+
+I'm not sure how affected these guys are by the housing market.  People will always need new roofs.
+
+Stock options look fishy.  CEO was granted options for 30M shares at $0.04 in 2002.  At the current price that could be $1.2M in earnings liabilities.
+
+10Q
+
+"Although Aduddell Roofing had a significant number of customers for the period
+ended September 30, 2005, the USACE accounted for 68% of the revenue. Two
+customers accounted for 38% and 10% of the revenue for the period ended December
+31, 2004."
+
+4M addition options granted in 2005.
+
+It's clearly a value play but the massive options and vain homepage makes me mistrust the management.

@@ -1,0 +1,68 @@
+
+NAME: The Mosaic Company
+CID: 0001285785
+
+Dec 22, 2015
+
+Produces phosphate and potash fertilizer for farming.  Got interested in a semi-poitive Barron's article after the stock got hammered this year due to poor produce prices.
+
+
+=== Feb 2015 10K ===
+
+- customers in 40 countries
+- mine phosphate in Florida; refine in Florida and Louisiana
+- mine potash in Saskatchewan and New Mexico
+- phosphates 2/3 of business
+
+Pitch on competition and sales:
+
+"""
+Because crop nutrients are global commodities available from numerous sources, crop nutrition companies compete primarily on the basis of delivered price. Other competitive factors include product quality, cost and availability of raw materials, customer service, plant efficiency and availability of product. As a result, markets for our products are highly competitive. We compete with a broad range of domestic and international producers, including farmer cooperatives, subsidiaries of larger companies, and independent crop nutrient companies. Foreign competitors often have access to cheaper raw materials, are required to comply with less stringent regulatory requirements or are owned or subsidized by governments and, as a result, may have cost advantages over North American companies. We believe that our extensive North American and international production and distribution system provides us with a competitive advantage by allowing us to achieve economies of scale, transportation and storage efficiencies, and obtain market intelligence. Also, we believe our premium products provide us a competitive advantage with customers in North and South America. Our sales of MicroEssentials® have increased steadily over the past few years, reaching 1.5 million tonnes in North America during 2014.
+
+Unlike many of our competitors, we have our own distribution system to sell phosphate- and potash-based crop nutrients and animal feed ingredients, whether produced by us or by other third parties, around the globe. In North America, we have one of the largest and most strategically located distribution systems for crop nutrients, including warehouse facilities in key agricultural regions. We also have an extensive network of distribution facilities internationally, including in the key growth regions of South America and Asia, with port terminals, warehouses, and blending plants in Brazil, Paraguay, China, and India. Our global presence allows us to efficiently serve customers in approximately 40 countries.
+"""
+
+- north american production is a disadvantage
+- global distribution system and economies of scale are an advantage
+- only produces 25% of needed amonia; purchases the rest via CF Ammonia Supply agreement
+- section listing "factors affecting demand" which clearly ties into food production
+- CEO Prokopanko since 2006 came from Cargill acquisition
+
+=== 10Q Sep 2015 ===
+
+- discontinued New Mexico potash mine
+- sold Argentina distribution business
+- sold Michigan mine
+- repurchased shares
+- still increasing dividend
+
+=== numbers ===
+
+sep15
+rev 2,105,500  	2,487,500  	2,139,100  	2,378,600
+inc 160,000  	390,600  	294,800  	360,700
+shares 348,667,983
+price 28.70
+div 1.10
+==>
+EPS $3.46
+PE 8.3
+MC $10006.8M
+Margins 13.2%
+Yield 3.8%
+Payout Ratio 31.8%
+
+=== Last earnings call nov 3 ===
+
+- curtails production when demand drops (like a miner)
+- doing a good job of buying back shares the last 4 years (440M to 350M)
+- customer / shareholder focused?
+- projection for a lower 2016
+
+=== analysis ===
+
+Not sure how to value this.  The management seems to be doing the right thing but a huge chunk of this business looks to be a commodity with lots of competition.  There's also talk of technology (drones) reducing the use of fertilizer in the long run.  I think I'd have to get a big discount at a PE of 6 to buy this.  Sell at PE 13.
+
+BUY $21.00
+SELL $45.00
+

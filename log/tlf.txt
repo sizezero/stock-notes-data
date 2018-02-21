@@ -1,0 +1,71 @@
+
+NAME: Tandy Leather Factory, Inc.
+CID: 0000909724
+KEYWORDS: feb2016screen
+
+Sep 25, 2016
+
+Feb 2016 stock screen,
+
+Industry: Textile - Apparel Footwear & Accessories
+Sector: Consumer Goods
+CEO: Ms. Shannon L. Greene
+Year took office: CFO since 2000 CEO for only 6 months.  Lots of other titles.
+
+Annual Reports
+ read 5 yrs ago
+ read current
+
+Look for moat: brand, switching, cost, protected
+Look for CEO consistency
+Identify competitors
+
+=== 20xx 10K ===
+
+=== 2015 10K ===
+
+3 operating segments: wholesale leathercraft (28 stores), retail leathercraft (82 stores), international leathercraft (2 stores).
+
+No single customer is more than 2%
+
+Leather and tools account for 60% of sales.  Others are buckles, dyes, etc.
+
+150 different suppliers.
+
+Retail business strategy: "Tandy Leather has long been known for its reputation in the leathercraft industry and its commitment to promoting and developing the craft through education and customer development.  Our commitment to this strategy is evidenced by our re-establishment of the retail store chain throughout the United States and Canada following our acquisition of the assets of Tandy Leather in 2000.  We continue to broaden our customer base by working with various youth organizations and institutions where people are introduced to leathercraft, as well as hosting classes in our stores."
+
+================
+
+Calc annualized 5 year eps growth: 9.0%
+
+Morningstar key ratios:
+2010
+Book Value per Share: 2.93
+2015
+book value per share: 4.99
+cumulative div per share: 0
+Calc annualized 5 year book value growth + divy: 11.2%
+
+Compare these numbers to 10 year note (1.9%) and each other.
+
+Great company?  Book value growth has been solid since 2000. Managed to grow book value greater than earnings?
+
+6/2016
+rev 19,522.905	20,672.227	24,242.971	19,355.937
+inc 1,820.915	1,520.997	2,338.758	1,111.344
+shares 9,266,496
+price 7.58
+==>
+EPS $0.73
+PE 10.3
+MC $70.2M
+Price $7.58
+Shares 9.3M
+Margins 8.1%
+
+Doesn't look to be a bad company but being squeezed between suppliers and customers could be problematic.  For such a tiny company with no divy there should be a significant discount (PE 8)
+
+It would be worth visiting a retail store.  Closest stores are Portland and Spokane.
+
+BUY $5.85
+

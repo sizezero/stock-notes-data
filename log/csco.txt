@@ -1,0 +1,326 @@
+
+NAME: Cisco Systems
+CID: 0000858877
+KEYWORDS: megacap2008 not_great
+
+Dec 15, 2008
+
+mega cap 2008
+
+TRADE buy 55@16.70 balance 55 commission 9.99
+
+Jan 12, 2009
+
+TRADE buy 56@16.60 balance 111 commission 9.99
+
+Mar 2, 2009
+
+TRADE buy 128@14.5698 balance 239 commission 9.99
+
+May 7, 2009
+
+TRADE buy 103@19.55 balance 342 commission 9.99
+
+Jul 22, 2009
+
+TRADE buy 101@19.9897 balance 443 commission 9.99
+
+Sep 2, 2009
+
+TRADE buy 94@21.45 balance 537 commission 9.99
+
+Nov 11, 2009
+
+TRADE buy 85@23.90 balance 622 commission 9.99
+
+Nov 15, 2009
+
+Strange that quarterly report is in an 8-K instead of a 10-Q
+
+year ago quarter earnings 2,201,000K
+
+inc 1,787,000 	  1,081,000  	1,348,000  	1,504,000  	
+shares 5,871M
+price 23.71
+==>
+Income $5720.0M
+EPS $0.97
+PE 24.3
+MC $139201.4M
+
+Lots of expectation built into the price.  Estimates are for eps of $1.40 next year which still leaves it at a pretty high PE.  I'm reluctant to sell since I just recently bought the stock.  Is that dumb?
+
+Mar 13, 2010
+
+inc $1,853,000 1,787,000 	  1,081,000  	1,348,000 	
+shares 5,862M
+price 25.88
+==>
+Income $6069.0M
+EPS $1.04
+PE 25.0
+MC $151708.6M
+
+They had a good quarter.  When does this get too pricy?
+
+Jun 6, 2010
+
+may
+rev 10,368,000    	  9,815,000    	  9,021,000    	  8,535,000
+inc 2,192,000    	  1,853,000    	  1,787,000    	  1,081,000
+shares 5,711,151,107
+price 22.95
+==>
+EPS $1.21
+PE 19.0
+Margins 18.3%
+
+With the price drop it now seems reasonable.  Hang on through the rest of the year.
+
+Jan 17, 2011
+
+gsvi Checklist
+
+Industry: Technology / Networking & Communication Devices
+CEO: John T Chambers
+Year took office: January 1995
+
+Annual Reports
+
+=== 2006 10K ===
+
+"""
+We conduct our business globally and are managed geographically in five segments: the United States and Canada; European Markets; Emerging Markets; Asia Pacific; and Japan.
+"""
+
+Hopes "Advanced Technologies" will contribute to future earnings: "application networking services, home networking, hosted small-business systems, optical networking, security, storage area networking, unified communications, video systems and wireless technology"
+
+Good overview of strategy
+
+"""
+Over time, we believe that the Internet and the various networks associated with it, including corporate intranets, cable, broadband and dialup networks, and voice and video networks, will evolve to include embedded resources and the virtualization of applications and services to produce an integrated, intelligent system or, as we refer to it, an Intelligent Information Network. This is our vision for the evolution of networking from connectivity products to intelligent systems. In this evolving environment, we believe successful vendors will be capable of providing a broad spectrum of products aimed not at a particular technology platform but at solutions to networking problems that span all segments. As such, many of our strategic initiatives and investments are aimed at meeting the requirements that an Intelligent Information Network would demand, making the Network the Platform for the next generation of value added communications.
+"""
+
+Categories of offerings:
+Routing
+Switching
+Advanced Technologies
+ Application Networking Services
+ Home Networking
+ Hosted Small-Business Systems
+ Optical Networking (will be a normal category in 2007)
+ Security, Storage Area Networking
+ Storage Area-Networking
+ Unified Communications (VOIP)
+ Video Systems (set top boxes)
+ Wireless Technology
+Other (tech support)
+
+Huge list of competitors: 
+"""
+3Com; Alcatel; Avaya; Avici Systems; Brocade Communications Systems, Inc.; Check Point Software Technologies; Ciena; D-Link Corporation; Dell; Enterasys Networks; Extreme Networks; F5 Networks, Inc.; Force10 Networks, Inc.; Foundry Networks; Fujitsu; Hewlett-Packard Company; Huawei Technologies; Juniper Networks; Lucent Technologies; McDATA Corporation; Motorola, Inc.; NETGEAR, Inc.; Nokia; Nortel Networks; Redback Networks; Siemens AG; Sycamore Networks; and Symbol Technologies, Inc. among others.
+"""
+
+R&D $4.1B (2005 $3.3B, 2004 $3.2B)
+
+Outsourced manufacturing.
+
+50K employees
+
+Crazy long list of risk factors.
+
+rev $28.5B grown steadily from $19B in 2002
+inc $5.6B " " $1.9B in 2002
+
+52% sales US+CA, 22% Europe
+Routers 25%, Switches 45%, AT 26%
+
+Gross margins ~65% for 3 years.
+
+=== 2007 19K ===
+
+R&D $4.5B
+
+rev $34.9B inc $7.3B
+
+Gross margins decreasing due to low margin acquisitions (Scientific-Atlanta: video products)
+
+53% sales US+CA, 21% Europe
+Routers 24%, Switches 42%, AT 27%
+
+=== 2008 19K ===
+
+AT passed Routers in sales.
+
+R&D $5.2B
+66K employees
+
+rev $39.5B inc $8.1B
+
+"""
+We believe the growth we experienced in fiscal 2008 was attributable to the continued deployment by customers of our end-to-end architecture and the convergence of data, voice, video, and mobility into IP networks
+"""
+
+53.9% sales US+CA, 20.5% Europe
+routers 23.9%, switches 40.2%, AT 29.4%
+
+=== 2009 19K ===
+
+Market trends and company strategy:
+"""
+We refer to the evolutionary process by which adjacencies arise as market transitions. One example of a market in which a significant market transition appears to be underway is the enterprise data center market. We believe the market is at an inflection point, as awareness grows that intelligent networks are becoming the platform for productivity improvement and global competitiveness. We further believe that disruption in the enterprise data center market will accelerate in the next 12 months, due to changing technology trends such as the increasing adoption of virtualization and the rise in scalable processing. Virtualization is the process of aggregating the current siloed data center resources into unified, shared resource pools that can be dynamically delivered to applications on demand thus providing the ability to move content and applications between devices and the network.
+
+Other market adjacencies on which we are focusing attention include those related to the increased role of video, collaboration, and networked Web 2.0 technologies across our customer markets. The key market transitions relative to the convergence of video, collaboration, and networked Web 2.0 technologies, which we believe will drive productivity and growth in network loads, appear to be evolving even faster than we had anticipated earlier this year. Cisco TelePresence systems are one example of our product offerings that have incorporated video, collaboration, and networked Web 2.0 technologies, as customers evolve their communications and business models.
+
+We believe that the architectural approach that has served us well in addressing the market adjacencies in the communications and information technology industry will be adaptable to other markets. Examples of market adjacencies where we aim to apply this approach are the consumer, electrical services infrastructure, and video market segments. For the consumer market, through collaboration with technology partners, retailers, service providers, and content publishers, we are striving to create compelling consumer experiences and make the network the platform for a variety of services in the home, as broadband development moves from a device-centric phase to a network-centric model. In the electrical services infrastructure market, we are developing an architecture for managing energy in a highly secure fashion on electrical grids at various steps from energy generation to consumption in homes and buildings. With regard to the video market segment, we are focused on simplifying and expanding the creation, distribution, and use of end-to-end video solutions for businesses and consumers.
+
+In order to manage our pursuit of diverse market adjacencies, we believe we need the subject area and functional skill expertise of not just one person but many within our company. Accordingly, we have developed what we feel is an innovative organizational structure of boards and councils, bringing together Cisco managers from across many functional areas within our company to collaboratively define, plan, execute and monitor our progress in these many market adjacencies. While we believe that this collaborative management approach will allow us to take advantage of these often rapidly evolving market transitions and resulting opportunities, this is a new management approach for us and therefore there can be no assurance that this organizational structure will help to produce revenue and market share successes in these market adjacencies. 
+"""
+
+Virtualization, network centric instead of device centric model
+
+Hosted Small business solutions was removed from the AT list.  All others are the same.
+
+R&D flat at $5.2B
+
+rev $36.1B (down 12%) inc $6.1B (down 25%)
+
+53.5% sales US+CA, 21.3% Europe
+routers 21.5% (declining), switches 41.3%, AT 31.6% (growing)
+
+=== 2010 19K ===
+
+Extension of market trends adds cloud computing to virtualization.
+
+Offering listing (routing, switching, etc) now lists actual products in each category.
+
+Latest competition: "Alcatel-Lucent; ARRIS Group, Inc.; Aruba Networks, Inc.; Avaya Inc.; Belden Inc.; Brocade Communications Systems, Inc.; Check Point Software Technologies Ltd.; Citrix Systems, Inc.; D-Link Corporation; LM Ericsson Telephone Company; Extreme Networks, Inc.; F5 Networks, Inc.; Force10 Networks, Inc.; Fortinet, Inc.; Hewlett-Packard Company; Huawei Technologies Co., Ltd.; International Business Machines Corporation; Juniper Networks, Inc.; LogMeIn, Inc.; Meru Networks, Inc.; Microsoft Corporation; Motorola, Inc.; NETGEAR, Inc.; Polycom, Inc.; Riverbed Technology, Inc.; and Symantec Corporation"
+
+R&D $5.3B flat for third year
+70.7K employees
+
+rev $40.0B inc $7.8B.  27% increase in yearly diluted earnings.
+
+US+CA 54.3%, Europe 20%
+routers 20.3%, switches 41.9%,  AT 29.7%
+================
+
+Competitive advantage
+ Company Moat
+  Brand - Hutch buys Cisco for a bulk discount + managers are comfortable with Cisco
+  Switching - Routers are easy to replace, full infrastructure is more difficult
+  Cost - outsource most products, could still have economies of scale
+  Protected - mention of patents and IP but no clear examples, mostly works with open standards
+  Other - Is very well placed in the emerging intelligent network
+ How likely will moat endure over the next 5 yrs?
+
+Competitors
+ For 3 competitors
+  Read current annual report
+ What is the biggest risk to the company over the next 5 yrs? Complete commoditization of routers/switches and failure of new AT businesses.
+ Probability of it happening. 20%
+
+Financial Checklist
+ For company and industry
+  5 yr EPS growth.  diluted 0.89==>1.33 : 49%, (HP 69%, IBM 100%)
+  5 yr revenue growth. 28.5B==>40.0B : 40% (HP 39%, IBM 0%)
+  Current net profit margin (earnings/revenue). 19.5%, ind 16.3% (HP 7%, IBM 14%)
+  Current ROE (earnings/stockholders_equity). $7.8B/$44.267B = 17.6%, ind 15.1% (HP 22%, IBM 70%)
+  % long term debt to equity. $12.188B/$44.267B = 27.5, ind 33.8 (HP 37.5)
+
+Jan 22, 2011
+
+(continuing analysis)
+
+It would be worth it to look at other router/switch companies to see what that competition is like.  I like the apparent stability of the router/switch segments, if there was one or more parts of the AT segment that was a possible home run then this would be a great one to hang onto.  A dividend would make hanging onto it better.  See what the dividend is like in the Spring.  
+
+oct 2010
+rev 10,750,000   	10,836,000   	10,368,000   	9,815,000
+inc $1,930,000   	$1,935,000   	$2,192,000   	$1,853,000
+price 20.73
+shares 5,542,761,641
+==>
+EPS $1.43
+PE 14.5
+MC $114901.4M
+Margins 18.9%
+
+Need 30% discount on industry PE (19) to load up: PE 13.
+BUY $18.60
+SELL $27.00
+
+Feb 11, 2011
+
+TRADE buy 1075@18.60 balance 1697 commission 9.99
+
+Feb 18, 2013
+
+=== Nov 2012 10Q ===
+
+Five foundational priorities: 
+* Leadership in our core business (routing, switching, and associated services), which   
+  includes comprehensive security and mobility solutions
+* Collaboration
+* Data center virtualization and cloud
+* Video
+* Architectures for business transformation
+
+
+====================
+
+Oct12
+rev 11,876,000  	 11,690,000  	 11,588,000  	 11,527,000
+inc 2,092,000  	 1,917,000  	 2,165,000  	 2,182,000 
+price 20.99
+shares 5,309,248,366
+div 0.56
+==>
+EPS $1.57
+PE 13.3
+MC $111441.1M
+Margins 17.9%
+Yield 2.7%
+Payout Ratio 35.6%
+
+They have been in a transition so EPS seems to have stalled out someone.  The stock isn't particularly cheap at PE13 and the yield isn't high at 2.7%.  Payout ratio is modest so increasing the dividend is possible.  Sell at yield of 2.5%, buy at yield of 4%
+
+SELL $22.40
+BUY  $14.00
+
+Jul 19, 2013
+
+TRADE sell 850@26.00 balance 847 commission 10.38
+
+Jul 24, 2013
+
+TRADE sell 420@25.90 balance 427 commission 10.18
+
+Apr 25, 2014
+
+TRADE buy 1300@23.02 balance 1727 commission 9.99
+
+Mar 22, 2015
+
+SELL $32
+BUY None
+
+Feb 4, 2018
+
+Oct17
+rev 12,136,000	12,133,000	11,940,000	11,580,000
+inc 2,394,000	2,424,000	2,515,000	2,348,000
+price 40.93
+shares 4,943,622,124
+div 1.16
+==>
+EPS $1.96
+PE 20.9
+MC $202342.5M
+Margins 20.3%
+Yield 2.8%
+Payout Ratio 59.2%
+
+PE looks crazy overvalued but margins, dividend growth, share buybacks all look great. Barrons just called this the number one sustainable company whatever that means. (the criteria was not obvious) The payout ratio is looking a little high. Let's set a sell for a payout ratio of 80. We should re-examine the company at that point.
+
+SELL 55
+

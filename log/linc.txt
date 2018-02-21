@@ -1,0 +1,189 @@
+
+NAME: Lincoln Educational Services Corporation
+CID: 0001286613
+KEYWORDS: not_great
+
+Jan 2, 2010
+
+Barron's Dec09 value list
+
+adult education
+
+last sep09
+rev 148,368  	128,110  	118,599  	107,323
+inc $13,656  	$7,427  	$5,823  	$12,764 
+price 21.66
+shares 27,039,272
+==>
+EPS $1.47
+PE 14.8
+MC $585.7M
+Margins 7.9%
+
+Great growth last year.  Low eps estimate of $2 at current multiple has $29 target price.
+
+Jan 10, 2010
+
+Steve was hesitent on this one because he doesn't like the whole online education sector.  I like the growth so will buy modestly.
+
+2010 megacap
+rank 3
+
+Feb 2, 2010
+
+TRADE buy 121@20.35 balance 121 commission 11.99
+
+May 6, 2010
+
+TRADE buy 104@24.05 balance 225 commission 11.99
+
+Aug 2, 2010
+
+TRADE buy 100@21.30 balance 325 commission 9.99
+TRADE buy 16@21.30 balance 341 commission 9.99
+
+Nov 12, 2010
+
+TRADE buy 164@15.15 balance 505 commission 9.99
+
+Sep 5, 2011
+
+Industry
+CEO
+Year took office
+
+Annual Reports
+ read current
+ read 3 yrs ago
+ read 5 yrs ago
+
+=== 2006 10K ===
+
+Post high school for profit training.  Five principal areas: 
+automotive technology 41%
+health sciences 32%
+  (which includes programs in licensed practical nursing (LPN) for medical
+   administrative assistants, medical assistants, pharmacy technicians, medical
+   coding and billing and dental assisting)
+skilled trades 13%
+business and information technology 5%
+spa and culinary 9%
+
+Avg Enrollment: 18.0K
+Campuses: 37
+States: 17
+
+Acquiring other schools.
+
+Job placement key in continued referrals as well as "an important requirement for continued participation in Title IV Programs...Students attending our schools finance their education through a combination of family contributions, individual resources, private loans and federal financial aid programs. Each of our schools participates in the federal programs of student financial aid authorized under Title IV Programs, which are administered by the DOE. For the year ended December 31, 2006, approximately 80.1% (calculated based on cash receipts) of our revenues were derived from the Title IV Programs"
+
+"The for-profit, post-secondary education industry is highly competitive and highly fragmented, with no one provider controlling significant market share"
+
+Revenue (2006-2002)
+$321,506 $299,221 $261,233 $198,574 $139,201
+EPS (diluted)
+$0.60 $0.76 $0.56 $0.37 $(0.03)
+Current assets (2006-2005)
+$38.2M $72.4M
+
+
+=== 2008 10K ===
+
+automotive technology 35%
+health sciences 32%
+skilled trades 14%
+business and information technology 9%
+hospitality services 10%
+
+Avg Enrollment: 20.0K
+Campuses: 36
+States: 17
+
+May 2007 management separated into two groups: automotive+skilled trade and all others.
+
+Revenue (2008-2004) does not jive with earlier 10-K
+$376,907 $327,774 $310,630 $287,368 $248,508
+EPS (diluted)
+$0.78 $0.32 $0.60 $0.76 $0.56
+Current assets (2008-2007)
+$51.3M $43.8M
+
+=== 2010 10K ===
+
+health sciences 40%
+automotive technology 30%
+skilled trades 11%
+business and information technology 10%
+hospitality services 9%
+
+Avg Enrollment: 31.5K
+Five schools are "destination" schools
+Campuses: 45
+States: 17
+
+Revenue (2010-2006)
+$639,494 $552,536 $376,907 $327,774 $310,630
+EPS (diluted)
+$2.79 $1.82 $0.78 $0.53 $0.65
+Current assets (2010-2009)
+117,492 105,961	 
+
+=== June 30 2011 10Q ===
+
+Revenue $128,224
+EPS $0.22 (down more than 50% from a year ago)
+Current assets 78,742
+
+"""
+Revenue decreased by $24.6 million, or 16.1%, to $128.2 million for the quarter ended June 30, 2011 from $152.8 million for the quarter ended June 30, 2010.  This decrease was primarily attributable to a 20.2% decrease in average student population to 24,711 for the quarter ended June 30, 2011, from 30,965 for the quarter ended June 30, 2010.
+
+The decrease in average student population is due to adjustments in our business model to better align with the Department of Education’s increased emphasis on student outcomes and our efforts to comply with the 90/10 rule.  As part of these measures we have implemented a more selective student enrollment policy to ensure that we enroll students that demonstrate a strong ability to achieve successful student outcomes, including higher graduation rates, repayment rates and lower student debt levels.  We have also restructured certain programs and altered program offerings at some of our campuses which resulted in lower financial aid funding availability and higher student cash contributions during the quarter.  These changes, coupled with the current economic conditions, have resulted in a significant decline in student starts at these campuses. We believe these changes will lead to improvement in our 90/10 ratios and facilitate our compliance with the 90/10 rule.
+"""
+
+"""
+Changes in the laws applicable to Title IV Programs could reduce our student population, revenues and profit margin.
+
+On April 15, 2011, President Obama signed H.R. 1473, the Full-Year Continuing Resolution which funds the federal government for the remainder of the 2011 fiscal year.  This Continuing Resolution, among other things, permanently repeals the year-round Pell Grant beginning with the 2011-2012 award year.  The year-round program had allowed students in accelerated programs to obtain two Pell Grants in a single award year. As a result of the repeal, students may obtain only one Pell Grant per award year.  This change may impact our students’ ability to finance their education and/or affect their decision to attend our institutions, which could have a material adverse effect on our business and results of operations.
+"""
+
+================
+
+Competitive advantage
+ Company Moat
+  Brand (very competitive market but 5 destination schools)
+  Switching
+  Cost
+  Protected
+  Other
+ How likely will moat endure over the next 5 yrs? No moat
+
+Competitors EDUCOMP EVERONN APOL 
+ For 3 competitors
+  Read current annual report (competitors are multi-billion dollar companies)
+ What is the biggest risk to the company over the next 5 yrs?
+   HR 1473 defunding
+ Probability of it happening
+   50%
+
+Financial Checklist
+ For company and industry
+  5 yr EPS growth. 0.76 to 2.79 = 267% but 50% plumment in latest quarters adjust to 1.33%
+  5 yr revenue growth. $299,221 to $639,494 = 114% (similar recent plumment)
+  Current net profit margin (earnings/revenue). 69731/639494 = 11%
+  Current ROE (earnings/stockholders_equity). 69731/222485 = 31%
+  % long term debt to equity. 56508/222485 = 25%
+
+Conclusion: competition and future uncertaintly definitely make this a not-great company.  Current earnings cannot sustain the current dividend but even if the payout is cut in half it would still yield over 5%.  I would like to think the commitment to shareholders would keep some dividend around.  Assume drop in 2010 eps by 50% to $1.40 would still give a crazy low PE of 6.4  It looks like a value trap but I think I may be trapped for $10K more investment.  Definitely not a great company but worth doubling down.
+
+Sep 7, 2011
+
+Conclusion: Funny, after a three day weekend the market tanked by a few percent and I had a perfect opportunity to pick up linc for a 5% discount.  I couldn't do it based on the fact that the company depends so heavily on the Title IV programs.  I don't think it's smart to depend on this legislation especially with the deficit at these levels and spending cuts so talked about.
+
+March 11, 2017
+
+Besides giving back some equity via dividends for five years this company has been a disaster. Even my loss aversion can't hold out any longer.  Sell all of this at market price.
+
+March 13, 2017
+
+TRADE sell 505@2.22 balance 0 commission 6.95
+

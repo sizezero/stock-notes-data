@@ -1,0 +1,23 @@
+
+NAME: IPEX
+
+Sep 28, 2005
+
+Showing at Edgewater Conference.
+
+I can't seem to get any income statements or balance sheets.  Either
+they just went public or they just switched from ipex to ipex.ob and
+yahoo hasn't caught up.
+
+An exchange for voip traffic?  I don't know, the last time I heard of
+a company trying to do this it was Enron creating and exchange for
+internet bandwidth.
+
+I guess the first question I would have for them is "Who is a member
+of your exchange?" and "How deeply involved are they?"
+
+Apr 24, 2006
+
+ticker is now IPEXE.OB and SEC data is split between two CIDs: 0001258383 and 0001324980
+
+No need to waste time one this.

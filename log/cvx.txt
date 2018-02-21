@@ -1,0 +1,207 @@
+
+NAME: Chevron Corp.
+CID: 0000093410
+KEYWORDS: not_great
+
+Dec 5, 2009
+
+inc 3,831,000  	1,745,000  	1,837,000  	4,895,000
+price 78.07
+shares 2,006,267,842 
+==>
+EPS $6.13
+PE 12.7
+MC $156629.3M
+
+Crazy cheap trailing PE.  3.5% yield.
+
+Buy Dec, Feb, Mar. $5K per purchase.
+
+Dec 10, 2009
+
+TRADE buy 64@78.0 balance 64 commission 11.99
+
+Jan 3, 2010
+
+Analysts best picks 2010
+
+I like it.  Report claims few refineries an advantage
+
+Jan 10, 2010
+
+Steve agrees with upside.
+
+2010 megacap
+rank 5
+
+Feb 2, 2010
+
+TRADE buy 56@73.7494 balance 120 commission 11.99
+
+Mar 13, 2010
+
+inc 3,070,000 3,831,000  	1,745,000  	1,837,000
+price 73.72
+shares 2,001M 
+==>
+EPS $5.24
+PE 14.1
+
+Not sure how to play the cyclical nature of a commodity company.  Keep buying this year.
+
+May 6, 2010
+
+TRADE buy 52@79.35 balance 172 commission 11.99
+
+Aug 2, 2010
+
+TRADE buy 53@78.15 balance 225 commission 9.99
+
+Nov 10, 2010
+
+TRADE buy 50@83.6 balance 275 commission 9.99
+
+Mar 30, 2011
+
+Industry: Basic Materials / Major Integrated Oil & Gas
+CEO: John S Watson
+Year took office: Jan 2010; been at the company since 1980
+
+Annual Reports
+ read current
+ read 3 yrs ago
+ read 5 yrs ago
+
+=== 2006 10K ===
+
+Strategic direction has vague statements about profitability and competitiveness.
+
+Very detailed 10K.  Lots of good charts that show breakdowns by region, etc.
+
+Upstream:
+Worldwide production.  Detailed maps of each production and exploration area.
+
+Downstream:
+Refinery capacity listed: most in US a few in other Western countries (CA, UK SA)
+Sales include Chevron, Texaco, and Caltex.  This includes a large amount of pipeline and tankers.
+
+Mines (coal, molybdenum). Power generation. Energy solutions.
+
+2004-2006
+Revenue $150B $194B $205B
+EPS Diluted $6.28 $6.54 $7.80
+Return on Equity 32.7% 26.1% 26.0%
+
+Company has little control over upstream costs.  Downstream is the only place for adjustment.
+
+=== 2008 10K ===
+
+Same format.
+
+2007-2008
+Revenue $214B $265B
+EPS $8.77 $11.67
+Return on Equity 25.6% 29.2%
+
+=== 2010 10K ===
+
+2009-2010
+Revenue $167B $198B
+EPS $5.24 $9.48
+Return on Equity 11.7% 19.3%
+
+================
+
+Competitive advantage
+ Company Moat
+  Brand: Not sure if this is worth anything. Texaco brand is negative
+  Switching: Commodity, easy to switch
+  Cost: Production everywhere, but difficult to control cost
+  Protected: Wide geographic upstream makes it easier to adjust to global issues
+  Other
+ How likely will moat endure over the next 5 yrs?  Not much of a moat
+
+Competitors
+ For 3 competitors
+  Read current annual report
+ What is the biggest risk to the company over the next 5 yrs?  Lack of demand for petroleum or huge discovery.  Massive alternative energy source would be bad as well.
+ Probability of it happening: 15% huge discovery, 20% lack of demand, 5% huge alternative energy. Assum all previous are independent: 35% of at least one of these bad events happening.
+
+Financial Checklist
+ For company and industry
+  5 yr EPS growth. $7.80-$9.48
+  5 yr revenue growth. $205B-$198B -3.4%
+  Current net profit margin (earnings/revenue). 9.6% ind 6.1%
+  Current ROE (earnings/stockholders_equity). 19.3% ind 12.5%
+  % long term debt to equity. 
+
+It seems clear that Chevron is a good petroleum play but there is nothing that makes it a great company.  Expect large swings in price depending on the price of oil.  Buy when oil is low and the yield of Chevron is high.  We should never expect a high multiple for this stock.
+
+dec 2010
+rev 52,945,000   	48,554,000   	49,613,000   	48,179,000   
+inc 5,295,000   	3,768,000   	5,409,000   	4,552,000   
+shares 2,007,449,583
+price 102.80
+==>
+EPS $9.48
+PE 10.8
+MC $206365.8M
+Margins 9.5%
+
+Sell when yield is less than 1% or multiple is 15.  Buy at 7 PE.
+
+BUY $66.36
+SELL $142.20
+
+Oct 9, 2014
+
+TRADE buy 90@114.60 balance 365 commission 9.99
+
+Dec 9, 2014
+
+TRADE buy 93@106.50 balance 458 commission 9.99
+
+Feb 16, 2015
+
+Next buy block if the market allows it.
+
+BUY $95.00
+
+Mar 22, 2015
+
+Sell at 2.5% yield
+
+SELL $171.20
+
+Jul 7, 2015
+
+TRADE buy 106@94.32 commission 9.88 balance 564
+
+BUY $90.00
+
+Jul 31, 2015
+
+TRADE buy 110@89.66 commission 9.99 balance 674
+
+BUY $85.00
+
+Aug 4, 2015
+
+TRADE buy 120@85.00 commission 9.99 balance 794
+
+BUY $80.00
+
+Aug 21, 2015
+
+TRADE buy 125@78.93 commission 9.99 balance 919
+
+BUY $75.00
+
+Aug 24, 2015
+
+TRADE buy 135@70.50 commission 9.99 balance 1054
+
+Wow.  Crash on Monday picked this up $5 under my limit order.  Next buy is even lower.
+
+BUY $65
+

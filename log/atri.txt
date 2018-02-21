@@ -1,0 +1,20 @@
+
+NAME: ATRION Corp.
+CID: 0000701288
+
+Jan 1, 2010
+
+Barron's Dec09 value list
+
+Makes products and components for the health care industry.  
+
+inc 4,460  	4,657  	4,134  	3,884
+price 155.72
+shares 1,979,771
+==>
+EPS $8.66
+PE 18.0
+MC $308.3M
+
+Seems like a high PE for a company that is growing this modestly.
+

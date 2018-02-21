@@ -1,0 +1,39 @@
+
+NAME: Pyramid Breweries Inc.
+CID: 0001001917
+
+Mar 1, 2005
+
+Pretty good beer but nothing special.  Consistently losing money,
+using up cash.
+
+< $50M MC
+
+Jan 10, 2006
+
+Two miniscule but positive quarters nearly doubled the stock.
+shares 8.8M diluted 9.2M
+MC @2.35 = 20.7M diluted 21.6M
+
+Balance sheet is a bit shakey.  Current assests $5,652M are still less than current liabilities $6,782M although this is less than it was a year ago.
+
+rev: 13,527  	12,463  	10,457  	10,588
+inc: 439  	168  	(1,131)	(1,459)
+
+trailing inc based on last two quarters: 1214
+diluted eps: 0.07
+PE@2.35 = 33.6
+
+trailing inc based on last quarter: 1756
+diluted eps: 0.08
+PE@2.35 = 29.3
+
+This could be a turnaround but the price is still taking huge growth into account.
+
+PE:20, eps:0.07 ==> price 1.4
+This is lower than the stock has been in a year.  Not worth even adding this to a watch list.
+
+Oct 24, 2010
+
+2008 acquired by Independent Brewers United for cash.
+

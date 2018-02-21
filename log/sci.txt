@@ -1,0 +1,22 @@
+
+NAME: Service Corp. International
+CID: 0000089089
+
+Jan 2, 2010
+
+Barron's Dec09 value list
+
+funeral services.  1300 locations, 369 cemeteries
+
+sep09
+rev 497,217  	513,949  	510,595  	516,950
+inc 31,162  	$23,104  	$34,530  	$9,528
+price 8.19
+shares 253,384,884
+==>
+EPS $0.39
+PE 21.1
+MC $2075.2M
+Margins 4.8%
+
+Looking for $0.50 next year.  Still seems pricy.

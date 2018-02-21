@@ -1,0 +1,28 @@
+
+NAME: Chromcraft Revington Inc.
+CID: 0000884130
+
+Jul 25, 2006
+
+Found as "great" in value screen jun06
+
+Makes and sells furniture.
+
+apr06 to jun05
+rev 45,921  	40,669  	40,836  	43,401
+inc $1,129  	$1,705  	$1,191  	$2,093
+shares 4,453K
+price 11.81
+==>
+EPS $1.37
+PE 8.6
+MC $52.6M
+Margins 3.6%
+
+Declining revenues for three years.  
+
+"""
+he Company is continuing to shift its product development and marketing to a more market-based focus on the needs of consumers and customers. Mr. Anderson-Ray pointed out that this business model will involve a significant expansion of global sourcing activities, as well as a conversion of U.S. operations toward increased use of demand flow and mass customization techniques. Looking forward, he said that first quarter orders were slightly below the prior year period and that sales order backlog entering the second quarter was below the year ago level due, in part, to improved service levels.
+"""
+
+Simple company but having a tough time.

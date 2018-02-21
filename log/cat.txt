@@ -1,0 +1,31 @@
+
+NAME: Caterpillar Inc.
+CID: 0000018230
+
+Aug 9, 2015
+
+I can't believe I haven't looked at Catepillar before now.  A recent Barrons article talk posatively about it in the sense that this year will likey be the bottom of the cycle.  Commodity prices are down so miners are delaying capital expenditures.  There is a mixed message about the company.  The good news is that Cat has shown the ability to cut costs during slups.  The bad news is that when the boom happens they are often end up slow to ramp up and deliver as well as paying overtime thus they don't make as much during the market top.
+
+Management made bone headed acquisitions in the past couple years of mining manufacturers at 28x earnings.  This year the CEO/Chairman collected $17.1M up 14%
+
+jun15
+rev 12,317,000  	12,702,000  	14,244,000  	13,549,000  
+inc 710,000  	1,111,000  	757,000  	1,017,000  
+shares 602,632,543
+price 77.29
+div 3.08
+==>
+EPS $5.97
+PE 13.0
+MC $46577.5M
+Price $77.29
+Shares 602.6M
+Margins 6.8%
+Dividend $3.08
+Yield 4.0%
+Payout Ratio 51.6%
+
+The story is bad enough, I wouldn't buy until a yield of 5%
+
+BUY $62.00
+

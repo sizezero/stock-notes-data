@@ -1,0 +1,342 @@
+NAME: Rick's Cabaret International Inc.
+CID: 0000935419
+KEYWORDS: maybe_great
+
+Dec 27, 2009
+
+Steve thinks this is a good deal.  They are the only public company which is acquiring strip clubs which allows them to get well run, profitable clubs.  I strip club is basically a cash machine (no inventory) so the business is very simple.
+
+inc 1,793  	1,784  	839  	791
+price 8.42
+shares 9,427,397
+==>
+EPS $0.55
+PE 15.2
+MC $79.4M
+
+Trailing PE is not as cheap as Steve thought (9).  I think this is definitely worth getting into.
+
+Jun 4, 2010
+
+The market crash makes this look attractive.
+
+TRADE buy 1136@8.8 commission 7 balance 1136
+
+Jul 7, 2010
+
+TRADE buy 424@7.55 commission 0 balance 1560
+TRADE buy 900@7.55 commission 7 balance 2460
+
+Dec 19, 2010
+
+Industry: Services/Restaurants
+CEO Eric S Langan
+Year took office 1999
+
+Went public recently so only two years of annual reports
+
+2009
+
+19 clubs.  Media division: Adult club trade magazine and trade shows.  Web sites.  
+
+$1.16M paid in unconstitutional tax while appeal is out.  Could be big one time revenue if they win.
+
+Adult clubs are volitile with the local economy.  Are high end clubs better or worse?
+
+This looks bad:
+"""
+Cumulative voting in the election of Directors is expressly denied in our Articles of Incorporation. Accordingly, the holder or holders of a majority of the outstanding shares of our common stock may elect all of our Directors. Management’s large percentage ownership of our outstanding common stock helps enable them to maintain their positions as such and thus control of our business and affairs.
+"""
+
+Consistently building equity since 2005.
+
+"""
+Our operating margin (income from operations divided by total revenues) was 17.8% for the year ended September 30, 2009 compared to 26.3% for the prior year. The decrease was due principally to the poor U.S. economy in 2009 and the poor results from our Las Vegas club, due to the steep dive in the Las Vegas economy.
+"""
+
+Internet and media revenues are miniscule <3%
+
+"""
+Our nightclub operations are affected by seasonal factors. Historically, we have experienced reduced revenues from April through September with the strongest operating results occurring during October through March. Our experience indicates that there are no seasonal fluctuations in our Internet activities.
+"""
+
+Diluted shares 2008: 8,413,183 2009: 9,427,397
+
+2010
+
+Business discussion is about the same as last year.
+
+Conference call.  CEO displelled rumors of going private.  Is this a problem due to non-cumulative voting?
+
+"""
+Revenues from nightclub operations for same-location same-period increased by 7.0% and for Internet businesses decreased by 12.3%
+"""
+
+Alcohol and entertainer services are still the bulk of the revenue (40%+45%)
+
+"""
+The increase in payroll and related costs, stated as “Salaries & Wages” above, was primarily due to the addition of the new clubs in 2010 and late 2009.   The decrease in percentage to total revenues is principally due to management’s continued monitoring of payroll costs during these tougher economic times.   Payroll for same-location-same-period of club continuing operations increased to $14 million for the year ended September 30, 2010 from $13 million for the previous year.  Management currently believes that its labor and management staff levels are appropriate.
+"""
+
+Equity flat in 2010
+
+---
+
+Competitive advantage
+ Company Moat
+  Brand. Not worth anything yet.
+  Switching. I suppose a good experience is worth something.
+  Cost. Franchise gives them some cost control.
+  Protected. Anyone can open a strip club.  Liquer license?
+  Other
+ How likely will moat endure over the next 5 yrs? Moderatly likely to endure for 5 years.
+
+Competitors
+ For 3 competitors. No public competitors
+  Read current annual report
+ What is the biggest risk to the company over the next 5 yrs?
+  Legislation that would make the business less profitable.
+  General economic downturn that would curb spending.
+  Management not responsive to shareholders.
+ Probability of it happening
+  Local governments are going to want to tax anything and unpopular sources of income (strip clubs) would be a more likely candidate.
+
+Financial Checklist
+ For company and industry
+  5 yr EPS growth. 4yr not a clear pattern.  
+  5 yr revenue growth.  4ry $24K-$83K 246%
+  Current net profit margin. 17%
+  Current ROE. no earnings.  Phantom income of $10M = $10M/$70M = 14%
+  % long term debt to equity. 43M/$70M = 61% (not sure how to use this)
+
+Without abnormal impairment income for 2010 would have been around $10M / 10,005,565 shares = $1 EPS.  PE equals stock price e.g. 8.
+
+Restaurant "sector" currently has a PE of 19.  If we take a fair PE of 15 and discount it 25% we get a target PE of 11.  So, if we can trust the Phantom earnings this quarter then it's a strong buy.  If the charge is par for the course for growing strip clubs then the company looks less attractive.  See Steve about a couple points.
+
+Dec 27, 2010
+
+TRADE buy 1212@8.25 commission 7 balance 3672
+
+Feb 6, 20100
+
+BUY $11.00
+SELL $19.00
+
+Mar 4, 2011
+
+TRADE buy 925@10.79 commission 7.00 balance 4597
+
+Jun 16, 2011
+
+TRADE buy 1257@7.95 commission 7.00 balance 5854
+
+Mar 11, 2012
+
+Latest report talks of renewed "acretive" acquisitions.  (same city)  Various legal problems ($5 customer charge) could pose problems.
+
+dec 2011
+rev 22,019  	 21,451  	 18,343  	 24,029  
+inc 2,185  	 1,960  	 888  	 2,922  
+shares 9,668,067
+price 8.81
+==>
+EPS $0.82
+PE 10.7
+MC $85.2M
+Margins 9.3%
+
+Strong growth in EPS.  Maybe time to put a little more in this one.
+
+Dec 31, 2012
+
+sep 2012
+rev 23,867  	 23,921  	 25,413  	 22,019
+inc  1,454  	 1,823  	 2,116  	 2,185  
+shares 9,582,384
+price 7.84
+==>
+EPS $0.79
+PE 9.9
+MC $75.1M
+Margins 8.0%
+
+=== 10K ===
+
+Acquired Jaguars (nine clubs), Silver City (one club) and The New West (one club) all in Texas.  This is a big jump over the past few years of 3, 3, and 1.
+
+"""
+On September 29, 2008, our Board of Directors authorized us to repurchase up to $5 million worth of our common stock. During the fiscal year ended September 30, 2012, we purchased 140,280 shares of common stock in the open market at prices ranging from $6.32 to $8.24 and during the fiscal year ended September 30, 2011, 283,384 shares of common stock in the open market at prices ranging from$6.45 to $8.96. Under the Board's authority, we have $1.6 million remaining to purchase additional shares.
+
+As of September 30, 2012, there are 785,000 stock options outstanding.
+""""
+
+=====
+
+Looks like the company is back on track.  Losing clubs have been closed and written off and new clubs are in Texas where the CEO has experience.
+
+Steve likes the owner.  Says he's a real hands on guy who can do any of the jobs in the club (Bartender, etc).  The one negative is that he put too much effort and money into the losing Vegas club.  It would have been better to dump it earlier.  Hopefully this is a learning experience.
+
+Trying to pick up some more shares.
+
+Jul 19, 2014
+
+mar 2014
+rev 32,870  	 29,423  	 28,031  	 28,308
+inc 3,721  	 2,404  	 1,604  	 2,195
+shares 9,807,375
+price 11.23
+==>
+EPS $1.01
+PE 11.1
+MC $110.1M
+Margins 8.4%
+
+Looks like we still have a strong buy at PE of 11 and sell at a PE of 19.  If the strong earnings in the latest quarter are indicative of growth then this would be an extra strong buy.
+
+BUY $11.11
+SELL $19.19
+
+Jul 24, 2014
+
+TRADE buy 1800@11.10 commission 7.00 balance 7654
+
+Feb 12, 2015
+
+TRADE buy 1870@10.70 commission 7.00 balance 9524
+
+Feb 13, 2015
+
+Time for some updated numbers.  Most interested in the latest earnings as well as the share count over the past five years. Lots of talk of share buyback but I don't see info on stock options.
+
+dec 2014
+rev 36,487 33,538  	33,343  	32,870  	
+inc 3,360	  4,424  	691  	3,721  	
+shares 10,295,328
+price 10.50
+==>
+Income $12.2M
+Revenue $136.2M
+EPS $1.18
+PE 8.9
+MC $108.1M
+Price $10.50
+Margins 9.0%
+
+share count
+2015-01-31 10Q 10,295,328
+2014-12-01 10K 10,354,616
+2013-12-02 10K  9,561,430
+2013-12-01 10K  9,582,384
+2011-12-01 10K  9,717,307
+2010-12-03 10K 10,005,565
+
+With all the by backs, what's been adding to the share count?  Posted a reply to a seeking alpha article:
+
+http://seekingalpha.com/article/2906786-bombshells-may-be-the-ticket-to-higher-returns-for-rci-hospitality-stock
+
+Feb 12, 2016
+
+Finally initiated a dividend.  Bought some more.
+
+TRADE buy 1240@8.01 commission 7.00 balance 10764
+
+Feb 10, 2017
+
+Capital allocation plan looks great.  Maybe Eric has figured out how to manage.  According to the plan the company will continue to buy shares up to $19.  I'll pick up a few more at the current price.
+
+TRADE buy 1000@17.5912 commission 7.00 balance 11764
+
+Feb 11, 2017
+
+=== 10Q Dec 21, 2017 ====
+
+~90K shares retires; year before ~282K shares retired; buybacks reduced as share price increases due to cap alloc strategy.
+
+A note on the continued debt on acquisitions
+"""
+We prefer not to raise capital through the issuance of common stock. Instead, we use debt financing, including convertible debt, to lower our overall cost of capital and increase our return on shareholders’ equity. We have a history of borrowing funds in private transactions and from sellers in acquisition transactions and continue to have the ability to borrow funds at reasonable interest rates in that manner. We have historically utilized these cash flows to invest in property and equipment and adult nightclubs. 
+"""
+
+A note mentioned that their industry is comfortable with high debt ratios since normal business operations generate so much cash.
+
+=====
+
+=== Conference call ===
+
+Focus continues to be on increasing cash flow.
+
+"With regard to paying down debt, only at a much higher stock price does it make sense on a tax adjusted basis to pay down our most expensive debt prior to maturity"
+
+This note on debt doesn't give me a good feeling.
+"""
+If you please turn to Slide 14. Here we have updated our debt maturity schedule. As you may recall, we financed a lot of debt and paid off some borrowings in the fourth and first quarters, and continue to pay off some bank debt and convertible debt in the first and second quarters. Looking at our debt maturity schedule, as if February 6 you can see how it has become very manageable from our point of view through 2021. Annual debt amortization is in the $5 million to $8 million range. We have a small $3.3 million non-realty balloon to take care of in 2019. And we have a large non-realty balloon in 2020, but based on the properties involved, we expect, we’ll be able to refinance them.
+
+Future 2017:
+- Sale of seven non-producing properties will result in $10M and will likely reduce goodwill with negative income.
+- franchise sales of bombshells
+- strong sports lineup near key clubs
+- new and reformatted units
+
+On acquisitions:
+"""
+We’re actively looking at acquisitions again. With the stock in the range it's at we didn’t really, we weren’t in the market in January. So we’re letting our cash build-up. As that cash builds up, we’re going to start looking for place, but it was really easy before. We just put it into our stock. But the key is we’re not looking at top-line growth. We’re looking at growth in free cash flow. We want to see our free cash flow grow at 10% to 15% clip annually. And so we’re being very picky on acquisitions. There's plenty of stuff out there I can run out and buy right now. But all that doesn’t necessarily -- at least the standard I want of basically a three to four-year cash on cash pay back.
+"""
+
+Talk about paying off debt.  Still better to buy back stock at $18.
+
+Good discussion of how the book Outsiders helped Eric understand capital allocation.
+
+"""
+As things change and develop, as we open up the new Bombshells, if we make an acquisition and cash flow starts to increase, we’ll adjust the capital allocation model. And the beauty of it is, it all boils down to simple math and stock. If the cash flow gets ahead of the stock price, then we'll be buying back and stock and vice versa. The stock price gets way ahead of the model, then maybe there's a point where we can use some paper and reduce some debt. Because the paper will be cheaper than the debt. But right now, I really like where we're at. Our debt is very manageable based on the cash flow we have. I mean, we could sit here and do nothing for the next five years and have more cash in the bank and our debt -- to pay up all of debt in full. So I think we have lot of options, and like I said, it's all just simple math. I love it because it makes my job really easy. All I have to do is breakout the calculator, okay this deal makes sense; oh, this deal doesn't make sense.
+"""
+
+=====
+
+dec 2016
+rev 14,375 33,037	33,952	34,396	
+inc 2,898	 379	2,653	5,505	
+shares 9,718,711
+price 17.71
+div 0.12
+==>
+EPS $1.18
+PE 15.1
+MC $172.1M
+Margins 9.9%
+Yield 0.7%
+Payout Ratio 10.2%
+
+I still feel really good about this company.  I bought more yesterday at the "fair" PE.  Back in the truck if it drops.
+
+BUY $14
+SELL none
+
+Feb 15, 2017
+
+TRADE buy 1150@17.45 commission 7.00 balance 12914
+
+BUY $12
+
+Jan 14, 2018
+
+This is now a 18% of my portfolio but I can't get myself to sell any due to the upside. I clearly can't buy anymore.
+
+BUY None
+
+Feb 15, 2018
+
+They were late on the latest 10K (year end sep 2017)
+EPS was negative but the cash flow was good
+the first quarter numbers are due soon.
+I trust managements guidance and cap allocation so I'll follow their buyback strategy
+I own too much so I can only buy more if it is risk free
+The company's current risk free price is $22
+
+BUY $22
+
+2018 cash flow target of $23M
+FY17 at $19.3M
+3-5 year target above $30M
+the goal is 10%-15% CF growth per year
+individual year could be 8%-25%
+

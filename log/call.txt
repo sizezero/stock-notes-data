@@ -1,0 +1,28 @@
+
+NAME: CallWave Inc.
+CID: 0001115091
+
+Mar 8, 2006
+
+"magic" screen feb 06
+
+Steve pointed me to this a couple years ago.  Provides subscription based software that unifies calls and emergency response over mobile phone, land lines, and internet.  i.e. contacts a person on whatever available communications medium.  Also contacts mangagers, etc, to let them know that the contact was made.
+
+Growing rev and inc the last couple years.  Stalled in the last year.  Last quarter losses due to poor operating income and an unusually large income tax expense.
+dec05 to mar05
+inc ($1,417) 	$932   	$2,064   	$2,273  
+shares 20,617K (diluted)
+price 4.43
+==>
+Income $3.9M
+EPS $0.19
+PE 23.7
+MC $91.3M
+
+10Q
+
+Shifting marketing strategy means major bumps over the next year and a half:
+
+"""
+In fiscal 2006, we are shifting our marketing strategy from directly marketing our services to consumers and small businesses to marketing our services to users through “indirect” distribution arrangements in which we enter into agreements with telecommunications services providers, which agree to distribute our services to their subscribers. There typically is a long lead time prior to concluding agreements, including negotiations, implementation and the time to market and persuade the customer to subscribe for our services. As we are reducing the amount of resources spent to market and distribute our services directly to users and will be making an investment in developing our indirect distribution arrangements, we are forecasting six quarters of losses prior to returning to profitability.
+"""

@@ -1,0 +1,168 @@
+
+NAME: Johnson and Johnson
+CID: 0000200406
+KEYWORDS: megacap2008 maybe_great
+
+Dec 15, 2008
+
+mega cap 2008
+
+TRADE buy 16@57.00 balance 16 commission 9.99
+
+Jan 12, 2009
+
+TRADE buy 16@59.01 balance 32 commission 9.99
+
+Mar 2, 2009
+
+TRADE buy 38@48.49 balance 70 commission 9.99
+
+May 8, 2009
+
+TRADE buy 38@53.80 balance 108 commission 9.99
+
+Jul 21, 2009
+
+TRADE buy 34@59.17 balance 142 commission 9.99
+
+Sep 2, 2009
+
+TRADE buy 34@59.75 balance 176 commission 9.99
+
+Nov 11, 2009
+
+TRADE buy 33@60.80 balance 209 commission 9.99
+
+Nov 29, 2009
+
+inc 3,345,000  	3,208,000  	3,507,000  	2,714,000 
+shares 2,759,099,726
+price 62.89
+==>
+EPS $4.63
+PE 13.6
+MC $173519.8M
+
+Still good dividend yield.  Efficient (ROE 25%).  Buy.
+
+Jan 2, 2010
+
+Barron's Dec09 value list
+
+Jan 10, 2010
+
+Still looks like a great company.
+
+2010 megacap
+rank 5
+
+Feb 2, 2010
+
+TRADE buy 66@63.25 balance 275 commission 9.99
+
+May 6, 2010
+
+TRADE buy 65@64.91 balance 340 commission 9.99
+
+Aug 2, 2010
+
+TRADE buy 71@58.74 balance 411 commission 9.99
+
+Nov 10, 2010
+
+TRADE buy 65@63.75 balance 476 commission 9.99
+
+Feb 5, 2012
+
+Industry: Healthcare / Drug Manufacturers - Major
+CEO: William C. Weldon
+Year took office: 2002; spent whole working life at J&J
+
+=== 2006 10K ===
+
+Three segments: Consumer, Pharmaceutical and Medical Devices and Diagnostics
+
+Many known brands.  Worldwide sales.  Raw materials available from many sources.  No seasonality.  Strong competition.
+
+Basic strategy is to develop leadership positions in growth areas of health care.  New products account for 30% of 2006 sales.
+
+2006-2004
+Revenue	$53.3B $50.5B $47.3B
+EPS (diluted) $3.73 $3.35 $2.76
+R&D $7.1B $6.5B $5.3B
+
+=== 2008 10K ===
+
+Revenue $63.7B $61.1B $53.3B
+EPS $4.57 $3.63 $3.73
+R&D $7.6B $7.7B $7.1B
+
+=== 2010 10K ===
+
+Revenue $61.6B $61.9B $63,7B
+EPS $4.78 $4.40 $4.57
+R&D $6.8B $7.0B $7.6B
+
+================
+
+Competitive advantage
+ Company Moat: marginal
+  Brand strong over many lines
+  Switching only psychologically difficult to switch (consumer tastes) medical may be different
+  Cost
+  Protected
+  Other
+ How likely will moat endure over the next 5 yrs?  Size of company can keep acquiring good brands
+
+Competitors
+ For 3 competitors
+  Read current annual report
+ What is the biggest risk to the company over the next 5 yrs?  Too large of a company for me to tell.
+ Probability of it happening
+
+Financial Checklist
+ For company and industry
+  5 yr EPS growth. 128%
+  5 yr revenue growth. 115%
+  Current net profit margin (earnings/revenue). 5.9% (ind 16.7%)
+  Current ROE (earnings/stockholders_equity). 6.4% (15.8%)
+  % long term debt to equity. 16%
+
+Mar 4, 2012
+
+2011 10K just out
+R&D $7.5B
+
+
+jan 2012
+rev 16,255,000  	 16,005,000  	 16,597,000  	 16,173,000
+inc 218,000  	 3,202,000  	 2,776,000  	 3,476,000  
+shares 2,745,078,671 
+price 64.77
+div 2.28
+==>
+Revenue $65030.0M
+EPS $3.52
+PE 18.4
+Margins 14.9%
+Yield 3.5%
+Payout Ratio 64.7%
+
+Good increase in revenue but higher costs due to " ongoing remediation costs in the Consumer OTC business and inventory write-offs due to the restructuring of the Cardiovascular Care business" also health care reform legislation.
+
+Not sure how to value this gigantor of a company.  With that high payout ration they still have a lot of cash to work with but the PE seems way to high for a company this size in this market.  Earnings estimate are over $5 for next year which would significantly drop the PE.  Can't really buy until the PE drops to 10.  Won't sell unless the yield falls to 3%.  These numbers may change significantly after next years numbers.
+
+BUY $35.20
+SELL $76.00
+
+Feb 19, 2013
+
+TRADE sell 476@76.80 balance 0 commission 9.99
+
+Mar 22, 2015
+
+No longer interested in the company.
+
+BUY None
+SELL None
+

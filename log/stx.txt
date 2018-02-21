@@ -1,0 +1,96 @@
+
+NAME: Seagate Technology PLC
+CID:  0001137789
+
+Apr 14, 2012
+
+Second positive Barrons review.  Summary:
+2012 eps estimate: $6.28
+2013: $8.52
+boosted dividend payout 39% in Jan
+Aims to cut share count by 25% to 350M in current calendar year
+Skeptics think things will get worse after the year do to solid state storage
+Disk maker consolidation is a plus.
+
+Dec 2011
+rev 3,196,000  	 2,811,000  	 2,859,000  	 2,695,000
+inc 563,000  	 140,000  	 119,000  	 93,000 
+price 27.38
+shares 448,725,600
+div 1.00
+==>
+EPS $2.04
+PE 13.4
+MC $12286.1M
+Margins 7.9%
+Yield 3.7%
+Payout Ratio 49.0%
+
+Next earnings on April 17th.  Year estimate of $6 is gives this a pretty nutty valuation.  Put in $20K on Monday.
+
+Apr 15, 2012
+
+Only bought $15K; not enough cash in the account.
+
+TRADE BUY 530@$28.30 commission 9.99 balance 530
+
+Jun 19, 2012
+
+TRADE BUY 425@$23.5299 commission 9.99 balance 955
+
+Aug 5, 2012
+
+Stock roared back with institutional interest even though estimates are not that great for the year.  Consider getting some money out of this earlier than normal.
+
+Mar 2012
+rev 4,450,000  	 3,196,000  	 2,811,000  	 2,859,000
+inc 1,146,000  	 563,000  	 140,000  	 119,000
+shares 425,234,957 
+price 30.94
+div 1.28
+===>
+EPS $4.63
+PE 6.7
+MC $13156.8M
+Margins 14.8%
+Dividend $1.28
+Yield 4.1%
+Payout Ratio 27.7%
+
+PE is crazy low now matter how we look at it.  Let's use yield for valuation since the payout ratio is pretty sustainable.  Back in the truck by is anything more than a 5% yield == price $25.60.  First sell (just to pull some money out) is at 3.5% yield of $36.57.  Full sale would be at 3% of $42.67.
+
+BUY $25.60
+SELL $36.57
+
+Let's do a little more due dilligence and read the latest 10Q
+
+=== Mar 2012 10Q
+
+pretty tight balance sheet.  Shareholder equity up $4.0B to $4.8B in the last year.
+
+===  
+
+Nov 30, 2012
+
+TRADE BUY 397@25.20 balance 1352 commission 9.99
+
+Jan 24, 2013
+
+TRADE SELL 600@37.10 balance 752 commission 10.49
+
+Apr 2, 2014
+
+TRADE SELL 400@57.00 balance 352 commission 10.50
+
+Jul 3, 2014
+
+TRADE SELL 352@58.90 balance 0 commission 10.45
+
+Mar 22, 2015
+
+No longer interested in the company.
+
+BUY None
+SELL None
+
+

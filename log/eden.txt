@@ -1,0 +1,26 @@
+
+NAME: EDEN Bioscience Corp.
+CID: 0000930095
+
+Mar 1, 2005
+
+Biotech creates messenger products that stimulate plant resistance.
+Makes stronger crops.  Losing money for years.
+
+< $50M MC
+
+Dec 15, 2005
+
+Still doing poorly.  Even managed a negative gross profit in sep05.
+
+From 10Q: company thinks it has enough money for at least 12 months.  Lots of bad news in the 10Q.  Lots of Messenger (the product) is already in distribution and not selling.  Even worse, much of this product was made in 2001 and 2002 and it only has a guaranteed shelf life of two years.
+
+One good (tho probably biased article)
+http://www.cottonfarming.com/home/2005_MarCF-Eden.html
+
+Market cap is only $15M. If something amazing happens and sales kick in for whatever reason, this would be worth looking at.  I should be sure to watch the news on this once every couple weeks or so.  Not sure how to automate that.  Maybe make a monthly news portfolio?
+
+Apr 19, 2006
+
+ticker EDEN ==> EDEND
+1:3 reverse split

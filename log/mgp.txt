@@ -1,0 +1,24 @@
+
+NAME: Merchants Group Inc.
+CID: 0000803027
+
+Jul 25, 2006
+
+Found as "great" in value screen jun06
+
+Insurance company located in the north east.  Insures autos, homeowners, commercial auto, workers comp, etc.  Licensed in 13 states.
+
+mar06 to jun05
+rev 11,993  	14,379  	14,208  	14,789
+inc $2,338  	$612  	$1,721  	$3,178
+shares 2,142K
+price 30.67
+==>
+EPS $3.66
+PE 8.4
+MC $65.7M
+Margins 14.2%
+
+Declining rev for a few years but increasing income.  $76M in net tangible assets but $65M MC?  Dense 10Q with no forward looking info.  Web site has no investor relations link. (good)  CEO takes no salary.  No analysts.  Possible in processs acquisition for $29 per share.
+
+Seems a little opaque.

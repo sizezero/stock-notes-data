@@ -1,0 +1,28 @@
+
+NAME: SM&A
+CID: 0001050031
+
+Mar 10, 2006
+
+"magic" screen feb 06
+
+Company appears to be a mangement consultant to defense / homeland security industry.
+
+Flat rev.  Increasing SG&A is cutting into profitability.
+dec05 to mar05
+inc $796   	$2,558   	$2,477   	$2,596
+shares 20,797K
+price 6.76
+==>
+Income $8.4M
+EPS $0.41
+PE 16.7
+MC $140.6M
+
+10Q
+
+Boeing, Accenture, and Lockheed Martin combined account for 62% of revenues.
+
+Company has options + ESPP.  1.5M options outstanding with average purchase price of $7.5
+
+I like the high margins of the company, but chasing government contracts seems like a fickle business.

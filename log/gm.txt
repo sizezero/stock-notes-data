@@ -1,0 +1,105 @@
+
+NAME: General Motors Company
+CID: 0001467858
+
+Jul 26, 2015
+
+Positive article in recent Barron's.  This was a followup article on a year old article where they also recommended the stock.  It's been up and down since then and the latest article talks about it as a bargain hunter stock.  New optimism is that 2016 is now $5.07 with a top end of $5.80.  This gives the current price of $31.06 a PE of 6 with a yield of 4.6%  The company has been spending twice as much on buybacks as opposed to dividends.  They have a price target of $50.00
+
+In the same issue, hedge fund manager of Ariel Investments, Rupal Bhansali was interviewed.
+
+Barrons: You sold bank stocks in 2006, ahead of the financial crisis. What red flags do you see now?
+
+Bhansali: The potential for a subprime crisis in the U.S. auto market.  Select lenders are most likely to suffer, rather than the finance arms of big firms like Toyota Motor, I also forsee a sovereign emerging-market bond crisis.
+
+Barrons: Can you explain?
+
+Bhansali: Traditionally, people make money in emerging markets by investing in exporters when currencies fall hard, as they have. But that trade will haunt people. In the past, couple of years of low interest rates, people were keen to invest in emerging market debt. Now, because their currencies have fallen and the credit risk has increased, they will have to pay significantly higher rates to refinance or not be able to refinance at all.
+
+mar15
+rev 35,712,000  	39,617,000  	39,255,000  	39,649,000
+inc 945,000  	1,105,000  	1,384,000  	190,000
+shares 1,583,997,449
+price 31.06
+div 1.44
+==>
+EPS $2.29
+PE 13.6
+MC $49199.0M
+Margins 2.3%
+Dividend $1.44
+Yield 4.6%
+Payout Ratio 62.9%
+
+Crazy high payout ratio.  The only thing good about this is the 2016 estimates.  Let's buy a little ($20K and watch)
+
+Jul 28, 2015
+
+TRADE buy 650@31.327 balance 650 commission 9.99
+
+Pick up another $10K if it drops.
+
+BUY $25.00
+
+Aug 25, 2015
+
+TRADE buy 725@27.50 balance 1375 commission 9.99
+
+pick up another $20K if it drops
+
+BUY $24.00
+
+Mar 4, 2017
+
+Feb 20 Barrons "GM Shares could drive 35% higher"
+- selling European Opel brand
+- Four companies
+  - North America (costs slashed after bankrupcy)
+  - China Brands: Baojun, Wuling, Jiefang
+  - Latin America
+  - Europe
+
+Ditching Europe would increase profit margin. CEO could continue increasing shareholder value instead of clinging to money-losing market share.  Next recession should push GM earnings from current $6/s to $3-$4/s. "A price of 15 times our guess for GM's trough earnings would push its shares of $50, 36% above recent levels. And if earnings don't dive, as seems likely, that works out to 8.3 times. A European sale could only help unlock that value. In the meantime, the dividend is safe and plump at 4.1%.
+
+dec 2016
+rev 43,918,000	42,825,000	42,372,000	37,265,000
+inc 1,835,000	2,773,000	2,866,000	1,953,000
+shares 1,497,964,557
+price 38.23
+div 1.52
+==>
+EPS $6.29
+PE 6.1
+MC $57267.2M
+Margins 5.7%
+Yield 4.0%
+Payout Ratio 24.2%
+
+If the low earnings cycle of this stock drops to $3 earnings that's still only a PE of 12.  Other companies have much higher valuations in their troughs.  If a trough PE of 18 is fair (others are over 20) then a safety discount of 15 PE gives a buy price of $45.  This makes it look like a bargain and means I should load up at this price. I should try to get $30K into that account so I can buy it at the current market price.
+
+BUY $45
+
+Mar 17, 2017
+
+TRADE buy 100@36.31 balance 1475 commission 0.00
+TRADE buy 100@36.30 balance 1575 commission 6.95
+TRADE buy 75@36.30 balance 1650 commission 0.00
+
+Mar 21, 2017
+
+TRADE buy 285@34.92 balance 1935 commission 6.95
+
+Mar 22, 2017
+
+TRADE buy 100@34.3939 balance 2035 commission 6.95
+TRADE buy 190@34.396 balance 2225 commission 0.00
+
+Apr 4, 2017
+
+TRADE buy 290@34.25 balance 2515 commission 6.95
+
+May 17, 2017
+
+TRADE buy 310@32.3657 balance 2825 commission 6.95
+
+

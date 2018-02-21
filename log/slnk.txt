@@ -1,0 +1,113 @@
+
+NAME: Spectralink Corp.
+CID: 0000894268
+
+Mar 20, 2006
+
+"magic" screen feb 06
+
+Offers wireless telephones over 802.11 band.  Integrates with a company's existing PBX systems.  Uses custom base stations.  Sells direct, via resellers and OEMs.
+
+dec05 to mar05
+inc 3,600 $3,606   	$2,653   	$2,164
+shares 19,370K (diluted)
+price 12.25
+==>
+Income $12.0M
+EPS $0.62
+PE 19.7
+MC $237.3M
+
+Recently acquired KIRK telecom (Denmark) and and all of its subsidiaries.  Using this to expand global sales.
+
+Regular quarterly dividends.
+
+Working on a new product that operates on WLANs.
+
+I'm having a little trouble figuring out why this product is important when cell phones are so ubiquitous.  It must be the price point.  It seems to be used as a company phone within a building/campus.
+
+Very solid numbers: 64% gross margins, operating margins 18.8%, 30 consecutive quarters of positive net income, 28 consecutive quarters of positive cash flow.
+
+The stock seems pricey at a PE of 19 but a dividend yield of 3.3% isn't bad.  PE of 16 would put it just under $10.  This would be closer to a buy price.
+
+NOTIFY price < $10.00 buy price
+
+May 24, 2006
+
+mar06 to jun05
+rev 33,969  	30,313  	24,762  	22,111
+inc ($2,442)	$3,601  	$3,606  	$2,653
+shares 19,220K
+price 9.61
+==>
+Income $7.4M
+Revenue $111.2M
+EPS $0.39
+PE 24.9
+MC $184.7M
+Price $9.61
+Margins 6.7%
+
+Concluded purchase of the Danish company Kirk for borrowed $4.4M.  Apr10 CFO resigned.
+
+10Q
+
+Lots of risks associated with integrating Kirk.  Cisco is a competitor in phones, also makes all other IP infrastructure.  No forward looking statements in 10Q.
+
+Seasonality: Generally, revenue and operating results are sequentially down in the first quarter from the fourth quarter, sequentially higher in the second quarter, sequentially flat or slightly higher or lower in the third quarter, and strongest in the fourth quarter.
+
+I like the way investor relations is buried deep in the web site.  Can't find any hint of conference calls.
+
+From the message boards, it seems the aqcuisition has terminated the dividend policy.  Lots of confusion in the message boards.  This stock seems too opaque for me.  Check it out in a few months.
+
+NOTIFY price off
+NOTIFY date July 10, 2006 how is the acquisition going
+
+Jul 12, 2006
+
+Released new 6020 handset.  Retails for $620 a pop.  Ouch!  Price has dropped further to 8.25 but no new info.
+
+Aug 9, 2006
+
+jun06 to sep04
+rev 35,339 33,969  	30,313  	24,762
+inc $82 ($2,442)	$3,601  	$3,606
+shares 19,480K
+price 7.37
+==>
+EPS $0.25
+PE 29.6
+MC $143.6M
+Margins 3.9%
+
+press release
+"""
+During the second quarter, the company recorded charges for FAS123R stock option expense of $942,000 and amortization of intangible assets related to the KIRK telecom acquisition of $1.1 million.
+"""
+
+mar06 10Q -- no dividends for a while
+"""
+We expended $12.8 million of cash for financing activities during the first quarter of 2006, compared to a small net use of cash in financing activities in the first quarter of 2005. Since 2003, we have paid a quarterly dividend, but will no longer declare dividends in accordance with our Credit Facility covenants in 2006. Cash used in financing activities in 2006 reflects the debt pay down of $15 million in the quarter. At March 31, 2006, we have reflected $6 million of our debt balance as a current liability. It is management’s intent to repay quarterly principal on our remaining debt of $1.5 million, essentially replacing our previous dividend payments until the debt balance is entirely repaid.
+"""
+
+Aug 10, 2006
+
+Conference call.
+
+All the talk was about cost cutting.  With rising revenues, getting costs under control should put the company in the black.
+Large backlog for the new phones; production should catch up in the third quarter.
+Strategy has 3 pillars: 1) core markets (health care etc) 2) Licensing to large companies 3) OEM sales
+Paid down $1 of dept revolver.  expect to pay $6M over next 12 mos.  dept cost reduced $300K per quarter.  no share repurchases. 
+Looking for sequential rev growth in end of year.  rev 150-160M by end of year--lower range.  huge cost cutting.
+intl rev was 26% in quarter.  all product.
+Sales lead Jill Kenney "left" the company.  May be responsible for missing the numbers and driving up headcount.
+
+I'm not sure what kind of net margins these guys are supposed to have.  2003 to 2005 they were between 8% and 9%. 150M in rev, 5% margins ==> eps 0.36, PE 20; 8% margins ==> eps 0.38, PE 19.4  low analyst has eps 0.46 but this is probably old.
+
+I'm unsure of this company.
+PROS: The product seems good and is selling.  Debt is being cleared away.  Revenue is growing.  Cost cutting is a priority.  What should the future margins be?
+CONS: They missed their numbers.  The've lost two key people (CFO, head of sales) in the last 6 months.  The Kirk acquisition looks like a bad decision in retrospect.
+
+It still looks pricey.  There's no need to rush into this one.
+
+NOTIFY date off

@@ -1,0 +1,18 @@
+
+NAME: APERAM
+CID: 
+
+Jan 15, 2011
+
+TRADE buy 14@0.00 commission 0 balance 14
+
+Mar 19, 2011
+
+Spun off of Arcelor Mittal.  Not sure when.  Giving it a zero cost basis.
+
+There is no visibility into this guy.  Should I just sell?
+
+Oct 15, 2013
+
+TRADE sell 14@17.80 commission 9.99 balance 0
+

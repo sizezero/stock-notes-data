@@ -1,0 +1,455 @@
+
+NAME: Gamestop Corp
+CID: 0001326380
+KEYWORDS: not_great tax_free
+
+May 25, 2005
+
+Steve referred this to me.
+
+Spun off from Barnes and Noble in Nov 2004.  0.19 eps in first quarter
+vs 0.11 a year ago.  Forcasting 0.14 to 0.15 in second quarter.  The
+bump this last quarter is due to the release of the Playstation
+Portable.  This should be considerred a one time bump in revenue.
+Guessing (0.19+0.145)*2 for future years earnings == 0.57 (optimistic)
+which gives the current price of 28.6 a PE of 42.  Seems pretty highly
+valued on nothing more than a retail chain.
+
+Future good news is that 3 new game consoles will be release by MS,
+Sony, and Nintendo over the next two years.  This will not only cause
+new game sales but also churn the sale of used games.  
+
+May 26, 2005
+
+I just listened to the first quarter conference call.
+
+=== begin notes ===
+
+0.19 earned in first quarter.  Exceeded expectations by 0.02
+
+good selling console titles: Gran Tur 4, God of war, Doom3, Spliter
+Cell chaos theory
+
+95 new stores 13 closed in quarter total 1908
+
+0.14 to 0.15 expected for next quarter
+
+full year 1.30 and 1.40 per share
+
+merging with electronic boutique, management is optimistic about
+merger
+
+new platforms entering the used market drives sales for gamestop
+
+all three consoles announce backward compatibility
+
+xbox 360 in fall, others in 2006
+
+future console titles: gta san and, zelda twilight princess, peter
+jackson's king kong, call of duty 2, madden
+
+future PC titles: city of villians online, fear
+
+momentum in accessories category
+
+s4 docs sent to scc (merger) then need shareholder approval.  Still
+early in the merger process.  _May_ close merger by third quarter.
+
+Question and Answer:
+
+8 platforms vs 5 in the past.  How will the store be rearranged.  Weak
+answer.
+
+Want details on PSP future sales.  PSP has movie category.
+
+Worldwide xbox launch will only have 8M initial units.  Thinks year
+will have more.
+
+Prices holding up well on platforms.  $50 games still common.  "A"
+games on new platforms are a $59 item.
+
+Xbox1 continues to be in short supply.
+
+interested in efficiency of mature stores which are a large part of
+the business
+
+300 to 350 new stores in the next year.
+
+Lots of integration work with merger
+
+=== end notes ===
+
+Major points:
+
+Good:
+
+* I really like the model for the company.  Used games is a unique
+  market that is untouched my wallmart, best buy etc.
+
+* The long term prospects for this company are very good.  xbox360 at
+  the end of this year and two new systems by Nintento and Sony in the
+  following year will really drive their business.
+
+Bad:
+
+* some of the profit in the last quarter was due to huge, one time PSP
+  sales
+
+* the merger with electronics boutique has just started.  The CEO
+  think it might be done in 6 months which is optimistic.  I'm
+  generally pessimistic about mergers.
+
+* some of the earnings for the year are tied into a timely xbox 360
+  release which will most likely slip to Dec.
+
+* company estimates full year earnings at 1.30 to 1.40 per share.  I
+  haven't see this break down but it seems _very_ optimistic.  First
+  quarter was 0.19 (with one time PSP sales) second quarter is
+  estimated 0.14 to 0.15 This means they have to average 0.50 in each
+  of the third and fourth quarters.  The only big item coming is the
+  xbox360 which has a good chance of being either late or short of
+  units or both.
+
+Summary:
+
+With current price of 28.50, management year end estimates of 1.35
+give a PE of 21.  With the merger and possible slippage in xbox360 I
+would lean towards lower earnings, maybe even half the estimate giving
+the current price a PE of 30 to 40.  I like the company but it seems
+overvalued.  If the merger doesn't go smoothly or the xbox360 stalls,
+the stock may pull back and afford a buying opportunity.
+
+Questions: Where does the company see these huge earnings coming from
+in the 3rd and 4th quarters?
+
+Nov 21, 2005
+
+Merger completed Oct12
+
+Earnings call scheduled for Nov29
+
+Increasing stock price (30-35) on decreasing earnings () of the last two
+quarters?  This is whacked.
+
+Oct25 release claims Q3 will be $0.14 with Q4 of $0.98 to $1.06
+
+I'll have to listen to the conference call to see what they are
+counting on to provide their big Q4.
+
+Aug 8, 2009
+
+2009 small cap search good
+Not a small cap but good anyway.
+
+Yahoo says it has a PE of 10.  Down from 5yr high of 60 to 25.  Still growing.
+
+rev: 1,980,753  	3,492,114  	1,695,746  	1,804,420
+inc: $70,433  	$232,325  	$46,669  	$57,163 
+shares: 167,972K
+price: 25.16
+
+Income $406.6M
+Revenue $8973.0M
+EPS $2.42
+PE 10.4
+MC $4226.2M
+Margins 4.5%
+
+There is some worry about digitally downloaded games and the lack of A-list videogames but I think that is overblown.
+
+Oct 9, 2009
+
+Market Watch articled discusses GME's cheap valuation by any metric.  I think I need to purchase some of this on Monday.  Less than EPAX since the other is a better story.  Maybe $5K and $10K with plans to purchase more as I continue to watch the story.  Worry, am I just chasing value?  I still like the used game market I guess.
+
+Oct 12, 2009
+
+TRADE buy 183@27.099 balance 183 commission 11.99
+
+TRADE buy 223@22.30 balance 406 commission 11.99
+
+Mar 13, 2010
+
+Game stocks are hammered.  Let's look at the fundementals.
+
+last three quarters ending oct09
+rev 1,834,727  	1,738,504  	1,980,753 
+inc 52,225  	38,685  	70,433
+shares 168,113K
+price 19.21
+==>
+EPS $1.28
+PE 15.0
+MC $3229.5M
+Margins 2.9%
+
+Inventory in the last quarter $1.7B is significantly higher than the last year average $1B and previous years $0.6B  Watch for quarterly results next week.
+
+Jun 17, 2010
+
+Latest drop due to best-buy and walmart announcing that they are getting into used game sales.
+
+may 1
+rev 2,082,697    	  3,524,013    	  1,834,727    	  1,738,504
+inc 75,172    	  215,922    	  52,225    	  38,685
+shares 151,540,280
+price 19.36
+==>
+EPS $2.52
+PE 7.7
+MC $2933.8M
+Margins 4.2%
+
+Jun 23, 2010
+
+TRADE buy 538@18.6 commission 9.99 balance 944
+
+Apr 2, 2011
+
+Industry: Services / Electronics Stores
+CEO Daniel A. Dematteo
+Year took office: 2008. COO since 2005.  On the board since 2002.
+
+Annual Reports
+ read current
+ read 3 yrs ago
+ read 5 yrs ago
+
+=== 2006 10K ===
+
+Business strategy bullets:
+Targeting a Broad Audience of Game Players
+Enhancing our Image as a Destination Location
+Offering the Largest Selection of Used Video Game Products
+Building the GameStop Brand (rebranding old stores)
+Providing a First-to-Market Distribution Network
+Investing in our Information Systems and Distribution Capabilities
+
+US stores: 3799
+Worldwide total: 4778
+43% of sales and 67% of earnings in Q4
+
+Interesting comment of the secondary market of new game systems.
+"""
+Typically, following the introduction of new video game platforms, sales of new video game hardware increase as a percentage of sales in the first full year following introduction. As video game platforms mature, the sales mix attributable to complementary video game software and accessories, which generate higher gross margins, generally increases in the second and third years. The net effect is generally a decline in gross margins in the first full year following new platform releases and an increase in gross margins in the second and third years. Unit sales of maturing video game platforms are typically also driven by manufacturer-funded retail price decreases, further driving sales of related software and accessories.
+"""
+2007 - 2003
+Revenue $5.3B $3.1B $1.8B $1.6B $1.4B
+EPS (diluted) $1.00 $0.81 $0.53 $0.53 $0.43
+Stores 4778 4490 1826 1514 1231
+
+=== 2008 10K ===
+
+Business strategy largely unchanged.  Mentioned online site gamestop.com
+
+40% of our sales and approximately 56% of our operating earnings during the fourth quarter
+
+Great selected financial data has stores by segment, store sales increase
+
+2009 - 2008
+Revenue $8.8B $7.0B
+EPS (diluted) $2.38 $1.75
+Stores 6207 5264
+
+=== 2010 10K ===
+
+Demand up even though game software industry is down.  This is due to new stores.
+
+New plan bullets:
+
+  Be aggressive about closing stores that don't reach profitability and to open new stores in good markts.
+
+  Investing in digital distribution kongregate.com which is tied to physical stores.
+
+  Consistently Achieve High New Release Market Share (AAA titles)
+
+2011 - 2010
+Revenue $9.5B $9.1B
+EPS (diluted) $2.65 $2.25
+Stores 6670 6450
+
+================
+
+Competitive advantage
+ Company Moat
+  Brand - kids may have brand loyalty to a store
+  Switching - very easy to buy anywhere
+  Cost - not many other vendors of used games
+  Protected - no monopoly on products
+  Other
+ How likely will moat endure over the next 5 yrs?
+   Digital downloads and casual games could seriously erode physical sales.
+
+Competitors
+ For 3 competitors
+  Read current annual report
+ What is the biggest risk to the company over the next 5 yrs?
+ Probability of it happening
+
+Financial Checklist
+ For company and industry
+  5 yr EPS growth. 0.81==>2.65 227%
+  5 yr revenue growth. 3.1B==>9.5B 206%
+  Current net profit margin (earnings/revenue). 0.4086/9.5 = 4.3%
+  Current ROE (earnings/stockholders_equity). 408.6/$2895.9M = 14%
+  % long term debt to equity. $420.1M/$2895.09M = 15%
+
+2010 (jan 2011)
+rev 9,473000 0 0 0
+inc 406000 0 0 0
+shares 154000000
+price 22.92
+==>
+EPS $2.64
+PE 8.7
+MC $3529.7M
+Margins 4.3%
+
+Fair valuation at 12 (low margin retailer)  Buy at 30$ discount of 9.  Don't try to hold this beyond fair value.  Cloudy future of physical games and no obvious transition strategy of gamestop to digital makes this not a great company.
+
+BUY $23.76
+SELL $31.68
+
+Feb 8, 2012
+
+First dividend announced today.  Recalculating for yield.
+
+oct11
+rev 1,946,800  	 1,743,700  	 2,281,400  	 3,692,800
+inc 53,900  	 30,900  	 80,400  	 237,800
+price 24.49
+shares 136,424,174
+div $0.60
+==>
+EPS $2.95
+PE 8.3
+MC $3341.0M
+Margins 4.2%
+Yield 2.4%
+Payout Ratio 20.3%
+
+They certainly have the ability to raise their payout ratio to 30% or 40% which could give a hefty yield of 4%+  I now feel underweight in the stock as the yield makes me willing to sit on it for a while.  There's still no reason to not buy at a discount.  Add a buy order at $23.75
+
+Feb 10, 2012
+
+TRADE buy 421@23.54 balance 1365 commission 9.99
+
+March 29, 2012
+
+TRADE buy 433@23.54 balance 1798 commission 9.99
+
+March 30, 2012
+
+TRADE buy 448@22.34 balance 2246 commission 9.99
+
+May 7, 2012
+
+TRADE buy 475@21.05 balance 2721 commission 9.99
+
+Apr 10, 2013
+
+TRADE sell 1200@30.00 balance 1521 commission 10.80
+
+May 8, 2013
+
+TRADE sell 1521@38.00 balance 0 commission 11.29
+
+Mar 22, 2015
+
+No longer interested in the company.
+
+BUY None
+SELL None
+
+Oct 26, 2016
+
+The stock has crashed.  Let's look at the numbers again.
+
+jul16
+rev 1,631,800	1,971,500	3,525,000	2,016,300
+inc 27,900	65,800	247,800	55,900
+price 24.77
+shares 103,981,539
+div 1.48
+==>
+Income $397.4M
+Revenue $9144.6M
+EPS $3.82
+PE 6.5
+MC $2575.6M
+Margins 4.3%
+Yield 6.0%
+Payout Ratio 38.7%
+
+Annual revs have been stable at around $9B for the past few years.  Yield is impressive.
+
+September Barrons article talks about other stores:
+
+"""
+A recent acquisition exemplifies the company’s diversification strategy. On Aug. 2, GameStop purchased 507 AT&T (T) authorized retail stores, making GameStop AT&T’s largest retail store operator. This addition brought GameStop’s “technology brand” retail-store base to 1,566 compared to zero just a few years ago. This includes 1,424 AT&T Mobility/Spring Mobile stores, 72 Simply Mac stores, and 70 Cricket stores. We expect further growth of these businesses through store acquisitions and repurposing of some GameStop stores.
+"""
+
+It's hard not to get in a little at this price.  Start with $20K from the IRA account and add to it if it drops.
+
+Oct 27, 2016
+
+Bought $20K (810 shares) today.  We have room to buy more on a drop.  Let's see if this turns into an ulcer stock.
+
+TRADE buy 810@24.579 commission 9.99 balance 810
+
+Oct 30, 2016
+
+Would like to own more but picking a cheaper price for safetly.
+
+BUY $21.50
+
+Nov 2, 2016
+
+A crash in guidance caused a sell off.  Bought 900@$20.83
+
+TRADE buy 900@20.827 commission 9.99 balance 1710
+
+BUY $17.00
+
+Mar 24, 2017
+
+TRADE buy 1182@21.515 commission 0 balance 2892
+TRADE buy 100@21.52 commission 9.99 balance 2992
+
+TRADE buy 940@21.16 commission 6.95 balance 3932
+
+TRADE buy 950@20.9462 commission 6.95 balance 4882
+
+Article from Barrons:
+
+"""
+The Battle has just begun for GameStop
+
+When we wrote positively about videogame retailer Gamestop's shares in January, we conceded that "it faces a big threat" from increasingly popular digital game downloads and shopping malls' fading charms. The stock, already down by 50% since late 2015 on these worries, had just slumped further on disappointing Christmas sales.
+
+Last week felt lilke dja vu. GamsStop (ticker: GME) gave lower-than-expected 2017 guidance of $3.25 a share and said it would close at least 150 stores this year. Shares fell almost 14%, finishing the week at $20.70. We had suggested buying at $23.58 a share ("GameStop Shares Could Be a Game Winner", Jan 21). We still like the stock.
+
+Though the transition to digital is admitedly accelerating, weakening Wall Street sentiment is hurting too. For instance, Joseph Feldman, an analyst with Telsey Advisory, recently switched from Buy to Hold with a reduced price target of $24.
+
+GameStop's well-regarded management needs time to pull off its planned transition to a more diversified merchandisere of electronic items--say, by increasing sales of AT&T--supported phones, or expanding Simply Mac stores. The shares trade at just 3.1 times earnings before interest and depreciation, and amortization, notes William Nasgovitz, portfolio manager of the Heartland Value fund. "We like this stock in the low 20s because of its free cash flow," he says. GameStop just raised its dividend, giving it a 7.3% yield. New products like Nintendo Switch and Microsoft Scorpio could be catalysts. Given the value, we wouldn't surrender.
+
+--Jack Willoughby
+"""
+
+Mar 27, 2017
+
+TRADE buy 1000@20.92 commission 6.95 balance 5882
+
+Nov 1, 2017
+
+TRADE buy 540@18.62 commission 6.95 balance 6422
+
+Nov 13, 2017
+
+TRADE buy 600@16.5162 commission 6.95 balance 7022
+
+Jan 12, 2018
+
+TRADE buy 445@17.79 commission 6.95 balance 7467
+
+BUY 14.0
+

@@ -1,0 +1,58 @@
+
+NAME: Accenture
+CID: 0001467373
+
+May 13, 2012
+Industry: Technology / Information Technology Services
+CEO: William D. Green
+Year took office: 2004 (joined in 1977) may be on his way out
+Jan 1, 2011 new CEO is Perre Nanterme (joined company in 1983)
+
+No 10-K older than 2009
+
+=== Aug 2009 10K ===
+
+Revenue
+EPS
+
+=== Aug 2011 10K ===
+
+Creates specific platforms that are then customized per industry.  Operating groups and industry groups under them:
+
+
+
+Communications & High Tech (now communication and media technology: Communications, Electronics & High Tech, Media & Entertainment
+
+Financial Services: Banking, Capital Markets, Insurance
+
+Health & Public Service: Health, Public Service
+
+Products: Air, Freight & Travel Services, Automotive, Consumer Goods & Services, Industrial Equipment, Infrastructure & Transportation Services, Life Sciences, Retail
+
+Resources: Chemicals, Energy, Natural Resources, Utilities
+
+Revenue $25.5B, $21.6B, $21.6B
+EPS $253, $2.79, $2.55
+
+================
+
+This is a complicated play that involves many industries.  How to compare these big consulting companies?  How does a client company evaluate them?
+
+Shares are 640,910,459 class A + 89,072,938 held by registrant plus 49,200,177 class X = 779183574
+
+Feb12
+rev 7,259,828  	 7,589,108  	 7,174,073  	 7,204,355
+inc 643,923  	 642,086  	 611,933  	 628,013  
+shares 779,183,574
+price 58.70
+div 1.35
+==>
+EPS $3.24
+PE 18.1
+MC $45738.1M
+Margins 8.6%
+Yield 2.3%
+Payout Ratio 41.6%
+
+This company seems bad from valuation and payout ratio.
+

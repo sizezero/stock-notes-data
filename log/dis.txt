@@ -1,0 +1,77 @@
+
+NAME: The Walt Disney Company
+CID: 0001001039
+KEYWORDS: megacap2008
+
+Dec 15, 2008
+
+mega cap 2008
+
+TRADE buy 27@22.70 balance 27 commission 9.99
+
+Jan 12, 2009
+
+TRADE buy 28@22.00 balance 55 commission 9.99
+
+Mar 2, 2009
+
+TRADE buy 77@16.06 balance 132 commission 9.99
+
+May 8, 2009
+
+TRADE buy 58@23.10 balance 190 commission 9.99
+
+Jul 21, 2009
+
+TRADE buy 55@24.50 balance 245 commission 9.99
+
+Sep 3,2009
+
+TRADE buy 53@25.35 balance 298 commission 9.99
+
+Nov 11, 2009
+
+TRADE buy 46@29.28 balance 344 commission 9.99
+
+Nov 15, 2009
+
+inc 954,000  	613,000  	845,000  	760,000
+shares 1874M
+price 30.44
+==>
+EPS $1.69
+PE 18.0
+MC $57044.6M
+
+Projecting the last quarter for a year brings a much more reasonable PE of 15.
+
+Hang on to this one for six more months.
+
+Mar 13, 2010
+
+inc 844,000 895,000  954,000  	613,000
+shares 1,903M
+price 33.69
+==>
+EPS $1.74
+PE 19.4
+
+Running hot but even low estimates for this year are 1.90  Keep for another six months.
+
+Jun 6, 2010
+
+apr
+rev 8,580,000    	  9,739,000    	  9,867,000    	  8,596,000
+inc $953,000    	  $844,000    	  $895,000    	  $954,000
+shares 1,958,559,521
+price 33.69
+==>
+EPS $1.86
+PE 18.1
+Margins 9.9%
+
+1% yield and high PE.  Looking to sell by next year
+
+Nov 24, 2010
+
+TRADE sell 344@36.78 commission 10.21 balance 0

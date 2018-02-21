@@ -1,0 +1,32 @@
+
+NAME: Horizon Financial Corp.
+CID: 0001002682
+
+Mar 1, 2005
+
+$100 to $500 MC
+
+Holding corp for Horizon Bank.  Slightly increasing income off of
+slightly decreasing revenue.
+
+Increasing income off decreasing revenues
+Public since 86
+Repurchasing shares
+Commercial loan centers in NW WA: Whatcom, Skagit Snohomish counties
+Also owns a residential real estate developer in Bellingham
+Repurchasing shares at $19.71
+
+Dec 16, 2005
+
+Revenue increased for 2005, earnings and price raised accordingly.  PE still at 16.  Lots of volitility in price.  PE still higher than FMSB and CASB.
+
+I need to mark local bank stocks so I can compare them regularly.  Maybe add a flags field that they can be browsed?  Is a special portfolio easier?
+
+The company bought back stock this year at an average price of $20.38.  Perhaps it's worth it to see which local banks are buying back stock?  I suppose if a bank is buying back stock then it's not expanding.
+
+Nov 1, 2009
+
+Losing tons of money in the last year.  Down to $6M MC.  CEO resigned two months ago.
+
+I'm finding it difficult to figure out how solvency of a bank.  The assets are so large compared to income that it's clear I need to judge it by different yardstick.  Net tangible assets dropped from $122M four years ago to $93M a year ago to $47M now.  MC for the bank is $6M so clearly everyone expects more losses if not total failure.
+

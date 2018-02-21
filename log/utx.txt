@@ -1,0 +1,130 @@
+
+NAME: United Technologies
+CID: 0000101829
+KEYWORDS: megacap2008 maybe_great
+
+Dec 15, 2008
+
+mega cap 2008
+
+TRADE buy 6@49.41 balance 6 commission 9.99
+
+Jan 12, 2009
+
+This is a stupid error.  I bought 10x the amount that I planned to on
+this trasaction.  I must have mistyped into the web browser.
+
+TRADE buy 67@52.50 balance 73 commission 9.99
+
+Mar 2, 2009
+
+TRADE buy 15@39.30 balance 88 commission 9.99
+
+May 8, 2009
+
+TRADE buy 13@51.40 balance 101 commission 9.99
+
+Jul 21, 2009
+
+TRADE buy 12@53.40 balance 113 commission 9.99
+
+Sep 2, 2009
+
+Skipped a purchase this cycle since I accidentally bought too much earlier.
+
+Nov 11, 2009
+
+TRADE buy 10@66.90 balance 123 commission 9.99
+
+Nov 29, 2009
+
+inc $1,058,000  	$976,000  	$722,000  	$1,145,000
+shares 937,539,417
+price 67.20
+==>
+EPS $4.16
+PE 16.2
+MC $63002.6M
+
+Good growth potential.  Keep buying.
+
+Jan 10, 2010
+
+Boeings 90% decline in airline orders could make next year rough but it really just postpones the orders till 2011/2012
+
+2010 megacap
+rank 4
+
+Feb 2, 2010
+
+TRADE buy 49@68.10 balance 172
+
+May 3, 2010
+
+TRADE buy 44@75.60 commission 9.99 balance 216
+
+Aug 2, 2010
+
+TRADE buy 46@72.50 commission 9.99 balance 262
+
+Nov 10, 2010
+
+TRADE buy 44@75.95 commission 9.99 balance 306
+
+Jul 28, 2012
+
+Industry: Conglomerates
+CEO: Louis R. Chenevert
+Year took office 2008, previously President of Pratt & Whitney (a division)
+
+I don't like the idea of a new CEO.  Just reading the last two 10Ks (separated by a year)
+
+=== 2011 10K ===
+
+Variety of products primarily
+ Otis: elevators
+ Carrier: heaters
+ UTC Fire & Security
+ Pratt & Whitney: aircraft engines
+ Hanuktib Sundstrand: aerospace
+ Sikorsky: helicopters
+
+Global company dependent on many factors and contracts.  Only 20% Military, the rest commercial and industrial.  Europe is a big segment.  No tell tale split in sales/profits per division: Otis, Carrier, Pratt Whitney combine for 60%.
+
+Revenue $58B $54B $52B $59B $55B
+EPS 5.49 4.74 4.12 4.90 2.27
+
+================
+
+I'm having trouble seeing the competitive advantage in this hodge podge of industries.  I'm sure this could be analysed but it's too much work for me.
+
+Mar 2012
+rev 12,424,000  	 14,966,000  	 14,804,000  	 15,740,000
+inc 330,000  	 1,325,000  	 1,324,000  	 1,318,000  
+shares 908,863,486
+price 72.93
+div 2.14
+==>
+EPS $4.73
+PE 15.4
+MC $66283.4M
+Margins 7.4%
+Yield 2.9%
+Payout Ratio 45.3%
+
+Trailing eps is 4.73 but low estimates for the year are 5.25 with a high of 2.55.  This give PEs off the current price at 15.7, 14.15, 13.38 which all seem high for a company that's this big with such a huge payout ratio.  Sell at div yield of 2.5% and buy at a div yield of 5%.  This gives prices of 85.60 and 35.67
+
+BUY $42.80
+SELL $85.60
+
+Jan 15, 2013
+
+TRADE sell 306@85.80 commission 9.99 balance 0
+
+Mar 22, 2015
+
+No longer interested in the company.
+
+BUY None
+SELL None
+

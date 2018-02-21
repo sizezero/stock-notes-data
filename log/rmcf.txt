@@ -1,0 +1,228 @@
+
+NAME: Rocky Mountain Chocolate Factory Inc.
+CID: 0000785815
+KEYWORDS: not_great barbara_owned
+
+Oct 23, 2010
+
+Steve likes this because they're going to start selling yogurt which he thinks is the next big thing.  I can't complain about a $60M MC with a 4.2% yield.
+
+aug 2010
+rev 6,626   	7,615   	8,799   	6,881
+inc $944   	$932   	$1,200   	$750
+shares 6,269,787
+price 9.50
+==>
+EPS $0.61
+PE 15.6
+MC $59.6M
+Margins 12.8%
+
+Balance sheet looks good.  Company appears to be commmitted to dividends.  Stone Cold Creamery is the ice cream stores, yogurt store has another name.  352 stores in 37 states.  PE seems high but maybe nothing to worry about due to the yield.  Last 3 months paid $600K in dividends and kept $944K in earnings.  Seems like a crazy commitment to dividends.  Crazy good?
+
+Oct 26, 2010
+
+TRADE buy 525@9.50 balance 525 commission 9.99
+
+Jan 1, 2011
+
+Industry: Consumer Goods / Confectioners
+CEO: Franklin E. Crail
+Year took office: Mr. Crail co-founded the first Rocky Mountain Chocolate Factory store in May 1981. Since the incorporation of the Company in November 1982, he has served as its President and a Director. He was elected Chairman of the Board in March 1986
+
+Annual Reports (fiscal year ends in Feb)
+
+--- 2006 ---
+
+9 company owned stores 301 franchises
+
+69% rev sales of confections to franchises and others
+11% rev sales at owned stores
+20% franchise fees and royalties
+percentages stable for at least 3 years
+
+Strategy:
+Product Quality and Variety
+Store Atmosphere and Ambience: 40% of confections made in store
+Site Selection: all aproved by upper management
+Customer Service
+Increasing same store sales: packaging, product selection
+Enhanced Operating efficiencies: MRP II (material requirements planning), POS divest company owned stores to reduce real-estate risk.
+
+Seasonal sales peak in summer and Xmas.
+
+rev, gross margins is broken into factory sales (~68%,~36%), retails sales (~11%,~62%), royalty/marketing/franchising (~20%,100%)
+
+rev $28.0M
+inc $4.1M
+eps $0.61
+
+--- 2007 ---
+
+5 company owned stores 316 franchises
+
+Strategy not noticably different.
+
+rev $31.6M
+inc $7.6M
+eps $0.75
+
+factory sales up couple percent, retail sales down a couple percent.
+
+--- 2008 ---
+
+5 company owned stores 329 other stores.
+
+50% of products made in store as opposed to 40% two years ago.
+
+Factory sales up to 75% of rev.  Store sales down to 5%.  This trend should continue so margins on factory sales are key.
+
+Entered into agreement with The Grove for exclusive right to open RMCF stores in airports.  3 stores opened so far.
+
+Strategy not noticably different.
+
+rev $31.9M
+inc $5.0M
+eps $0.76
+
+"""
+Factory sales increased in fiscal 2008 compared to fiscal 2007 due to an increase of 28.8% in product shipments to specialty markets and growth in the average number of stores in operation to 324 in fiscal 2008 from 310 in fiscal 2007. Same store pounds purchased in fiscal 2008 were down approximately 9% from fiscal 2007, more than offsetting the increase in the average number of franchised stores in operation and mostly offsetting the increase in specialty market sales. The Company believes the decrease in same store pounds purchased is due primarily to a product mix shift from factory products to products made in the stores and softening in the retail sector of the economy.
+"""
+
+Factory gross margins down to 32.9% from 34.2%
+
+--- 2009 ---
+
+7 company owned 315 franchise owned.
+
+factory sales dropped 2%.  store sales increased 2%
+
+Recession hits.
+
+"""
+Co-branding Strategy
+
+On January 26, 2007 the Company began testing co-branded locations with a variety of strategic partners. Co-branding a location is a potential vehicle to possibly exploit retail environments that would not typically support a stand alone Rocky Mountain Chocolate Factory store. Co-branding can also be used to more efficiently manage rent structure, payroll and other operating costs in environments that have not historically supported stand alone Rocky Mountain Chocolate Factory stores. The Company’s and/or its co-branded partner’s franchisees currently operate twelve (12) locations.
+
+The Company is still in the testing and evaluation stage of its co-branding strategy and believes that if this strategy proves financially viable it could represent a significant future growth opportunity for the Company.
+"""
+
+Breakdown by operating environment: regional centers, tourist areas, outlet centers, street fronts, airports and other entertainment oriented shopping centers.
+
+Apr 2009 co location agreement with Stone Cold Creamery.
+
+rev $28.5M
+inc $3.7M
+eps $0.60
+
+Factory sales dropped from $23.8M to $20.6M
+
+--- 2010 ---
+
+11 company owned, 305 operating franchises
+
+Strategy unchanged.
+
+rev $28.4M
+inc $3.6M
+eps $0.58
+
+"""
+The most important factors in continued growth in the Company’s earnings are ongoing unit growth, increased same store sales and increased same store pounds purchased from the factory. Historically, unit growth has more than offset decreases in same store sales and same store pounds purchased.
+"""
+
+Loss in factory is a result of sales of more in store made product.
+
+------------
+
+Jan 2, 2011
+
+Competitive advantage
+
+ Company Moat
+  Brand: worth little, target customer is walking tourist so I'm not sure how much the brand matters.  I'll check out a franchise today
+  Switching: no comittment.  Anyone can buy chocolate anywhere.  I suppose choosing the right location for the stores provides some protection
+  Cost: the franchise model with 5-10 "laboratory" company stores provides some amount of cost protection.  e.g. POS and various inventory systems can provide cost savings to the whole operation.  I don't think this is significant especially compared with larger chocolate makers.
+  Protected: Name is trademarked.  No patent protections.
+  Other: In store chocolate prep is a significant draw.  Other stores may take time to duplicate this.
+ How likely will moat endure over the next 5 yrs? Store location and ambiance is good for three years.
+
+Competitors
+ For 3 competitors
+  Read current annual report
+  Competitors are large private companies (Godiva, Russell Stover Candies, Sees)
+ What is the biggest risk to the company over the next 5 yrs? Large candy maker duplicates in store chocolate prep.
+ Probability of it happening: ???
+
+Financial Checklist
+ For company and industry
+  5 yr EPS growth. -4.9% 
+  5 yr revenue growth. 1.4%
+  Current net profit margin (earnings/revenue). 12.7%
+  Current ROE (earnings/stockholders_equity). 24.5%
+  % long term debt to equity. 0%
+
+I like the way the CEO runs the business.  Clean balance sheet and healthy dividends.  The growth has been slow but any growth at all will be good news and it's clear that they have plenty of geographic markets to get into.  It's a good company that I want to own a little of.  In order to be a great company it needs clear competitive advantage (perhaps brand growth) and stable five year earnings growth.
+
+Jan 18, 2011
+
+I visited the Seattle stores.  The location selection was perfect: #1 one block from Pikes market, #2 on the corner of 1st and Yestler smack in the middle of Pioneer Square.  Pike store was always busy, Pioneer Square store less so.  Latest earnings report came out with lot's of global stores opening including one in Dubai.  I have a lowball buy order in but decided to buy some more at market.
+
+TRADE buy 815@10.20 commission 9.99 balance 1340
+
+Jan 19, 2011
+
+TRADE buy 165@10.20 commission 9.99 balance 1505
+
+Feb 6, 2011
+
+Need to come up with buy/sell targts.
+
+rev 7,916   	6,626   	7,615   	8,799 
+inc 873   	944   	932   	1,200   
+shares 6,063,508
+price 10.13
+==>
+Income $3.9M
+Revenue $31.0M
+EPS $0.65
+PE 15.6
+MC $61.4M
+Margins 12.8%
+
+The PE is a hair below confectioners average of 15.9  Instead of choosing a buy/sell price based on PE let's choose div/yield.  buy at 6% sell at 2%.  $0.10/share per quarter.  $0.40 per year. Price = Div/Yield
+6% ==>
+BUY $6.67
+2% ==>
+SELL $20.00
+
+Sep 23, 2012
+
+Steve is seeing really good reports from China and thinks the stock could double ini 3 years.
+
+may 2012
+rev 9,658  	 10,133  	 8,280  	 7,576
+inc 1,062  	 1,320  	 725  	 912
+shares 6,013,509
+price 12.35
+div 0.44
+==>
+EPS $0.67
+PE 18.5
+MC $74.3M
+Margins 11.3%
+Yield 3.6%
+Payout Ratio 65.8%
+
+Now that the stock is at 12.35 I feel like I missed the boat.  Maybe wait for a contraction?  Even if I take the last two quarters as normal it still has a PE of 15.6 which has a bit of growth priced in.  Try buy at 5% yield, sell at 2.5%
+
+BUY $8.80
+SELL $17.60
+
+Aug 3, 2014
+
+TD Ameritrade: none
+JHS Trust: none
+JHS IRA: none
+Crowell Weedon IRA: 20,000
+

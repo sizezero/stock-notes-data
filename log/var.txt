@@ -1,0 +1,29 @@
+
+NAME: Varian Medical Systems Inc.
+CID: 0000203527
+
+Jan 2, 2010
+
+Barron's Dec09 value list
+
+Cancer x-ray products and services.
+
+oct09
+rev 641,929  	509,871  	553,591  	508,669
+inc 97,061  	$85,351  	$67,813  	$68,797
+price 46.85
+shares 124,451,760
+==>
+EPS $2.56
+PE 18.3
+MC $5830.6M
+Margins 14.4%
+
+avg eps 2010
+eps 3.02
+price 46.85
+==>
+PE 15.5
+
+Growth seems priced in on this nearly $6B company.
+

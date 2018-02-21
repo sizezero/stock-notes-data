@@ -1,0 +1,136 @@
+
+NAME: Hewlett Packard Enterprise Company
+CID: 0001645590
+
+Dec 15, 2008
+
+mega cap 2008
+
+adjust for company split
+ TRADE buy 26@35.20 balance 26 commission 9.99
+TRADE buy 26@18.4448 balance 26 commission 9.99
+
+Jan 12, 2009
+
+adjust for company split
+ TRADE buy 25@36.58 balance 51 commission 9.99
+TRADE buy 25@19.16792 balance 51 commission 9.99
+
+Mar 2, 2009
+
+adjust for company split
+ TRADE buy 65@28.45 balance 116 commission 9.99
+TRADE buy 65@14.9078 balance 116 commission 9.99
+
+May 8, 2009
+
+adjust for company split
+ TRADE buy 55@36.65 balance 171 commission 9.99
+TRADE buy 55@19.2046 balance 171 commission 9.99
+
+Jul 21, 2009
+
+adjust for company split
+ TRADE buy 51@39.20 balance 222 commission 9.99
+TRADE buy 51@20.5408 balance 222 commission 9.99
+
+Sep 2, 2009
+
+adjust for company split
+ TRADE buy 46@44.06 balance 268 commission 9.99
+TRADE buy 46@23.08744 balance 268 commission 9.99
+
+Nov 11, 2009
+
+adjust for company split
+ TRADE buy 40@49.89 balance 308 commission 9.99
+TRADE buy 40@26.14236 balance 308 commission 9.99
+
+Aug 10, 2010
+
+adjust for company split
+ TRADE buy 70@42.60 balance 378 commission 9.99
+TRADE buy 70@22.3224 balance 378 commission 9.99
+
+Dec 28, 2010
+
+adjust for company split
+ TRADE buy 470@42.30 commission 9.99 balance 848
+TRADE buy 470@22.1652 commission 9.99 balance 848
+
+June 23, 2011
+
+adjust for company split
+ TRADE buy 289@34.60 commission 9.99 balance 1137
+TRADE buy 289@18.1304 commission 9.99 balance 1137
+
+Feb 4, 2017
+
+I've left this on autopilot since the split.  There's a number of documents now so let's see what we got.
+
+=== Oct 31 2016 10K ===
+
+Spin-off happened Nov 1, 2015.
+
+By April 1, 2017 Enterprise Services Business ("Everett") will merge with Computer Sciences Corporation ("CSC"). Shareholders of HPE will own 50.1% of the company.  CEO of CSC will run the new company.  Cash dividend of $4.5B will be returned to HPE. New co will have $2.5B of HPE debt.
+
+By August 31, 2017 Software segment ("Seattle") will merge with Micro Focus to create a pure play enterprise company.  Shareholders of HPE will own 50.1% of the company. Cash dividend of $2.5B.  Still needs to be approved by Micro Focus shareholders.
+
+Five segments (% earnings):
+Enterprise Group: IT infrasrtucture / cloud (12.7%)
+Software (23.4%)
+Enterprise Services (7.7%)
+Financial Services (10.5%)
+Corporate Investment: HP Labs, cloud incubation projects (NM)
+
+8.3% of cross segment earnings.
+
+Many groups under each segment.  Lots of competitors.
+
+Strategies:
+Transform to hybrid infrastructure: both cloud and on premises
+Protect the digital enterprise: risk management, security
+Empower the data-driven organization: open source solutions that let customers own their data
+Enable workplace productivity: variety of customer interfaces, mobile, cloud.
+
+Goodwill reviewed annually.
+
+Skimmed segment info.  This beast looks way too complicated for me even though I'm in tech. I don't fully understand the IT buying patterns of large companies.
+
+===
+
+oct2016
+rev 12,478,000	12,210,000	12,711,000	12,724,000
+inc 302,000	2,272,000	320,000	267,000
+price 23.50
+shares 1,664,817,197
+div 0.24
+==>
+EPS $1.90
+PE 12.4
+MC $39123.2M
+Margins 6.3%
+Yield 1.0%
+Payout Ratio 12.6%
+
+Third quarter income looks totally out of whack.  Not sure if it makes sense to trust the last 12 months earnings.  Replace it with 4th quarter rev/inc and see what we get.
+
+oct2016 revised
+rev 12,478,000	12,478,000	12,711,000	12,724,000
+inc 302,000	302,000	320,000	267,000
+price 23.50
+shares 1,664,817,197
+div 0.24
+==>
+EPS $0.72
+PE 32.8
+Margins 2.4%
+
+This is a pretty complicated holding so I probably shouldn't buy more. I could research the spinoffs a bit more. The spinoffoffs look like temporary earnings that won't last.  Put in a sell order for a PE of 14: $26.60.
+
+Feb 6, 2017
+
+Amazing stupidity.  I entered a buy order instead of a sell order.  Let's ride this out for a year.
+
+TRADE buy 1137@23.25 balance 2274 commission 9.99
+

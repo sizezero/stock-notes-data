@@ -1,0 +1,63 @@
+
+NAME: BSQUARE Corp.
+CID: 0001054721
+
+Mar 1, 2005
+
+Embedded sw company specializing in WinCE and .NET Lost money for 3
+years.  First profitable quarter ended sep04.  Dec quarter made
+miniscule earnings off of reduced revenue.  Company seems to be
+betting that Microsoft will make inroads into mobile devices and
+phones.
+
+< $50M MC
+
+Dec 7, 2005
+
+Increasing revenues but still losing money.
+
+I've found at least 3 contract disputes: landlords, past shareholders,
+and customers.
+
+Oct 5, 1:4 reverse split due to Nasdaq price warning.
+
+Just getting into linux embedded devices.
+
+Discontinued hardware business in mid-2004.
+
+Reduced revenue in 2005 due to losing a large client (Cardinal) to an unnamed
+competitor.
+
+Licencing model changed from large fee / no royalties, to small fee,
+royalties.  This adds an even more incentive to switch to a free
+alternative such as linux.
+
+"We expect service revenue to increase in the near term based
+primarily on the strength of our current backlog and sales pipeline."
+
+The company is heavily dependent on being an OEM reseller of embedded
+windows and the margins of that product.  They have been audited by MS
+in the past and had to pay a fine.  This looks like a risky deal.
+
+Numerous risks are outline in the 10Q: all of which I agree with.
+This is not a good business.
+
+Hmmmm...data sheet pdfs are unreadable in linux.
+
+Aug 8, 2009
+
+2009 small cap search
+
+Doing better.  Marginal profitability the last two years
+
+rev: 16,100 16,677  	17,071  	16,202
+inc: 348 (90)	(534)	1,147  
+shares: 10,191K
+price: 2.59
+==>
+EPS $0.09
+PE 30.3
+MC $26.4M
+
+Still way overpriced.
+

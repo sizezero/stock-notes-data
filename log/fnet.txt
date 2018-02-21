@@ -1,0 +1,47 @@
+
+NAME: FortuNet, Inc
+CID: 0001337899
+
+Apr 22, 2006
+
+Steve asked me to look at this one.
+
+Makes casino gaming machines.  Primary product is electronic bingo: clients, wireless clients, servers, and cashiers.  Kino, slots and poker can also be played on their gaming devices.
+
+Flat revenue for several years.  Recently public.  Blames slightly lower earnings last year on hurricane Katrina (production facilities shut down for several months) and the distraction of the IPO.
+
+dec05 to mar05
+inc 646 506 532 541
+shares 8,350,000
+price 16.90
+==>
+EPS $0.27
+PE 63.4
+MC $141.1M
+
+Home Page
+
+Lots of barely different products.  Why do they need so many?  Perhaps they continue listing their old unsold inventory.
+
+10K )
+
+No info on diluted shares
+
+Nevada has a new Mobile Gaming Law which somehow helps the use the the company's products.
+
+Products are leased to customers based on fixed (session+week) fee plus per use (percentage of revenue).  Customers are several large Casinos in Vegas plus bingo parlors.
+
+Clients/Servers run a mix of Windows/Linux.  Not clear what the mix is.  Clients are capable of auto updating software via wireless.  Terminals have 12 hour battery life.  Product is non-trivial.  Secure memory must comply with Nevada gaming codes.  Wireless transmission must be acceptable in a high RF environment (Casinos).
+
+"...products that are popular in gaming establishments throughout the United States."  Where else besides Nevada? "We believe that electronic bingo is permitted in 27 of the 48 states in the United States in which paper bingo is legal."
+
+It's not clear if "Mobile Gaming" is legal outside Nevada.  "Assuming that other gaming jurisdictions enact laws, regulations and regulatory licensing requirements like those enacted in Nevada..."
+
+There is already competition in the electronic bingo market: Video King (division of BK Entertainment) produces less expensive, fewer feature bingo solution.  Smaller competitors don't seem to have decent products.  IGT and other large companies have expressed an interest in the mobile gaming market.
+
+Paid dividends in 2004 and 2005 but retaining earnings in the future.
+
+758K shares held for options and warrants.  Shouldn't this add to dilution?
+)
+
+The product is interesting but the valuation is crazy.  14M in 2005 rev would have to increase to 40M for the valuation to be in line with the stock price.  It would be interesting to check out the product.  Maybe one of the local tribal casinos uses their product.

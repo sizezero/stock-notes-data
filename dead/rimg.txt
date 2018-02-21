@@ -1,0 +1,78 @@
+
+NAME: Rimage Corp.
+CID: 0000892482
+
+Mar 13, 2006
+
+"magic" screen feb 06
+
+Develops, manufactures and distributes CD / DVD duplicating machines.  Used for duplicating, archiving or just-in-time applications.  On disk color printing.
+
+dec05 to mar05
+inc $2,304 $4,085   	$2,288   	$2,691
+shares 10,467K (diluted)
+price 21.17
+==>
+Income $11.4M
+EPS $1.09
+PE 19.5
+MC $221.6M
+
+From latest earnings release:
+During the coming year, Rimage expects to invest more than $4 million on implementing an enterprise resource planning system, of which approximately $2 million will be capitalized, that will significantly strengthen its ability to manage anticipated growth over the next few years. Implementing this system will have a nominal impact on Rimage's profitability in the first quarter of 2006, but the pace of investment will ramp up in the second quarter.
+
+Watch this for price contraction to 16 or improved earnings.
+
+Apr 17, 2006
+
+NOTIFY date Apr 20, 2006 earnings conference call
+
+Apr 20, 2006
+
+NOTIFY date off
+
+mar06 to jun05
+inc $1,634 2,304 $4,085   	$2,288
+shares 10,467K (diluted)
+price 22.25
+==>
+EPS $0.99
+PE 22.6
+MC $232.9M
+
+Not sure why the stock is up off these earnings.  I really like the products but I'm not sure if the company/management is good.
+
+PE 16 ==> Price $15.84
+NOTIFY price < 16.00 reasonable buy
+
+Jun 7, 2006
+
+Fund manager on Rimage:
+
+Martindale also points to Minneapolis, Minn.-based Rimage Corp.  , which makes tools for publishing, duplicating and printing CDs and DVDs.
+
+"They do that for many businesses that are interested in storing recorded information in a venue that is long-lasting, off the network," Martindale said.
+
+Martindale said he's optimistic about the company's product lineup and strategy.
+
+Rimage is moving into retail, with products aimed at consumers who want to store photos and other information on CDs and DVDs. "They have a strong program going with Wal-Mart and they expect to land other drugstore chains," he said.
+"They're not a fully mature public company," he added about Rimage. "They invest for what they think is the right thing for the company and the future. They're a little less sensitive to the needs of Wall Street, of meeting current expectations. It has created a little bit of volatility around the stock, but nonetheless they have $7 a share in cash and no debt, so they're a very powerful company financially."
+
+Rimage represents about 2% of the fund's assets. Shares of the company lost 29 cents to close at $20.66 on Tuesday. 
+
+Jul 20, 2006
+
+jun06 to sep05 (shares from previous 10Q)
+rev 25,300 22,637  	24,266  	27,962
+inc 3,400 $1,634 2,304 $4,085   	
+shares 10,331K
+price 22.52
+==>
+EPS $1.11
+PE 20.4
+MC $232.7M
+Price $22.52
+Shares 10.3M
+Margins 11.4%
+
+Shares up 20% from 18.50.

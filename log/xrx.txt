@@ -1,0 +1,47 @@
+
+NAME: Xerox Corporation
+CID: 0000108772
+
+March 26, 2017
+
+Barron's had a full page article in their March 5th issue.  Here's the summary
+
+At the end of 2016 activist Icahn spun out a third of the company into a spinoff Conduent (CNDT): computer services from a 2010 acquisition.
+
+New CEO Jeff Jacobson.
+
+Xerox has 22% share in the larger multifunction-printer market which is shrinking at 5% annually.  Networked office printers are the most attractive which gives recurring service and supply revenue.
+
+Cost cutting.
+
+Price up 27% since spinoff.  Claims can double from current $7.29. 3.4% yield. Still looking at falling revenues.  Plan is to start buying back stock by 2018.  Trades at 8.6 times 2017 earnings.  Hoping to trade at 13 to 16 times earnings.  Following the model of the HP breakup which raised the valuation of each piece of the company.
+
+Is in the top 20 patent producing firms.  Lots of researchers.
+
+sep 2016 (first through fourth quarter)
+rev 2,615,000 2,793,000 2,629,000 2,734,000
+inc 34,000 154,000 182,000 847,000
+shares 1,016,583,502
+price 7.19
+div 0.25
+==>
+Income $1217.0M
+Revenue $10771.0M
+EPS $1.20
+PE 6.0
+MC $7309.2M
+Margins 11.3%
+Yield 3.5%
+Payout Ratio 20.9%
+
+Yahoo finance quarterly numbers do not match latest 10K.  10K 100% higher!
+
+50% payout ratio in article is a bit high.  Free cash flow per share dropping.
+
+Sobering beginning of market strategy in 10K:
+"Although the overall market in which we operate is in decline, there are components of the market that are growing at rates from low single digits to double digits. Our strategy is to increase our participation in those areas, which include the following"
+
+Pension obligations.
+
+The 10K numbers in the 10K don't match the article or yahoo.  In either case this is a company and industry in decline.  I don't think it's worth it to get into this.
+

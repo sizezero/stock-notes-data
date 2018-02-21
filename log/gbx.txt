@@ -1,0 +1,25 @@
+NAME: The Greenbrier Companies, Inc.
+CID: 0000923120
+
+Dec 4, 2016
+
+Tobias Carlisle mentioned this on the value investors podcast.  He's most interested because they are indervalued and repurchasing 7% of their strock regularly.
+
+aug16
+rev 595,190	612,866	669,079	802,389
+inc 33,560	35,352	44,868	69,433
+shares 28,363,846
+price 45.70
+div 0.84
+==>
+EPS $6.46
+PE 7.1
+MC $1296.2M
+Margins 6.8%
+Yield 1.8%
+Payout Ratio 13.0%
+
+Low valuation, low payout ratio.  It may be worth taking a low entry point and hoping that it drops.
+
+BUY $30
+

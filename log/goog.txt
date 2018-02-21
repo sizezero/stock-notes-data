@@ -1,0 +1,49 @@
+
+NAME: Google Inc
+CID: 0001288776
+
+Dec 8, 2014
+
+TRADE buy 95@522.12 balance 95 commission 9.99
+
+Jan 9, 2015
+
+TRADE buy 40@495.60 balance 135 commission 9.99
+
+Jan 19, 2015
+
+A shares
+
+A shares	284,816,184
+B shares	54,210,195
+C shares	339,339,275
+	678,365,654
+
+sep14
+rev 16,523,000  	15,955,000  	15,420,000  	20,013,000
+inc 2,813,000  	3,422,000  	3,452,000  	3,376,000
+shares 678,365,654
+price 508.08
+==>
+Income $13063.0M
+Revenue $67911.0M
+EPS $19.26
+PE 26.4
+MC $344664.0M
+Price $508.08
+Shares 678.4M
+Margins 19.2%
+
+$73B in cash
+
+I bought into the recent drop because I believe in the long term viability of google but I am really paying a premium even with the cash discount.  I may be buying a MSFT 2000 and a decade of slow growth and flat stock.
+
+Next 10K should be out in Feb.  Read it.
+
+Jan 31, 2017
+
+Just looking at the value of youtube alone, this looks undervalued.
+
+TRADE buy 37@795.00 balance 172 commission 9.99
+
+

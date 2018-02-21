@@ -1,0 +1,72 @@
+
+NAME: Cohu Inc.
+CID: 0000021535
+
+Mar 27, 2006
+
+Mentioned by Steve.
+
+The main product of the company is semiconductor test equipment.  Secondary (negligable) products are closed circuit television, metal detection, and microwave equipment.
+
+Steve says it's a cyclical business that a friend of his makes money buying and selling every two years.
+2000 to 1996 revenues from 2000 annual report
+289M 208M 171M 187M 159M
+semiconductor only
+250M 175M 136M 152M 126M
+
+2004 to 2000 revenues from 2004 annual report
+176M 138M 134M 126M 289M
+semiconductor only
+145M 111M 104M 95M 250M
+
+combined 2005 to 1996 rev
+238M 176M 138M 134M 126M 289M 208M 171M 187M 159M
+
+Are we still on the upswing of this revenue cycle?  Will the stock contract after the semiconductor business actually slows?
+
+dec05 to mar05
+inc $12,290   	$9,562   	$5,591   	$6,531 
+shares 22,915K (diluted)
+price 21.03
+==>
+Income $34.0M
+EPS $1.48
+PE 14.2
+MC $481.9M
+
+If trailing income has peaked then this seems like a fairly expensive valuation.
+
+Modest dividend yield of 1.2%  The company is pretty healthy with lots of cash.
+
+10K
+
+Few customers: "In 2005, Intel, Advanced Micro Devices and Texas Instruments accounted for 43%, 12%, and 8%, respectively, of our consolidated net sales."
+
+Patents on several processes.  Bought several patents in 2005.
+
+"""
+In the first six months of 2004, our semiconductor equipment business, as well as the semiconductor equipment industry generally, saw significantly improved order bookings and backlog, an indication that the severe three-year industry downturn had possibly ended. Additionally, our operating results improved during the period in part due to improved sales product mix resulting in a higher gross margin. However, our orders declined in the second half of 2004 and business conditions in the semiconductor equipment industry appeared to have weakened. During the year ended December 31, 2005, our semiconductor equipment business saw a significant increase in order bookings that accounted for our order growth, from $46.1 million in the fourth quarter of 2004 to $71.4 million in the fourth quarter of 2005, and our sales in each of the four quarters of 2005 increased from the fourth quarter of 2004. Our operating results also improved during 2005 in part due to continued favorable product mix with our advanced thermal systems accounting for a significant portion of our semiconductor equipment revenue.
+"""
+
+Solid company but cyclical industry, highly competitive test handler industry, few customers, and rapidly changing tech makes this a risky buy and hold.
+
+The other way to play this is as a cyclical but that would require the ability to predict semiconductor cycles.  The above risks could also extend the cycle and ruin this strategy.
+
+Aug 6, 2006
+
+Steve asked about this one again.
+
+jun06 to sep05
+rev 60,461  	58,251  	74,131  	68,610
+inc $4,720  	$3,423  	$12,290  	$9,562
+shares 22,845K
+price 15.05
+==>
+EPS $1.31
+PE 11.5
+MC $343.8M
+Margins 11.5%
+
+"""
+Net income for the second quarter of 2006 benefited from a gain on the sale of our Littleton facility of approximately $3.0 million, offset by $0.7 million of stock compensation expense.
+"""

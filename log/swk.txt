@@ -1,0 +1,68 @@
+
+NAME: Stanley Black & Decker, Inc.
+CID: 0000093556
+
+Mar 10, 2013
+
+Industry: Industrial Goods / Machine Tools & Accessories
+CEO: Nolan D Archibald; typical huge compensation
+Year took office: 1986
+
+=== 2012 10K ===
+
+Three Operating segments:
+Construction & Do-It-Yourself (“CDIY”) rev 50%
+Security rev 25%
+Industrial rev 25%
+
+Competes on brands and product quality.  Short order cycle makes inventory and backlog not an issue. No segment is dependent on patents.  R&D spending is up the last three years: $174.8 million, $139.3 million and $124.5 million.
+
+Huge 5 year sales growth: 10.1B, 9.4B, 7.5B, 3.5B, 4.1B
+
+Strategy
+"""
+* Maintaining portfolio transition momentum by continuing diversification toward higher growth, higher profit businesses, increasing relative weighting of emerging markets and opportunistically consolidating the tool industry;
+* Being selective and operating in markets where brand is meaningful, the value proposition is definable and sustainable through innovation and global cost leadership is achievable;
+* Pursuing growth on multiple fronts through building existing growth platforms such as security (both convergent and mechanical) and engineered fastening and growing the more nascent stage infrastructure and healthcare platforms;
+* Accelerating progress via SFS (Stanley Fulfillment System: continuous efficiency improvements)
+"""
+
+================
+
+Feb Barrons
+SWK
+"""
+supplies home depot and lows
+senior managment's incentives are tied to return on capital
+"""
+
+Competitive advantage
+ Company Moat
+  Brand: tons of good brands
+  Switching: customers tend to stick with known tools
+  Cost: not going for the commodity market
+  Protected: no patents or otherwise
+ How likely will moat endure over the next 5 yrs? Brands should have lasting power.
+
+rev 10,190,500 0 0 0
+inc 883,800 0 0 0
+shares 160,250,620
+price 78.12
+div 1.96
+==>
+EPS $5.52
+PE 14.2
+MC $12518.8M
+Margins 8.7%
+Yield 2.5%
+Payout Ratio 35.5%
+
+I like the simplicity of the business and the whole company seems to be run fairly efficiently. Pretty pricy for a tool maker although the growth looks good and margins are decent.  Buy some if PE drops to 11.
+
+EPS $5.52
+PE 11
+==>
+Price $60.72
+
+BUY $61
+

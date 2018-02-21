@@ -1,0 +1,26 @@
+
+NAME: InterVideo Inc.
+CID: 
+
+Mar 10, 2006
+
+"magic" screen feb 06
+
+Software company that makes WinDVD and other DVD / PVR software.  Significant sales are via OEMs.
+
+growing revenue for years but having income problems
+dec05 to mar05
+inc 215 $2,400   	($4,148) 	$2,669
+shares 15,382K (diluted)
+price 10.45
+==>
+Income $1.1M
+EPS $0.07
+PE 141.5
+MC $160.7M
+
+10Q
+
+I agree with most of the risks enumerated.  IP problems could be serious (MPEG, DVD-CSS)
+
+They're really just milking WinDVD.  There are so many alternatives to this software. (mythtv is one) The company does not appear to have done a good job with turning revenue into income.

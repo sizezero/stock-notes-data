@@ -1,0 +1,88 @@
+
+NAME: Federal Signal Corp.
+CID: 0000277509
+KEYWORDS: feb2016screen
+
+Apr 4, 2016
+
+Feb 2016 stock screen,
+
+Industry: Industrial Goods
+Sector: Pollution & Treatment Controls
+CEO: Dennis J. Martin 65 since Oct 2010; Jennifer Sherman may be new CEO
+
+Annual Reports
+ read 5 yrs ago
+ read current
+
+Look for moat: brand, switching, cost, protected
+Look for CEO consistency
+Identify competitors
+
+=== 2011 10K ===
+
+=== 2016 10K ===
+
+"""
+The Company’s portfolio of products includes sewer cleaners, vacuum trucks, street sweepers, waterblasters, safety and security systems, including technology-based products and solutions for the public safety market. In addition, we sell parts and provide service, repair, equipment rentals and training as part of a comprehensive offering to our customers. Federal Signal Corporation and its subsidiaries operate nine principal manufacturing facilities in four countries around the world and provide products and integrated solutions to customers in all regions of the world.
+"""
+
+Environmental Solutions Group: street sweepers; water blasting
+Safety and Security Systems Group: ??? complex security systems
+Discontinued Fire Rescue Group: N/A
+
+Sweeper brand Elgin is market leader.  Lot's of other brands.  Claims security products are market leaders as well.
+
+Seasonality: first quarter sucks.
+
+Dividend only came back in 2014
+
+Ferociously paying down debt.
+
+"reduced demand for our products in oil and gas markets"
+
+Good share buybacks.
+
+"Historically, 60% or more of our domestic net sales were derived from municipal and other government markets" Looking to break into private markets including oil and gas.  Could provide a catalyst when oil recovers.
+
+Roughly 70% of sales are environmental group.
+
+Pension plans will be fully frozen by 2016.  Estimates for pension payouts are $8.4M in 2016 peaking at $11M in 2020-2025
+
+Good conference call slides.
+
+================
+
+Calc annualized 5 year eps growth: negative EPS 2010-2012 makes this suspect. Corresponds with cut dividend.
+
+Morningstar key ratios:
+2011
+Book Value per Share: 3.56
+2015
+book value per share: 6.42
+cumulative div per share: 0.34
+Calc annualized 5 year book value growth + divy: 13.7%
+
+Compare these numbers to 10 year note (1.9%) and each other.
+
+Great company?  I really like the shareholder focus.  Need to do more research and see what happened a few years ago.
+
+rev 109,800  	205,800  	230,800  	221,600 
+inc 11,500  	18,800  	18,300  	14,900  
+shares 62,427,675
+price 12.92
+div 0.28
+==>
+EPS $1.02
+PE 12.7
+MC $806.6M
+Margins 8.3%
+Dividend $0.28
+Yield 2.2%
+Payout Ratio 27.5%
+
+Need a higher yield and/or lower PE. $9.20 for PE 9.  $8 for a Divy 3.5%. Split the difference.
+
+BUY $8.50
+
+

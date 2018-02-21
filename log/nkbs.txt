@@ -1,0 +1,29 @@
+
+NAME: Newtek Business Services Inc.
+CID: 0001094019
+
+Jul 21, 2006
+
+Found as "great" in value screen jun06
+
+Provides small business services including: loans, payment processing, web hosting, bookkeeping.
+
+It showed up in the value screen due to past earnings but earnings estimates are negative for a couple years although with growing revenue.  
+
+mar06 to jun05
+rev 18,162  	36,799  	20,463  	26,226
+inc ($2,728)	$8,616  	($1,977)	$4,463 
+shares 34,834K
+price 1.44
+==>
+EPS $0.24
+PE 6.0
+MC $50.2M
+Margins 8.2%
+
+No forward statements in the 10Q or other SEC docs.  No explanation for low rev/inc last quarter.  Powerpoint associated with conference call has guidance:
+rev; inc (in millions of dollars)
+Q2 18.9 to 19.7 ; (3.2) to (2.5)
+Q3 23.2 to 24 ; (1.6) to (1.0)
+Q4 29.3 to 30.1 ; 4.7 to 5.3
+slide show also has breakdown by segment.

@@ -1,0 +1,26 @@
+
+NAME: EDGAR Online Inc.
+CID: 0001080224
+
+Aug 5, 2006
+
+I thought I had already looked at this company.  Maybe that was before I had this note system.
+
+Steve likes their gross margins and sees improved revenues in the future.
+
+The company provides data munging of SEC records.  They have a normal subscription (Edgar Access $19.95/month) and a premier subscription (Edgar pro $100/month).  The information I looked at did not seem significantly better than yahoo finance.  They also off IMetrix which allows tabular data to be extracted and compared accross companies.  The company has strategic relationships with several investment firms which helps sell the product.
+
+jun06 to sep05
+rev 3,610 3,918  	3,657  	3,465 
+inc (1,275) ($1,584)	($1,858)	($1,501)
+shares 24,322K
+price 3.98
+==>
+EPS ($0.26)
+MC $96.8M
+
+When I look at their product I just don't see it as being _that_ much better than finance.yahoo.com, the free SEC database, moneycentral.msn.com, and a host of other free sites.  I feel they're charging for features that can be added with some difficulty to any of these other services.  What they're doing is not rocket science.
+
+The cheap version of their product only allows the user to search 25 filings in a month.  On a full day of research I may look at 30+ sec filings from sec.gov.  This makes the cheap version nothing more than a trial toy.
+
+I thought this company made it easier for businesses to file SEC documents but I wasnt't able to find anything from the web site.

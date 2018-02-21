@@ -1,0 +1,53 @@
+
+NAME: Franklin Credit Management Corp.
+CID: 0000831246
+
+Feb 21, 2006
+
+"Good" company from value screen.
+
+Consumer finance company that buys mortgages of 1-4 family homes.
+
+Increasing revenue for a couple years but reduced net income this year.
+sep05 to dec04
+rev 31,679   	31,142   	27,891   	27,673 
+inc $1,843   	$2,109   	$3,071   	$3,314
+shares 7,825,406 (diluted)
+price 7.05
+==>
+Income $10.3M
+EPS $1.32
+PE 5.3
+MC $55.2M
+
+based on last quarters inc ==> EPS $0.94 PE 7.5
+
+sep05 10Q
+
+Net income  totaled $1.8 million for the third quarter of 2005,
+compared with $2.5 million for the third quarter of 2004.  Net income  decreased
+27% in the third quarter of 2005,  compared with the third quarter of 2004.  The
+decrease in 2005 third  quarter  net income was driven  largely by a decrease in
+net interest income,  which principally was the result of the rise in short-term
+interest rates since  mid-2004.
+
+Conference call didn't yield any insights.
+
+Wait for 4th quarter numbers.
+
+Jul 21, 2006
+
+Found as "great" in value screen jun06
+
+mar06 to jun05
+rev 38,663  	30,687  	31,679  	31,142
+inc $1,787  	$846  	$1,843  	$2,109
+shares 8,001,749
+price 6.75
+==>
+EPS $0.82
+PE 8.2
+MC $54.0M
+Margins 5.0%
+
+

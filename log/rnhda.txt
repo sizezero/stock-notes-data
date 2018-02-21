@@ -1,0 +1,33 @@
+
+NAME: Reinhold Industries Inc.
+CID: 0000862255
+
+Feb 21, 2006
+
+"Good" company from value screen.
+
+Creates composite components for the Aerospace industry.  Primarily serves the defense and aircraft industry.
+
+Strange: sep05 earnings are in nov05 10Q but they are still not in yahoo.
+
+Falling rev/inc for two years.  Last two quarters were very good.
+sep05 to dec04
+rev $8,297 21,561   	18,977   	15,751   
+inc 723 $1,738   	$1,695   	$416   	
+shares 3,292K (diluted)
+price 8.92
+==>
+Income $4.6M
+EPS $1.39
+PE 6.4
+MC $29.4M
+
+last quarter ==> EPS $0.88 PE 10.2
+
+Last quarter had (451) loss from continuing ops.   Discontinued ops moved them into profitiability.
+
+The company has paid huge dividends ($2 per share, 22%) the last couple years including a special one time dividend of $11.75 per share in 2004.  With their present structure I don't see how they can maintain earnings that will allow them continue these dividends but this conservative mind set could be profitable for shareholders.
+
+No analysts.  No conference calls.
+
+This company is very cheap.  This is worth looking into a little further.

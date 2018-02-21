@@ -1,0 +1,25 @@
+
+NAME: Joystar Inc.
+CID: 0001085661
+
+Nov 7, 2005
+
+Showing at Westergaard conference.
+
+A travel company that loses money.  It doesn't sound good but growing
+revenues and an infinitesimal market cap ($7.2M) means if there are
+any earnings at all in the future this could be a good play.
+
+May 3, 2006
+
+dec05 to mar05
+rev 1,473   	282   	138   	50
+inc ($1,408) 	($999) 	($813) 	($666)
+shares 27,579,406
+price 1.09
+==>
+EPS ($0.14)
+PE N/A
+MC $30.1M
+
+Good sales numbers released for Q1 but no revenue or income numbers.  Market cap inflation is half due to price increase half due to increased dilution.

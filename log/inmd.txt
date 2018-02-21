@@ -1,0 +1,39 @@
+
+NAME: Integramed America Inc.
+CID: 0000885988
+
+Nov 7, 2005
+
+Showing at Westergaard conference.
+
+Fertility seems like a huge potential market.  The company is making
+money but the stock seems a bit inflated.  What do they expect the
+next couple quarters to look like?
+
+May 1, 2006
+
+inc $464   	$478   	$467   	$314
+shares 5,003K
+price 11.58
+==>
+EPS $0.34
+PE 33.6
+MC $57.9M
+
+Miniscule but consistent income. "the largest fertility-services company in the United States"
+	
+NOTIFY date May 3, 2006 earnings conference call
+
+May 3, 2006
+
+NOTIFY date off
+
+inc 476 $464   	$478   	$467
+shares 5,003K
+price 11.95
+==>
+EPS $0.38
+PE 31.7
+MC $59.8M
+
+Past growth does not warrant this multiple.

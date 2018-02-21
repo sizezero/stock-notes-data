@@ -1,0 +1,38 @@
+
+NAME: PICO Holdings Inc.
+CID: 0000830122
+
+Oct 18, 1997
+
+TRADE buy 2000@6.1 balance 2000 commission 5.00
+
+Oct 29, 1997
+
+TRADE buy 2000@5.31 balance 4000 commission 165.0
+
+Jan 23, 2005
+
+stuff about pico
+
+Mar 2, 2005
+
+another normal line
+
+Apr 12, 2005
+
+reverse split happened some time ago
+TRADE split 1:5 balance 800
+
+sold all
+TRADE sell 800@25.35 balance 0 commission 205.85
+
+Mar 31, 2006
+
+touch
+
+No reason to own a holding company with a 26 PE
+
+March 11, 2017
+
+Losing money for 8 years. No reason to look at this.
+

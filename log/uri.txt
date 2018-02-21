@@ -1,0 +1,23 @@
+
+NAME: United Rentals, Inc.
+CID: 0001067701
+
+Aug 9, 2015
+
+Barron's article talking about the latest drop in price is due to overblown fears of their exposure to the oil industry.  Truth is that only 11% comes from that sector.
+
+jun15
+rev 1,429,000  	1,315,000  	1,564,000  	1,544,000 
+inc 86,000  	115,000  	194,000  	192,000 
+shares 95,369,973
+price 63.81
+==>
+EPS $6.15
+PE 10.4
+MC $6085.6M
+Price $63.81
+Shares 95.4M
+Margins 10.0%
+
+I can't see buying an industrial without a dividend. There's got to be some good competition in this market.
+

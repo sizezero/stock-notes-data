@@ -1,0 +1,30 @@
+
+NAME: Aehr Test Systems
+CID: 0001040470
+
+Aug 6, 2006
+
+Designs and sells burn-in test equipment for the semiconductor industry.  Specifically RAM, Flash and other simple logic circuits.  Compare with COHU.
+
+feb06 to may05
+rev 7,019 6,318  	5,817  	4,646
+inc 528 $360  	$166  	($244)
+shares 7,859K
+price 7.40
+==>
+EPS $0.10
+PE 71.8
+MC $58.2M
+Margins 3.4%
+
+Based on last quarter
+==>
+Income $2.1M
+Revenue $28.1M
+EPS $0.27
+PE 27.5
+Margins 7.5%
+
+There's very little product information on the web site.  Five largest customers account for 70% of sales.  There seems to be huge, fragmented competition in this market.
+
+Stock contracted a bit but still is way too high for this stock market.

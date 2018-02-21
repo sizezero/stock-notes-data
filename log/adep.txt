@@ -1,0 +1,27 @@
+
+NAME: Adept Technology Inc.
+CID: 0000865415
+
+Mar 27, 2006
+
+Mentioned by Steve.
+
+Creates vision controlled robots (arms) that are used in various manufacturing processes.
+
+inc ($10) 	$160   	$903   	$291
+shares 6,178K (diluted)
+price 9.80
+==>
+EPS $0.22
+PE 45.0
+MC $60.5M
+
+10Q
+
+Robots are using by a variety of clients: "electronics/communications, automotive, industrial appliance, food and pharmaceuticals, semiconductor, original equipment manufacturer, or OEM, and life sciences industries"
+
+Hopes to license software for higher margin sales.
+
+Seems to be burning through cash: "Cash and cash equivalents decreased $2.4 million from June 30, 2005 to $2.9 million."
+
+Seems like a pretty speculative stock.  They'll need cash and it's not clear what kind of profitability we'll ever see.  I'd be more comfortable to wait until they figured out how to generate regular income.

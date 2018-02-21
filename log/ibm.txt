@@ -1,0 +1,147 @@
+
+NAME: International Business Machines
+CID: 0000051143
+KEYWORDS: megacap2008 not_great
+
+Dec 15, 2008
+
+mega cap 2008
+
+TRADE buy 7@82.13 balance 7 commission 9.99
+
+Jan 12, 2009
+
+TRADE buy 7@85.30 balance 14 commission 9.99
+
+Mar 2, 2009
+
+TRADE buy 14@90.37 balance 28 commission 9.99
+
+May 8, 2009
+
+TRADE buy 13@106.20 balance 41 commission 9.99
+
+Jul 22, 2009
+
+TRADE buy 12@114.09 balance 53 commission 9.99
+
+Sep 2, 2009
+
+TRADE buy 11@116.76 balance 64 commission 9.99
+
+Nov 11, 2009
+
+TRADE buy 11@127.04 balance 75 commission 9.99
+
+Nov 29, 2009
+
+inc 3,214,000  	3,103,000  	2,295,000  	4,427,000 
+shares 1,313,602,936
+price 125.70
+==>
+EPS $9.93
+PE 12.7
+MC $165119.9M
+
+Doesn't look particularly cheap.  Growth estimate is modest.  Hold.
+
+Jan 3, 2010
+
+Dec Barron's article talks about the earnings growth potential that can be had in spite of declining revenues due to moving into more profitable businesses (from hardware to server)  Could be worth a modest buy.
+
+Jan 10, 2010
+
+Steve is worried about growing profits with declining revenue.  Even if they do well, the multiple could contract.
+
+2010 megacap
+rank 0
+
+Jun 6, 2010
+
+rev 22,857,000    	  27,230,000    	  23,566,000    23,251,000  
+inc $2,601,000    	  $4,813,000    	  $3,214,000    $3,103,000
+shares 1,282,347,653
+price 125.28
+==>
+EPS $10.71
+PE 11.7
+MC $160652.5M
+Margins 14.2%
+
+Still worth hanging onto.
+
+Dec 12, 2010
+
+gsvi checklist
+
+Sector: Technology
+Industry: Diversified Computer Systems
+CEO: Samuel J. Palmisano $6.55M pay.  Officer since 1997. CEO since at least 2005.
+
+2005 10-K
+
+"""
+IBM is the largest information technology company in the world, the world's largest business and technology services company, the world's largest consulting services organization, the world's largest information technology research organization, and the world's largest financier of information technology. 
+"""
+
+Three busines segments: Systems and Financing, Software, Services
+
+Systems and Finances: hardware (servers, chips, storage, printing, POS), financing.
+
+Software: DB2, Lotus, Rational, Tivoli, Websphere
+
+Services: 11 categories.
+
+10-K chopped up into separate exhibits.
+HDD business sold to Hitachi.
+Aready increasing income off of decreasing revenue. Global Services over half of revenue.  Lowest margin (25%) as apposed to software (87%) still total obscene gross profit margin of 40%.  Talk of open standards required for efficient systems.  The company is in too many things to analyze.
+
+2006 10-K
+
+The company divested its Personal Computing business on April 30, 2005.  Selling laptops to Lenovo is a brilliant move after seeing the dawn of the tablet.
+
+2007 10-K
+
+PC era has ended.  Basic strategy has not changed for the past two years.
+
+"""
+The consolidated gross profit margin increased 0.4 points versus 2006 to 42.2 percent. An improvement in the Systems and Technology margin (2.0 points) contributed 0.5 points to the overall margin improvement. This increase was primarily driven by higher margins in System z, System p and System x servers. The Software margin was flat at 85.2 percent, but contributed 0.2 points to the overall margin improvement due to the mix of revenue by segment. The Global Technology Services and Global Business Services margins increased 0.1 points and 0.4 points to 29.9 percent and 23.5 percent, respectively, versus the prior year. Although gross profit margins improved for Global Services, the increased Global Services revenue content contributed to a 0.2 point decline in the consolidated gross margin due to the mix impact. The Global Financing margin declined 3.5 points versus 2006 to 46.7 percent, causing a 0.1 point decline in the overall company margin.
+"""
+
+Still crazy gross margins of 42.2%
+
+2008 10-K
+
+"Focus on Open Technologies and High-Value Solutions" has moved to the top of their business strategy.
+
+2009 10-K
+
+Strategy now: Smarter Planet and Industry Frameworks, Growth Martkets (focus on specific vertical markets), Business Analytics and Optimization, Cloud Computing.
+
+Declinine revenue.  Gross margins 45%
+
+Competitive advantage
+ Company Moat
+  Brand: used to be huge, not sure now
+  Switching: certainly a custom software solution give a huge disinsentive to switch vendors
+  Cost: I have no idea whether IBM has lower costs than competitors
+  Protected: IBM has some technologies but as stated they are relying on open standards for efficiency.
+  Other: proven ability to divest itself of low margin operations
+ How likely will moat endure over the next 5 yrs?  There's really not much of a moat.  Switching is there but that is hardly recurring revenue.  New business must always be drummed up.
+
+Competitors.  Can't find any specifics in the 10-K.  Yahoo lists ACN, HPQ and  MSFT.  I guess I'll be looking into at least two of those.  Biggest risk for IBM over the next 5 years?  Flat revenues and stagnant or declining margins.  That seems inevitable for a company of that size.  They also have to push into the custom sw solution space (verticle) which is always being attacked in some form or another by the horizontal space.
+
+Financial Checklist
+ For company and industry
+  5 yr EPS growth. 4.97-10.12 (100%) vs. ???
+  5 yr revenue growth.  94M-95M (none!) vs ???
+  Current net profit margin 14% vs. 8.7%
+  Current ROE. 70.82% vs 28.5%
+  % long term debt to equity. 123.46 vs. 100.8
+
+Summary: not a great company due to the lack of any real competitive advantage and flat revenue prospects.  It's certainly possible that the great management and margin growth will push the PE up from current 13 to 16 or so but don't count on it.  Dividend yield of 1.8% is too low too sit on for a while.  Also business is _very_ complicated although with a bit of work I could keep up with it.  Sell.
+
+Dec 13, 2010
+
+TRADE sell 75@144.66 commission 10.27 balance 0
+

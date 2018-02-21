@@ -1,0 +1,31 @@
+
+NAME: Chaparral Resources Inc.
+CID: 0000019252
+
+Mar 12, 2006
+
+"magic" screen feb 06
+
+Explores and produces oil and gas out of the Karakuduk Field in Kazakhstan.  Dec04 had reserves of 40M barrels.
+
+rising rev and inc.  Huge sep05 rev.
+sep05 to dec04
+inc 13,315   	6,603   	3,834   	3,029
+shares 40,475,014
+price 5.30
+==>
+Income $26.8M
+EPS $0.66
+PE 8.0
+MC $214.5M
+
+Goverment suspended drilling activities for new in dec05.  The company is continuing with production but unless they can renew the contract, this will affect future production.  CEO is not too pesimistic: "he temporary suspension of drilling activities will permit KKM to conduct a detailed analysis of the geological data from its recently drilled wells and will also enable KKM's ongoing facilities development program to keep pace with current and future productive capacity."
+
+Forbes article had positive things to say:
+"""
+Many of the things we found attractive about PetroKazakjstan we also see in Chaparral. Like PetroKazakjstan, Chaparral’s oil reserves in Kazakhstan are desirable because they are outside of the volatile Middle East and close to pipelines that can carry the crude to Russia, China or India.
+"""
+
+Mar 13, 2006
+
+Acquired by Lukoil for $5.80 a share.  Game over.

@@ -1,0 +1,80 @@
+
+NAME: Graham Corporation
+CID: 0000716314
+KEYWORDS: feb2016screen
+
+Apr 9, 2016
+
+Feb 2016 stock screen,
+
+Industry: Industrial Goods
+Sector: Metal Fabrication
+CEO: James R. Lines
+Year took office: 2008; at company since 1984
+
+Look for moat: brand, switching, cost, protected
+Look for CEO consistency
+Identify competitors
+
+=== 2010 10K ===
+
+=== 2015 10K ===
+
+"""
+global business that designs, manufactures and sells critical equipment for the energy, defense and chemical/petrochemical industries. Energy markets include oil refining, cogeneration, nuclear and alternative power. For the defense industry, our equipment is used in nuclear propulsion power systems for the U.S. Navy. Graham’s global brand is built upon our world-renowned engineering expertise in vacuum and heat transfer technology, responsive and flexible service and unsurpassed quality. We design and manufacture custom-engineered ejectors, vacuum pumping systems, surface condensers and vacuum systems. We are also a leading nuclear code accredited fabrication and specialty machining company. We supply components used inside reactor vessels and outside containment vessels of nuclear power facilities. Our equipment can also be found in other diverse applications such as metal refining, pulp and paper processing, water heating, refrigeration, desalination, food processing, pharmaceutical, heating, ventilating and air conditioning.
+"""
+
+Claims to have a good brand and reputation. Lists all competitors in different segments. Cyclical earnings.
+
+"""
+The recent precipitous reduction in global cost for crude oil has caused a significant slowdown in investment by our oil refining and chemical industry customers, especially compared to 12 to 18 months earlier. These markets appear to be in a contraction due to the rapid change in the cost of crude oil. The timing of the recovery is uncertain and will depend upon the future price of crude oil which is currently depressed. Within the nuclear utility market, demand is affected by investment in maintenance, repair, life extension and nuclear regulatory mandated investment along with global investment in new capacity. We continue to view this market as providing steady growth.
+"""
+
+"""
+In reaction to the slowdown in the energy markets, in the fourth quarter of fiscal 2015 we implemented a cost reduction program that included a voluntary early retirement program as well as additional headcount reductions. The impact of this restructuring program was to reduce our headcount by 10% and eliminate $3,000 in annual costs. The cost reductions will be fully implemented by the second quarter of fiscal 2016.
+"""
+
+"""
+The Company has one reporting segment as its operating segments meet the requirement for aggregation. The Company and its operating subsidiaries design and manufacture heat transfer and vacuum equipment for the chemical, petrochemical, refining and electric power generating markets. Energy Steel supplies components and raw materials for the nuclear power generating market. Heat transfer equipment includes surface condensers, Heliflows, water heaters and various types of heat exchangers. Vacuum equipment includes steam jet ejector vacuum systems and liquid ring vacuum pumps. These products are sold individually or combined into package systems. The Company also services and sells spare parts for its equipment.
+"""
+
+Heat transfer equipment: $58, 43%
+Vacuum equipment: $29, 21%
+other: $48, 36%
+
+================
+
+2008 eps 1.52
+2010 eps 0.64
+2015 eps 1.46
+Calc annualized 5 year eps growth (does not count 2008): 17.9%
+Dip in 2009, 2010 could be due to financial crisis (large orders lag).  Currently company is warning about oil crisis which may cause a couple years of bad earnings and offer a buying oportunity.
+
+Morningstar key ratios:
+2010
+Book Value per Share: 7.01
+2015
+book value per share: 11.47
+cumulative div per share: 0.66
+Calc annualized 5 year book value growth + divy: 11.6%
+
+Compare these numbers to 10 year note (1.9%) and each other.
+
+Dividend has grown a huge amount in the last few years.
+
+rev 17,323  	22,798  	27,617  	37,455 
+inc 1,274  	1,976  	2,361  	4,165  
+shares 10,138,983 
+price 18.49
+div 0.36
+==>
+EPS $0.96
+PE 19.2
+MC $187.5M
+Margins 9.3%
+Yield 1.9%
+Payout Ratio 37.3%
+
+Payout ratio seems really bad.  I don't think this is a great company.
+
+

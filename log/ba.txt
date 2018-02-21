@@ -1,0 +1,70 @@
+
+NAME: Boeing Co.
+CID: 0000012927
+KEYWORDS: megacap2008
+
+Dec 15, 2008
+
+Rated zero in the latest megacap screen.  Too few customers to be seen as a reliable large company.
+
+Nov 15, 2009
+
+sep quarter had crazy $3.5B R&D charge that is usually $0.9B  This was due to the realization that 3 787 test aircraft could not be sold.
+
+inc (1,564,000)	998,000  	610,000  	(86,000)
+shares  726,599,064
+price 50.68
+==>
+Income ($42.0M)
+EPS ($0.06)
+PE N/A
+MC $36824.0M
+
+At current price/shares need quarterly income of $605M for a 15 PE.  Averaged $1B in 2007.
+
+Still seems like a bad bet.  The stock is almost valued at the company's peak in 2007.
+
+Jul 15, 2010
+
+Barrons had a flatering article talking about their two latest planes.  These products combined with pent-up demand, could give them solid sales for a decade.  It's worth looking at.
+
+Industry
+CEO W. James McNerney Jr.  At Boeing since 2005.  Previously at GE, Proctor and Gambel and 3M
+Year took office 2005
+
+I don't like the fact that the CEO has jumped around a bunch of big companies.  Only going to read the latest annual report.
+
+Annual Reports
+ read current
+ read 3 yrs ago
+ read 5 yrs ago
+
+=== 2012 10K ===
+
+Very poor 10K.  Not a lot of discussion of strategy and metrics.
+
+================
+
+Competitive advantage
+ Company Moat
+  Brand good
+  Switching difficult
+  Cost NA
+  Protected duopoly with Airbus
+ How likely will moat endure over the next 5 yrs? This is a strong moat that may last as long as the world needs airplanes
+
+dec11
+rev 19,555,000  	 17,727,000  	 16,543,000  	 14,910,000 
+inc 1,393,000  	 1,098,000  	 941,000  	 586,000  
+shares 749,049,454
+price 73.51
+div 1.76
+==>
+EPS $5.36
+PE 13.7
+MC $55062.6M
+Margins 5.8%
+Yield 2.4%
+Payout Ratio 32.8%
+
+The company doesn't seem to be particularly transparent and is certainly not cheap.  I can't see owning this.

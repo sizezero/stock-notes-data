@@ -1,0 +1,28 @@
+
+NAME: ICOP DIGITAL INC
+CID: 0001094572
+
+Nov 7, 2005
+
+Showing at Westergaard conference.
+
+Interesting product.  Very low executive salaries.  When do they
+expect to make money?  Earnings announced on Thursday.
+
+May 1, 2006
+
+NOTIFY date May 11, 2006 earnings announced
+
+May 11, 2006
+
+NOTIFY date off
+mar06 to jun05
+rev 802 531   	902   	327   	
+inc (802) ($1,217) 	($499) 	($700)
+shares 5,485,528
+price 5.62
+==>
+EPS ($0.59)
+MC $30.8M
+
+Police sales going well, now expanding into school surveylance.  Still losing too much money for my tastes.

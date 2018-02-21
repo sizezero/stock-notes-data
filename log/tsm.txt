@@ -1,0 +1,71 @@
+
+NAME: Taiwan Semiconductor
+CID: 0001046179
+KEYWORDS: megacap2008 maybe_great
+
+Dec 15, 2008
+
+mega cap 2008
+
+TRADE buy 80@7.55 balance 80 commission 9.99
+
+Jan 12, 2009
+
+TRADE buy 81@7.58 balance 161 commission 9.99
+
+Mar 2, 2009
+
+TRADE buy 160@7.60 balance 321 commission 9.99
+
+May 8, 2009
+
+TRADE buy 122@11.00 balance 443 commission 9.99
+
+Jul 21, 2009
+
+TRADE buy 137@9.75 balance 580 commission 9.99
+
+Aug 14,2009
+
+some kind of stock dividend.  I can't track this down.  Assuming buy price of $0.00 ?  This blows up the program so setting it at $0.01 instead.
+
+TRADE buy 2@0.01 balance 582 commission 0.00
+
+Sep 2, 2009
+
+TRADE buy 126@10.58 balance 708 commission 9.99
+
+Nov 11, 2009
+
+TRADE buy 134@10.3899 balance 842 commission 9.99
+
+Nov 29, 2009
+
+No info on yahoo.  Had to get it from the foreign 6K.  Info in Taiwan dollars.  Etrade has some good info.  Rocky earnings history.  Sell as the gains become long term.
+
+Mar 13, 2010
+
+Still not much visibility.
+
+Oct 23, 2010
+
+Maybe annual visibility is good enough for this company.  With a yield at 3.6% do I really want to sell?  I think I should add this to dollar cost buying next year until the yield drops below 2%
+
+Jan 8, 2012
+
+Still hard to get a handle on the finances.  Dividend seems to be the best way to value this.  Current annual dividend is $0.41 per share.  Sell: 2.5% yield $16.40 price/share; buy 5% $8.20 price/share.
+
+BUY $8.20
+SELL $16.40
+
+Nov 12, 2012
+
+TRADE sell 842@16.49 balance 0 commission 10.31
+
+Mar 22, 2015
+
+No longer interested in the company.
+
+BUY None
+SELL None
+

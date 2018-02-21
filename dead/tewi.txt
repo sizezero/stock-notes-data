@@ -1,0 +1,48 @@
+
+NAME: Titan Energy Worldwide, Inc.
+CID: 0001080398
+KEYWORDS: maybe_great
+
+Apr 17, 2010
+
+dec09
+rev 3,529  	3,334  	2,075  	1,689
+inc ($676)	($1,566)	($313)	($337)
+shares 20,506,097
+price 0.75
+==>
+Income ($2.9M)
+Revenue $10.6M
+EPS ($0.14)
+MC $15.4M
+
+11 States; 1000 Customers.  Some growth is via acquisitions.
+
+Strategy has several components:
+1) expand power generation sales in existing territories
+2) expand to other territories (western us)
+3) expand power maintenance
+4) expand renewable energy business
+5) expand energy efficiency programs
+6) expand demand response (like ecng.ob)
+7) increase sales of energy measurment/management solutions
+8) capitalize on new energy legislation
+
+This is a lot of stuff but it gives them a shotgun approach to focus on whatever is profitable.
+
+Apr 23, 2010
+
+FY 2010 expect rev 17M-25M.  Steve expects 20M to 22M.  2011 expect rev 40M-45M.  Steve's trying to buy some.  I should buy $10K.  Steve thinks they should be profitable the second half of the year.
+
+Apr 26, 2010
+
+TRADE buy 15384@0.65 commission 11.99 balance 15384
+
+Oct 23, 2010
+
+Awaiting profitability.  Cheerleading letter to shareholders in Sep didn't do much for my confidence.
+
+Feb 19, 2015
+
+TRADE sell 15384@0.0007 commission 0.0 balance 0
+

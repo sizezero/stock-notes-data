@@ -1,0 +1,137 @@
+
+NAME: ABB LTD SPONSORED ADR
+CID: 0001091587
+KEYWORDS: megacap2008 not_great
+
+Dec 15, 2008
+
+mega cap 2008
+
+TRADE buy 67@13.20 balance 67 commission 9.99
+
+Jan 12, 2009
+
+TRADE buy 67@13.76 balance 134 commission 9.99
+
+Mar 2, 2009
+
+TRADE buy 165@11.215 balance 299 commission 9.99
+
+May 8, 2009
+
+TRADE buy 128@15.688 balance 427 commission 9.99
+
+Jul 21, 2009
+
+TRADE buy 124@16.997 balance 551 commission 9.99
+
+Sep 02, 2009
+
+TRADE buy 109@18.45 balance 660 commission 9.99
+
+Nov 12, 2009
+
+TRADE buy 102@19.70 balance 762 commission 9.99
+
+Nov 29, 2009
+
+Another foreign company with difficult to translate earnings.  Sell as the shares become long term.
+
+Mar 13, 2010
+
+The international exposure isn't bad.  Keep through 2010.
+
+Jun 6, 2010
+
+Still no easy transparency.
+
+Dec 5, 2010
+
+gsvi great company checklist
+
+CEO Joseph M Hogan.  With GE from 1985 to 2008.  Last eight years as president of healthcare unit.  ABB CEO sep 2008.  Salary+bonuses $3M.  Total compensation $6M.  No stock options.
+
+Industry: Industrial Electrical Equipment
+
+20-F 2004
+Flat $20B rev from 2000-2004
+Small loss for all years excep 2000.  No dividends in bad years.
+Risk of asbestos claims are prominent.
+Principal competitors in various businesses: Emerson Electric Co., Honeywell International, Inc., Invensys plc, Schneider Electric S.A., Siemens AG., Bechtel Group, Inc., UOP LLC, Fluor Corporation, Halliburton Company, Technip-Coflexip S.A.
+
+Two divisions: Power Technologies and Automation Technologies (roughly half revenues from each).
+
+Power Tech business areas range 15%-25% in rev: Transformers, Power Systems, Medium-Voltage products, High-Voltage Products, Utility Automation Systems.  "principal customers are electric, gas and water utilities, owners and operators of power transmission systems, utilities that own or operate networks and owners and operators of power generating plants"  Sales are global.
+
+Sectors for automation: process automation (continuous production e.g. oil, gas, electricity, paper), factory automation (robot cells that paint, pack, weld, etc), building automation (control climate, lighting etc)  Division handles all sectors.  3 Business areas: Automation Products, Process Automation, Manufacturing Automation.  Europe is 60% of the automation market.
+
+Non-core areas include: oil/gas, buildings systems, new ventures.
+
+Raw materials for all business is: steel, copper, aluminum, mineral oil and various plastics.  Risk is reduced with hedging.
+
+3% of rev goes into R+D. 7K patentents.  7K pending.
+
+goals of 2005: improve operational performance (earnings before interest and taxes margins 10.7% for automation division) lower corporate costs, align behavior to rules, resolve asbestos.  EBIT margins are the key performance measurement.
+
+Fred Kindle appointed CEO 2005.  Management incentive based on Warrents (stock price)  100K total employees.
+
+20-F 2005
+
+rev $20B->$22B; EBITA $1B->$1.7B; income positive.
+
+Still two divisions.  Power Technologies is now broken into two businesses: Products and Systems.  Automation technology still has three businesses.
+
+Very good discussion of last year's goals.  EBIT improved but I don't think they reached their goals.  I don't think they are clear on this.  Still have compliance and asbestos problems.  Vague goals going into the future.
+
+20-F 2006
+
+rev $22B->$24B; EBITA $1.7B->$2.6B; doubling dividend
+
+New five division structure: Power Products, Power Systems, Automation Products, Process Automation, Robotics.  Competitors get more varied now that there's a robotics division.
+
+They talk about their goals for 2006 (strategy, execution, people) _after_ 2006 is over.  Vague growth discussion for next year.  Still mentioning asbestos.
+
+20-F 2007
+
+rev $23B->$29B; EBITA $2.6B->$4.0B; doubling dividend again
+
+Still 5 divisions. %  Robotics shrinking.  Power Products growing.
+
+Still talking about privatization of energy industry.  Claims US energy policy act will drive replacement of infrastructure.
+
+Using eBusiness to improve efficiency of raw material purchasing.
+
+Still talking about goals in the past tense.  Still vague.
+
+20-F 2008
+
+rev $29B->$35B; EBITA $4.0B->$4.5B; flat dividends
+
+EBIT margins rising for all divisions except Robotics!  2006-2008
+
+same goals; commitment to reduce costs during the economic downturn.
+
+"divisional analysis" is an informative breakdown and each section has clear fiscal outlook.  ABB gains from energy efficiency legislation.
+
+Joe Hogan became CEO with crazy $3M signing bonus plus other perks.
+
+20-F 2009
+
+rev $34B->$31B; EBITA $4.5B->$4.1B; slight dividend increase
+
+another restructuring.  Old divisions: Power Products, Power Systems, Automation Products, Process Automation, Robotics.
+
+"""
+ Under the realignment, the business units from the Automation Products and Robotics divisions were regrouped into two new divisions—Discrete Automation and Motion, and Low Voltage Products. The Process Automation division remained unchanged except for the addition of the instrumentation business from the Automation Products division. 
+"""
+
+Up to 18K patents+pending.
+
+All EBITA margins reduced significantly. Core 14.4%->11.6%
+
+I'd like to keep going through this checklist but I can't seem to get over the crazy compensation of the CEO and his lack of exp with this company.  It might still be useful to read the 10K of competitors Honeywell, etc.
+
+Dec 13, 2010
+
+TRADE sell 762@21.1332 commission 10.27 balance 0
+

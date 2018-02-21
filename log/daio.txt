@@ -1,0 +1,56 @@
+
+NAME: Data I/O Corp
+CID: 0000351998
+
+Mar 1, 2005
+
+Sells micro-programming systems (flash).  Need to ask Martin for
+details.  Customers are a few large companies: Motorola, Nokia and
+Siemens.  Not making money yet, only $6m in the bank.
+
+< $50M MC
+
+Apr 25, 2005
+
+Reading msg boards indicates that people are trading this stock by
+trying to determine the market for programmable nand gates.  It makes
+it seem like trading commodities in an extrememely technical market.
+
+Apr 12, 2006
+
+dec05 to mar05
+inc $363   	$127   	$53   	$39 
+shares 8,532K
+price 4.56
+==>
+EPS $0.07
+PE 66.8
+MC $38.9M
+
+last quarter ==> EPS $0.17 PE 26.8
+
+In spite of growth there's still a huge earnings expectation.
+
+Aug 1, 2010
+
+jun10
+rev 6,592 6,252    	  4,956    	  5,317
+inc 859 709    	  5    	  331
+price 4.95
+shares 9,119000
+==>
+EPS $0.21
+PE 23.7
+MC $45.1M
+Margins 8.2%
+
+last two quarters
+==>
+EPS $0.34
+PE 14.4
+MC $45.1M
+Price $4.95
+Margins 12.2%
+
+Not sure if the latest revenue bumps are anything more than cyclical.  Largest product is automotive programming system.  Website looks aweful.
+

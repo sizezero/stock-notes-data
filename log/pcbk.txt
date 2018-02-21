@@ -1,0 +1,106 @@
+
+NAME: Pacific Continental Corp.
+CID: 0001084717
+
+Mar 1, 2005
+
+$100 to $500 MC
+
+Holding corporation for Pacific Continental Bank.  Another bank
+holding company.  Pays dividends.
+
+Voted best company to work for in Oregon
+Dividend up to 0.07 from 0.06 per quarter
+Presents and various investor conferences :(
+Based in Eugene; southern Or economy
+100 best companies to work for in oregon: 2005: #28, 
+Commercial only bank
+7 branches near Eugene; 3 in Portland
+Strictly increasing revenue and earnings
+
+Jan 2, 2006
+
+10Q
+
+Bought NWBF which has a branch in Seattle and Bellevue.  Now 12 branches from Eugene to Seattle.
+
+sep05 to dec04
+rev 10,840  	10,523  	9,657  	9,336 
+inc 2,470  	2,305  	2,050  	2,219
+shares 8.8M (actual) 9M (diluted)
+trailing eps (diluted) 1.00
+PE @ 15.89 = 15.89
+
+PE is a little higher than the other banks I own (TSBK,FMSB,CASB: 12 to 14)
+The growth potential in being able to expand from Eugene to Seattle seems like it might be worth it.
+
+Jan 9, 2006
+
+TRADE buy 500@15.6 commission 7.95 balance 500
+
+Jan 24, 2006
+
+earnings report
+
+starting dec05
+inc $2,754 2,470  	2,305  	2,050
+shares 9,591,642 (diluted)
+price 16.50
+==>
+Income $9.6M
+EPS $1.00
+PE 16.5
+MC $158.3M
+
+Dilution seems to be causing flat eps.
+
+Apr 19, 2006
+
+New earnings announced today.  Need to check for dilution.
+
+inc 2,900 $2,754 2,470  	2,305
+shares 9,591,642 (diluted)
+price 16.85
+==>
+Income $10.4M
+EPS $1.09
+PE 15.5
+MC $161.6M
+
+Press release:
+
+"During the first quarter 2006, the company recognized $138 thousand in stock option expense"
+
+"During the first quarter, we achieved a number of important milestones including the full operational and systems integration of Northwest Business Bank, enabling Pacific Continental to recognize cost savings and efficiencies earlier than was first expected," said Hal Brown, President and CEO of Pacific Continental Corporation. "With the successful integration behind us, we were then able to accelerate our planned expansion into the Vancouver, Washington market by announcing a downtown office location scheduled to open later this spring," added Brown.
+
+Apr 21, 2006
+
+TRADE buy 500@16.90 commission 7.99 balance 1000
+
+Jul 17, 2006
+
+TRADE buy 130@16.30 commission 7.99 balance 1130
+
+Jul 19, 2006
+
+earnings release
+
+jun05 to jun06 (no rev numbers, 
+inc 3,200 $2,932  	$2,753  	$2,470
+shares 10,630,422
+price 16.78
+==>
+EPS $1.07
+PE 15.7
+MC $178.4M
+
+PE dropped a bit.  Hold.
+
+Jul 21, 2006
+
+TRADE buy 370@16.30 commission 7.99 balance 1500
+
+Oct 2, 2006
+
+TRADE sell 1500@18.2513 commission 8.84 balance 0
+

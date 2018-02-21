@@ -1,0 +1,54 @@
+
+NAME: MOD-PAC Corp.
+CID: 0001191857
+
+Jul 14, 2006
+
+Found as "great" in value screen jun06
+
+Makes folding cartons.  Color printing capability.  It offers custom packaging products for the brand name producers and private label manufacturers for a range of packaging applications, including personal products; healthcare and pharmaceutical items; candy, food, and beverage; and automotive products.  Also does regular printing: cards, invitations, etc.  Based in Buffalo.
+
+apr06 to jun05
+rev 11,548  	24,458  	14,234  	16,286
+inc ($1,148)	$8,032  	$817  	$687
+shares 3,439K
+price 9.82
+==>
+EPS $2.44
+PE 4.0
+MC $33.8M
+Margins 12.6%
+
+Used to print for VistaPrint but relationship went sour.  Mod-Pac is now attempting to compete with VistaPrint in retail via lizardprint.com (under construction).  Last quarter loss is due to severing ties with VistaPrint.  Previous quarter included a buy out fee from VistaPrint.  Box business grew by 33% but very low margins.
+
+"""
+The Company expects to achieve positive cash flow for the balance of the year primarily as a result of continued improvement in operating results via growth in sales of its custom folding cartons line and expansion of its market in commercial print.
+"""
+
+Wait for next quarter.
+
+NOTIFY date Aug 9, 2006 earnings
+
+Aug 4, 2006
+
+Web site says "Est. Launch Date - Mid July 2006" but it is still not operational.
+
+Aug 10, 2006
+
+jul06 to oct05
+rev 10,818 11,548  	24,458  	14,234
+inc (1,006) ($1,148)	$8,032  	$817
+shares 3,443K
+price 9.90
+==>
+EPS $1.94
+PE 5.1
+MC $34.1M
+Margins 11.0%
+
+It's a new game now that the company has severed it's ties with VistaPrint.  It sounds like a working business model will require a functioning and popular web service.  I mistakenly went to lizardprint.com instead of printlizard.com.  The latter is the actual web site.  It's not a bad site.  Wait for next quarter.
+
+Apr 25, 2010
+
+NOTIFY date off
+

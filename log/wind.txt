@@ -1,0 +1,31 @@
+
+NAME: Winde River Systems Inc
+CID: 0000833829
+
+Oct 5, 2005
+
+Resells an embedded version of linux.  Slashdot story here:
+http://linux.slashdot.org/article.pl?sid=05/10/05/1746249&tid=100&tid=106
+
+Targeting phones; teaming with PalmSource.  Could be a big market.
+Billion dollar market cap and just barely turning a profit this year.
+From the slashdot discussion it seems they can't charge for their
+modded kernel, just the dev tools and docs.  I can't see this business
+plan ever worth $1B.
+
+Apr 5, 2006
+
+Interesting article on the embedded market.  Discusses Linux and it's large footprint, the open source TRON standard, and various commercial alternatives.
+http://linux.slashdot.org/article.pl?sid=06/04/05/0215249
+
+Slowly getting profitable via cost cutting.  Company missed Jan numbers: shares plunged.
+jan06 to apr05
+inc 10,300 $5,731   	$5,669   	$1,804   	
+shares 89,408K
+price 12.13
+==>
+EPS $0.26
+PE 46.1
+MC $1084.5M
+
+Still over valued.

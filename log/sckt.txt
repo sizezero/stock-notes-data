@@ -1,0 +1,62 @@
+
+NAME: Socket Mobile, Inc.
+CID: 0000944075
+KEYWORDS: barbara_owned
+
+Aug 5, 2012
+
+Steve mentioned this one.
+
+Flat revenue and losing money for years.  
+
+mar 2012
+shares 4,861,063
+price 1.40
+rev 3,954  	 4,437  	 4,681  	 4,353 
+inc (872)	 (375)	 (727)	 (392)
+==>
+Income ($2.4M)
+Revenue $17.4M
+EPS ($0.49)
+PE N/A
+MC $6.8M
+
+Yahoo isn't showing a market cap so I'm not sure the share count is accurate.  (got it from the last 10Q)
+
+=== Mar 2012 10Q
+
+Current assets $5.2M current liabilities $7.3M.  Company believes it has enough cash to operate for another year.
+
+Sells hardware barcode scanners plus software SDKs that allow development on smartphones, tablets, etc.  Touch screen shortages (probably due to iphone) have caused production problems.  38% gross margins.
+
+Competition listed as a risk but they don't list their competitors.
+
+IP lawsuit is noted as a risk.  Aaron Brooks mentioned that being a small player in the mobile market may get you sued into oblivion.
+
+1.5M stock options available.
+
+=== 2012 Q2 conference call
+
+scanner product offers cool bluetooth integrations with phones, tablets, etc.  e.g. use scanner and product shows up on phone or tablet.  Nordstrom uses a more integrated solution.
+
+slowness in addressing the apple iphone impacted profitablity.  $5.4M is where they would break even.  655 and 7Ci have to perform as they have no money for more development.  $5M is feasable for the 3rd quarter.
+
+===
+
+Aug 3, 2014
+
+TD Ameritrade: 66,930
+JHS Trust: none
+JHS IRA: none
+Crowell Weedon IRA: none
+
+Still not cracking a profit but close.  Made two cents a share last quarter.  Sell based on recent fluctuations.
+
+SELL $2.00 $3.00
+
+May 21, 2016
+
+Sold all of Barbara's stock.  No need to monitor anymore.
+
+SELL none
+

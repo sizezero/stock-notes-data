@@ -1,0 +1,157 @@
+
+NAME: The Ensign Group, Inc.
+CID: 0001125376
+KEYWORDS: not_great
+
+Jan 2, 2010
+
+Barron's Dec09 value list
+
+nursing and rehabilitative care services in California, Arizona, Texas, Washington, Utah, Idaho, and Colorado.
+
+rev 132,924  	132,178  	130,285  	123,947
+inc $7,686  	$8,184  	$7,923  	$7,859 
+price 15.37
+shares 20,630,582
+==>
+EPS $1.53
+PE 10.0
+MC $317.1M
+Margins 6.1%
+
+Low margins but nice PE.  Modest dividend.  Even lowest growth estimates look good.  I also like the fact that there are a lot of untapped markets.
+
+Jan 10, 2010
+
+Can't remember Steve's comment on this one.
+
+2010 megacap
+rank 4
+
+Feb 2, 2010
+
+TRADE buy 193@17.20 balance 193 commission 11.99
+
+May 6, 2010
+
+TRADE buy 189@17.55 balance 382 commission 11.99
+
+Aug 2, 2010
+
+TRADE buy 183@18.05 balance 565 commission 9.99
+
+Nov 10, 2010
+
+TRADE buy 157@21.2 balance 722 commission 9.99
+
+Jan 22, 2012
+
+Industry: Health Care / Long-Term Care Facilities
+CEO: Christopher R. Christensen
+Year took office: President 1999, CEO 2006.  Salary, bonus, compensation about $1M
+
+=== 2007 10K ===
+
+Company not yet public.
+
+=== Feb 2009 10K ===
+
+2008 - 2006
+Revenue $469,372 $411,318 $358,574
+EPS $1.34 $1.39 $1.66
+EPS (diluted)  $1.33 $1.17 $1.34
+
+63 Facilities in 6 western states.  Skilled nursing services provide nearly all the revenue.  Each facility is fairly independent but compared and improved with metrics.  Skilled nursing is a local business that needs good personal relationships and community reputation.  Target acquisitions are underperforming facilities that can be improved.
+
+Industry trends: Shift of Patient Care to Lower Cost Alternatives, Significant Acquisition and Consolidation Opportunities, Improving Supply and Demand Balance, Increased Demand Driven by Aging Populations and Increased Life Expectancy.  Long list of competitive advantages: hard to weed out the truth from the optimistic bullshit.  Growth strategy is: leadership training, get higher need patients (attract by focusing on quality), organic growth and operating efficiencies (higher occupancy rates), acquire or construct new facilities. 
+
+67% of expenses are payroll related.  Large variety of governmental regulation.  Medicare + Medicaid makes up 77% of payor sources.  Giant list of risks: government regulation / deregulation seems like the most difficult to deal with.
+
+  Key metrics
+
+% quality revenue mix and % skilled revenue mix (skilled == extra treatment) More or less flat from 2006-2008
+
+Occupancy %.  Flat at 81%
+
+Payor source.  Medicare medicade consistent at 74%
+
+=== Feb 2011 10K ===
+
+2010 - 2008
+Revenue $649,532 $542,002 $469,372
+EPS $1.95 $1.58 $1.34
+EPS (diluted) $1.92 $1.55 $1.33
+
+Now at 82 facilities.  WA still at 3.
+
+Occupancy dropped a bit over two years to 80%
+
+Payor source: Medi-care-cade up a bit to 76.4%
+
+================
+
+Competitive advantage
+ Company Moat
+  Brand: Brand could be worth something; not sure if it exists yet
+  Switching: somewhat difficult to switch; patients will not want to
+  Cost: Labor is the greatest cost; no protection there except stock options
+  Protected: no IP with this
+ How likely will moat endure over the next 5 yrs?  Not much of a moat.
+
+ What is the biggest risk to the company over the next 5 yrs?  Medicare + Medicade slashes
+ Probability of it happening.  August CMS cut payments 11% which caused a crash in all these stocks.  Ensign has a good balance sheet so this may give them more buying opportunities.
+
+Financial Checklist
+ For company and industry
+  5 yr EPS growth.
+  5 yr revenue growth.
+  Current net profit margin (earnings/revenue).
+  Current ROE (earnings/stockholders_equity).
+  % long term debt to equity.
+
+sep30
+rev 196,346  	 186,326  	 182,943  	 172,757
+inc 11,598  	 12,976  	 12,746  	 11,672
+price 25.22
+shares 20,846,353
+div 0.24
+==>
+EPS $2.35
+PE 10.7
+MC $525.7M
+Margins 6.6%
+Yield 1.0%
+Payout Ratio 10.2%
+
+The reliance on government funding alone keeps this from being a great company.  Still, nursing care will be needed and this company seems like it has the model for growth and quality.  Nearest WA location is in Lynnwood.  Estimates are for less income in 2012 (though still increasing revenue)  Buy PE 8, sell PE 15.
+
+BUY $21.15
+SELL $35.25
+
+Apr, 23, 2012
+
+dec11
+rev 192,662  	 196,346  	 186,326  	 182,943
+inc 10,355  	 11,598  	 12,976  	 12,746 
+price 25.52
+shares 21,213,305
+div 0.24
+==>
+EPS $2.25
+PE 11.4
+MC $541.4M
+Margins 6.3%
+Yield 0.9%
+Payout Ratio 10.7%
+
+May 15, 2013
+
+TRADE sell 722@35.45 commission 10.57 balance 0
+
+Mar 22, 2015
+
+No longer interested in the company.
+
+BUY None
+SELL None
+

@@ -1,0 +1,28 @@
+
+NAME: Companhia Siderurgica Nacional
+CID: 0001049659
+
+Feb 11, 2006
+
+Steel company found after looking at USAP
+
+Based in Sao Paulo Brazil.
+
+Good number for 2003,2004.  No yahoo numbers for 2005.  Foreign version of 10-Q/K appears to be 20-F
+
+May 27, 2013
+
+Funny how I used to associate commodity production with stability.
+
+dec 2012
+rev 8,252,144
+inc (234,713)
+price 3.47
+shares 1,457,000000
+div 0.10
+==>
+EPS ($0.64)
+MC $5055.8M
+Yield 2.9%
+
+Stay out.  Difficult to keep up with earnings.

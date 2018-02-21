@@ -1,0 +1,92 @@
+
+NAME: Anika Therapeutics Inc.
+CID: 0000898437
+KEYWORDS: feb2016screen
+
+Mar 10, 2006
+
+"magic" screen feb 06
+
+Company makes theraputic products that is injected into and helps cartilage and other soft tissues.
+
+Good growth into profitability over two years.
+dec05 to mar05
+inc $823 $2,532   	$1,337   	$1,202   	
+shares 11,428K
+price 12.81
+==>
+Income $5.9M
+EPS $0.52
+PE 24.8
+MC $146.4M
+
+Recent quarter problems seem to be due to: "the loss of our second largest ophthalmic customer, and lower than expected sales to our domestic ORTHOVISC partner,"
+
+Stock seems really expensive.  I can't seem to get over my distaste for complicated medical companies.
+
+June 7, 2009
+
+value screen june 2009
+
+Profitable tho flat earnings.  CEO pulling in $600K+.  Hard to ignore steady growing revenue in a poor economy.
+
+Apr 2, 2016
+
+Wow, it shows up in another screen. feb-2016.
+
+Industry: Healthcare
+Sector: Biotechnology
+CEO: Dr Charles H Sherwood PHD 69
+Year took office: 2002
+
+=== 2010 10K ===
+
+Didn't read
+
+=== 2015 10K ===
+
+"""
+Our therapeutic offerings consist of products in the following areas: Orthobiologics, Dermal, Surgical, Ophthalmic, and Veterinary. All of our products are based on HA, a naturally occurring, biocompatible polymer found throughout the body. Due to its unique biophysical and biochemical properties, HA plays an important role in a number of physiological functions such as the protection and lubrication of soft tissues and joints, the maintenance of the structural integrity of tissues, and the transport of molecules to and within cells.
+"""
+
+20 products.  Worldwide sales. Patents.
+
+Reading through the product descriptions, most of this is over my head.  Don't know if it's worth looking into this or if it's better to just say "this is over my head"
+
+Talks about competition but doesn't mention companies by name.
+
+orthobiologics business contributed 84% product revenue
+
+"""
+We have historically derived the majority of our revenues from a small number of customers, most of whom resell our products to end-users and most of whom are significantly larger companies than us. For the year ended December 31, 2015, five customers accounted for 84% of product revenue, with Mitek alone accounting for 72% of product revenue. We expect to continue to be dependent on a small number of large customers, especially Mitek, for the majority of our revenues for the foreseeable future,
+"""
+
+================
+
+Calc annualized 5 year eps growth: 44.1%
+
+Morningstar key ratios:
+2010
+Book Value per Share: 6.32
+2015
+book value per share: 13.21
+cumulative div per share: 0
+Calc annualized 5 year book value growth + divy: 15.9%
+
+Compare these numbers to 10 year note (1.9%) and each other.
+
+rev 30,894  	23,681  	22,904  	15,520
+inc 11,043  	8,380  	7,820  	3,516
+shares 14,330,207
+price 45.50
+==>
+EPS $2.15
+PE 21.2
+MC $652.0M
+Price $45.50
+Shares 14.3M
+Margins 33.1%
+
+Reviewed some products on the home page.  I really can't evaluate the use of these obscure medical products.  I could put an alert with a really low PE but something catastrophic would have to happen to the patent situation.  They are also a one trick pony with a huge amount of revenue coming from a single type of product.
+
+

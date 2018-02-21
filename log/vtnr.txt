@@ -1,0 +1,61 @@
+
+NAME: Vertex Energy
+CID: 0000890447
+
+Aug 12, 2012
+
+Industry: Industrial Goods / Waste Management
+CEO: Benjamin P. Cowart
+Year took office: Founder Apr 2009; involved in petroleum recycling for 20 years; buying stock recently at $2 per share (may be option excersising?)
+
+=== 2011 10K ===
+
+Two divisions:
+
+  Black Oil aggregates and sells used motor oil for burning
+In business since 2001.  Network of 50 suppliers
+
+  Refining and Marketing refines used oil and resells
+In business since 2004. 
+
+In 13 states: gulf coast + central midwest.  2011 Aggregated 48.6M gallons of used motor oil; refined 22.1M
+
+Experimenting with Biomass renewable energy.
+
+One disturbing warning in the 10K.  CEO has 31% voting control and "Potential conflicts of interest exist between the Company, Mr. Cowart, our Chief Executive Officer, and certain entities which he controls." he is a general partner in various transportation, leasing, oil recovery businesses.
+
+It looks like there is a lot more stock available than indicated by the 10K. "As of March 16, 2012, there were approximately 730 holders of record of our common stock, not including holders who hold their shares in street name and 9,443,921 shares of common stock issued and outstanding.   As of March 16, 2012, there were 4,403,894 shares of our Series A Preferred Stock issued and outstanding and held by approximately 200 holders."  I'm a little confused now about the total shares outstanding.  The top of the 10K says there are only 9.4M shares outstanding.  Later comment makes it looks like the series A gets converted to common 1:1 at a slow rate.  Seems like we should consider this as part of the total shares for valuation.  Series B seems to have already converted.  Diluted shares of 14.8M incudes series A and 1.5M options (not all options)  Seems more accurate to say there are 16.3M diluted shares
+
+Black Oil income: $2M
+Refining income: $6M
+
+Revenue and cost of revenue are impacted by fluctuations in commodity prices. the revenue variances from fiscal 2010 to 2011 (gains) were largely due to the changes in commodity pricing.
+
+Balance sheet looks a little thin.  A lot of the assests are inventory.    This probably doesn't include stock options.  Dec 2011 there were 2.7M options outstanding with an average exercise price of 5.81  390K were awarded that year.  That seems like a considerable dilution.
+
+Half the revenues came from one customer.
+
+2011 - 2010
+Revenue $110M $58.1M
+EPS $0.39 $0.09
+
+=== Mar 2012 10Q ===
+
+Balance sheet looks a lot better.  $4.3M cash as opposed to $0.7M  Still a large inventory.
+
+Diluted share count up considerably from 13.9M to 15.5M.  I haven't added the extra options yet.  It looks like there are now 3M options outstanding which is more than the 10K said.  The 10Q claims that this is the same number that were outstanding last quarter???  My diluted share number is 16.8M
+
+================
+
+Mar 2012
+rev 34,828  	 31,339  	 30,301  	 27,791
+inc 1,574  	 2,118  	 1,028  	 1,411 
+shares 16800000
+price 1.86
+==>
+EPS $0.36
+PE 5.1
+MC $31.2M
+Margins 4.9%
+
+

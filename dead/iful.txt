@@ -1,0 +1,43 @@
+
+NAME: Insightful Corp.
+CID: 0000895095
+
+Mar 1, 2005
+
+Interesting data analysis product.  Lots of big name customers. lost
+money in 2002,2003, just released final earnings for 2004: modest
+earnings: 0.16 eps, PE 17 seems low for a software company.
+
+< $50M MC
+
+Dec 18, 2005
+
+Positive but somewhat scattered earnings through sep05:
+rev 5,408  	5,110  	5,258  	5,318  
+inc 311  	334  	334  	937
+reduced income seems to be due to increased sales and administration expenses.
+assuming a quarter average of $320K we get an annual of 1280
+shares outstanding: 12.5M
+diluted: 13.2M
+eps: 0.10
+PE @ 2.7 = 27
+yahoo trailing PE (with 937 inc in dec04) = 18
+
+I was unable to find any substantive forward looking statements in the 10Q.
+
+One of the more frightening things is that their flagship product S-PLUS is an implementation of the S language, of which an open source implementation named "R" also exists.
+
+http://www.r-project.org
+
+The site looks to be very active, with lots of updates.  The FAQ has some good info in it including comparisons between S-PLUS and R of which there appears to be few significant differences.  There is even a web version RWeb that competes with S-PLUS server.  CRAN is a huge library of community supported add-on packages similar to CPAN.
+
+I found a couple messages in the mailing list re: positive experiences with transitioning from SPLUS to R.  Here's one:
+http://tolstoy.newcastle.edu.au/~rking/R/help/04/11/7214.html
+
+"Our text analysis product, InFact, was released in 2002 and has not contributed substantial revenues to date. The market for relationship search solutions like InFact is still emerging, with many competitors coming to market with alternative solutions. Growth in demand for and acceptance of these solutions, if any, remains uncertain. Even if this market grows, businesses may purchase our competitors’ solutions or develop their own. If InFact does not achieve market acceptance, our business may not grow."
+
+I'm not sure how this company expects to compete with R.  This would be a good question for investor relations.
+
+Nov 11, 2009
+
+In 2008 merged with TIBCO a huge (1.5B MC) software company

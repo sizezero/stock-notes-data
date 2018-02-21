@@ -1,0 +1,57 @@
+
+NAME: Apple Inc.
+CID: 0000320193
+
+Jan 28, 2013
+
+TRADE buy 22@445.00 balance 22 commission 9.99
+
+Apr 18, 2013
+
+TRADE buy 25@399.00 balance 47 commission 9.99
+
+June 24, 2013
+
+TRADE buy 25@395.00 balance 72 commission 9.99
+
+June 9, 2014
+
+TRADE split 7:1 balance 504
+
+Aug 23, 2014
+rev 37,432,000  	45,646,000  	57,594,000  	37,472,000
+inc 7,748,000  	10,223,000  	13,072,000  	7,512,000
+shares 5,987,867,000
+price 102.43
+div 1.88
+==>
+Income $38555.0M
+Revenue $178144.0M
+EPS $6.44
+PE 15.9
+MC $613337.2M
+Margins 21.6%
+Dividend $1.88
+Yield 1.8%
+Payout Ratio 29.2%
+
+Fairly high payout ratio so I wouldn't exect dividends to increase significantly without increased earnings.  Despite its size apple seems like a premium company so it deserves a PE of 17-18.  Current yield is very low so sell half now and the rest when it hits PE 18.  Buy at a 3.5% yield
+
+SELL $96.60 $115.92
+BUY $53.71
+
+Aug 29, 2014
+
+TRADE sell 252@102.55 commission 9.99 balance 252
+
+Nov 20, 2014
+
+TRADE sell 252@116.40 commission 9.99 balance 0
+
+Mar 22, 2015
+
+No longer interested in the company.
+
+BUY None
+SELL None
+

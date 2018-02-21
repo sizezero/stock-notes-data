@@ -1,0 +1,65 @@
+
+NAME: Barrett Business Services Inc.
+CID: 0000902791
+
+Mar 1, 2005
+
+$100 to $500 MC
+
+Human resource/staffing company.  Income looks good the last few
+quarters.  Valuation looks a bit high.
+
+Dec 6, 2005
+
+huge Sep quarter 4.3M
+
+trailing earnings = 4.3M+2.9M+0.93M+2.5M = 10.6M
+11M shares outstanding (from 10Q)
+trailing eps = 0.96
+trailing PE @ 25.9 = 27
+
+assuming last quarter is not a fluke:
+future eps = 4.3*4/11 = 1.56
+future PE @ 25.9 = 16.6
+Is this still too high for a human resource staffing company?
+
+Mar 30, 2006
+
+"magic" screen feb 06
+
+dec05 to mar05 (2005)
+inc 4,314 $4,340   	$2,905   	$931   	
+shares 11,739K (diluted)
+price 26.49
+==>
+EPS $1.06
+PE 24.9
+MC $311.0M
+
+Ok.  We now have two quarters of solid earnings.  Guidance of 0.10 to 0.12 per share for first quarter 2006.  This is income of $1,291K  Which is up over a year ago but down sequentially.  It doesn't significantly change the valuation.
+
+It looks like the company's earnings are seasonal.  From the 2004 10Q:
+"""
+Fluctuations in Quarterly Operating Results
+         The Company has historically  experienced  significant  fluctuations in
+its quarterly operating results and expects such fluctuations to continue in the
+future. The Company's operating results may fluctuate due to a number of factors
+such as  seasonality,  wage  limits on  payroll  taxes,  claims  experience  for
+workers' compensation, demand and competition for the Company's services and the
+effect of acquisitions.  The Company's  revenue levels fluctuate from quarter to
+quarter  primarily  due to the impact of  seasonality  on its staffing  services
+business  and on  certain  of its PEO  clients  in the  agriculture  and  forest
+products-related  industries. As a result, the Company may have greater revenues
+and net income in the third and fourth  quarters  of its  fiscal  year.  Payroll
+taxes and benefits fluctuate with the level of direct payroll costs, but tend to
+represent a smaller  percentage  of  revenues  and direct  payroll  later in the
+Company's   fiscal  year  as  federal  and  state   statutory  wage  limits  for
+unemployment and social security taxes are exceeded by some employees.  Workers'
+compensation  expense  varies with both the  frequency and severity of workplace
+injury claims reported  during a quarter and the estimated  future costs of such
+claims.  In addition,  adverse loss  development of prior period claims during a
+subsequent  quarter  may also  contribute  to the  volatility  in the  Company's
+estimated workers' compensation expense.
+"""
+
+Bottom line: yes the company is growing but the trailing valuation is just too high.

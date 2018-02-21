@@ -1,0 +1,32 @@
+
+NAME: The Dow Chemical Company
+CID: 0000029915
+KEYWORDS: tax_free
+
+Aug 28, 2016
+
+Barron's had this listed as a good dividend stock. High divi and low payout ratio are the key attractiver points.
+
+6/2016
+rev 11,952,000	10,703,000	11,462,000	12,036,000
+inc 3,123,000	169,000	3,527,000	1,290,000
+price 54.13
+shares 1,126,830,305
+div 1.84
+==>
+EPS $7.20
+PE 7.5
+MC $60995.3M
+Margins 17.6%
+Yield 3.4%
+Payout Ratio 25.6%
+
+I need to pick this up.
+
+Aug 31, 2016
+
+TRADE buy 375@53.60 commission 9.99 balance 375
+
+Pick up another $20K at a 10% discount
+
+BUY $48.25

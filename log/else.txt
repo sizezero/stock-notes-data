@@ -1,0 +1,55 @@
+
+NAME: Electro-Sensors Inc.
+CID: 0000351789
+
+Jul 12, 2006
+
+Found as "great" in value screen jun06
+
+Two divisions: ControlData and AutoData.  ControlData sells speed monitoring and control units used in production processes by food processing, chemicals, agricultural, mining, utility, forest products, steel, tire, glass, and electronics industries nearly worldwide.  AutoData provides a desktop based barcode,fax,character scanner.
+
+rev 1,358  	1,346  	1,206  	1,147
+inc $820  	$401  	$262  	$47
+shares 3,308,920
+price 4.23
+==>
+EPS $0.46
+PE 9.1
+MC $14.0M
+Margins 30.3%
+
+The ControlData division was responsible for 88% of revenue in 2005.  AutoData is primarily a software product (Windows based) that was released in 1993 and periodically updated since then.  Revenues from this have declined due to competition.
+
+The company's profit for the past year seems to be primarily due to an increase in investment income.  mar06 opinc was 73K but gains in securities was 1.2M which is the bulk of non-opinc.
+
+"""
+Prior to February 15, 2006, the Company’s significant investment in equity securities consisted of 569,615 shares of common stock of August Technology Corporation (“August”), which had an approximate cost of $57,000. Rudolph Technologies, Inc. (“Rudolph”) acquired August on February 15, 2006. As a result of Rudolph’s acquisition of August, the Company received 347,224 shares of Rudolph common stock and $1,015,891 in cash. As a result, at March 31, 2006, the Company’s significant investment in equity securities is 347,224 shares of Rudolph. As of March 31, 2006, the aggregate value of the Company’s Rudolph shares as reported on the Nasdaq Stock Exchange was approximately $5,920,000 with an approximate cost of $46,000.
+
+Investment Reported on Equity Method:
+
+At March 31, 2006, the Company owned 551,759 shares of PPT, which is approximately 14.5% of PPT’s outstanding common stock. The fair value of its holdings based on the quoted market price at March 31, 2006 was approximately $500,000 with an approximate cost of $2,434,000.
+
+Since the Company owns approximately 14.5% of PPT’s outstanding stock, and the Company’s Secretary, Peter R Peterson, owns approximately 38.6% of PPT’s outstanding stock, it has been determined that the Company has “significant influence” over the operations of PPT, and as a result its ownership interest should be reported using the equity method of accounting for investments.
+
+Under the equity method of accounting, the Company’s proportionate share of PPT net income or loss is included in the Company’s net income (loss) with a corresponding increase or decrease in the carrying value of its investment. Losses in excess of invested amounts are not recognized in the financial statements, but rather are suspended and applied against future equity in earnings for the investee until exhausted. At March 31, 2006, the Company had approximately $1,172,000 in suspended losses from its investment in PPT that will be used to offset future recognition of equity method earnings from the investment.
+"""
+
+It seems much of the recent good news is due to the ownership of 569K shares in Rudolph Technologies Inc. RTEC.  Last quarter income was hit with a huge non-recurring expense and stock contracted significantly.  This should result in a negative income for ELSE next quarter.
+
+Numbers taking into account last two quarters of opinc
+
+rev 1,358  	1,346
+inc 73 209
+shares 3,308,920
+price 4.23
+==>
+Income $0.6M
+Revenue $5.4M
+EPS $0.17
+PE 24.8
+MC $14.0M
+Margins 10.4%
+
+The company is certainly no longer a bargain from an earnings perspective.  Balance sheet still shows 16M in current assets with only 3.2M in total liabilities.  Knock off a couple million for the fall in RTEC.  That still leaves a very small price to book value.
+
+Steve called.  I thinks the company is interesting as a value play but is concerned that 70% of the stock is owned by one person.

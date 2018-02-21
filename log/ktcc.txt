@@ -1,0 +1,54 @@
+
+NAME: Key Tronic Corp.
+CID: 0000719733
+
+Mar 1, 2005
+
+Keyboard. mice and other equipment for OEMs.  Seems like they have
+branched into "Electronic Manufacturing Services" since I last looked
+at them.  They make a ton of molded parts for computer, consumer,
+medical, automotive.  Last 4 quarters revenue and income much
+improved.  PE (trailing) of 27 seems high for a company in this type
+of low margin sector.
+
+Calculation problem.  See spreadsheet
+
+< $50M MC
+
+Dec 19, 2005
+
+Strong revenues with a dip in the last oct05 quarter.  Still positive earnings
+rev 44,250  	53,151  	49,726  	51,226
+inc $702  	$2,768  	$852  	$490 
+
+Executive salaries seem a bit high: CEO $630K, CFO $414K
+
+Stock was up but dipped due to last quarter's earnings.  May be a good end of year buy.
+
+Shares outstanding 9.7M (actual) 11.7M (diluted)
+
+Trailing PE is only 6.5 but jul05 quarter had 1M of non-recurring revenue.  Even without that boost the quarter was twice as high has any of the other trailing year's quarters.  Assuming the other quarters are more standard:
+trailing years earnings are 700M*4 = 2800M
+eps = 0.24
+PE @ 3.11 = 13
+Still a very reasonable PE.  Not stellar for a company with these margins tho.
+
+10Q
+
+"As of October 1, 2005, there were outstanding options for the purchase of approximately 1,976,000 shares of common stock of the Company, of which options for approximately 1,896,000 shares were vested and exercisable. Of the outstanding options, approximately 860,000 have exercise prices higher than the average closing price for the quarter. Holders of the common stock will suffer immediate and substantial dilution to the extent outstanding options to purchase the common stock are exercised."
+
+Nov 11, 2009
+
+rev: 41309 45,464  	44,233  	46,990
+inc: (41) 287  	262  	106  	
+shares: 10082K
+price: 2.77
+==>
+Income $0.6M
+Revenue $178.0M
+EPS $0.06
+PE 45.5
+MC $27.9M
+
+Company is now in the Electronics Manufacturing Services (EMS) since the keyboard market has matured.  They are getting new customers but sales backlog are still dropping.  This looks like a risky bet especially since the stock has ballooned 150% in the last 6 months.  The price indicates that there is expectation of a huge pickup in the next 6 months.  I don't want to bet on it.
+

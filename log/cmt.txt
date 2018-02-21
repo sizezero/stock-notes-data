@@ -1,0 +1,59 @@
+
+NAME: Core Molding Technologies Inc.
+CID: 0001026655
+
+Jul 21, 2006
+
+Found as "great" in value screen jun06
+
+Reinforced Plastics / fiberglass for trucks, boats, other products.  Compression molding for 200 plus units per year.  Based in Columbus Ohio.  4 production facilities: 2xOhio, N Carolina, Mexico.
+
+mar06 to jun05
+rev 36,502  	32,753  	31,614  	33,659 
+inc $2,282  	$1,084  	$1,511  	$1,735 
+shares 10,448,427
+price 5.45
+==>
+EPS $0.63
+PE 8.6
+MC $56.9M
+Price $5.45
+Shares 10.4M
+Margins 4.9%
+
+10Q
+{
+Four major customers:
+International Truck & Engine Corporation ("International"), Freightliner, LLC
+("Freightliner"), PACCAR, Inc. ("PACCAR"), and Yamaha Motor Manufacturing
+Corporation ("Yamaha").
+
+                    THREE MONTHS ENDED
+                        MARCH 31,
+                -------------------------
+                    2006          2005
+                -----------   -----------
+<S>             <C>           <C>
+International   $18,310,825   $17,370,912
+Freightliner      3,915,014     4,518,942
+PACCAR            7,828,737     1,320,261
+Yamaha            2,022,799     4,051,463
+                -----------   -----------
+   Subtotal      32,077,375    27,261,578
+Other             4,424,939     5,255,379
+                -----------   -----------
+   Total        $36,502,314   $32,516,957
+                ===========   ===========
+
+Yamaha announced intention of using other suppliers for diversification.  All of Yamaha is 5.5% of revenue.
+
+Pension plus retirement benefits was $788K last quarter.
+
+Core Molding Technologies' primary market risk results from changes in the
+price of commodities used in its manufacturing operations. Core Molding
+Technologies is also exposed to fluctuations in interest rates and foreign
+currency fluctuations associated with the Mexican Peso. Core Molding
+Technologies does not hold any material market risk sensitive instruments for
+trading purposes.
+}
+

@@ -1,0 +1,23 @@
+
+NAME: Memry Corp.
+CID: 0000720896
+
+Nov 7, 2005
+
+Showing at Westergaard conference.
+
+Creates a niche medical product that I can't judge.
+
+Jun 19, 2006
+
+mar06 to jun05
+rev 13,993  	12,649  	12,667  	13,346
+inc $1,521  	($236)	$501  	$880
+shares 29,395,809
+price 2.96
+==>
+EPS $0.09
+PE 32.6
+MC $87.0M
+Margins 5.1%
+

@@ -1,0 +1,22 @@
+
+NAME: Kensey Nash Corporation
+CID: 0001002811
+
+Jan 2, 2010
+
+Barron's Dec09 value list
+
+medical device company
+
+rev 19,742  	20,510  	20,624  	20,798
+inc $4,881  	$4,716  	$4,876  	$5,240
+price 25.50
+shares 11,092,431
+==>
+EPS $1.78
+PE 14.3
+MC $282.9M
+Margins 24.1%
+
+Great margins but low growth expected next year.  Multiple seems too high.
+

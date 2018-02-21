@@ -1,0 +1,29 @@
+
+NAME: Catapult Communications Corp.
+CID: 0001063085
+
+Mar 13, 2006
+
+"magic" screen feb 06
+
+Offers testing analysis, protocol analyzers, load balancers for digital telecommunications.  Emulates expensive telecom network equipment.
+
+mar05 to dec05 (year ends in sep)
+inc $143   	$2,522   	$2,383   	$5,430
+shares 15,006K
+price 13.37
+==>
+Income $10.5M
+EPS $0.70
+PE 19.1
+MC $200.6M
+
+ignoring last quarter ==> EPS $0.92 PE 14.6
+
+Two big problems with last quarter: 1) two major japanese clients returned to their own test equipment 2) product delays.
+
+10Q
+
+Company sells to only 6 customers.  Business depends on telecom companies outsourcing their testing solutions.
+
+Revenues falling significantly in every geographical market in the world.

@@ -1,0 +1,34 @@
+
+NAME: Build-A-Bear Workshop Inc.
+CID: 0001113809
+
+Jun 27, 2010
+
+Losing money for the last year.  Declining revenues for two.  Last quarter was profitable.
+
+apr10
+rev 101,436    	  122,890    	  91,739    	  82,081
+inc $1,679    	  ($916)  	  ($4,763)  	  ($5,968)
+price 7.06
+shares 20,481,079
+==>
+Income ($10.0M)
+Revenue $398.1M
+EPS ($0.49)
+MC $144.6M
+
+Assuming last quarter is "normal"
+
+rev 101,436 101,436
+inc $1,679 $1,679
+price 7.06
+shares 20,481,079
+==>
+Income $6.7M
+Revenue $405.7M
+EPS $0.33
+PE 21.5
+Margins 1.7%
+
+So last quarter still does not look good.  Wait for the next quarter.
+

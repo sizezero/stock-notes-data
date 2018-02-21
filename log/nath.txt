@@ -1,0 +1,26 @@
+
+NAME: Nathan's Famous Inc.
+CID: 0000069733
+
+Mar 3, 2006
+
+"magic" screen feb 06
+
+Fast food franchise featuring Nathan's Famous, Miami Subs, and Kenny Rogers Roasters brands.  363 franchises in 23 states plus 11 foreign countries.
+
+Fairly flat rev/inc for a couple years.  Discontinued ops boosted sep05 inc.
+dec05 to mar05
+inc $770   	$3,108   	$1,169   	$221
+shares 6,565,000
+price 12.03
+==>
+Income $5.3M
+EPS $0.80
+PE 15.0
+MC $79.0M
+
+-1,722 from discontinued ops ==> EPS $0.55 PE 22.1
+
+Stock jumped 50% in the last year.  I don't see what news would have caused that.  
+
+10Q.  Running to catch a plane.  Didn't have time to go over it in detail.

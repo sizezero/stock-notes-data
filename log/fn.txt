@@ -1,0 +1,19 @@
+
+NAME: Fabrinet
+CID: 0001408710
+KEYWORDS: new
+
+Feb 1, 2017
+
+From Jan 23 Barrons:
+
+"""
+Black: My next pic is Fabrinet. It operates mainly in Thailand. The stock is selling for $36. There are 36.8M shares outstanding, and the market capitalization is about $1.3B. The company doesn't pay a dividend. Fabrinet is a contract manufacturer to the optical networking industry. It specializes in optical components, including lasers, sensors, and optical switches. The business is growing nicely. Revenue could be up 38% in this fiscal year, ending in June.
+
+What is driving this growth?
+
+Black: New business represents 25% to 30%, and demand is growing in existing markets. Revenue could total $1.35B for the fiscal year. An operating profit margin of 9.4% translates into estimated pretax income of $127M. Taxed in Thailand at only 7%, the company could have net income of $118M or $3.20 a share. Return on equity is about 19%, after tax. Fabrinet has $254M in cash and equivalents, but has to set aside $125M to self-insure; Thailand had massive floods several years ago. Remove that portion and net cash is $2.57 a share. Last year, the company had 26 cents a share in stock-based compensation; this year, it will be closer to 50 cents. We exclude it from earnings, as it is a cost. If you back out the net cash and exclude the 50 cents from estimated calendar-year earnings of $3.40, you get a PE of 11.6
+
+Fabrinet had $19M of free cash flow last year. This year, it will be between zero and $5M, because the company is more than doubling production capacity in Thailand. North American accounts for 54% of revenue; Asia/Pacific is 36%; and Europe, 10%. To sum up, Fabrinet offers 30%-plus revenue growth and a 19% return on equity, at a PE of 11 or so.
+"""
+

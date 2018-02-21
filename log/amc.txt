@@ -1,0 +1,26 @@
+
+NAME: AMC Entertainment Holdings, Inc.
+CID: 0001411579
+
+Sep 13, 2015
+
+Barron's had a good article talking about their new properties: Walking Dead, Better Call Saul.
+
+jun 15
+rev 821,079  	653,124  	712,155  	633,904
+inc 43,923  	6,138  	29,819  	7,376
+shares 97402459
+price 26.93
+div 0.80
+==>
+EPS $0.90
+PE 30.1
+MC $2623.0M
+Margins 3.1%
+Yield 3.0%
+Payout Ratio 89.3%
+
+Two shares of stock: 21M class A, 75M class B.  Class be gives 3x voting rigthts.
+
+The last year's income must be off.  The PE and payout ratio makes no sense.  Apparently missed 2Q estimates.
+

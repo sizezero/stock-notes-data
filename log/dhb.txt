@@ -1,0 +1,47 @@
+
+NAME: DHB Industries Inc.
+CID: 0000899166
+
+Mar 14, 2006
+
+"magic" screen feb 06
+
+Manufactures and markets body armor.  Two groups of products: 1) lethal protection targeting military and law enforcment and 2) sports related (supports and braces) targeting individual consumers.
+
+sep05 to dec04
+inc ($41,741) 	$7,598   	$7,619   	$8,178
+shares 45,312,536 (diluted)
+price 4.50
+==>
+Income ($18.3M)
+EPS ($0.40)
+PE N/A
+MC $203.9M
+
+Ignoring sep05
+==> EPS $0.69 PE 6.5
+
+Related companies: Ceradyne CRDN and Armor Holdings AH.  DHB produces the soft jackets that contain Ceradyne's plates.
+
+From Motley Fool article:
+Brooks, CEO of DHB Industries (AMEX: DHB). In just the first 10 (google) results, we find out that Brooks tends to sell his DHB shares, recently threw his daughter a $10 million bat mitzvah, and is referred to frequently as a "corporate crook." I'd call those red flags.
+http://www.fool.com/news/commentary/2006/commentary06011303.htm?source=eptyholnk303100&logvisit=y&npu=y
+
+Motley fool often uses DHB as an example of a disastrously managed company:
+http://www.fool.com/news/commentary/2005/commentary05122207.htm?source=eptyholnk303100&logvisit=y&npu=y
+
+The above interesting article had some screens struggling companies for potential value investments:
+1) Look for greedy execs.  You can find this in DEF 14A
+2) Running on fumes.  For huring companies, pay more attention to cash flow than earnings.
+3) Disappearance test: if the company vanished tomorrow, would anyone care?
+
+10Q
+
+horrendous sep05 quarter was due to a $60M vest replacement charge.
+"The cost of the vest replacement program is a separate
+line item under selling, general and administrative expenses, for a total
+pre-tax charge of $60,000,000, or ($0.76) per diluted share after tax charge, as
+a result of the Company's voluntary Zylon(R) vest replacement program announced
+in August 2005."
+
+Company CEO appears to be a crook by any measure.

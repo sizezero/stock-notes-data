@@ -1,0 +1,45 @@
+
+NAME: CF Industries
+CID: 0001324404
+KEYWORDS: tax_free
+
+Aug 27, 2016
+
+Stock is down quite a bit.  Barrons had a positive article:
+- earnings will be bad through the end of the year
+- div probably won't be cut
+- Shipping costs will keep China from being to competitive in America
+- fertilizer will rebound
+
+Amonnia for fertilizer comes from natural gas.  CF is one of the larger companies.  POT is an alternative that makes it out of pot ash.
+
+I'd like to own more boring companies like this.
+
+6/2016
+rev 1,134,000	1,004,000	1,115,800	927,500
+inc 47,000	26,000	26,500	90,400
+price 23.98
+shares 233,129,911
+div 1.20
+==>
+EPS $0.81
+PE 29.4
+MC $5590.5M
+Margins 4.5%
+Yield 5.0%
+Payout Ratio 147.3%
+
+Ugh.  Dropping revenue over the past five years makes this a tough stock to own. I don't have any idea if this is the bottom of the ammonia fertilizer market.  One way to look at this is that the multiple is 5x the average earnings for the past five years.  I think I've convinced myself to buy a small amount ($10K) and hope it drops further so I can load up.
+
+Sep 13,2016
+
+TRADE buy 415@24.10 balance 415 commission 9.99
+
+BUY $19.20
+
+Jan 23, 2017
+
+As far as I can tell, all the expections are baked in.  Might as well sell since it's in a tax free account.
+
+TRADE sell 415@34.40 balance 0 commission 9.99
+

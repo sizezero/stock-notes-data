@@ -1,0 +1,370 @@
+
+NAME: Hewlett Packard
+CID: 0000047217
+KEYWORDS: megacap2008 maybe_great
+
+Dec 15, 2008
+
+mega cap 2008
+
+adjust for company split
+ TRADE buy 26@35.20 balance 26 commission 9.99
+TRADE buy 26@16.7552 balance 26 commission 9.99
+
+Jan 12, 2009
+
+adjust for company split
+ TRADE buy 25@36.58 balance 51 commission 9.99
+TRADE buy 25@17.41208 balance 51 commission 9.99
+
+Mar 2, 2009
+
+adjust for company split
+ TRADE buy 65@28.45 balance 116 commission 9.99
+TRADE buy 65@13.5422 balance 116 commission 9.99
+
+May 8, 2009
+
+adjust for company split
+ TRADE buy 55@36.65 balance 171 commission 9.99
+TRADE buy 55@17.4454 balance 171 commission 9.99
+
+Jul 21, 2009
+
+adjust for company split
+ TRADE buy 51@39.20 balance 222 commission 9.99
+TRADE buy 51@18.6592 balance 222 commission 9.99
+
+Sep 2, 2009
+
+adjust for company split
+ TRADE buy 46@44.06 balance 268 commission 9.99
+TRADE buy 46@20.97256 balance 268 commission 9.99
+
+Nov 11, 2009
+
+adjust for company split
+ TRADE buy 40@49.89 balance 308 commission 9.99
+TRADE buy 40@23.74764 balance 308 commission 9.99
+
+Nov 22, 2009
+
+Earnings will be reported tomorrow.  Expected EPS $1.12.  At price of $50 gives a PE of 11.
+
+inc: 1,642,000  	1,716,000  	1,854,000  	2,112,000  
+price: 50.04
+shares:  2,371,067,899
+==>
+EPS $3.09
+PE 16.2
+MC $118648.2M
+
+based on the last two quarters
+inc: 1,642,000  	1,716,000
+price: 50.04
+shares:  2,371,067,899
+==>
+EPS $2.83
+PE 17.7
+MC $118648.2M
+
+Latest earnings look better than the last two quarters.  This looks like a keeper for the next six months.
+
+Mar 13, 2010
+
+jan10
+rev 31,177,000 30,950,000  	27,451,000  	27,351,000 
+inc 2,250,000 2,448,000  	1,642,000  	1,716,000 
+price 52.36
+shares 2,427M
+==>
+EPS $3.32
+PE 15.8
+Margins 6.9%
+
+Average estimate for 2010 is 4.44?  Seems high.  Valuation will drop a lot if they hit it tho.  Hang on for another six months.
+
+Aug 10, 2010
+
+apr10
+rev 30,849,000    	  31,177,000    	  30,950,000    27,412,000
+inc $2,200,000    	  $2,250,000    	  $2,448,000    $1,635,000
+price 42.60
+shares  2,334,496,184
+==>
+EPS $3.66
+PE 11.7
+MC $99449.5M
+Margins 7.1%
+
+I thought Hurd's departure may be a buying opportunuty but the stock just seems fairly priced, not a deal.  Div yield is still crap at 0.70%
+
+Although Hurd put some good processes in place.  Picked up a little.
+
+adjust for company split
+ TRADE buy 70@42.60 balance 378 commission 9.99
+TRADE buy 70@20.27776 balance 378 commission 9.99
+
+Dec 23, 2010
+
+Getting Started in Value Investing
+Checklist
+
+Industry: Technology / Diversified Computer Systems
+CEO: Leo Apotheker.  Replace Hurd. Previously CEO of SAP (manufacturing software, crystal reports)
+Year took office: Nov 2010
+
+Annual Reports
+
+--- 2006 ---
+
+4 offerings
+1) PC and "other access devices"
+2) imaging and printers
+3) enterprise servers / software
+4) customer services
+
+7 business segments
+1) ESS enterprise storage and servers
+2) HPS services
+3) PSG software and personal systems
+4) IPG imaging and printing
+5) HPFS financial services
+6) Corporate investments
+7) TSG technology solutions (umbrella for ESS, HPS, PSG)
+
+research steady around $3.6 billion for a few years. 30K patents.
+
+"""
+We compete primarily on the basis of technology, performance, price, quality, reliability, brand, reputation, distribution, range of products and services, ease of use of our products, account relationships, customer training, service and support, security and availability of application software and our Internet infrastructure offerings.
+"""
+
+2002 to 2006 rev steady up from $57B to $92B.  Earnings steady up from 0 to $6B
+
+Planning to reduce real-estate by having fewer, larger consolidated data centers.
+
+TSG, ISG, IPG are the largest revenue generators.  TSG, IPG are the bulk of the earnings.  TSG growing rev and income the fastest.
+
+--- 2007 ---
+
+Business model/organization unchanged.
+
+rev $104B, earnings $7B, R&D flat
+
+Still consolidating real-estate.  Training large sales force.  Vague talk of efficiency improvements and share buy-back to offset stock options.  Lots of acquisitions.  Largest were Mercury Interactive and Opsware Inc. ???
+
+Most revenue growth in PSG.
+
+PSG and TSG still dominate rev at ~$37B each.  IPG $28M
+earnings TSG $4.1B PSG $1.9B IPG $4.3B
+
+TSG and PSG have better rev growth but IPG has better margins.
+
+--- 2008 ---
+
+Acquisition added another business unit EDS electronic data systems corporation within HPS.  Provides financial reporting for companies.
+
+R&D flat. 32K patents
+
+Completed real-estate consolidation.
+
+rev $118B, e $8.3B
+
+PSG growth (notebooks) has been offset by declining prices for a couple years
+
+TSG revenue would have fallen if not for the EDS acquisition.
+
+TSG r $44.8B e $5.5B
+PSG r $42.3B e $2.4B
+IPG r $29.4B e $4.6B
+
+I wish IPG could be spun off as it's own company.  I guess there would be no growth then.
+
+--- 2009 ---
+
+R&D slashed to $2.8B, $33K patents
+
+4 initiatives for 2009: competitive positioning, (trends requiring new products e.g. web printers) operational efficiency, investing for growth, leveraging portfolio and scale.
+
+rev $114B, e $7.7B
+
+Acquisitions: Lefthand Networks, Inc (virtualization), pending 3com
+
+TSG ==> HP Enterprise Business. Contains Services, Storage+Servers, Software
+
+HPEB r $53.6B e $7.2B
+PSG  r $35.5B e $1.7B
+IPG  r $24.0B e $4.3B
+
+Wow!  Printing group dropped $5B in rev and earnings were mostly flat.  How?
+
+"""
+The improvement in gross margin in fiscal 2009 resulted primarily from an increase in the supplies mix and supplies pricing, the effect of which was partially offset by hardware margin declines due to unfavorable currency impacts and declines in average revenue per unit. The decrease in operating expenses as a percentage of net revenue in fiscal 2009 was due primarily to effective cost controls.
+"""
+
+--- 2010 ---
+
+R&D $3.0B  37K patents
+
+rev $126B e $8.8B
+
+Same declared strategy.
+
+HPEB r $57B e $5.6B margins 9.8%
+PSG  r $41B e $2.0B margins 4.9%
+IPG  r $26B e $4.4B margins 17%
+
+Not sure.  Looks like acquisitions are having a "diworsifying" effect.  11 acquisitions, largest are: 3com, palm, 3par (utility storage), arcsight (security compliance management company)
+
+------------
+
+Competitive advantage
+ Company Moat
+  Brand - HP brand very strong in printers
+  Switching - if the printer runs you'll still by toner
+  Cost - largest printer maker _may_ have better efficiencies
+  Protected - patent growth huge but probably won't use them
+  Other
+ How likely will moat endure over the next 5 yrs?  It's difficult to tell what if there will be a new strategy but my guess is that profits from businesses will be spent on acquisition.  The future will show if these are any good.
+
+Competitors
+ For 3 competitors (IBM, Wyse, NEC)
+  Read current annual report
+ What is the biggest risk to the company over the next 5 yrs? HP is in some fundemental markets: PCs, printers, software+consulting.  I suppose the worse thing that could happen is that it makes lots of unecessary acquisitions.
+ Probability of it happening.  Some of the acquisitions _will_ suck but maybe the hope is to buy something that gives you leverege into a new trend.
+
+Financial Checklist
+ For company and industry
+  5 yr EPS growth. $2.18-$3.69  69% (IBM has 100%)
+  5 yr revenue growth. $91B-$126B 39% (IBM flat)
+  Current net profit margin. 7% (IBM 14%)
+  Current ROE.  $8.8B / $40.8B = 21.6% (IBM 70%, industry 28.5%)
+  % long term debt to equity. $15.3B/$40.8B = 37.5%
+
+Dec 28, 2010
+
+Summary of the previous analysis.  It looks like the printer business is still fantastic but has been flat for 5 years.  Profits from that are funding operations in other units.  Acquisitions are a mixed bag and may be doing strange things with the earnings.  Palm will probably be a waste but 3par will probably turn out well.  40% 5yr revenue growth even on low margins translates into solid growth.  Discounting poor acquisitions let's say 20% revenue growth;  with 10% net margins that's still solid growth.  Diluted year end eps is $3.69 so at the current price of 42.39 we get a PE of 11.5.  Industry PE is 16.  25% discounted PE is 12.  I suppose it's a buy up to PE 12 Price 44.3.    I wish it had a better PE tho.
+
+buy  PE 12 EPS $3.69 price $44.30
+sell PE 15 EPS $3.69 price $55.35
+BUY $44.30
+SELL $55.35
+
+Buy $20K more.
+
+adjust for company split
+ TRADE buy 470@42.30 commission 9.99 balance 848
+TRADE buy 470@20.1348 commission 9.99 balance 848
+
+June 23, 2011
+
+adjust for company split
+ TRADE buy 289@34.60 commission 9.99 balance 1137
+TRADE buy 289@16.4696 commission 9.99 balance 1137
+
+May 27, 2013
+
+Revenues have declined.
+2012-2010:
+$120B $127B $126B
+
+Last year there were $20B worth of non-recurring write offs.  Although it's dangerous to assume these things are really non-recurring it's worth looking at.
+
+Here is the two quarters which don't contain the non-recurring hits. Share count from March 10Q
+
+May 2013
+rev 27,600,000 28,359,000 27,600,000 28,359,000  
+inc 1,100,000 1,232,000 1,100,000 1,232,000  
+shares 1,944,019,483
+price 24.21
+div 0.58
+==>
+Income $4664.0M
+Revenue $111918.0M
+EPS $2.40
+PE 10.1
+MC $47064.7M
+Margins 4.2%
+Yield 2.4%
+Payout Ratio 24.2%
+
+PE is now 10 which is pricy for a company that is not out of trouble.  Buy at PE 6.  Sell at PE 13.  I don't have a back in the truck price so just leave it at zero.
+
+EPS $2.40 PE  6 ==> Price $14.40
+EPS $2.40 PE 13 ==> Price $31.20
+
+BUY $0 $16.80
+SELL $31.20
+
+Aug 28, 2014
+
+Apr 2014
+rev 27,309,000  	28,154,000  	29,131,000  	27,226,000  
+inc 1,273,000  	1,425,000  	1,414,000  	1,390,000 
+shares 1,871,351,513
+price 38.01
+div 0.64
+==>
+Income $5502.0M
+Revenue $111820.0M
+EPS $2.94
+PE 12.9
+MC $71130.1M
+Margins 4.9%
+Yield 1.7%
+Payout Ratio 21.8%
+
+Company is still troubled but market has changed a bit and 3D printing still has some potential.  Sell at fair PE of 15.  Buy at a yield of 3.5%.
+
+SELL $44.10
+BUY $18.29
+
+May 22, 2016
+
+The company has been split for over a year and the first 3d printers are out.  I like the fact that they are going for market share on 3d printers.  Open stadard an no restrictive "ink".
+
+Next quarter's earnings come out on Tuesday.
+
+Jan 2016
+rev 12,246,000  	25,714,000  	25,349,000  	38,434,000
+inc 592,000  	1,323,000  	854,000  	1,011,000  
+shares 1,736,936,115
+price 11.66
+div 0.50
+==>
+Income $3780.0M
+Revenue $101743.0M
+EPS $2.18
+PE 5.4
+MC $20252.7M
+Margins 3.7%
+Yield 4.3%
+Payout Ratio 23.0%
+
+Try with just the last quarter
+
+rev 12,246,000
+inc 592,000
+shares 1,736,936,115
+price 11.66
+div 0.50
+==>
+Income $2368.0M
+Revenue $48984.0M
+EPS $1.36
+PE 8.6
+MC $20252.7M
+Margins 4.8%
+Dividend $0.50
+Yield 4.3%
+Payout Ratio 36.7%
+
+Average payout.  PE is low but not in the gutter.  We need a lower price before entering.
+
+BUY $8.00
+SELL $22.00
+
+May 25, 2016
+
+Earnings came in today with $11.6B rev.  Only per share earnings reported but in line with the last low quarter.  Valuation is not significantly changed.
+

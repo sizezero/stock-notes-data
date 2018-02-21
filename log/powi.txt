@@ -1,0 +1,34 @@
+
+NAME: Power Integrations Inc.
+CID: 0000833640
+
+Jan 2, 2010
+
+Barron's Dec09 value list
+
+high voltage integrated circuits used in many consumer devices
+
+huge administrative charge in dec08 clobbered earnings
+
+sep09 three quarters
+rev 60,024  	49,250  	40,289
+inc $9,152  	$4,529  	$404
+price 36.36
+shares 27,021,710
+==>
+EPS $0.69
+PE 52.3
+MC $982.5M
+Margins 9.4%
+
+I don't get it.  Even excluding the bad quarter PE is crazy.
+
+Average next year estimate 1.59
+EPS $1.59
+price 36.36
+==>
+EPS $1.59
+PE 22.9
+Price $36.36
+
+Even with estimates the stock seems priced too high.

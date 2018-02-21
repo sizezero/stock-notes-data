@@ -1,0 +1,79 @@
+
+NAME: Rocky Shoes & Boots Inc.
+CID: 0000895456
+
+Jan 24, 2006
+
+"Great" company from value screen.
+
+Makes outdoor boots and gloves.
+
+04 to 02
+rev 132,249  	106,165  	88,959
+inc $8,594  	$6,039  	$2,843
+
+sep05 to dec04
+rev 94,088  	65,520  	61,498  	32,880
+inc $6,508  	$2,805  	$1,094  	$2,187
+shares 5,646,161
+price 19.90
+==>
+Income $12.6M
+EPS $2.23
+PE 8.9
+MC $112.4M
+
+jan05 acquired EJ footware
+pension plan--need to look at that.
+It looks like the drop in share price is due to a cancelled military boot contract.  In spite of that, it is still trading at a low present and future multiple.  Compare to BOOT, TBL, and WWW.
+
+Mar 2, 2006
+
+4Q earnings just announced.  Net income up 51%.  2005 diluted EPS $2.33  Outlook for 2006 EPS $2.35 to $2.45  Guidance does not include any military sales.
+
+Stock is up 6% this morning.
+EPS 2.33 price 24.69 ==> PE 10.6
+EPS 2.40 price 24.69 ==> PE 10.3
+
+A very low PE considering how much this company is growing.
+
+Mar 2, 2006
+
+TRADE buy 400@24.40 commission 7.99 balance 400
+
+Apr 24, 2006
+
+NOTIFY date Apr 27, 2006 earnings call after market close
+
+Apr 27, 2006
+
+NOTIFY date off
+
+mar06 to jun05
+inc $2,606   	$6,508   	$2,805   	$1,094
+shares 5,615,942
+price 23.79
+==>
+EPS $2.32
+PE 10.3
+MC $133.6M
+
+Lower military sales and one time stock option accounting lowered earnings.  Margins are up since military sales have lower margins.  Small one time charges to curtail the "defined benefit pension plan".
+
+"The Company stated it remains comfortable with its previously updated guidance for fiscal 2006. The Company expects revenues to be in the range of $287 million to $292 million, and diluted earnings per share to be in the range of $2.28 to $2.38, including a non-cash charge of approximately $0.07 per share related to stock option expensing. Excluding stock option expensing, the Company expects diluted earnings per share to be in the range of $2.35 to $2.45. It is important to note that the Company’s guidance for fiscal 2006 does not include any footwear sales to the military compared to approximately $27.7 million in fiscal 2005."
+
+It seems 2006 estimates are in line with trailing 12 month estimates.
+
+Jul 14, 2006
+
+Earnings guidance for a loss next quarter pummeled the stock by 42%.  Steve says that lost trust in management will take a couple good quarters to restore so there should be no rush to look for a buying opportunity.
+
+Oct 2, 2006
+
+TRADE sell 400@11.55 commission 8.14 balance 0
+
+June 13, 2009
+
+value screen june 2009
+
+Hemmoraging money in all markets.  Stay away.

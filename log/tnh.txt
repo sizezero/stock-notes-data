@@ -1,0 +1,37 @@
+
+NAME: Terra Nitrogen Company, L.P.
+CID: 0000879575
+
+Nov 27, 2010
+
+Trying new value checklist from latest book.
+
+Industry: basic materials - agricultural chemicals.  A fertilizer company based in Oklahoma that converts natural gas into amonia for fertilizer.
+
+CEO
+Mr. Michael Bennett , 55
+Chairman of Terra Nitrogen GP Inc, Chief Exec. Officer of Terra Nitrogen GP Inc, Pres of Terra Nitrogen GP Inc, Chief Exec. Officer of Terra Industries Inc, Pres of Terra Industries Inc of Terra Industries Inc.  $500K salary.  Held position since April 2001.  Parent "Terra Industries" has merged with CF Industries Holding Inc.
+
+Started reading 10Ks.  I don't really understand the relationship between the Limited Partnership and the parent company.
+
+"""
+Dependence on Terra.
+The Partnership is dependent on Terra Industries Inc. in a number of respects. Terra provides all of the Partnership’s management services and operates the Partnership’s Verdigris, Oklahoma facility through its wholly-owned subsidiary TNGP, the Partnership’s general partner. Terra and its wholly-owned subsidiaries have more debt and debt service requirements than the Partnership. Although Terra is affected by most of the factors that affect the Partnership, its higher level of debt could put a greater risk on Terra in the event business conditions deteriorate materially. While the Restructuring was undertaken to reinforce the structural independence of the Partnership from Terra, the Partnership’s results of operations and financial condition might be materially adversely affected by financial difficulties at Terra, default by it or its subsidiaries on their debt or their bankruptcy. 
+
+Terra Industries Inc. and its affiliates may engage in competition with the Partnership.
+The partnership agreement will not prohibit Terra and its affiliates, other than the general partner TNGP, from owning and operating nitrogen fertilizer manufacturing plants and storage and distribution assets or engaging in businesses that otherwise compete directly or indirectly with the Partnership. In addition, Terra may acquire, construct or dispose of additional assets related to the Partnership’s business in the future, without any obligation to offer the Partnership the opportunity to purchase or construct any of these assets. 
+"""
+
+2007 10K had the best description of the business.  Not a lot of transparency in management and costs since they are provided by the parent.
+
+Strange buy-out ping-pong from parent 
+
+"""
+On January 14, 2010, CF withdrew its offer to acquire Terra and announced that it was no longer pursuing the proposed acquisition and has sold all of its shares of Terra common stock.
+ 
+On February 12, 2010, Terra entered into an Agreement and Plan of Merger with Yara and an indirect, wholly owned subsidiary of Yara. If the transactions contemplated by the Yara Merger Agreement are consummated, Terra and our General Partner will become indirect, wholly owned subsidiaries of Yara and Yara would assume Terra’s role relative to our ownership and operation.
+ 
+On March 2, 2010, Terra received a proposal from CF Industries to acquire all of the outstanding common stock of Terra for $37.15 in cash and 0.0953 of a share of CF Industries common stock for each Terra share. The proposal from CF Industries is subject to the termination of the Yara Merger Agreement, the execution of a definitive agreement with CF Industries and other customary conditions. 
+"""
+
+Final result.  The tangle of the business model is too much.  It's not clear who runs the company and who they are beholden to.  CF industries owns 75% of TNH stock.

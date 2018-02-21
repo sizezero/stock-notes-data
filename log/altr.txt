@@ -1,0 +1,22 @@
+
+NAME: 
+CID: 
+
+Jan 3, 2010
+
+Analysts best picks 2010
+
+sep09
+rev 286,612  	279,201  	264,602  	314,544
+inc $56,704  	$47,423  	$43,961  	$83,041
+price 22.63
+shares 295,371,576
+==>
+EPS $0.78
+PE 28.9
+MC $6684.3M
+Margins 20.2%
+
+PE relies on aggressive growth.  Report estimates 2010 will have a PE of 20 at the current price.
+
+

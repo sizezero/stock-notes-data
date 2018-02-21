@@ -1,0 +1,23 @@
+
+NAME: TeleCommunication Systems Inc.
+CID: 0001111665
+
+May 6, 2006
+
+Several wireless technologies:
+SwiftLink: wireless IP communications between "warfighters" (assuming soldiers)
+XYPoint: location tracker; can do things like "track nearest buddy"
+E911: allows wireless carriers to meet 911 requirements
+Mobiles Apps: provides location data to ATT wireless, yellowpages.com, etc.
+Messaging: gateway products for wireless companies
+several other products
+
+mar06 to jun05
+rev 31,700 6,472   	34,546   	28,056
+inc ($3,130) 	($2,212) 	($4,038) 	
+shares 39,545K
+price 2.94
+==>
+MC $116.3M
+
+Having lots of products and being continually unable to make money makes the company appear to be unfocused.  None of the products are obvious killer apps to me.

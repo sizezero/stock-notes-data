@@ -1,0 +1,160 @@
+
+NAME: Pressure Biosciences
+CID: 0000830656
+
+Sep 28, 2005
+
+Showing at Edgewater Conference.
+
+I really don't have a clue about biotech.  This company looks a little
+worse than the average.  What's up with the tanking revenues?
+
+Nov 21, 2005
+
+Steve asked me to look at it again.  I don't see anything new.
+
+Dec 8, 2005
+
+Steve keeps telling me this is a good deal so I'm looking at it again.
+From Steve's description, the main product of the company is an
+automated mortar and pestel type machine that is more consistent than
+doing it by hand.  There is also a razor/blades argument since the
+machine needs some type of cartridge in order to operate.
+
+Low executive pay--good sign.
+
+Diluted shares from 10Q: 2537987
+MC @ 4.95 = 12.6M
+
+Market cap is very low.  If the company could sell anything the stock
+would be in good shape.
+
+From 10Q:
+
+Barocycler is the main product that was released in 2002.  PULSE tubes
+are the disposable part of the device.  A smaller, less expensive
+version of the Barocycler was released.
+
+The company has failed to sell this product for 3 years.  Some of the
+reasons from the 10Q:
+ 
+  We believe that sales of our pressure cycling technology products
+  have been adversely affected primarily as a result of the following
+  factors:
+
+  (1) the initial design and selling price of the Barocycler,
+
+  (2) the limited amount of research data available demonstrating its
+  capabilities and potential,
+
+  (3) the absence of a strong sales and marketing management team,
+
+  (4) the absence of a strong promotional campaign after the
+  commercial release of the Barocycler NEP 2017,
+
+  (5) the inability to execute our sales plan as a result of financial
+  constraints prior to 2005,
+
+  (6) current US economic conditions and uncertainties which
+  negatively affected capital spending on laboratory instruments,
+
+  (7) the financial condition of our company during 2003 and 2004,
+
+  (8) the focus of our resources on other projects, including the sale
+  of our BBI Diagnostics, BBI Biotech, and selected assets and
+  liabilities of our laboratory instrumentation business units, a
+  process that began in October 2002 and was completed in September
+  2004,
+
+  (9) the time required to complete post-transaction issues related to
+  the sale of BBI Diagnostics and BBI Biotech, and
+
+  (10) the effort required during 2005 to restructure the Company
+  including the effort to build a new corporate infrastructure."
+
+The company feels that sales, marketing, and customer education are
+the big limiting factors.  It is working with resellers as well as
+loaning 12 the units to potential customers.  Trial resulted in one
+sale so far.
+
+Why is there no sales information on the home page?  I can't even find
+a price for one of the units.
+
+Press release came out today regarding exclusive distribution
+agreement with a Japanese company.  They bought two units for
+demonstration purposes.  A quote from the reseller:
+
+  "We are very impressed with PBI's PCT SPS, believe that it is the
+  best system available for sample preparation, and believe that we
+  will be very successful in placing multiple instruments in the
+  Japanese market."
+
+What kind of numbers are we talking about?  What do they earn per unit
+and what is the range of product we would expect to sell in the next
+year?  What have they sold in the past?  The 10Q claims to have $250M
+of finished goods in their inventory.  Is that retail cost?
+
+Talked with Steve.  Current product is $25K per unit.  He's not sure
+if that is the low or high end unit.  Sell 2-400 disposable per
+product per month.  Margins on units are unknown but disposables have
+50% margins.
+
+Dec 9, 2005
+
+Talked to Steve again.  Inventory reported in a 10Q is cost of goods
+plus labor, not retail value.  The margins on the disposable is higher
+than Steve had earlier thought.  Closer to 5x or 10x cost.
+
+Dec 9, 2005
+
+TRADE Buy 1000@4.6 Balance 1000 commission 7.95
+
+Dec 13, 2005
+
+Steve talked with management today.
+
+Company has $2.50 share in cash; $1.98 for some other stock they own: PANC.  This  almost adds up to  the price of the stock.
+
+Units sell for $30K per piece.  20-30% gross margin, installed base of 12 units.  Gross margins on disposables is 60%.  FDA installed one of these.  The sealed tube increases safety of the product.  Japan is a leader in using pressure in a lot of areas.
+
+1K units could generate $20-25M gross for disposables.
+
+TRADE Buy 1000@4.4 Balance 2000 commission 7.95
+
+In an attempt to find customer opinions, I searched for both products on the web and found a few references.
+
+http://glycome.unh.edu/csb/instrumentation/instrumentation.htm
+
+One of the units appears to be on loan at the University of New Hampshire.  They list it with much of their lab equipment as an enticement to prospective students.  There is no real endorsement of the product, just a catalog listing.
+
+http://unhinfo.unh.edu/news/news_releases/2003/october/sk_20031023newtech.html
+
+Schumacker (PBIO CEO) presented an "award" to to Heidi Geisner for using the device that PBIO had loaned to the university.  There's nothing really dishonest about this, but it does feel shmoozy.  The best comment from Heisner is:
+
+“We've really appreciated being able to use PCT and the Barocycler,” said Geiser, whose project was published in the Society for Glycobiology's journal, Glycobiology. “It has allowed us to extract molecules in greater quantities than before, and to discover potentially new glycoproteins—using PCT has become our standard procedure.”
+
+http://www.biochemj.org/bj/382/0995/bj3820995.htm
+
+The above is a biomedical journal paper.  It is way above my head but they mention using a NEP2017 for the experiment.  They don't judge the machine as good or bad, but rather just mention their process for the sake of reproducability.
+
+http://www.fda.gov/cber/minutes/wnv110402.htm
+
+The above is a presentation by the FDA on some specific aspect of the West Nile Virus.  Their analysis required the use of a NEP2017 and they mention it's use--again I assume for reproducability.  No raving endorcements, but I suppose I shouldn't expect them in a research paper.
+
+Nothing conclusive or inconclusive.  I would love to have a bunch of positive customer testimonials.
+
+Dec 22, 2005
+
+Resignation of the Company's Vice President - Finance, Chief Financial Officer and Assistant Treasurer.  I'm not sure what to read into these insider moves.
+
+Mar 21, 2006
+
+Sold one unit to the FBI.  Hopefully this will result in more sales.
+
+Jun 23, 2006
+
+Steve talk with PBIO this morning.  Just starting a larger production run of 25 that will be out in the field.
+
+Oct 2, 2006
+
+TRADE sell 2000@3.3513 commission 8.20 balance 0

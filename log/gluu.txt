@@ -1,0 +1,17 @@
+
+NAME: Glu Mobile, Inc.
+CID: 0001366246
+
+Oct 30, 2010
+
+Steve saw this company at an investor's conference recently.
+
+Looking at the home page and games it's clear that their product line is fragmented across licensed and unlicensed titles as well as fragmented across platforms.  Basically an iphone user can run 40% or so of their apps.  An android user can run one app.  All this comes from the fact that the company used to develop exclusively for the old generation of non-smart phones and now is starting to develop for smart phones which each have their own app stores.  The company does a good job of describing the hurdles they will face as their company changes strategy in the following 6 bullet points from their last 10Q.
+
+"""
+Although we expect our revenues from advanced platforms and smartphones to increase in 2010 as compared to 2009, we do not expect this increase to fully offset the anticipated decline in revenues from games we develop for feature phones in our traditional base carrier business. Significantly growing our revenues and further succeeding in this channel may be challenging for us for several reasons, including: (1) the open nature of many new smartphone storefronts increases substantially the number of our competitors and competitive products, which makes it more difficult for us to achieve prominent placement or featuring for our games, (2) the competitive advantage of our porting capabilities may be reduced as these advanced platforms and smartphones become more widely adopted; (3) many of our key licenses do not grant us the rights to develop games for the iPhone and other smartphones; (4) open storefront distribution is still relatively new for us, and we must develop a marketing strategy that allows us to generate sustainable and increasingly profitable revenues, without significantly increasing our marketing or development expenses; (5) we have only recently begun to embed micro-transaction capabilities into some of our games for smartphones as well as experiment with a number of advertising monetization techniques, and our limited experience in these areas may cause us to have difficulty optimizing the monetization of our games; and (6) we have a limited ability to invest heavily in this strategy. 
+"""
+
+I don't see any strength that this company has in this new market.  They don't have marketing experience with the new app stores.  They don't have lots of development experience on the new phones.  They don't have any kind of guarantee on licenses. (and they've already lost some.
+
+I see lots of risk and not much value.  In spite of all this, it's probably worth checking in after 6 months and see how they've handled their challenges.

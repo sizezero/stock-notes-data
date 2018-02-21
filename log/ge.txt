@@ -1,0 +1,245 @@
+
+NAME: General Electric
+CID: 0000040545
+KEYWORDS: megacap2008 not_great
+
+Dec 15, 2008
+
+mega cap 2008
+
+TRADE buy 73@16.90 balance 73 commission 9.99
+
+Jan 12, 2009
+
+TRADE buy 78@16.00 balance 151 commission 9.99
+
+Mar 2, 2009
+
+TRADE buy 320@7.6399 balance 471 commission 9.99
+
+May 8, 2009
+
+TRADE buy 202@13.19 balance 673 commission 9.99
+
+Jul 22, 2009
+
+TRADE buy 227@11.80 balance 900 commission 9.99
+
+Sep 2, 2009
+
+TRADE buy 203@13.20 balance 1103 commission 9.99
+
+Nov 11, 2009
+
+TRADE buy 171@15.80 balance 1274 commission 9.99
+
+Nov 15, 2009
+
+inc $2,455,000  	$2,596,000  	$2,736,000  	$3,647,000
+shares 10,647,495,000
+price 15.66
+==>
+Income $11434.0M
+EPS $1.07
+PE 14.6
+MC $166739.8M
+
+Severely dropping revenue and income for two years.  Is it really worth a PE of 15?
+
+Mar 13, 2010
+
+dec09
+rev 41,438,000  	37,852,000  	39,082,000  	38,411,000
+inc $2,938,000  	$2,455,000  	$2,596,000  	$2,736,000
+shares 10,669,821,000
+price 17.04
+==>
+EPS $1.01
+PE 17.0
+MC $181813.7M
+Margins 6.8%
+
+Marching ahead with revenue, income and dividends (2.4%).  Forcasts for flat eps over the next year.  Keep since it should be easy to beat the forcast.
+
+Oct 23, 2010
+
+sep10 latest quarter taken from headlines not 10Q
+rev 35,888,000 37,444,000   	36,605,000   	41,438,000
+inc 2,055,000  $3,034,000   	$1,870,000   	$2,938,000
+shares 10,691,000,000
+price 16.06
+==>
+EPS $0.93
+PE 17.3
+Margins 6.5%
+
+Looks pricey but I'm willing to hang onto a 3% yield.
+
+Feb 20, 2011
+
+Industry: Conglomerates/Conglomerates
+CEO: Jeffrey R. Immelt
+Year took office: Replaced Jack Welch in 2000.  Previously headed Medical Systems division (now GE Healthcare)
+
+Annual Reports
+ read current
+ read 2 yrs ago
+ read 3 yrs ago
+ read 4 yrs ago
+ read 5 yrs ago
+
+=== 2005 10K ===
+
+Crazy diverse
+Infrastructure
+  Avaiation and aviation Financial Services (jet engines, maintenance)
+  Energy and Energy Financial Services (turbines [jet, steam, wind, gas], nuclear plants)
+  Oil and Gas (refinement machinery, pipelines)
+  Transportation (locomotives, engines,
+  Water (chemicals, pumps, valves, filters, treatment, desalination)
+Industrial
+  Consumer and Industrial (high volume appliances)
+  Equipment Services (rentals)
+  Plastics
+  Other (Silicone, Quartzware)
+Healthcare (MRI, xray, many others)
+NBC Universal
+Commercial Finance
+  Capital Solutions (loans and leases: aircraft, equipment)
+  Real Estate (loans)
+Consumer Finance (consumer credit)
+
+R&D $3,425 million in 2005
+$3,091 million in 2004
+$2,656 million in 2003.
+
+Government is the largest single customer at 2%-4% of rev
+
+rev 2001-2005: 108, 114, 113, 134, 150
+Infrastructure and Industrial is about half of rev.
+inc 2001-2005: 14, 14, 15, 17, 16
+11%-13% margins
+
+Form ex13 breaks up rev and inc for every segment and sub segment.  This would be a lot of work to analyse.  I wish they'd break this company up.
+
+Disconinued insurance in 2005. This was a major hit 2000-2001. It's a bad sign that they get out of a business _after_ the damage is done.  Probably the same with real-estate in 2008.
+
+Half of rev/inc is from Europe.  Americas only 14% rev.
+
+Without financial services, industrial rev would have grown 50% over the last 5 years.
+
+=== 2006 10K ===
+
+=== 2007 10K ===
+
+=== 2008 10K ===
+
+=== 2009 10K ===
+
+Looks like new divisions/sections or at least new names
+
+Energy Infrastructure (24% rev, up from 18% two years ago)
+  Energy (production, distribution, management)
+  Oil and Gas (sells parts, services to oil companies)
+Technology Infrastructure (27% rev, up from 25% two years ago)
+  Aviation (engines and related)
+  Enterprise Solutions (integrated solutions: sensors, testing, monitoring)
+  Healthcare
+  Transportation
+NBC Universal (10% rev up from 9% two years ago)
+Capital Finance (32% down from 38% two years ago)
+  Commercial lending and leasing
+  Consumer
+  Real Estate
+  Energy Financial Services
+  GE Capital Aviation Services
+
+Disconinued: GE Money Japan, WMC (?), and plastics
+
+R&D
+2009 $3.3 billion
+2008 $3.1 billion
+2007 $3.0 billion
+
+2009-2005
+rev: 157, 183, 172, 152, 136
+inc: 11, 17, 22, 21, 17
+eps: 1.01, 1.72, 2.18, 2.00, 1.58
+
+Energy Infrastructure up the past couple years.  All other divisions down.
+
+================
+
+Competitive advantage
+ Company Moat
+  Brand: doubt the brand is worth something to consumers under 40; other products?
+  Switching: Not sure how replacible large industrial products are
+  Cost: Conglomerate may provide cost leverage
+  Protected: Many of the products are commodities (turbines)
+  Other
+ How likely will moat endure over the next 5 yrs?  Not much of a moat.
+
+Competitors
+ For 3 competitors: MMM, UTX HON
+  Read current annual report
+ What is the biggest risk to the company over the next 5 yrs?
+ Probability of it happening
+
+Financial Checklist
+ For company and industry (no "industry" to compare this to)
+  5 yr EPS growth. -64%
+  5 yr revenue growth. 15%
+  Current net profit margin (earnings/revenue). 7%
+  Current ROE (earnings/stockholders_equity). 10.1%
+  % long term debt to equity. 2.88
+
+It's hard to get past the conglomeration of all kinds of separate industries plus all of the financial products.  They have been very committed to dividends but that doesn't help if you can't keep making money.  It seems the post Welch management hasn't really been able to do anything with the company.
+
+sep2010
+rev 35,888,000   	37,444,000   	36,605,000   	41,438,000
+inc 1,980,000   	3,034,000   	1,870,000   	2,938,000
+shares 10,669,821,000
+price 21.44
+==>
+EPS $0.92
+PE 23.3
+MC $228761.0M
+Margins 6.5%
+
+I can't see owning this as a solid company.  At a PE of 23, other people must know something that I don't to justify this.  Sell.
+
+Sep 16, 2012
+
+jun2012
+rev 36,501,000  	 35,182,000  	 37,973,000  	 35,375,000
+inc 3,105,000  	 3,034,000  	 3,730,000  	 2,343,000
+shares 10,558,844,000
+price 22.11
+div 0.68
+==>
+EPS $1.16
+PE 19.1
+MC $233456.0M
+Margins 8.4%
+Yield 3.1%
+Payout Ratio 58.8%
+
+The 18 month dip made me hang onto it for no good reason.  Now QE3 has bumped it with other stocks.  Sell half immediately and put a sell order a little higher than it is now for the rest..When would I buy this back?  If the PE dropped to something reasonable then the yield would be crazy high.  I suppose put a buy in at PE 11 just so we notice it.
+
+BUY $12.76
+
+Sep 19, 2012
+
+TRADE sell 637@22.35 commission 9.99 balance 637
+
+Oct 3, 2012
+
+TRADE sell 637@22.97 commission 9.99 balance 0
+
+Mar 22, 2015
+
+No longer interested in the company.
+
+BUY None
+SELL None
+

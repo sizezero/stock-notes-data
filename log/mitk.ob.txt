@@ -1,0 +1,84 @@
+
+NAME: Mitek Systems Inc.
+CID: 0000807863
+
+Dec 3, 2005
+
+The company's most popular product is windows based workstation
+software that verifies check signatures.  It has several small banks
+in it's success stories and claims some larger institutions (IBM, Bank
+of America) as its customers.
+
+Declining revenue and income since 2002.  Just squeaked in with a
+profitable jun05 quarter.
+
+They have 11 patents relating to OCR and signature verification and
+are active in licencing them for royalties.
+
+It looks like they may have had some legal problems in 2005.  From
+their latest earnings press release: "During 2005, we moved quickly to
+complete the divestiture of our CheckQuest product line, have resolved
+all litigation to the benefit of the Company, and recruited top
+management personnel."
+
+Pay and stock of the executives is modest.
+
+Latest earnings dec3
+Past 4Qs
+458K+230K-798K-918K = -1028K
+
+It looks like they may be on the verge of becoming profitable.
+
+From latest 10-KSB "There were 14,832,337 shares outstanding of the
+registrant's Common Stock as of October 19, 2005".  Employee stock
+options and debt issuance could further dilute the stock.
+
+If earnings continue as is (no growth), then trailing year earnings in
+six months could be 1.5M giving an eps of $0.10 Given a stock price of
+$1.2 that would give a PE of 12 which is crazy low for a software
+company.
+
+Dec 4, 2005
+
+Listened to conference call.  Nov 30, 2005 call for fiscal 4Q 2005
+(sep30 2005)
+
+lecture:
+divesting unproductive assets in the last 18 months
+ceo joined 30 months ago
+focusing on high margin software products
+gross margins up 63% to 83%
+working to eliminate lauris fund debt
+markets to community banks and credit unions
+installed 10 fraud systems to date
+one instance ROI was less than 3 months
+approval cycle is long and commitment to new tech is slow
+strategic partnership with John H Harland co.
+can expand to retail, health care, and homeland security
+expect 2006 sales to be higher than 2005
+
+questions:
+more than checks
+looking for other applications for image verification
+ceo really hyping technology
+gets royalty on printed checks
+gets royalty on decoding algorithms (not yet realized)
+hardware devices are a long way out
+harlan is a large co. ticker is JH
+several new analysts that are following the co--no specifics
+ownership (idiot caller; all in 10KSB):
+thorton: 19%
+lauris: a million in warrants; could have 5-6%
+harland: 20% (warrants)
+total outstanding shares: 14M (maybe 3 more million)
+
+The one issue that came up for me was the possible extra 3M in
+outstanding shares.  That changes the calculations a bit and adjusts
+the possible PE from 12 to 15.
+
+Aug 8, 2009
+
+2009 small cap search
+
+Still hasn't made money aftr all these years.  Declining revenues.
+

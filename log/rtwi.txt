@@ -1,0 +1,42 @@
+
+NAME: RTW Inc.
+CID: 0000915781
+
+Jul 14, 2006
+
+Found as "great" in value screen jun06
+
+provides disability and absence management services for the workers’ compensation programs. 
+
+rev 13,709  	14,012  	15,268  	14,922
+inc $1,054  	$2,107  	$1,521  	$1,321  
+shares 5,638,000
+price 10.83
+==>
+EPS $1.06
+PE 10.2
+MC $61.1M
+Margins 10.4%
+
+"""
+This was another excellent quarter for us despite the continuing pressure on insurance pricing," said Jeff Murphy, RTW's President and CEO. "Competitors continue to price policies well below what we believe are acceptable rates. We continued to execute our plan of growing service business through our Absentia(SM) service division which presents significant growth and profit potential for the company. Further, Absentia provides us the flexibility to decline writing inappropriately priced business, maintaining profitability in our insurance operations.
+"""
+
+CEO feels competitors are pricing themselves too low and opening themselves up to greater liability in the future.  Expects a decline in premiums for the next quarter as well.
+
+NOTIFY date July 26, 2006 earnings
+
+Jul 27, 2006
+
+NOTIFY date off
+
+jun06 to sep05
+rev 14,119 13,709  	14,012  	15,268
+inc $1,434 $1,054  	$2,107  	$1,521
+shares 5,536,000
+price 10.66
+==>
+EPS $1.10
+PE 9.6
+MC $59.0M
+Margins 10.7%

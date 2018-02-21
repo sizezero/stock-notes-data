@@ -1,0 +1,51 @@
+
+NAME: Digital Ally Inc.
+CID: 0001342958
+KEYWORDS: maybe_great
+
+Sep 12, 2010
+
+Steve likes this digital video security system company.  Sells to police departments.
+
+Advantages:
+* profitable in the pre-crash past
+* analog to digital will spur upgrades
+* insiders buying stock
+* decent balance sheet
+* management predicts 2010 to be record year
+
+Disadvantages
+* weak economy may mean many departments are not spending on infrastructure
+
+I should put a low bid for $10K
+
+Sep 24, 2010
+
+TRADE buy 1225@1.60 commission 7.00 balance 1225
+
+Low bid only picked up 1/5 of what I wanted.
+
+Nov 11, 2010
+
+TRADE buy 1875@1.60 commission 7.00 balance 3100
+
+Jan 11, 2011
+
+TRADE buy 2923@1.71 commission 7.00 balance 6023
+
+Aug 24, 2012
+
+Not sure what happens to the odd shares after a reverse split.  Calculations blow up when I try to sell it for $0
+
+TODO: this blows up the gain calculator with a div by zero error
+TRADE sell 7@1.0 commission 0.0 balance 6016
+TRADE split 1:8 balance 752
+
+Aug 28, 2014
+
+I think I got lucky with one small Michigan order and the Ferguson shooting bumping the price.  Time to get out of this issue that I don't want to own.
+
+TODO: add commission data when it becomes available
+
+TRADE SELL 752@17.32 commission 7.29 balance 0
+

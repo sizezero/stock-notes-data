@@ -1,0 +1,23 @@
+
+NAME: Bally Technologies, Inc.
+CID: 0000002491
+
+Jan 2, 2010
+
+Barron's Dec09 value list
+
+Gaming systems as well as management systems for casinos.
+
+from sep09
+shares include 3.5M from treasury
+rev 196,485  	205,154  	207,583  	233,294 
+inc $30,624  	$33,190  	$29,251  	$33,564
+price 41.29
+shares 58000000
+==>
+EPS $2.18
+PE 18.9
+MC $2394.8M
+Margins 15.0%
+
+Great margins but high trailing PE.  Stock price seems to fully anticipate future growth.  Upside is new slots needed for states that legalize gambling.  Downside is the slump in the large (Vegas) casino market.

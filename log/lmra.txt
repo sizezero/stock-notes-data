@@ -1,0 +1,35 @@
+
+NAME: Lumera Corp.
+CID: 0001137399
+
+Nov 7, 2005
+
+Showing at Westergaard conference.
+
+Makes polymers for wireless antennas. (mobile phones / military) They
+haven't figured out how to make money yet.  Located in Bothell WA.
+
+They are busy collecting IP and their chip is protein based so they
+get the "nanotech" buzzword stamp but I'm not sure how to tell if
+their product is any good.
+
+I just read their convoluted 10Q that was released today and could not
+find earnings anywhere in it.  I assume they were negative but it
+would have been nice if they were up front about it.  Large CEO salary
+($600K+) seems like a bad sign for a new company that is not earning
+money.
+
+Jun 19, 2006
+
+mar06 to jun05
+rev 503  	240  	681  	348
+inc ($3,120)	($2,615)	($2,034)	($2,926)
+shares 16,757,005
+price 3.07
+==>
+EPS ($0.64)
+MC $51.4M
+
+Burning money but the company still has $22M in cash.
+
+Paulson has just under 30K warrants with an exercise price of $19.92

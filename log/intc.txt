@@ -1,0 +1,230 @@
+
+NAME: Intel
+CID: 0000050863
+KEYWORDS: megacap2008 not_great
+
+Dec 15, 2008
+
+mega cap 2008
+
+TRADE buy 84@14.60 balance 84 commission 9.99
+
+Jan 12, 2009
+
+TRADE buy 89@13.97 balance 173 commission 9.99
+
+Mar 2, 2009
+
+TRADE buy 196@12.60 balance 369 commission 9.99
+
+May 8, 2009
+
+TRADE buy 167@16.02 balance 536 commission 9.99
+
+Jul 24, 2009
+
+TRADE buy 145@18.55 balance 681 commission 9.99
+
+Sep 2, 2009
+
+TRADE buy 137@19.60 balance 818 commission 9.99
+
+Nov 12, 2009
+
+TRADE buy 135@19.8797 balance 953 commission 9.99
+
+Nov 29, 2009
+
+inc $1,856,000  	($398,000)	$629,000  	$234,000
+shares 5,616,000,000
+price 19.11
+==>
+EPS $0.41
+PE 46.2
+MC $107321.8M
+
+Huge growth expected next year. (EPS 1.46) Keep buying.
+
+Jan 10, 2010
+
+I already have a stake so I'll throttle my buying a bit.
+
+megacap 2010
+rank 3
+
+Feb 2, 2010
+
+TRADE buy 126@19.6995 balance 1079 commission 9.99
+
+May 6, 2010
+
+TRADE buy 108@22.95 balance 1187 commission 9.99
+
+Aug 2, 2010
+
+TRADE buy 118@20.99 balance 1305 commission 9.99
+
+Nov 10, 2010
+
+TRADE buy 119@20.63 balance 1424 commission 9.99
+
+Jan 28, 2012
+
+Industry: Technology / Semiconductor - Broad Line
+CEO: Paul S. Otellini
+Year took office: 2002, VP since 1988, at company since 1974. $15M total compensation
+
+=== 2006 10K ===
+
+Platform (sum of the parts) is more important than individual components.  In developing platform, may use ingredients sold by other companies.  Examples of platforms: Hyper threading, Virtualization.
+
+Performance drivers include: speed, reduced power, new capabilities (multithreading), connectivity, security, manageability, reliability.
+
+Customers: OEMs, PC & network communications users (individuals, businessees), industrial manufacturers.
+
+Our products compete primarily on the basis of performance, features, quality, brand recognition, price, and availability.
+
+The life cycle of our products is very short, sometimes less than a year. Our ability to compete depends on our ability to improve our products and processes faster than our competitors, anticipate changing customer requirements, and develop and launch new products and platforms, while reducing our average per unit costs.
+(no long term products as in a classical industry)
+
+Large semiconductor production has a huge fixed cost that is difficult to compete against.  This is a liability if demand shrinks.
+
+I could break up rev/inc by segment (server, mobile) or product (microprocessor, flash) but the truth is the vast majority of revenue comes from CPUS.  75% or so
+
+Revenue $35M
+EPS $0.86
+R&D $5.9B
+
+=== 2008 10K ===
+
+Nice revenue by segment graph.  DEG (digital enterprise group) 55% dropped from 58% in 2006.  MG (mobility group) 42% down from 35%.  Other at 3% down from 7%.  Microprocessor revenue split evenly between three groups.
+
+No real talk of defining performance metrics.
+
+High level objectives:
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+ 
+To succeed in the changing computing environment, we have the following key objectives:
+ 	 • 	 Strive to ensure that Intel technology remains the best choice for the PC as well as cloud computing and the data center.
+ 	 • 	 Expand platforms into adjacent market segments to bring compelling new solutions to the smartphone, the tablet, the TV, the car, and the rest of the embedded world.
+ 	 • 	 Enable devices that connect to the Internet and to each other to create a continuum of personal computing. This continuum would give consumers a set of secure, consistent, and personalized computing experiences.
+ 	 • 	 Positively impact the world through our actions and the application of our energy-efficient technology.
+
+Revenue $38B
+EPS $0.92
+R&D $5.7B
+
+=== 2010 10K ===
+
+Segment and processor breakdowns now up front.  New major groups are PCCG (PC Client Group) and DCG (Data Center Group)  PCCG at 72% rev.  Other Intel Architechture includes embedded, communications, digital home, and ultra-mobility (phones) is tiny at 4%.  Not sure how critical it is to cater to the non-PC market.
+
+Revenue $44B
+EPS $2.01
+R&D $6.6B
+
+================
+
+Competitive advantage
+ Company Moat
+  Brand: Not sure how much brand is worth.  I suppose for PC it is significant
+  Switching: At this point it is fairly easy to switch..
+  Cost: I don't know if Intel has some huge economies of scale
+  Protected: Barrier to entry for large chip fabs is huge
+  Other: IP?
+ How likely will moat endure over the next 5 yrs?  Slight PC moat may last.
+
+Competitors
+ For 3 competitors
+  Read current annual report
+ What is the biggest risk to the company over the next 5 yrs?  Large switch to mobile technology and Intels chips are not in them.
+ Probability of it happening.  ??? Need to find out if mobile devices can use large chips.
+
+Financial Checklist
+ For company and industry
+  5 yr EPS growth. 234%
+  5 yr revenue growth. 126%
+  Current net profit margin (earnings/revenue). 26% (ind 17%)
+  Current ROE (earnings/stockholders_equity). 23% (ind 23%)
+  % long term debt to equity. 4% (ind 32%)
+
+It is definitely not an unqualified great company but if it can gain a significant foothold in the mobile market it could dominate.
+
+jan12
+rev 13,900,000 14,233,000  	 13,032,000  	 12,847,000  	 
+inc 3,400,000 3,468,000  	 2,954,000  	 3,160,000  	 
+price 26.75
+shares 5242000000
+div 0.84
+==>
+EPS $2.48
+PE 10.8
+Margins 24.0%
+Yield 3.1%
+Payout Ratio 33.9%
+
+Nice yield and a healthy payout ratio.  PE 9=$22.3, yield 4%=$21.0, PE 15=$37.2, yield 2%=$42.0  Add to position at a reasonable price.
+
+BUY $21
+SELL $38
+
+Jan 29, 2012
+
+Talked with Martin yesterday.  He says that yes indeed mobile devices can benefit from large fab chips and that Intel is one of the few chip makers that designs and fabs large chips.
+
+I suppose the only thing remaining is to monitor their entry into the mobile market.
+
+Dec 31, 2012
+
+Put in a lowball bid at $19.45 that didn't fire.
+
+sep 2012
+rev 13,457,000  	 13,501,000  	 12,906,000  	 13,887,000
+inc 2,972,000  	 2,827,000  	 2,738,000  	 3,360,000
+shares 4,976,000,000
+price 20.55
+div 0.90
+==>
+EPS $2.39
+PE 8.6
+MC $102256.8M
+Margins 22.1%
+Yield 4.4%
+Payout Ratio 37.6%
+
+Leave the lowball bid in.  There is too much euphoria on this last day of the year to buy at this price.
+
+Aug 28, 2014
+
+jun 2014
+rev 13,831,000  	12,764,000  	13,834,000  	13,483,000
+inc 2,796,000  	1,930,000  	2,625,000  	2,950,000 
+shares 4,951,000,000
+price 34.86
+div 0.90
+==>
+Income $10301.0M
+Revenue $53912.0M
+EPS $2.08
+PE 16.8
+MC $172591.9M
+Price $34.86
+Shares 4951.0M
+Margins 19.1%
+Dividend $0.90
+Yield 2.6%
+Payout Ratio 43.3%
+
+Yield has dropped significantly.  Margins are still fairly high and should drop if there is successful entry into mobile.  Selling at a PE of 15 seems prudent.  Buying at a 4% yield sounds good in this environment.
+
+SELL $31.20
+BUY $22.50
+
+TRADE sell 1424@34.90 commission 9.99 balance 0
+
+Mar 22, 2015
+
+No longer interested in the company.
+
+BUY None
+SELL None
+

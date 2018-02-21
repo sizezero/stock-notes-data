@@ -1,0 +1,101 @@
+
+NAME: Covanta Holding Corporation
+CID: 0000225648
+KEYWORDS: tax_free
+
+Mar 11, 2012
+
+=== 2011 10K ===
+
+One of the largest "energy from waste" EfW companies.  Worldwide.  Property and casualty insurance in CA is less than 1% of operations.
+
+Burn 1 ton of waste at 2000F.  Yield 10% volume as ash, 50lb recylcled metal, 550 kilowatt hours, 1% atmospheric pollution.
+
+Stategy:
+
+1) grow existing portfolio (efficiencies in existing operations)
+
+2) expand through development/acquisistions in attractive markets (currently us and canada)
+
+3) develop and commercialize new tech
+
+4) advocate for public policy
+
+5) allocate capital efficiently
+
+CEO Anthony Orlando.  CEO since 2003; at company since 1987.  $6M in compensation
+
+================
+
+(forgetting the march 2011 quarter as that has +148M one time event)
+dec 2011
+rev 430,000  	 431,695  	 411,535  	 
+inc 26,000  	 41,367  	 18,140  	 
+shares 136,074,609
+price 16.38
+div 0.60
+==>
+EPS $0.84
+PE 19.6
+MC $2228.9M
+Price $16.38
+Margins 6.7%
+Yield 3.7%
+Payout Ratio 71.6%
+
+Doesn't look cheap at all but I really like the company.  With crazy high payout ratio, buy/sell at yield of 6%/2.5%
+
+BUY $10.00
+SELL $24.00
+
+Jul 4, 2014
+
+Barrons has had a number of positive articles on this company.  The latest was this month.
+
+Flat revenues for 3 years.  Negative income for 2013.
+
+mar 2014
+rev 401,000  	 417,000  	 427,000  	 414,000 
+inc (9,000)	 28,000  	 28,000  	 (38,000)
+shares 130,878,789
+price 20.68
+div 0.72
+==>
+EPS $0.07
+PE 300.7
+MC $2706.6M
+Price $20.68
+Margins 0.5%
+Dividend $0.72
+Yield 3.5%
+Payout Ratio 1047.0%
+
+Something is seriously wrong with the short term earnings.  Change buy/sell to yield of 2.5%/5%
+
+BUY $14.40
+SELL $28.80
+
+Mar 22, 2015
+
+No longer interested in the company.
+
+BUY None
+SELL None
+
+Dec 14, 2015
+
+Price has dropped significantly due to low energy and metals prices.  A lot of the selling is likely due to funds getting out of this at the end of the year.  Pick up $60K@$14 in the retirement account with options to pick up $20K lots at 12 and 10
+
+TRADE buy 4290@14.00 balance 4290 commission 9.99
+
+BUY 14.00
+
+Apr 26, 2017
+
+TRADE buy 690@14.50 balance 4980 commission 6.95
+
+Jun 8, 2017
+
+TRADE buy 715@14.00 balance 5695 commission 6.95
+
+

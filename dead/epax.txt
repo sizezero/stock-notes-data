@@ -1,0 +1,132 @@
+
+NAME: Ambassadors Group Inc.
+CID: 0001162315
+KEYWORDS: maybe_great
+
+Mar 1, 2005
+
+$100 to $500 MC
+
+Student travel programs.  Detailed earnings report.  Dividend (says co
+is sticking to competencies).  PE of 22 seems high, maybe does not
+factor last quarter's earnings.
+
+Dec 15, 2005
+
+CEO has obcene salary of $1M.
+
+Huge revenue growth in the last two quarters
+(sep05 to dec04)
+rev 31,204  	29,692  	2,179  	3,319
+inc 14,612  	15,249  	(2,637)	(4,149)
+
+No hint of future performance in 10Q
+
+Fool article praises revenue increase but notes a slight dishonesty:
+
+"""
+Honestly, after reviewing Ambassadors' earnings release thoroughly, I can find only one point with which to take issue. Company CEO Jeff Thomas boasted that his company aims to "enhance [its] returns to shareowners" by, among other things, having spent $2.9 million to buy back stock. However, the weighted average number of shares outstanding, both basic and diluted, actually increased over the past year (by 1.2% and 2.4%, respectively).
+
+Neither of those numbers is shockingly large, especially in light of the company's success in growing earnings and cash flow. Still, it seems a bit disingenuous to point out shares repurchased on one hand and then to, on the other hand, fail to explain that these share buybacks only mitigated the effects of the company's stock dilution -- and "enhanced shareholder returns" not at all.
+"""
+
+Still has a PE of 22 and an MC of $500M may restrict growth potential.  The slight dishonesty in shares and the huge CEO salary makes me a bit nervous.  Stay out of this one.
+
+Sep 27, 2009
+
+The stock has rebounded from the March low but is still way down from the all time highs.  Earnings are up and down but the company has continued to ofer a dividend which is a good sign.  Fewer shares outstanding in 2009 than 2008 which is also a good sign.  Not much press coverage.  Executive pay is modest.  Current assets rising over the past year as the company has been buying stock.  Bookrag.com is an internet play that could help the company's mission (cultural education) while travel may be slow due to the economy.  2nd and 3rd quarters have 80% of the revenue.
+
+class action lawsuit pending which claims management made false statements in order to inflate the price of the stock.
+
+inc: 19,179  	(5,254)	(6,462)	13,298 
+shares: 19,315K
+price: 15.82
+==>
+EPS $1.07
+PE 14.7
+MC $305.6M
+Price $15.82
+
+This might be worth a small buy.
+
+Oct 9, 2009
+
+Forbes listed this as one of "5 NASDAQ Stars" based on MC, Sales, 3 year rev growth, cash flow, and estimated earnings.  There was no coverage of this company before this article.  Maybe it's time to buy a little.  Maybe a $10K purchase on Monday.
+
+Oct 13, 2009
+
+TRADE buy 100@15.95 balance 100 commission 11.99
+
+Oct 14, 2009
+
+TRADE buy 500@16.05 balance 600 commission 11.99
+
+Oct 22, 2009
+
+Ug.  Earnings out and the stock dipped 20%
+
+inc: 26,430 19,179  	(5,254)	(6,462)
+price: 13.05
+shares: 19,356K
+==>
+EPS $1.75
+PE 7.5
+MC $252.6M
+
+Outlook from the 8K
+
+"""
+Outlook
+
+The Company also announced that as of October 19, 2009, enrolled revenue for 2009 travel programs in comparison to the same date one year ago decreased 12 percent. Enrolled revenue was $199.9 million, driven by the 34,263 net enrolled participants, including those that have already traveled, for 2009 compared to $227.9 million in enrolled revenue due to 41,928 net enrolled participants, including those that already traveled, for 2008 on this same day one year ago. The decrease in enrolled revenue year over year is primarily due to the 18 percent decrease of net enrolled participants.
+
+In addition, as of October 19, 2009, the Company announced that enrolled revenue for 2010 travel programs in comparison to the same date one year ago decreased 24 percent. Enrolled revenue was $117.7 million, driven by the 19,919 net enrolled participants for 2010 travel programs compared to $154.8 million in enrolled revenue on this same day one year ago due to the 26,925 net enrolled participants for 2009 travel programs. The decrease in enrolled revenue year over year is primarily due to the 26 percent decrease of net enrolled participants.
+
+Enrolled revenue consists of estimated gross receipts to be recognized, in the future, upon travel of an enrolled participant. Net enrollments consist of all participants who have enrolled in the Company’s programs less those that have already withdrawn. Enrolled revenue may not result in actual gross receipts eventually recognized by the Company due to both withdrawals from the Company’s programs and expected future enrollments.
+
+“We are pleased to report our third quarter 2009 financial results,” stated Jeff Thomas, president and chief executive officer of Ambassadors Group, Inc.  "For the first nine months of the year, our operating income is up 14 percent, from $34.7 million to $39.4 million, which reflects three positive efforts: delegate retention, aggressive management of our cost of sales, and tight operating expense management. Unfortunately, the market for international student travel is being negatively impacted, which resulted in fewer traveled delegates this year. Our operating expenses have increased slightly, due in large part to legal expenses associated with litigation, upon which it is our policy not to comment.
+
+“There are other financial highlights that merit further attention.  In the first nine months of 2009, we generated $8.6 million in free cash flow, an increase of $4.1 million over 2008. Our balance sheet continues to remain pristine – debt free. Our deployable cash has also increased.  We continue to pay a dividend.
+
+“On the other hand, looking ahead, the market for international student travel continues to experience negative growth.  Forward bookings are down for us as well as other international student travel operators. Our own marketing and sales efforts have led us to conclude that there remains a very high level of interest in our programs but many families are not comfortable making the commitment and spending the money this year. We have taken a number of actions and conducted a number of tests to counter the negative impact of high un-
+employment, stagnating compensation and lower net worth. One example of our  efforts is what we call “Peace of Mind” – which enables families to enroll and cancel without penalty if they experience job loss between now and travel time.
+
+"""
+
+Is it a better buy now?
+
+Mar 13, 2010
+
+Pretty bleak last quarter.  Declared small dividend.  Keep watching.
+
+Jun 6, 2010
+
+rev 2,736    	  6,026    	  36,407    	  46,176  
+inc ($7,489)  	  ($6,093)  	  $12,505    	  $19,179 
+shares 19,073,554
+price 10.97
+==>
+EPS $0.95
+PE 11.6
+Margins 19.8%
+
+nothing informative in the 10Q
+
+Apr 8, 2012
+
+2011 10K released a month ago.
+
+Operating income and margin have dropped like a rock since 2007
+
+2011-2007
+Operating income 2,110 10,096 30,179 25,469 41,828
+Operating margin 4% 15% 36% 32% 44%
+
+Bookrags.com is only $4M rev out of $66M but it's growing.  2012 looks to be even lower revenue.  Not sure how the analyst can claim to double eps.  Earnings call Apr 26.
+
+Oct 29, 2015
+
+Company liquidated.  Not selling this earlier shows my irrational fear of loss.
+
+TRADE sell 600@2.85 commission 0.00 balance 0
+

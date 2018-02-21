@@ -1,0 +1,52 @@
+
+NAME: QVC Group
+CID: 0001355096
+
+March 26, 2017
+
+March 4 Barrons has an interview with Boyar Assent Management.  QVC is one of their holdings
+
+"""
+QVC Has been a poor performer.
+
+This stock is down to $19 from $27 last summer. It's not very well covered by analysts. It was a hedge-fund hotel, and many hedge funds have checked out last summer when QVC reported disappointing results.
+
+What do you like about it?
+
+QVC is a misunderstood business. Many investors unfamiliar with the comapny believe that it has a lower-income customer base and that its products are, for a lack of a better word, junk. But QVC has an attractive demographic comprised mostly of women between the ages of 35 and 64 with above average incomes. The average QVC customer purchases about 25 items annually and wpends $1400. In 2015 the company purchased Zulily, an online retailer that provides an attractive pool of potential new customers, reducing the company's dependency on middle-aged women. Zulily caters to millennial moms.
+
+Is TV shopping a dinosaur? Is Amazon.com hurting QVC?
+
+We believe the Amazon concerns are largely unfounded. QVC and Zulily both offer differentiated shopping experiences relative to Amazon. Further, Amazon purchases tend to be search-based transactions, whereas purchases at QVC/Zulily tend to occur as a result of an experience or entertainment-based shopping experience. While recent results, including those just released for the fourth quarter, have been disappointing, we believe the company's problems are fixable and management has outlined initiatives to return the U.S. business to growth. The recent share price weakness presents an opportunity to own a profitable retail business at a compelling valuation.
+
+How do you value it?
+
+If you back out what QVC paid for Zulily and the faster-growing international business--which we value at just nine times trailing Ebitda--and the company's stake in HSN, parent of the Home Shopping Network, QVC's U.S. business is inconsistent with its robust 23% margins and its strong free cash flow. Our target is $34, which is nine times our estimate of combined 2018 Ebitda. The company generates $800M in free cash flow annually. That's almost a 10% free-cash-flow yield.
+
+Any catalysts?
+
+QVC now is a tracking stock, and there could be a hard spinoff, which would be positive because trackers [which don't offer direct ownership in a company] tend to trade at discounts. QVC also could purchase rival HSN. It already owns 38% of the company. I also woudln't be surprised to see it accelerate share repurchases. So there are several ways to win.
+"""
+
+I don't quite understand the outstanding share count.  From the 10K:
+
+                              Series A      Series B
+QVC Group common stock        425,210,801   29,358,638
+Liberty Ventures common stock  81,150,662    4,271,867
+
+Morningstar says diluted average shares as of Dec 2016 are 481M
+
+dec 2016
+rev 3,162,000	2,412,000	2,563,000	2,510,000
+inc 319,000	477,000	376,000	63,000
+shares 481,000,000
+price 18.44
+==>
+EPS $2.57
+PE 7.2
+MC $8869.6M
+Price $18.44
+Margins 11.6%
+
+Yahoo says EPS is 0.98 and PE is 19.8.  Morningstar looks correct.  Check 10K.  10K has crazy earnings that are different for the different shareholders.  The number looks closer to $2.57 than $0.98.  I'm going to stay away from this just because I can't find consistent numbers.
+

@@ -1,0 +1,18 @@
+
+NAME: Pepsico, Inc.
+CID: 0000077476
+
+Dec 5, 2009
+
+Baron's article made it seem like a moderately good deal.  Trading at 16x next years earnings.  At 63 and could hit 80 by 2012.
+
+Bad news is that soft drinks have contracted 2-3% in the last couple years.  This could just be the recession but I think it's likely that health concerns combined with alternative beverages may steer people away from soft drinks.  All in all the upside isn't enough for this risk.
+
+price 63.85
+inc $1,717,000  	$1,660,000  	$1,135,000  	$719,000 
+shares 1,560,444,589
+==>
+EPS $3.35
+PE 19.0
+MC $99634.4M
+

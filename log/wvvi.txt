@@ -1,0 +1,125 @@
+
+NAME: Willamette Valley Vineyards Inc.
+CID: 0000838875
+KEYWORDS: feb2016screen
+
+Mar 1, 2005
+
+Oregon vineyards and vintnor.
+
+< $50M MC
+
+Jan 18, 2006
+
+growing revenues and earnings.
+
+annual dec04 to dec02
+rev 9,387  	7,357  	5,989
+inc $464  	$174  	$136
+
+sep05 to dec04
+rev 3,618  	3,512  	2,375  	3,128
+inc $318  	$276  	$89  	$147
+shares 4,621,115 (diluted)
+price 5.70
+==>
+Income $0.8M
+EPS $0.18
+PE 31.7
+MC $26.3M
+
+Assume annual income based on last quarter
+inc $318
+shares 4,621,115 (diluted)
+price 5.70
+==>
+Income $1.3M
+EPS $0.28
+PE 20.7
+
+Still seems overvalued.  Investors must love owning wineries.
+
+Nov 25, 2012
+
+6 years later...
+
+sep 2012
+rev 3,156  	 2,369  	 3,205  	 6,641
+inc 268  	 218  	 186  	 284
+shares 4,815,193
+price 3.55
+==>
+EPS $0.20
+PE 17.9
+MC $17.1M
+Margins 6.2%
+
+dec quarter looks like the big one revenue-wise.  Maybe they sell some of their grapes.
+
+10K
+
+Has own vinyards (85% of max production) but also buys grapes from neighboring vinyards.  Soil and climate in southern OR is good for grapes but unexpected rains can ruin harvests.  Phylloxera (an aphid like insect) caused problems in the past but now seems to be handled.
+
+Even if the wine is fantastic, weather and grape supply severely limits overall growth.  I don't see this company worth looking at unless the PE drops severely.  Target buy at a PE of 8.
+
+BUY $1.60
+
+Feb 2016 stock screen,
+
+Industry: Beverages - Wineries & Distillers
+Sector: Consumer Goods
+CEO: James W. Bernau
+Year took office: Founder/CEO since 1988
+
+Annual Reports
+ read 5 yrs ago
+ read current
+
+Look for moat: brand, switching, cost, protected
+Look for CEO consistency
+Identify competitors
+
+=== 20xx 10K ===
+
+Owns leases vinyards, also buys grapes from the region.  Sells premium, super premium and ultra premium.
+
+"""
+Because of climate, soil and other growing conditions, the Willamette Valley in western Oregon is ideally suited to growing superior quality Pinot Noir, Chardonnay, Pinot Gris and Riesling wine grapes. Some of Oregon’s Pinot Noir, Pinot Gris and Chardonnay wines have developed outstanding reputations, winning numerous national and international awards.
+
+Oregon does have certain disadvantages as a new wine-producing region. Oregon’s wines are relatively little known to consumers worldwide and the total wine production of Oregon wineries is small relative to California and French competitors. Greater worldwide label recognition and larger production levels give Oregon’s competitors certain financial, marketing, distribution and unit cost advantages.
+"""
+
+Phylloxera an aphid like insect migrating from CA is a risk.
+
+================
+
+Calc annualized 5 year eps growth: 15.5%
+
+Morningstar key ratios:
+2010
+Book Value per Share: 3.18
+2015
+book value per share: 4.55
+cumulative div per share: 0
+Calc annualized 5 year book value growth + divy: 7.43%
+
+Compare these numbers to 10 year note (1.9%) and each other.
+
+Unless the wine is great, I don't see any kind of moat.
+
+also 1,424,841 pref shares.  These are more like bonds, how to value?
+
+rev 4,741.711	4,639.028	4,183.769	5,060.698
+inc 467.979	362.481	408.995	565.496
+shares 4,995,216
+price 8.01
+==>
+EPS $0.36
+PE 22.2
+MC $40.0M
+Margins 9.7%
+
+Valuation is wacky but may be justified by growth.  Don't even watch.
+
+BUY none
+

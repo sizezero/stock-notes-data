@@ -1,0 +1,17 @@
+
+NAME: ISHARES RUSSELL 2000 ETF
+CID: none
+KEYWORDS: tax_free
+
+Aug 5, 2011
+
+TRADE buy 280@71.50 balance 280 commission 9.99
+
+Aug 9, 2011
+
+TRADE buy 310@64.50 balance 590 commission 9.99
+
+Dec 20, 2016
+
+TRADE sell 590@138 balance 0 commission 9.99
+

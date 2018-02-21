@@ -1,0 +1,27 @@
+
+NAME: Programmer's Paradise Inc.
+CID: 0000945983
+
+Mar 3, 2006
+
+"magic" screen feb 06
+
+Computer programming products resold via catalog and web.  I've used these guys since the mid-80s.
+
+dec05 to mar05 (total 2005)
+inc 2,653 $603   	$185   	$300
+shares 4,384K
+price 12.78
+==>
+Income $3.7M
+EPS $0.85
+PE 15.0
+MC $56.0M
+
+dec04 quarter had a huge income boost from a tax refund.  dec05 quarter all came from operating income.  Offers a dividend that gives over 4% yield at the current price: sign of responsible management.
+
+10Q
+
+Management expects large fluctuations on a quarter by quarter basis as IT spending is fickle.  No forward looking statements.
+
+I really like the way the management has found ways to make money in this tough business; but I would expect a much lower valuation for a business this volatile.  They also have the problem of being squeezed between software makers and customers.  Combine this with my general pessimism on the future of selling software and this looks like a difficult proposition.  I suppose selling software tools may be a longer lived business.

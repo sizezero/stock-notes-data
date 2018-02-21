@@ -1,0 +1,42 @@
+
+NAME: Washington Banking Co.
+CID: 0001058690
+
+Mar 9, 2005
+
+Do not get this confused with WCBO: also a local bank.  Actual bank is
+"Whidbey Island Bank".  13 branches on Whidbey Island and several
+counties north of Seattle.  Reduced operating income off of increasing
+revenues.
+
+Apr 18, 2005
+
+P:18.2 EPS:1.52 PE:16 PB:2.05
+
+This is sure valued highly.  That's what increasing revenues/earnings
+does.  Earnings call scheduled Wed Apr 20.
+
+Apr 2, 2006
+
+dec05 to mar05
+inc $2,397   	$2,679   	$2,349   	$2,043
+shares 7,542,174
+price 18.04
+==>
+EPS $1.26
+PE 14.4
+MC $136.1M
+
+Company does bizaare 11:10, 4:3 splits.  Split adjusted stock up from 14 to 18.  Low dividend yield of 1.4%
+
+10K
+employee profit sharing plan.
+
+earnings press release:
+
+Still growing.  Opened a branch in Jan and will open another couple branches this year.
+
+Claims basic banking: "We posted record profits in 2005 by focusing on basic banking: building a high-quality loan portfolio and using core deposits as a primary funding source," stated Michal Cann, President and CEO. "We have also benefited from a strong local economy, a growing population, and relatively low long-term interest rates. This environment, combined with our focus on relationship banking, has allowed us to expand our net interest margin while maintaining exceptional credit quality."
+
+Since real-estate may be declining, I'd have to buy this at a greater discount.
+PE 12.5==>Price 15.75

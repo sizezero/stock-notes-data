@@ -1,0 +1,34 @@
+
+NAME: Columbia Bancorp
+CID: 0001010002
+
+Mar 1, 2005
+
+$100 to $500 MC
+
+Holding company for Columbia bank.  Slowing increasing rev and inc.
+Strange flat stock price for the past couple months looks like there
+should be merger or buyout news.
+
+Apr 28, 2005
+
+10K announces increased year ago earnings but reduced sequential
+earnings.
+
+>>> (3313+3505+2898+2315) / 9105.0
+EPS: 1.32
+
+Apr 12, 2006
+
+dec05 to mar05
+inc $3,389   	$3,526   	$3,442   	$3,313
+shares 10,046,764 (diluted)
+price 22.41
+==>
+EPS $1.36
+PE 16.5
+MC $225.1M
+
+Opening two new branches in Yakima and Sunnyside.  21 other branches in Oregon and South WA.
+
+Miniscule eps growth.  Low yield (1.6%).  Nothing special here.

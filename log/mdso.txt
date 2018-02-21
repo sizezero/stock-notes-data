@@ -1,0 +1,79 @@
+
+NAME: Medidata Solutions, Inc.
+CID: 0001453814
+
+Oct, 2, 2017
+
+Industry: Technology / Healthcare Information Services
+CEO: Tarek A. Sherif
+Year took office: 2001
+$8M compensation
+
+=== Dec 2016 10K ===
+
+Strategy:
+- more products to existing customers
+- make customers us MD for more of their studies
+- launch regular platform enhancements
+- more solutions
+- expand customer base
+- increase indirect partnership initiatives
+- position MD as parto of the evolving clinical ecosystem ???
+- communicate / market
+
+funny
+"""
+We develop our solutions on a broad base of technologies, including Java 2 Enterprise Edition ("J2EE"), Oracle, Microsoft.NET, Microsoft SQL Server, Business Objects, Ruby, AWS, Cassandra, MySQL, and Chef.
+"""
+
+"""
+Our five largest customers accounted for 26%, 24%, and 26% of our revenues in 2016, 2015, and 2014, respectively. In 2016, 2015, and 2014, no single customer accounted for 10% or more of our total revenues. At December 31, 2016, one customer comprised 13% of our accounts receivable. At December 31, 2015, another unrelated customer comprised 18% of our accounts receivable.
+"""
+
+"""
+At December 31, 2016 and 2015, our total multi-year subscription backlog was $745 million and $555 million, respectively.
+"""
+
+1424 employees
+
+Public in 2009
+
+On February 22, 2017, we had approximately 71 holders of record of our common stock.
+
+Revenue is spiking but so is debt. Total shares went from 51M in 2012 to 57M in 2016
+
+================
+
+Competitive advantage
+ Company Moat
+  Brand: Rave is highly rated
+  Switching: Tough for SCHARP; not sure about other companies
+  Cost: Very expensive
+  Protected: no
+  Other
+ How likely will moat endure over the next 5 yrs? Likely; it's a niche market
+
+Competitors
+ For 3 competitors
+  Read current annual report
+ What is the biggest risk to the company over the next 5 yrs?
+ Probability of it happening
+
+Financial Checklist
+ For company and industry
+  5 yr EPS growth.TODO
+  5 yr revenue growth.TODO
+  Current net profit margin (earnings/revenue).TODO
+  Current ROE (earnings/stockholders_equity).TODO
+  % long term debt to equity.TODO
+
+rev 137,414	126,821	124,472	120,061
+inc 8,250	9,518	10,840	7,358
+shares 57,705,105
+price 79.88
+==>
+EPS $0.62
+PE 128.2
+MC $4609.5M
+Margins 7.1%
+

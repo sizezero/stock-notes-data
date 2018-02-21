@@ -1,0 +1,67 @@
+NAME: Crexendo, Inc.
+CID: 0001075736
+
+Jan 24, 2006
+
+"Great" company from value screen.
+
+an e-Services company, offers eCommerce technology, training, and a variety of Web-based technology services.
+
+Growing rev/inc from 02 to 04
+dec04 to mar04
+rev 31,394  	23,709  	24,967  	15,688
+inc $3,052  	$1,740  	$2,453  	$15,822  
+large income tax right off in mar04. this should be in the "unsure" category instead of great.
+shares 12,654,448
+price 5.18
+
+yikes, last sec quarterly report was filed in apr05.  an NT 10K and NT 10Q has been filed but no new formal filing.
+investor class action lawsuit.  Bad things are going down with the company but I can't seem to figure it out from the press releases.
+
+inc $3,052  	$1,740  	$2,453 (average last three quarters only)
+shares 12,654,448
+price 5.18
+==>
+Income $9.7M
+EPS $0.76
+PE 6.8
+MC $65.6M
+
+Nov 25, 2012
+
+Still a do-it-yourself web creation company but now includes "cloud" in marketing.
+
+MC $30M
+
+Still losing money year after year. (really just breaking even) Revenue up and down over the past few years.  Worth reading the 10K just to get strategy.  CEO pays himself $16K per year.
+
+10Q
+
+actually giving a $0.02 per quarter dividend for a 2.8% yield.  Maybe the company wants to put a floor on the stock price?  This costs the company a little less than $1M a year.  Dividend suspended Oct24
+
+From latest earnings conference call:
+
+"""
+We are generating a large quantity of leads that will be used to build websites for actual operating businesses in the universities. And we do this using students that are either in their final year or graduate students, and they are having a very, very positive experience.
+
+With that, we feed those leads into the universities. They build websites, we built approximately nine or 10 websites this summer in the first class that we conducted in at the university, the California State University at Long Beach. We now have five universities on board, and we expect to build somewhere between 50 and 75 websites this semester. It will move up from there to 100 or two [ph] in the summer session, and then probably around 400 or 500 in the end of this year, the fall semester.
+
+By the first semester of ‘14, we expect to be building over 1,000 websites per semester in summer school. So, you can see the numbers are going to grow exponentially. Once we publish those websites, they become a hosting customer. After they have a month or two to bake, then we call them up and we make sure they are having a positive experience. So far, our results our 100% of our customers of a very positive experience.
+"""
+
+...company can then try to upsell other products to the happy customer.
+
+cash flow question leads to this:
+"""
+We are working on refined budgets right now, but we expect to reach breakeven sometime in the third or fourth quarter of ’13.
+"""
+
+Costs are expected to decrease:
+"""
+we just finally made the transition out of our operations in Orem, Utah. We have got a much smaller footprint in (inaudible) where we will have 20 to 30 employees. We have a building that we own here in Phoenix so we don’t pay rent. Our expenses will decrease approximately $150,000 to $200,000 a month, starting in the first quarter.
+
+Our burn rate is significantly above that, but our sales, we are ramping up the same time. And our burn rate right now is about $0.5 million a month, and that will slow dramatically starting in the first quarter, just that expense levels will decrease by as much as $200,000 a month, which will bring our burn rate down to about $300,000 a month or $900,000 a quarter.
+"""
+
+It will be worth it to look at this company in six months and see if the costs have declined and to also see what happens with revenues.  It looks like they are still in transition with liquidating some parts of the business and focusing on others.
+

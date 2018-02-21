@@ -1,0 +1,55 @@
+
+NAME: Sento Corp.
+CID: 0000004317
+
+Apr 26, 2006
+
+Steve was pointed to this company by a trader.
+
+The company offers a product called "Right Channeling".  The general function of the product is to handle customer support for a company.  The specific advantages of the product is that it allows either the company or the customer or both to customize the way that the client receives support.  This includes: voice, email, chat, forums and knowledgebase.  There can also be different options for paid support and free support.
+
+This product is similar to the one made by Onyx Software ONXS
+
+two profitable quarters
+inc $709   	$310
+shares 4,117,669 (diluted)
+price 8.77
+==>
+EPS $0.49
+PE 17.7
+MC $36.1M
+	
+If this is indicative of their earnings then this is pretty cheap especially for a software company.  I'm not sure how much support their product requires so they may be closer to a consulting company margin-wise.  Considering the past valuations of Onyx, this seems like a deal as long as the last two quarters are not extraordinary for some reason.
+
+Jun 16, 2006
+
+mar06 to jun05
+rev $17,351 15,155  	9,863  	8,761 
+inc 492 $709  	$310  	($1,665)
+shares 4,148,802
+price 6.30
+==>
+EPS ($0.04)
+MC $26.1M
+
+year based on last three quarters
+==>
+EPS $0.49
+PE 13.0
+Margins 3.6%
+
+Company expects $16 in rev next quarter.
+
+full year based on $16M/$500K per quarter:
+==>
+EPS $0.48
+PE 13.1
+Margins 3.1%
+
+It's a fairly low PE but margins are pretty low too.
+
+Jul 14, 2006
+
+Price plunged to $2.85 after guidance for next quarter was reduced to $14M rev and ($1.5) inc.  Following quarter (second quarter) will still be bad but will see sequential improvment.
+
+

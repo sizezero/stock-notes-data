@@ -1,0 +1,32 @@
+
+NAME: Synergetics USA, Inc.
+CID: 0000836429
+
+Nov 7, 2005
+
+Showing at Westergaard conference.
+
+Another medical device company.  Defendents in a patent lawsuit.
+First company I've seen with a N/A market cap on yahoo.  I guess that
+means the total outstanding shares are unknown?
+
+Jun 20, 2006
+
+apr06 to jun05
+rev 10,450  	9,868  	7,147  	1,698
+inc $1,121  	$858  	$486  	$0  
+shares 24,179,722
+price 6.36
+==>
+EPS $0.10
+PE 62.4
+MC $153.8M
+Margins 8.5%
+
+year based on last quarter 
+==>
+EPS $0.19
+PE 34.3
+Margins 10.7%
+
+Huge growth factored into the stock price.  I still don't understand the product.

@@ -1,0 +1,205 @@
+
+NAME: Neutral Tandem, Inc.
+CID: 0001292653
+KEYWORDS: not_great
+
+Jan 2, 2010
+
+Barron's Dec09 value list
+
+Offers some kind of telecom switching service.
+
+sep09 (latest quarter has negative cost of revenue)
+rev 44,692  	41,235  	38,249  	34,944 
+inc $11,086  	$10,674  	$9,044  	$8,189 
+price 22.75
+shares 33,549,381
+==>
+EPS $1.16
+PE 19.6
+MC $763.2M
+Margins 24.5%
+
+Low 2010 estimate is flat.  avg:
+eps 1.49
+price 22.75
+==>
+PE 15.3
+
+Motley Fool Dec 2 2009 "Dream Stocks for Tech Investors" article:
+"""
+Neutral Tandem provides tandem interconnection services to wireless, wireline, cable, and broadband carriers. It's been busy expanding its reach and carrying more data over its networks, which boosted its third-quarter revenue by 44% year over year, with profit jumping 80%. The strong momentum prompted it to raise its fourth-quarter guidance, and many CAPS members like the growth potential of the small-cap company. It's increasing its presence in existing markets and entered 10 new ones in the quarter. It has minimal debt on its balance sheet and many investors believe it will continue to use its cash wisely to position itself in profitable markets. In CAPS, about 96% of the 333 members rating Neutral Tandem expect it to outperform the market.
+"""
+
+Looks promising.  I need to understand the underlying business a little more.
+
+Jan 10, 2010
+
+I need to understand this company in depth.  This looks more like something I purchase once or twice and watch instead of something I want to accumulate over the year.
+
+2010 megacap
+rank 0
+
+Search for TDM in wikipedia for a description of the network.  It basically splits a connection into several time chunks such that each chunk is guaranteed a certain bandwidth.  An example is splitting a 10Mbit line into 178 separate 56K terminal connections.
+
+From company web site:
+"Services used by 9 of the nations 10 largest wireless carriers."  Allows cable companies to compete with ILECs.  ILEC== incumbent local exchange carrier: owns phones for a geographic area.  Competes with CLEC: competitive local exchange carrier. 
+
+From 10Q:
+Before tndm, ILECs provide tandem switching between competitive carriers and charge large per-minute fees.  tndm allows competitive carriers to save a lot of money.  Company description in a nutshell "The Company’s services enable competitive carriers to exchange traffic between their networks without using an ILEC tandem for both local and long distance calls. ".
+
+Jan 12, 2010
+
+TRADE buy 467@21.3999 commission 11.99
+
+Jan 24, 2010
+
+Stock crashed to 16 on no news.  I need to wait for some actual news before any kind of trading.
+
+Earnings call is scheduled for Feb 16.
+
+May 5, 2010
+
+Lower earnings than expected.
+
+rev  $44800 44,730    	  44,692    	  41,235
+inc $14100 10,511    	  11,086    	  10,674  
+price 13.82
+shares 33,852000
+===>
+Income $46.4M
+Revenue $175.5M
+EPS $1.37
+PE 10.1
+MC $467.8M
+Price $13.82
+Shares 33.9M
+Margins 26.4%
+
+Aug 1, 2010
+
+June earnings reported lower.
+
+jun10
+rev  44757 $44829 44,730    	  44,692
+inc 8499 $8469 10,511    	  11,086
+price 10.70
+shares 33,486000
+===>
+EPS $1.15
+PE 9.3
+MC $358.3M
+Margins 21.5%
+
+Last two quarters give the following
+===>
+EPS $1.01
+PE 10.6
+Margins 18.9%
+
+Scary quote from 10-Q
+"""
+We believe that our customers are currently frequently direct connecting their networks, even for lower traffic switch pair combinations, for various reasons, including in order to avoid paying a transit fee. As our customers grow, the amount of traffic exchanged between them grows, thus leading to the risk that they will increase the number of direct connections between their switches and remove traffic from our tandems. The risk of direct connections will increase as more carriers move to an IP-based interface, because direct connecting between two IP-based carriers is less complex, thus enabling more direct connections. 
+"""
+
+Motley Fool value folks are in love with the company.  It looks like the existing business is growing more competitive _and_ companies are doing it themselves.  The one bright spot is a new business opportunity of Ethernet eXchange which helps improve IP switching.
+
+Should I just take the loss?  I'm averse to selling at a loss because I have such a large loss carry over right now.  Not a good reason to hold.
+
+May 1, 2011
+
+Industry: Technology / Wireless Communications
+CEO: James P. Hynes. Founded in 2001 retired in 2006.  Still on board.  New CEO G.Edward Evans.  Formerly CEO of Stelera Wireless (rural broadband)
+Year took office: Apr 2011
+
+=== 2008 10K ===
+
+Facilitates data exchange between competitive wireless carriers.
+
+"""
+Our network, as of December 31, 2008, connects 1,336 unique competitive carrier switches
+"""
+
+Company Strengths: Market leading position, strong network effect, network-neutral position, market size, adaptable technology and proprietary software tools, experienced management team
+
+Strategy:
+
+* broaden geographic presence: currently 100 of 601 markets.  Plan 30 more in the next 6 months
+
+* expand customr base: 
+
+Biggest threats: regulatory developments, ILEC comptition, IP interfac will lead incentive for direct connections, limited operating history
+
+IPO Nov, 2007, secondary offering Apr 2008
+
+2008-2004
+Revenue 121M 86M 53M 28M 3M
+EPS 0.72 0.24 0.20 (0.08) (1.02)
+Markets 100 64 34
+Average fee per minute 0.0020 0.0021 0.0021
+
+=== 2010 10K ===
+
+Internet traffic growth for wireless is huge.  (videos, facebook, etc).  Ethernet tandem is the future (not voice)
+
+strategy
+
+* increase the types of traffic we carry
+
+* expand our customer base
+
+2010-2009
+Revenue 200M 169M
+EPS 0.97 1.22
+Markets 179 137
+Average fee per minute 0.0017 0.0019
+
+Expenses up on all categories.
+
+================
+
+Competitive advantage
+ Company Moat
+  Brand - no brand
+  Switching - switching should be easy
+  Cost - they should be able to use scale to improve efficiency
+  Protected - a couple patents
+  Other
+ How likely will moat endure over the next 5 yrs? No moat; company must continually reinvent itself
+
+Competitors
+ For 3 competitors
+  Read current annual report
+ What is the biggest risk to the company over the next 5 yrs? large carriers handl their own interconnections
+ Probability of it happening. ???
+
+Financial Checklist
+ For company and industry
+  5 yr EPS growth. negative to a dollar
+  5 yr revenue growth. 200/28=714% growth
+  Current net profit margin (earnings/revenue). 16.5% (ind 12.5%)
+  Current ROE (earnings/stockholders_equity).  (ind 12.6%)
+  % long term debt to equity. no long term debt
+
+rev 199,826 0 0 0
+inc 32,608 0 0 0
+shares 33,634,000
+price 15.29
+==>
+EPS $0.97
+PE 15.8
+MC $514.3M
+Margins 16.3%
+
+Not a great company but crazy growing revenues.  If I keep it it's not a value play but a speculative revenue play.
+
+July 10, 2011
+
+Company bought 3.3M of its own shares @16.25, 9.5% of shares outstanding.  It's hard not to look at this as good news.
+
+Feb 18, 2017
+
+Company bought out.
+
+TRADE sell 467@23.00 commission 0.00
+

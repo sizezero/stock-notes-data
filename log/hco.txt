@@ -1,0 +1,17 @@
+
+NAME: HyperSpace Communications Inc.
+CID: 0001289871
+
+Nov 7, 2005
+
+Showing at Westergaard conference.
+
+Network compression products.  How does your product compare with
+existing http compression such as Apache::Compress, mod_gzip,
+mod_deflate, and others?  Do IIS users have alternatives as well?
+
+May 1, 2006
+
+Revenues have jumped the last couple quarters.  Still negative net income.  Acquire MPC: a generic PC product, services, support reseller for small and medium sized businesses.
+
+MPC might work but I don't like the way the company is doing these unrelated acquisitions.

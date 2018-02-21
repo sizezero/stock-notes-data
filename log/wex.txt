@@ -1,0 +1,31 @@
+
+NAME: Winland Electronics Inc.
+CID: 0000749935
+
+Feb 22, 2006
+
+"Good" company from value screen.
+
+..engages in the design and manufacture of electronic control devices and assemblies. It primarily provides electronic manufacturing services, such as program management, analog circuit design, digital circuit design, printed circuit board design, and embedded software design for original equipment manufacturer customers...markets its products through dealers and wholesalers, in-house direct marketing and sales efforts, instrumentation catalogs, and national and regional trade expositions in the United States, Canada, Mexico, and Europe.
+
+2002 to 2004 had flat net income.  Increasing operating income was flattened by increased taxes.  That doesn't make sense.
+
+sep05 to dec04
+inc $437   	$567   	$375   	$416
+shares 3,690,430 (diluted)
+price 3.95
+==>
+Income $1.8M
+EPS $0.49
+PE 8.1
+MC $14.6M
+
+10Q
+
+A single customer accounted for over 50% of sales in 2005
+"Winland differentiates itself from the contract manufacturer competition with its integrated product development and manufacturing services to offer end-to-end product launch capability, including design for manufacturability, design for testability, transition to manufacturing and order fulfillment."
+"Select Comfort", one of their major customers, will be not renewing it's contract in 2006.  Company expects a decline in orders.
+
+No archived conference calls.
+
+Having so few customers makes this company a risky proposition.  I would have to evaluate their customers and then "hope" that they decide to keep using Winland.  Not worth buying.

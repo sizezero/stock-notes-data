@@ -1,0 +1,26 @@
+
+NAME: Allied Healthcare International Inc.
+CID: 0000890634
+
+Mar 14, 2006
+
+"magic" screen feb 06
+
+Provides staffing for healthcare in UK and Ireland.  110 brances.
+
+dec05 to mar05
+inc $3,406   	$4,200   	$4,654   	$5,055
+shares 45,215K (diluted)
+price 4.69
+==>
+Income $17.3M
+EPS $0.38
+PE 12.2
+MC $212.1M
+
+It looks like the company is in for a difficult transition.  From the latest earnings release:
+"There has been a sharp reduction in demand from the National Health Service (NHS) as a result of an inconsistent implementation of the framework agreements, causing significant dislocation to both companies and personnel. The NHS has a major deficit for the current year, which has imposed financial constraints on the usage of agency staff. Despite this, our social services and private sector businesses are growing and providing better margins. Our strategy is to focus on growing these sectors, which is expected to result in gross profit growth for the Company."
+
+Executive compensation seems very high.
+
+Company still has a high valuation in spite of the coming transition.

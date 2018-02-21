@@ -1,0 +1,71 @@
+
+NAME: Angeion Corp.
+CID: 0000815093
+
+Jan 15, 2006
+
+Produces a variety of cardio-respiratory diagnostic systems.  Other products as well.  Two subsidiaries: Medical Graphics Corporation and New Leaf Health and Fitness brand make somewhat related products.  The former is a product for medical institutions and the latter is for consumers.
+
+I've read the latest 10Q and the company's web page.  I really have no idea as to the quality of the company's products.
+
+The low market cap (14M), slowly rising revenues, and last quarter's squeak into profitability makes the company look tempting but without understanding the product, it's really just a gamble.
+
+Mar 8, 2006
+
+Earnings announce.  Revenues up over a year ago; flat from last quarter
+dec05 to apr05
+inc 176 $298   	($268) 	($238)
+shares 3,635K (diluted)
+price 4.41
+==>
+Income ($0.0M)
+EPS ($0.01)
+PE N/A
+MC $16.0M
+
+annual income based on last two quarters
+==>
+Income $0.9M
+EPS $0.26
+PE 16.9
+
+Not a cheap multiple based on sketchy future earnings.  Gross margins are over 50% which seems excellent.  I'm still concerned that I don't understand the value of the product.
+
+Mar 10, 2006
+
+Talked with Steve today.  The company has two subsidiaries: MedGraphics and New Leaf.  MedGraphics provides the bulk of their sales to medical professionals.  New Leaf is an emerging company trying to sell their metabolic diagnostic kits to fitness centers, physical therapy centers, etc.  The home page has a zip code based product finder and there are 10+ locations in Seattle/Bellevue that have their product.  The use of this product would certainly be more understandable.
+
+Jun 16, 2006
+
+Steve asked me to look at this again.
+
+apr06 to jul05
+rev $7,212 6,933  	6,654  	6,058
+inc $383 $176  	$298  	($268)	
+shares 3,760K
+price 4.29
+==>
+EPS $0.16
+PE 27.4
+MC $16.1M
+Margins 2.2%
+
+year based on last three quarters
+==> EPS $0.30 PE 14.1 Margins 4.1%
+
+Analyst comment on stock drop after earnings release:
+
+"""
+According to Douglas Rogers, analyst and founder of ManageSource Research Inc., investors were disappointed in the company's incremental earnings growth. Excluding various items, Rogers said that the company had adjusted net income of $111,000 for the second quarter, compared with around $176,000 for the first quarter.
+
+"On a sequential basis, they've deteriorated slightly," the analyst added. "But I don't think this is a significant negative for the company. This is a small company that's still finding its legs." 
+"""
+
+First quarter combination of lawsuit fees plus discontinued operations resulted in one time $272K
+Second quarter one time lawsuit gain of $800K.
+No forseeable one time gains/losses in the future.
+
+New Leaf revenue doubled since 2005.  I'd like to see a breakdown of New Leaf revenue/income vs. MedGraphics.  Company claims higher revenue for consumer products.  No further information in the last 10K.
+
+A PE of 10 for last three quarters would put the stock at $3
+NOTIFY price < $3.0 bargain

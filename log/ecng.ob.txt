@@ -1,0 +1,19 @@
+
+NAME: EnergyConnect Group, Inc.
+CID: 0000944947
+
+Apr 17, 2010
+
+jan10
+rev 851  	10,338  	7,522  	1,210 
+inc ($2,270)	$528  	$601  	($2,082)
+shares 95,629,961
+price 0.1625
+==>
+Income ($3.2M)
+Revenue $19.9M
+EPS ($0.03)
+MC $15.5M
+
+Business involves creating a more complex energy market.  Too complicated.
+

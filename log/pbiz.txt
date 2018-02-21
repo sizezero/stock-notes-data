@@ -1,0 +1,22 @@
+
+NAME: Private Business Inc.
+CID: 0001069469
+
+Feb 27, 2006
+
+"magic" screen feb 06
+
+Offers an accounts receivable solution (software) to small banks and businesses.
+
+Declining revenue and earnings for two years.  Preferred stock and other adjustments are sucking up much of the earnings.
+
+inc $137   	$125   	($161) 	$283 
+shares 15,011K
+price 1.49
+==>
+Income $0.4M
+EPS $0.03
+PE 58.2
+MC $22.4M
+
+I have no idea how this company appeared in the magic formula listing.  Maybe the formula only looks at operating income?

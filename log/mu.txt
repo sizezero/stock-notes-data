@@ -1,0 +1,59 @@
+
+NAME: Micron Technology
+CID: 0000723125
+
+May 9, 2014
+
+Manufactures and markets DRAM, NAND Flash, and NOR flash.
+
+rev 4,107,000  	 4,042,000  	 2,843,000  	 2,318,000
+inc 731,000  	 358,000  	 1,708,000  	 43,000 
+shares 1,070,379,433
+price 26.84
+==>
+Income $2840.0M
+EPS $2.65
+PE 10.1
+MC $28729.0M
+
+Memory production is highly competitive and Micron has had a bad track history.  With no dividend, I can't see buying this until it falls to a PE of 8. I've probably missed the boat on the run up but it's not worth the risk.  Sell at PE 13
+
+BUY $21.20
+SELL $34.45
+
+Jul 31, 2015
+
+TRADE buy 1050@18.96 balance 1050 commission 9.99
+
+BUY $16.00
+
+Aug 19,2015
+
+TRADE buy 1250@16.00 balance 2300 commission 9.99
+
+BUY $13.00
+
+Jan 11, 2016
+
+TRADE buy 1540@13.00 balance 3840 commission 9.99
+
+I'm not sure if I have the stomach to buy more.
+
+BUY None
+
+Feb 11, 2016
+
+TRADE buy 2100@9.50 balance 5940 commission 9.99
+
+Jun 30, 2017
+
+TRADE buy 100@29.8755 balance 6040 commission 6.95
+
+Nov 30, 2017
+
+TRADE buy 465@43.0616 balance 6505 commission 6.95
+
+Dec 1, 2017
+
+TRADE buy 220@40.80 balance 6725 commission 6.95
+

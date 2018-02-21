@@ -1,0 +1,103 @@
+
+NAME: Zagg Inc
+CID: 0001296205
+KEYWORDS: not_great
+
+Apr 16, 2010
+
+Steve bought some of this.  It's backed off quite a bit.
+
+They missed a couple quarters and the stock pulled back.  They may continue to get a boost from swift selling Apple products.  Too speculative for me.
+
+dec09
+rev 11,398  	9,674  	9,199  	8,091 
+inc $251  	$908  	$1,194  	$1,028 
+shares 21,717,445
+price 2.93
+==>
+EPS $0.16
+PE 18.8
+MC $63.6M
+Shares 21.7M
+Margins 8.8%
+
+Apr 23, 2010
+
+Steve says Apple is a small part of their business.  Apple products are an upside but not necessary for revenue.  Looking at product lineup it seems it can easily be a $100M company.
+
+Background on product, first developed to protect military helicopter rotors.  It may be difficult for other companies to develop a competing product.
+
+Apr 28, 2010
+
+TRADE buy 3278@3.05 commission 9.99 balance 3278
+
+Dec 4, 2010
+
+gsvi great company checklist
+
+CEO Bob Pedersen II, 43.  Reasonable 230K pay.  Owner and Executive Manager of Del Sol LC since 98.  President (not CEO) of HzO Inc (recreational boat dealer).  President and CEO of ZAGG since Jan 06.  Stock options of almost $500K is not crazy.
+
+2008 10K
+
+3000 products.  Raw material film is ordered from a supplier, cutting is outsourced, packaging and marketing is in house. Very simple business.
+
+Would like to partner with device makers but haven't done that yet.
+
+Half of product was sold through web site.  9% kiosk.  34% wholesale.
+
+Lot's of product competition in the form of bulky cases "While we compete with such companies for sales to consumers generally, we do not consider such other products per se to be competitive to the invisibleSHIELD."
+
+70 employees.  CEO is the largest shareholder.
+
+2009 10K
+
+Zaggaudio with smartbuds looks to be a bigger product.  Asked Britta to comment on this.  $50 for buds is too expensive for me.
+
+"One of our fastest growing market segments is the smart phone consumer."
+
+29% web site sales. 58% indirect. 9% kiosk.
+
+97 employees.
+
+Lot's of "risk factors" in this report.
+
+Strangly no break down by product.
+
+"""
+Our strategic business objectives for 2010 include the following:
+* Continue to expand the distribution of our products through additional indirect channel partners;
+* increase our SKUs with our existing customers;
+* continue to grow our traffic and sales through our website www.ZAGG.com; and
+* continue to develop new products to introduce to our tech-savvy customer base.
+"""
+
+Competitive advantage
+ Company Moat
+  Brand: not much of a known brand yet
+  Switching: easy, every time you get a new device you can choose to switch
+  Cost: the company just cuts raw materials into a product.  It would be easy for a large accessory maker to do the same if patents don't prevent it
+  Protected: patent and trademarks exist but it's unclear how strong they are
+  Other: ???
+ How likely will moat endure over the next 5 yrs?  There is not yet a moat.  The biggest thing Zagg could do would be to develop a brand over the next couple years.
+
+Competitors.
+BodyGuardz seems to provide a solution that is just as good.  Not sure about other competitors but the market seems very competitive.  Product is less expensive than Zagg.
+
+5 year growth statistics doesn't apply to this company as it has had crazy growth in the past two years and just became profitable
+
+It's clear that Zagg is not yet a great company.  The immediate competition makes me think that I should sell.  Zagg doesn't seem to have a real R+D department and just cuts covers based on it's single material.  It may do well in the next couple years due to the growing nature of the industry but it will face huge competition.
+
+Dec 5, 2010
+
+Checked out competition for invisible shield
+Zagg: rubbery texture; "orange peel effect" when viewing through an angle
+Bodyguardz: 2 for one.  Cheaper than Zagg
+bestskinsever: less info
+
+There are fans of both products.  It seems like there is a lot of competition.  I no longer see the material of the invisible shield as a huge advantage.
+
+Sell.
+
+Dec 6, 2010
+
+TRADE sell 3278@7.39 commission 10.40 balance 0

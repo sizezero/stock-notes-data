@@ -1,0 +1,20 @@
+
+NAME: Littlefield Corp.
+CID: 0000931683
+
+Nov 9, 2010
+
+Operates bingo halls in the south.
+
+sep10
+rev $2,202  2,301   	3,046   	2,200  
+inc (131) (201) 	620   	236  
+price 0.70
+shares 17,915,087
+==>
+EPS $0.03
+PE 23.9
+MC $12.5M
+Margins 5.4%
+
+Costs and operating expenses have kept up with revenue resulting in no income for a long time.  I don't see any discussion in the 10Q or headlines about any long term strategy.

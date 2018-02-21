@@ -1,0 +1,76 @@
+
+NAME: Superior Uniform Group Inc.
+CID: 0000095574
+KEYWORDS: feb2016screen great
+
+Aug 13, 2016
+
+Feb 2016 stock screen,
+
+Industry: Textile - Apparel Clothing
+Sector: Consumer Goods
+CEO: Michael L. Benstock
+Year took office: 2003; at company since 1992
+$500K is not crazy compensation
+
+Annual Reports
+ read 5 yrs ago
+ read current
+
+Look for moat: brand, switching, cost, protected
+Look for CEO consistency
+Identify competitors
+
+=== 20xx 10K ===
+
+=== 2015 10K ===
+
+"""
+Superior competes in its Uniforms and Related Products segment with more than three dozen firms, including divisions of larger corporations. Superior competes with national and regional manufacturers, such as Cintas Corporation, Unifirst Corporation, G&K Services and ARAMARK—a division of privately held ARAMARK Corporation. Superior also competes with local firms in most major metropolitan areas. The nature and degree of competition varies with the customer and the market. Industry statistics are not available, but we believe Superior is one of the leading suppliers of garments to hospitals, industrial clean rooms, hotels, motels, and food service establishments, and uniforms to linen suppliers. Superior experiences competition primarily in the areas of product development, styling and pricing. We believe that the strength of our brands and marketing, coupled with the quality of our products, allow us to compete effectively. 
+"""
+
+largest customer 6% of sales
+
+global operations
+
+Earnings are all over the place morningstar and 10-K don't match.  Dividends had one inconsistent year when a major acquisition occurred.  divs increased afterwards.
+
+================
+
+2010 eps .64 (morningstar says .32 ?)
+2015 eps .90 (diluted) 
+dip in eps between these years
+Calc annualized 5 year eps growth: 6.7%
+
+Morningstar key ratios:
+2010
+Book Value per Share: 5.13
+2015
+book value per share: 6.54
+cumulative div per share: 1.21
+Calc annualized 5 year book value growth + divy: 7.9%
+
+Compare these numbers to 10 year note (1.9%) and each other.
+
+Great company?  It could be a good company.  I wouldn't pay a high multiple for it tho.
+
+6/16
+rev 64,660	57,968	53,192	56,662
+inc 3,075	2,260	3,368	4,031
+shares 14,408,470
+price 17.51
+div 0.35
+==>
+Income $12.7M
+Revenue $232.5M
+EPS $0.88
+PE 19.8
+MC $252.3M
+Margins 5.5%
+Yield 2.0%
+Payout Ratio 39.6%
+
+I don't see this slow growth worth a multiple of 20.  I would pick up some at half that.
+
+BUY $9.00
+

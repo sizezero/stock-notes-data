@@ -1,0 +1,11 @@
+
+NAME: Micro Focus International
+CID: 0001359711
+
+Sep 10, 2017
+
+This spinoff has mad a rather complicated cost basis in my account. I'm keeping it simple here.
+
+TRADE buy 312@29.35016 balance 312
+
+

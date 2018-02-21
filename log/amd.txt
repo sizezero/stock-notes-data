@@ -1,0 +1,11 @@
+
+NAME: Advanced Micro Devices, Inc.
+CID: 
+
+Jan 5, 2018
+
+Bought a bit on a whim after Meltdown. This looks datacenters will star 
+diversifying more which would give AMD more business.
+
+TRADE buy 1650@12.2375 balance 1650 commission 6.95
+

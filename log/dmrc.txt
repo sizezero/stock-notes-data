@@ -1,0 +1,59 @@
+
+NAME: Digimarc Corp.
+CID: 0001089443
+
+Mar 1, 2005
+
+$100 to $500 MC
+
+Makes driver's licenses for most states.  Having trouble with
+earnings.  Competitor is Viisage (VISG)
+
+Forbes lists 2004 problems:
+http://www.forbes.com/technology/2005/02/14/cx_ld_0214digimarc.html?partner=yahoo&referrer=
+
+Company claims now that accounting systems are unified, things are
+ok. Could be a turnaround?
+
+Dec 13, 2005
+
+Still losing money but revenue is up the last quarter
+(sep05 to dec04)
+rev: 26,781  	24,753  	24,379  	22,295
+inc: ($4,228)	($6,217)	($5,120)	($4,498)
+MC $127M
+
+from 10Q:
+seasonality is in effect with this company.  Q4 should be less that Q3.  Last year cash went from $51.8M to $33.4M
+
+No hurry on this one.  I don't see the big long term story with this co.
+
+Aug 4, 2006
+
+jun06 to sep05
+rev 24,907 27,193  	25,140  	26,781
+inc (4,869) ($6,172)	($7,532)	($4,228)
+price 6.24
+shares 20,627K
+==>
+EPS ($1.11)
+MC $128.7M
+
+I Read a research report by Bill Gibson.  The optimistic buzz is that cost cutting combined with states adopting Real ID will result in profitability.
+
+"""
+President Bush has signed the REAL ID bill
+into law, which will compel states to issue
+more robust driver’s licenses by 2008. Many
+state DMV commissioners have balked at this
+unfunded mandate, so the law may still be
+modified. Even though timetables and
+parameters may be altered in the REAL ID act,
+we are convinced that this market will
+eventually prove to be a significant driver’s of
+revenue and profit growth for these vendors.
+"""
+
+This sounds like a big gamble.  I wouldn't bet on it unless I had some information on the purchasing plans of a large DMV such as CA or TX.  The fact that they've lost money up to now in spite of having a steady revenue stream leaves a bad taste in my mouth.  It's taken this long to finally cut costs?
+
+Of course the company is really cheap: trading at 1.0X sales and 1.16 PB.  The next quarter is not supposed to be good so there is plenty of time to watch.

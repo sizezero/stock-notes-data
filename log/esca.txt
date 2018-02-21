@@ -1,0 +1,83 @@
+
+NAME: Escalade Inc.
+CID: 0000033488
+KEYWORDS: feb2016screen
+
+Apr 2, 2016
+
+Feb 2016 stock screen,
+
+Industry: Consumer Goods
+Sector: Sporting Goods
+CEO: Mr. David L. Fetherman
+Year took office: Dec 2015 VP of sales since 2007
+
+Look for moat: brand, switching, cost, protected
+Look for CEO consistency
+Identify competitors
+
+=== 2010 10K ===
+
+Didn't read.
+
+=== 2015 10K ===
+
+Sporting goods business. Sold unrelated businesses in 2014.
+
+"""
+Headquartered in Evansville, Indiana, Escalade Sports manufactures, imports, and distributes widely recognized sporting goods brands in basketball goals, archery, indoor and outdoor game recreation and fitness products through major sporting goods retailers, specialty dealers, key on-line retailers, traditional department stores and mass merchants. Escalade is a leader in table tennis tables, residential in-ground basketball goals and in archery bows
+"""
+
+Lots of names I don't recognize.
+
+As of December 26, 2015, the Company had approximately 27% of its total accounts receivable with Dick’s Sporting Goods.
+
+Escalade Sports manufactures in the USA and Mexico and imports product from Asia, where the Company utilizes a number of contract manufacturers.
+
+"""
+Within the sporting goods industry, the Company has successfully built a robust market presence in several niche markets. This strategy is heavily dependent on expanding our customer base, barriers to entry, strong brands, excellent customer service and a commitment to innovation. A key strategic advantage is the Company’s established relationships with major customers that allow the Company to bring new products to market in a cost effective manner while maintaining a diversified portfolio of products to meet the demands of consumers. In addition to strategic customer relations, the Company has substantial manufacturing and import experience that enable it to be a low cost supplier. Concentrated focus on the sporting goods industry will allow the Company to leverage its strength in these markets.
+
+To enhance growth opportunities, the Company has focused on promoting new product innovation and development and brand marketing. In addition, the Company has embarked on a strategy of acquiring companies or product lines that complement or expand the Company's existing product lines or provide expansion into new or emerging categories in sporting goods. A key objective is the acquisition of product lines with barriers to entry that the Company can take to market through its established distribution channels or through new market channels. Significant synergies are achieved through assimilation of acquired product lines into the existing Company structure. In 2015, the Company acquired Onix Sports, Inc. to expand the Company’s offerings of pickleball paddles, balls, sportswear, and accessories, and Goalsetter Systems, Inc., (“Goalsetter”) to add another premium brand of residential in-ground basketball goals. The acquisition of Goalsetter from Co-Line Manufacturing, which will continue to manufacture the Goalsetter basketball goals in its Iowa facilities, also strengthens and diversifies the Company’s sources of basketball goals. The Company also sometimes divests or discontinues certain operations, assets, and products that do not perform to the Company's expectations or no longer fit with the Company's strategic objectives.
+"""
+
+
+"""
+Restricted Stock Units
+In 2015, the Company awarded 10,000 restricted stock units to directors and 42,450 restricted stock units to employees. The restricted stock units awarded to directors time vest over two years (one-half one year from grant date and one-half two years from grant date) provided that the director is still a director of the Company at the vest date. Director restricted stock units are subject to forfeiture, except for termination of services as a result of retirement, death or disability, if on the vesting date the director no longer holds a position with the Company. The 2015 restricted stock units awarded to employees vest over four years (one-third two years from grant date, one-third three years from grant date and one-third four years from grant date) provided that the employee is still employed by the Company and that the performance criteria related to the market price of the Company’s stock is satisfied. The criteria is for any 30 consecutive trading days on the NASDAQ Stock Market (or such other principal securities exchange on which the Company’s shares of common stock are then traded) during the period beginning on the grant date and ending on the fourth anniversary thereof, the cumulative average Volume Weighted Average Price per share is at least 15% higher than the closing price per share on the grant date plus any incremental dividends paid above the current quarterly dividend rate of $0.10 per share by the Company during such four year period. The performance criteria for the 38,250 restricted stock units awarded to employees in the first quarter of 2015 was satisfied during the second quarter of 2015
+"""
+
+Don't like this as an incentive.  Looks like this replaces the earlier option plans.  Good disclosure in 10-K.
+
+Lots of acquisitions the last three years.  I would be more comfortable to have the company growing its own products.
+
+================
+
+Calc annualized 5 year eps growth: 12.3%
+
+Morningstar key ratios:
+2011
+Book Value per Share: 6.81
+2015
+book value per share: 6.80
+cumulative div per share: 1.88
+Calc annualized 5 year book value growth + divy: 1.87
+
+Wow.  All retained earnings given back as dividends.  Can't call this a great company.
+
+dec 2015
+rev 155,542  	137,975  	132,991
+inc 11,606  	11,817  	9,805  
+shares 14,190,844
+price 11.71
+div 0.44
+==>
+EPS $3.12
+PE 3.8
+MC $166.2M
+Margins 7.8%
+Dividend $0.44
+Yield 3.8%
+Payout Ratio 14.1%
+
+Shit!  Crazy low valuation and payout ratio.  But without growing equity who cares?  Maybe the recent changes to the company will focus it?  It would be good to check up on this in a year.
+

@@ -1,0 +1,27 @@
+
+NAME: China Energy Savings Technology Inc.
+CID: 0001119601
+
+"Good" company from value screen.
+
+Feb 1, 2006
+
+Makes energy saving devices similar to Host America.
+
+inc $9,656   	$6,039   	$3,862   	$2,858
+shares 21,524,371
+price 6.03
+==>
+Income $22.4M
+EPS $1.04
+PE 5.8
+MC $129.8M
+
+I'm terrified of investing in a Chinese company but these numbers look great.  Home page seems investor centric but that's probably due to sales through the subsidiaries.
+
+There's a pretty negative motley fool article on this company that posits that the company can't grow/compete without a huge cash infusion.
+
+April 28, 2006
+
+Most of the board resigned.  Stock delisted.  No info on what happened.  Continue to be terrified by chinese companies.
+

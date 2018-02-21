@@ -1,0 +1,39 @@
+
+NAME: Audible, Inc.
+CID: 0001077926
+
+May 5, 2006
+
+Sells various downloadable audio (newspapers, radio shows, magazines).  iPod compatible.
+
+dec05 to mar05
+rev 19,270   	16,183   	15,884   	12,905
+inc ($2,177) 	($189) 	$824   	$889 
+shares 8,972,504
+price 11.87
+==>
+MC $106.5M
+
+10Q
+
+Sells through their own web site as well as through iTunes.  Uses some unspecified DRM to prevent copying.
+
+NOTIFY date May 9, 2006 conference call
+
+This has traditionally been a very difficult market.  Content creators want most of the revenue and they want their IP to be in some crippling, user-unfriendly format.  Users are generally wary about paying for digital content (iTunes is the rare exception) and will easily abandon one source for another.  Some users will also balk at intrusive DRM.
+
+Lets see what the next quarter is like.
+
+May 9, 2006
+
+Q1 results.  I seem to have screwed up the share count earlier.
+
+jan06 to jun05
+rev 19,714 19,270   	16,183   	15,884
+inc (3,041) ($2,177) 	($189) 	$824
+shares 24,482K
+price 11.53
+==>
+MC $282.3M
+
+NOTIFY date off

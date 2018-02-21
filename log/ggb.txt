@@ -1,0 +1,27 @@
+
+NAME: Gerdau S.A.
+CID: 0001073404
+
+Feb 11, 2006
+
+Steel company found after looking at USAP
+
+Another Brazillian steel company.  No visibility.
+
+Mar 27, 2013
+
+Still no visibility.  Here's the last year:
+
+dec 2012
+rev 18,550,265
+inc 730,764
+shares 1702328563
+price 6.51
+==>
+EPS $1.72
+PE 3.8
+MC $11082.2M
+Margins 3.9%
+
+Shares look untrustworthy as there are about 0.5B common and 1.5B preferred.  Not worth looking into further.
+

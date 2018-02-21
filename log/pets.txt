@@ -1,0 +1,28 @@
+
+NAME: PetMed Express Inc.
+CID: 0001040130
+
+Jan 2, 2010
+
+Barron's Dec09 value list
+
+markets prescription and non-prescription pet medication to the consumer
+
+sep09
+rev 62,447  	77,169  	48,071  	43,406
+inc $6,265  	$8,075  	$5,649  	$4,885
+price 17.66
+shares 22,841,203
+==>
+EPS $1.09
+PE 16.2
+MC $403.4M
+Margins 10.8%
+
+2.3% yield.  Good consistent growth with little capital.  Estimates for next year 1.14 to 1.32  Seems to be a bit pricy. pass
+
+EPS $1.20
+PE 16.2
+==>EPS $1.20
+Price $19.44
+

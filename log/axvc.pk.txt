@@ -1,0 +1,39 @@
+
+NAME: Axial Vector Engine Corp.
+CID: 0001144130
+
+Dec 21, 2005
+
+Steve wanted me to look at the home page of this company.  I assume he wants product info.
+
+Yikes!  $100M MC for a company with zero revenues.  $50M in current assets.  Lots of expectation.
+
+From home page:
+Developing new patented rotary engine for industrial uses.
+Engine may require no transmission.  Huge plus reducing weight and maintenance.
+Still in the prototype stage.
+Claims to be 40% more efficient than standard internal combustion engines.
+New engine market over $132B per year
+
+My first thought is that there really needs to be some independent tests of these prototype engines.  Laymen (including myself) can't judge this technology.  We can only gamble on it.
+
+They acquired the technology of a company that developed this in 1957.  Surely the significant patents have expired?
+
+What is the maintenence cost of one of these engines?  Surely it is considerably more just due to the lack of expertice.  Huge maintenance costs could overshadow any efficiency gains.
+
+Claims that computer control sensors are responsible for some of the efficiency gains.  This is a bit of a red herring since similar sensors should be able to improve the efficiency of conventional engines.
+
+Some good background on engine technology culminating in the axial vector engine:
+http://chargezine.blogspot.com/2005_09_01_chargezine_archive.html
+
+From this press release, trials are 4 to 6 months out:
+http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=SEATTLE_OR.story&STORY=/www/story/12-01-2005/0004225678&EDATE=Dec+1,+2005
+"the initial commercial prototype production
+will undergo rigorous testing and evaluation programs including field trials
+at Beta sites over the next 4 to 6 months to confirm reliability and
+performance."
+
+Feb 13, 2010
+
+The company is in really bad shape with no cash and huge debt.  Yahoo lists the market cap as N/A.  Amazingly, headlines still talk about the product.
+

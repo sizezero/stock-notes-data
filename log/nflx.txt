@@ -1,0 +1,19 @@
+
+NAME: Netflix, Inc.
+CID: 0001065280
+
+Nov 15, 2009
+
+I can't believe I never looked at netflix.
+
+inc 30,141  	32,443  	22,363  	22,732 
+shares 54,642,694
+price 59.33
+==>
+EPS $1.97
+PE 30.1
+MC $3242.0M
+
+Wow.  Still lots of growth factored into the price for a $3B MC.  Lots of uncertainty in the future of rentals and streaming video to pay this kind of premium.
+
+

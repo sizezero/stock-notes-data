@@ -1,0 +1,85 @@
+
+NAME: Zynex, Inc.
+CID: 0000846475
+
+Jul 29, 2012
+
+Steve talked about this today.  They have several different products notably an electrostimulation device marketed towards individuals for pain relief and a blood monitor marketed to hospitals and doctors.  He feels the company is way undervalued based on its growth.
+
+CEO Mr. Thomas Sandgaard founded the company in 1996
+
+=== 2011 10K ===
+
+Four subsidiaries:
+ Zynex Medical (100% of revenue)
+ Zynex Neurodiagnostics
+ Zynex Monitoring Solutions
+ Zynex Europe
+
+Balance sheet looks good.  Increased spending in both sales and R&D cutting into profits.
+
+Unit rentals ~28% of revenue.
+
+=======
+
+rev 8,944  	 9,693  	 9,427  	 8,395
+inc 320  	 599  	 591  	 484
+price 0.67
+shares 31,083,109
+==>
+PE 10.4
+MC $20.8M
+Margins 5.5%
+
+Get into this at $0.65 and watch from there.  Sell at 20x ~$1.20
+
+BUY $0.65
+SELL $1.20
+
+Dec 28, 2012
+
+TRADE buy 15000@0.65 commission 9.99 balance 15000
+
+sep 12
+rev 10,102  	 10,026  	 8,944  	 9,693
+inc 358  	 473  	 320  	 599 
+price 0.65
+shares 31,138,734
+==>
+EPS $0.06
+PE 11.6
+MC $20.2M
+Margins 4.5%
+
+Feb 19, 2013
+
+TRADE buy 5000@0.565 balance 20000 commission 9.00
+TRADE buy 12240@0.58 balance 32240
+
+May 31, 2016
+
+TRADE sell 101@0.30 balance 32139 commission 9.99
+
+Jun 2, 2016
+
+TRADE sell 400@0.30 balance 31739 commission 9.99
+
+Jun 16, 2016
+
+TRADE sell 1500@0.30 balance 30239 commission 9.99
+
+Sep 21, 2016
+
+TRADE sell 10000@0.26 balance 20239 commission 9.99
+
+Sep 21, 2016
+
+TRADE sell 10000@0.26 balance 10239 commission 9.99
+
+Nov 10, 2016
+
+TRADE sell 10239@0.2788 balance 0 commission 9.99
+
+BUY none
+SELL none
+

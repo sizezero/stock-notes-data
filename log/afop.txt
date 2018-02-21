@@ -1,0 +1,28 @@
+
+NAME: Alliance Fiber Optic Products Inc.
+CID: 0001122342
+
+Oct 31, 2010
+
+Company makes fiber optic products.  Splitters, multiplexors, switches, etc.  These are pieces for more specific optical equipment, i.e. their customers are manufacturers.  Not sure if this is just for backbones or if this gets to companies or homes.
+
+The earnings seem to be taking off.  It's interesting to see small tech turning a profit.
+
+sep10
+rev 13,276 	 12,086   	8,406   	7,517
+inc 2,064  $1,606   	$641   	$428
+price 11.0
+shares 8,826K
+===>
+EPS $0.54
+PE 20.5
+MC $97.1M
+Margins 11.5%
+
+If take a year's revenue/earnings at what was earning last quarter then we get $0.94 a share and PE of 12.  This may not be accurate as the 10Q says demand tends to fluctuate.
+
+Read the June 10Q for an overview.  3 customers accounted for 40% of revenue.  Primary competitors are: Oclaro Corp., DiCon Fiberoptics, Inc., JDS Uniphase Corp., Oplink Communications Inc., Senko Advanced Components and Tyco Electronics Corporation.
+
+Unfortunately there wasn't much frank strategy discussion in the 10Q.  Just past facts and crazy warnings.
+
+Not sure where to go from here.  How to estimate the size of the market, the competition, future product stability?

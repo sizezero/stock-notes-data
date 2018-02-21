@@ -1,0 +1,29 @@
+
+NAME: ABM Industries Incorporated
+CID: 0000771497
+
+May 28, 2017
+
+From March 27 Barrons. Interview with Mariki Gordon of Daruma Capital
+
+"""
+ABM provides building services; cleaning services; parking services; facilities services like wheelchair assistance, cleaning airplanes, running parking lots. It has been around for 108 years. It's not a supersexy business. We like it because the CEO and CFO are new to their positions as part of a normal succession but not new to the company. They are energized. The last CEO ran everything for sales growth, rather than profitable growth. ABM's margins are at the absolute bottom of the heap for peers that include Aramark, Comfort Systems, Emcor, Sodexho. We now expect margins on earnings before interest, taxes, depreciation, and amortization to go from 3.8% to 4.8% in 2018, from procurement, cost savings and from shared services. They have reorganized the business along industry verticals--industry, aviation, emerging inducstries like health care, and mechanical-systems maintenance. Line manager now focus on providing broad service solutions rather than selling individual products. Managers have incentives to grow profitable revenues. They are also walking away from bad businiesses. ABM throws off cash, and will throw off even more if they execute right, which can be returned to shareholders or reinvested in the business. I expect ABM to produce $254M of Ebitda in 2018. If ABM delivers a 5.5% margin and trades at an appropriate multiple of 11 times, the stock is worth $55 over the long term, up from $43 now.
+
+"""
+
+Jan 2017
+rev 1,257000 1,297000 1,322000 1,327000
+inc 4000 31000 8000 (57000)
+shares 55,675,641
+price 42.19
+div 0.68
+==>
+Income ($14.0M)
+Revenue $5203.0M
+EPS ($0.25)
+PE N/A
+MC $2349.0M
+Margins N/A
+Yield 1.6%
+
+There must be some expectectations for increased earnings. I don't see it.

@@ -1,0 +1,25 @@
+
+NAME: Alpha Natural Resources, Inc.
+CID: 0001301063
+
+Jan 3, 2010
+
+Analysts best picks 2010
+
+value play; mostly coal some gas
+
+yahoo has last quarter jun09 WTF?  10Q filed for sep09
+rev 729,246  	  386,169  	486,735  	593,835
+inc (19,499) $15,359  	$40,964  	($4,193)
+price 43.38
+shares 120,256,572
+==>
+EPS $0.27
+PE 159.9
+MC $5216.7M
+Price $43.38
+Shares 120.3M
+Margins 1.5%
+
+Estimates for 09 claim 1.76?  I clearly have some calculation problems.  I don't like the way that quarterly data is obscured in the 10Q.  Pass.
+

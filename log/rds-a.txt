@@ -1,0 +1,90 @@
+
+NAME: Royal Dutch Shell
+CID: 0001306965
+
+May 23, 2012
+
+TRADE buy 161@62.00 balance 161 commission 7.00
+
+Nov 24, 2012
+
+No financial data on Yahoo and SEC data is obscured with foreign 6-K filings.  Shell web site has the most readable information.  Scottrade has the simplest data.
+
+I'll play this as a money machine.  Keep an eye on earnings, yield and payout ratio.
+
+Payout ratio: 41
+EPS: 8.45
+Gross margin: 20%
+Operating margin 11%
+PE: 7.9
+div (annual) 3.44
+
+quartely div is currently US $0.86.  Scottrade/etrade says $0.43
+
+sep 2012
+rev 112,118000	117,068000	119,920000	115,575000	
+inc 7,139000	4,063000	8,719000	6,500000	
+shares 6266M
+div 3.44
+price 66.99
+==>
+Income $26421.0M
+Revenue $464681.0M
+EPS $4.22
+PE 15.9
+MC $419759.3M
+Price $66.99
+Shares 6266.0M
+Margins 5.7%
+Dividend $3.44
+Yield 5.1%
+Payout Ratio 81.6%
+
+
+My calculations of PE look much worse than the presented numbers.  I must be looking at trailing numbers or maybe the wrong currency.  Payout ratio looks unsustainable.  Every other source has a PE of ~7.9.  Maybe my share count is wrong? No.  etrade also lists mc at 125B and shares outstanding at 1.9B.
+
+Well, if I focus on a yield of 5.1% and a payout ratio of 41% then this is probably a good buy.  Oil will continue to fluctuate but this is a good entry point.  Sell at yield of 3% since there is less visibility here.  Buy at a yield of 5%
+
+BUY $68.80
+SELL $114.67
+
+Nov 26, 2012
+
+TRADE buy 150@66.55 balance 311 commission 7.00
+
+Feb 19, 2013
+
+TRADE buy 150@66.40 balance 461 commission 7.00
+
+Feb 16, 2015
+
+Next buy block if the market allows it.
+
+BUY $55.00
+
+Mar 22, 2015
+
+Sell at 2.5% yield
+
+SELL $117
+
+Jul 10, 2015
+
+TRADE buy 182@55.00 commission 7.00 balance 643
+
+BUY $49.00
+
+TRADE buy 160@49.00 commission 7.00 balance 803
+
+BUY $44.00
+
+Dec 17, 2015
+
+TRADE buy 230@44.00 commission 7.00 balance 1033
+
+BUY $40.00
+
+May 4, 2017
+
+TRADE buy 190@52.418 commission 6.95 balance 1223
+

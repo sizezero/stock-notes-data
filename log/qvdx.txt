@@ -1,0 +1,43 @@
+
+NAME: Quovadx Inc.
+CID: 0001094561
+
+Mar 27, 2006
+
+Mentioned by Steve.
+
+Consists of three somewhat unrelated software products:
+1) Quovadix ISD: integrated healthcare solution
+2) CareScience: hosipital management
+3) Rogue Wave: generic reusable sw modules used by sw developers (obsolete)
+
+Negative income for years.  Estimates hope for a penny or two in the last two quarters of 2006.
+
+shares  40,924K
+price 3.22
+==>
+MC $131.8M
+
+10Q
+
+"""
+In the fourth quarter of 2003 we acquired Rogue Wave Software, Inc. to expand our penetration into new markets, to enhance our competitive position with the ROGUE WAVE®  brand, and to increase our customer base and revenue stream. As a result of these acquisitions, we reorganized the Company into three operating divisions in 2004, with a centralized headquarters staff.
+"""
+
+This is a bad decision as Rogue Wave's products are really losing steam.  If they bought Rogue Wave to expand into better markets then the market for their existing products must be terrible.  
+
+ Year Ended December 31,
+	  	Integration Solutions 	  	CareScience 	  	Rogue Wave
+ 
+2005
+	  	  	43 	% 	  	  	44 	% 	  	  	16 	%
+2004
+	  	  	51 	% 	  	  	45 	% 	  	  	12 	%
+
+Definitely losing 20% of revenue in 2006:
+"""
+ An ISD outsourcing contract with the Medical University of South Carolina, representing approximately 15%, 16%, and 20% of total Company revenue, for the years ended December 31, 2005, 2004 and 2003, respectively, is expected to terminate in November 2006. Revenue from this customer represented approximately 32%, 33% and 24% of total ISD revenue for the years ended December 31, 2005, 2004 and 2003, respectively. This contract, which has historically produced low operating margins, was recently renewed for the final year of its nominal five-year term. The customer has notified us of their intention to bring these services in-house by the end of 2006. In such event, unless we are able to replace the revenue, total revenue and results of operations for the ISD and the Company beginning in 2007 would be adversely impacted.
+ 
+"""
+
+Ignore this company until they have several profitable quarters.

@@ -1,0 +1,90 @@
+
+NAME: EMCOR Group Inc.
+CID: 0000105634
+KEYWORDS: not_great
+
+Jan 2, 2010
+
+Barron's Dec09 value list
+
+Industrial electrical, mechanical, facilities, construction.
+
+last quarter sep09
+rev 1,371,985  	1,422,670  	1,394,636  	1,680,518
+inc $39,986  	$44,819  	$36,768  	$60,287
+price 26.90
+shares 65,929,843
+==>
+Revenue $5869.8M
+EPS $2.76
+PE 9.8
+MC $1773.5M
+Margins 3.1%
+
+Thin margins.  Revenues dropped to 07 levels.  Looks like a fair price.
+
+Jan 10, 2010
+
+2010 megacap
+rank 3
+
+Feb 2, 2010
+
+TRADE buy 102@24.30 balance 102 commission 11.99
+
+May 6, 2010
+
+TRADE buy 88@28.30 balance 190 commission 11.99
+
+Aug 2, 2010
+
+TRADE buy 95@26.20 balance 285 commission 9.99
+
+Nov 10, 2010
+
+TRADE buy 95@26.25 balance 380 commission 9.99
+
+Jan 22, 2012
+
+Industry: Industrial Goods / General Contractors
+CEO: Anthony J. Guzzi 
+Year took office: joined company in 2004, CEO Jan 2011.  Worked at UTX.  First time CEO earning $2.5M
+
+New CEO; miniscule dividiend yield (0.70%) and not-low PE.  I'll just read the last 10-K, not five years worth.
+
+86% of revenue comes from the US.  Competitors are many small fragmented servicers as well as much larger companies.  Major jobs come from competitive bids.  Decline in construction means that many companies are taking lower bids at slim margins.
+
+Article on the lower maintenance of LED light bulbs features a blurb from USM a division of Emcor about how there's less maintenance.  American Facilities Segment is 30% of revenues but bulb replacement is a minor fraction of that.  Still, continued solid state improvements could reduce maintenance across the board.
+
+Lots of big acquisitions in the last year.  USM acquired for $255M.
+
+sep11
+rev 1,383,339  	 1,399,927  	 1,312,231  	 1,570,067
+inc 40,758  	 28,809  	 24,594  	 39,976 
+price 28.52
+shares 66,711,018
+div $0.20
+==>
+EPS $2.01
+PE 14.2
+MC $1902.6M
+Margins 2.4%
+Yield 0.7%
+Payout Ratio 9.9%
+
+I don't see a reason to own this one.  Sell at 15x trailing PE.
+SELL $30.00
+
+Feb 2, 2012
+
+TRADE sell 130@30.00 balance 250 commission 10.07
+TRADE sell 250@30.00 balance 0 commission 0.15
+
+Mar 22, 2015
+
+No longer interested in the company.
+
+BUY None
+SELL None
+
+

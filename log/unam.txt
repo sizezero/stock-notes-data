@@ -1,0 +1,39 @@
+
+NAME: Unico American Corp.
+CID: 0000100716
+
+Jul 14, 2006
+
+Found as "great" in value screen jun06
+
+Insurance underwriter.  Based in Woodland Hills CA, operates in 6 states near the West coast.
+
+mar06 to jun05
+rev 14,074  	14,835  	15,204  	15,662  
+inc $1,888  	$1,855  	$1,661  	$1,693
+shares 5,625,523
+price 10.78
+==>
+EPS $1.26
+PE 8.5
+MC $60.6M
+Margins 11.9%
+
+Total assets - Total liabilities gives $51M.  Very close to MC.
+
+from 10Q
+
+"""
+The property and casualty insurance industry is characterized by periods of soft
+market conditions, in which premium rates are stable or falling and insurance is
+readily available, and by periods of hard market conditions, where rates rise,
+coverage may be more difficult to find and insurers' profits increase. The
+Company believes that the "hard market" that existed in California in the past
+few years has transitioned to a "soft market." The Company cannot determine how
+long the existing market conditions will continue, nor in which direction they
+might change.
+"""
+
+Not much visibility.  Press releases and 10Q are absent of chatter.
+
+CEO owns about 50% of the company.  Too bad there's no dividends.

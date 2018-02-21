@@ -1,0 +1,265 @@
+
+NAME: Microsoft Corp
+CID: 0000789019
+KEYWORDS: megacap2008 maybe_great
+
+Jan 1, 1992
+
+TRADE buy 2784@2.0 balance 2784 commission 0.0
+
+Jan 1, 2005
+
+blah blah blah
+
+Feb 2, 2005
+
+more stuff about msft
+
+Dec 5, 2005
+
+I need to sell some of this this month to offset the loss of CAFE.  I
+activated the Schwab account and am trying to sell a little.  I have
+no idea how to analyze this so I just put a limit order in just a
+little above the market price.
+
+Finding the cost basis could be problematic.  The split adjusted
+prices between 1990 and 1995 were between 0 and 4.
+
+Dec 23, 2005
+
+TRADE sell 500@26.6 Balance 2284 commission 13.36
+
+Mar 24, 2006
+
+TRADE sell 1000@27.05 balance 1284 commission 13.79
+
+Oct 2, 2006
+
+TRADE sell 1284@27.41 commission 18.30 balance 0
+
+Dec 15, 2008
+
+mega cap 2008
+
+TRADE buy 81@19.14 balance 81 commission 9.99
+
+Jan 12, 2009
+
+TRADE buy 79@19.50 balance 160 commission 9.99
+
+Mar 2, 2009
+
+TRADE buy 194@15.90 balance 354 commission 9.99
+
+May 7, 2009
+
+TRADE buy 168@20.10 balance 522 commission 9.99
+
+Jul 21, 2009
+
+TRADE buy 139@24.15 balance 661 commission 9.99
+
+Jul 25, 2009
+
+Latest quarter diluted eps 0.34. ==> 1 yr 1.36.  price 23.45 ==> pe 17.2
+
+Fron conference call.
+Expect next two quarters to remain flat.
+
+Sep 2, 2009
+
+TRADE buy 140@24.00 balance 801 commission 9.99
+
+Nov 11, 2009
+
+TRADE buy 116@29.05 balance 917 commission 9.99
+
+Nov 29, 2009
+
+inc 3,574,000  	3,045,000  	2,977,000  	4,174,000
+shares 8,983,000,000
+price 29.22
+==>
+EPS $1.53
+PE 19.1
+MC $262483.3M
+
+Next year's estimate gives a PE of 10.  I'm not sure how much growth to count on in this company. Hold.
+
+Mar 13, 2010
+
+dec09
+rev 19,022,000  	12,920,000  	13,099,000  	13,648,000
+inc $6,662,000  	$3,574,000  	$3,045,000  	$2,977,000
+shares 8,770,460,922
+price 29.27
+==>
+EPS $1.85
+PE 15.8
+Margins 27.7%
+
+Big rev bump was due to the windows 7 launch.  Average estimate is $2 for 2010.  Margins and monopoly makes me want to buy more of this.
+
+Jun 23, 2010
+
+rev 14,503,000    	  19,022,000    	  12,920,000    13,099,000
+inc $4,006,000    	  $6,662,000    	  $3,574,000    $3,045,000
+shares 8,763,839,329
+price 25.31
+==>
+EPS $1.97
+PE 12.8
+Margins 29.0%
+
+Jan 23, 2011
+
+Industry: Technology / Applications Software
+CEO Steve Balmer
+Year took office: in company since 1980. CEO Jan 2000
+
+Annual Reports
+ read current
+ read 2 yrs ago
+ read 3 yrs ago
+ read 4 yrs ago
+ read 5 yrs ago
+
+=== 2006 10K ===
+
+7 segments:
+ Platform and Services division
+  Client: Windows, OEM accounts for 80% of revenue
+  Server and Tools: Windows Server, SQL, Exchange, Visual Studio
+ MS Business Division
+  (two former segments)
+  Information Worker: 85% Office, Sharepoint, Visio, Project
+  Microsoft Business Solutions: specialized apps for small and mid-sized businesses
+ Online Services Division
+  MSN: online access, search, mappoint, portals
+ Entertainment and Devices Division
+  Mobile and Embedded Devices: phones, cars
+  Home and Entertainment: Xbox, Xbox live
+
+"""
+Due to our integrated business structure, operating costs included in one segment may benefit other segments. Therefore, these segments are not designed to measure operating income or loss that is directly related to the products included in each segment. Inter-segment cost commissions are estimated by management and used to compensate or charge each segment for such shared costs and to motivate shared effort. Segments should not be viewed as discrete or easily separable businesses. 
+"""
+
+R&D $6.58B, 14.9% of rev
+
+Strategy
+ 1) strengthen core products (windows, office, exchange)
+ 2) succeed in adjacent businesses (unified communications)
+ 3) new markets
+ 4) Delivering software services (online)
+
+"""
+Our revenue historically has fluctuated quarterly and has generally been the highest in the second quarter of our fiscal year due to corporate calendar year-end spending trends in our major markets and holiday season spending by consumers. Our Home and Entertainment segment is particularly subject to seasonality as its products are aimed at the consumer market and are in highest demand during the holiday shopping season. Typically, Home and Entertainment has generated over 40% of its yearly segment revenues in our second fiscal quarter. We believe the seasonality of revenue is likely to continue in the future.
+"""
+
+Diluted EPS: $1.20
+
+=== 2007 10K ===
+
+=== 2008 10K ===
+
+=== 2009 10K ===
+
+=== 2010 10K ===
+
+Divisions (three years of rev/inc)
+ Windows / Windows Live (was Client)
+ Server and Tools
+ Online Services
+ MS Business
+ Entertainment and Devices
+ Corporate Activity (???)
+
+R&D pretty stable at 14% of rev
+
+Diluted EPS: $2.10
+
+================
+
+Competitive advantage
+ Company Moat
+  Brand - Brand is a bit tarnished even though office is ubiquitous
+  Switching - switching office and sharepoint is very difficult, windows not so bad
+  Cost - printing CDs plus R&D, only open source can really compete
+  Protected - Patents equal protection and liability
+  Other
+ How likely will moat endure over the next 5 yrs? There will be erosion of windows but I don't see any serious threat to office.  Office is safe for 3 years
+
+Competitors
+ For 3 competitors
+  Read current annual report: Apple, Google
+ What is the biggest risk to the company over the next 5 yrs? Pad Computing, Cloud computing, cell phones.  I don't see this penetrating business but maybe execs could live with a pad.
+ Probability of it happening. 40%
+
+Financial Checklist
+ For company and industry
+  5 yr EPS growth. 75%
+  5 yr revenue growth. 43%
+  Current net profit margin (earnings/revenue). 38% (ind 23%)
+  Current ROE (earnings/stockholders_equity). 43% (ind 26%)
+  % long term debt to equity. 
+
+The cash cows are Office and business.  This should stick around for 3-5 years unscathed but Windows revenue should continually erode.  Buy is 30% discount of industry PE 19 = PE 11.  Sell at PE 16--below industry and closer to market average.
+
+rev 19,953,000   	16,195,000   	16,039,000   	14,503,000
+inc 6,634,000   	5,410,000   	4,518,000   	4,006,000
+shares 8,653,567,331 
+price 27.77
+==>
+EPS $2.38
+PE 11.7
+MC $240309.6M
+Margins 30.8%
+
+Not quite a great company but worth more shares @$26
+BUY $26.18
+SELL $38.08
+
+Mar 4, 2011
+
+TRADE buy 382@26.13 commission 9.99 balance 1299
+
+Jun 16, 2011
+
+TRADE buy 417@23.95 commission 9.99 balance 1716
+
+Jul 29, 2012
+
+mar12
+rev 17,407,000  	 20,885,000  	 17,372,000  	 17,367,000
+inc 5,108,000  	 6,624,000  	 5,738,000  	 5,874,000
+shares 8,383,396,575
+price 29.75
+div 0.80
+==>
+EPS $2.78
+PE 10.7
+MC $249406.0M
+Margins 32.0%
+Yield 2.7%
+Payout Ratio 28.7%
+
+I don't like what I'm hearing about Windows 8, tablets, phones, etc.  Sell at PE 13, Buy at 5% yield.
+
+SELL $36.14
+BUY $16.00
+
+Sep 20, 2012
+
+TRADE sell 858@31.35 commission 9.99 balance 858
+
+Oct 25, 2013
+
+TRADE sell 858@36.10 commission 9.99 balance 0
+
+Mar 22, 2015
+
+No longer interested in the company.
+
+BUY None
+SELL None
+

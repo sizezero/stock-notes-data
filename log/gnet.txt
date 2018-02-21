@@ -1,0 +1,27 @@
+
+NAME: Global Traffic Network Inc.
+CID: 0001344907
+
+Nov 9, 2010
+
+Sells traffic news to non-US tv and radio stations.
+
+jun10
+rev 23,241   	24,113   	25,624   	20,357
+inc $356   	$483   	$822   	($1,034)
+price 6.71
+shares 18,466,824
+==>
+EPS $0.03
+PE 197.6
+MC $123.9M
+Margins 0.7%
+
+Based on last three quarters
+==>
+EPS $0.12
+PE 56.0
+MC $123.9M
+Margins 2.3%
+
+Huge growth factored into the stock.  Stay away.

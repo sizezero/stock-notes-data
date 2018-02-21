@@ -1,0 +1,35 @@
+
+NAME: American Mortgage Acceptance Co.
+CID: 0000878774
+
+Jan 24, 2006
+
+"Great" company from value screen.
+
+New York based REIT.
+
+04 and 03 were flat: rev 15.9M 15.5M inc 11.3M 11.9M
+
+sep05 to dec04
+rev 12,837  	7,276  	6,254  	4,103
+inc $7,312  	$3,069  	$2,827  	$1,349 
+shares 8314K
+price 15.45
+==>
+Income $14.6M
+EPS $1.75
+PE 8.8
+MC $128.5M
+
+I'm not sure if the growth in the last four quarters means anything.  This should have been in the "unsure" category for the value screen.
+
+Nov 25, 2012
+
+Sad casualty of the 2008 mortgage crisis.
+
+JP Morgan called in the loans.  From an Oct 2008 8-K
+
+"""
+The Registrant was unable to obtain alternative financing for its credit lines and was forced to sell the above assets to repay the Repurchase Facility.  Due to losses incurred during the year (as was the case with previously disclosed results as of March 31, 2008, and June 30, 2008) the Registrant’s total remaining liabilities exceed the current value of its total remaining assets.  Given the Registrant's financial condition, there can be no assurance that the Registrant will be able to continue in operation and if liquidated and wound up in a bankruptcy proceeding or otherwise, claims of shareholders would be subordinate to the claims of creditors and other obligors. Therefore, the Registrant does not believe there would be any recovery for common shareholders and believes the common shares are worthless.
+"""
+

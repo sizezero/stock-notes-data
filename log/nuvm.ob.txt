@@ -1,0 +1,34 @@
+
+NAME: NuVim Inc.
+CID: 0001170652
+
+Nov 7, 2005
+
+Showing at Westergaard conference.
+
+Makes a milk derived dietary supplement.  Tiny cap (2.1M) but the
+product is already available in 2,800 retail stores in 13 states.
+Currently in selected east coast states.  Good news if the product
+sells and they can continue to make it available in more markets.
+
+Sample the product if you can.
+
+Jun 19, 2006
+
+mar06 to sep05
+rev 176  	205  	158
+inc ($495)	($560)	($522)
+shares 5,054,278
+price 0.36
+==>
+EPS ($0.42)
+MC $1.8M
+
+from 10Q
+"""
+Management also expects
+operating  losses to continue in 2006 and 2007. The Company has negative working
+capital  of  $2,517,373  and a Total  Stockholders  Deficit of  $2,507,550.
+"""
+
+No need to jump into this one.

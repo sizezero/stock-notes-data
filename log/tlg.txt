@@ -1,0 +1,26 @@
+
+NAME: Target Logistics Inc.
+CID: 0001009480
+
+Mar 3, 2006
+
+"magic" screen feb 06
+
+Freight forwarding.  Handling the logistics of packing, shipping, insuring and warehousing ~50lb packages.  Customers include electronics suppliers, computer sw, fashion apparel.  Offices in 34 cities.
+
+Steadily growing income for 2 years.
+dec05 to mar05
+inc 976   	477   	505   	265
+shares 21,490,385 (diluted)
+price 2.55
+==>
+Income $2.2M
+EPS $0.10
+PE 24.7
+MC $54.8M
+
+Not much discussion in the 10Q.  I need to listen to the recent conference call.  The multiple isn't low unless you believe the guidance of 70-110% net income growth for 2006 with only 12-14% revenue growth.  I don't like the business: it seems like they could be squeezed by either the shippers or their customers.
+
+Jun 15, 2006
+
+ticker targ.ob ==> tlg

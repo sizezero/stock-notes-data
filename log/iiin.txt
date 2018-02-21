@@ -1,0 +1,57 @@
+
+NAME: Insteel Industries Inc.
+CID: 0000764401
+
+"Good" company from value screen.
+
+Feb 1, 2006
+
+Creates reinforcing steel used in concrete construction.
+
+Long time chairman sold shares back to company for estate planning reasons.  Price was discounted to 21.32
+
+Company's earnings are seasonal with reduced winter construction.
+
+inc $6,386   	$8,499   	$5,044   	$5,116 
+shares 9,477K (diluted)
+price 27.53
+==>
+Income $25.0M
+EPS $2.64
+PE 10.4
+MC $260.9M
+
+The company has run up a lot in the past month.  Add it to the watch list in case it drops from bad news.
+
+Dividends and stock options seems like a bad mix.
+
+Dec 1, 2012
+
+sep12
+rev 97,865  	 93,598  	 87,029  	 84,811 
+inc 833  	 894  	 262  	 (180)
+price 11.96
+shares 17,719,095
+div 0.12
+==>
+EPS $0.10
+PE 117.1
+MC $211.9M
+Margins 0.5%
+Yield 1.0%
+Payout Ratio 117.5%
+
+=== sep 2012 10Q ===
+
+Makes steel "strands" for concrete reinforcement.  Different than rebar.  Largest produce of this stuff.  Quick product turnaround.  No backlog.  Demand driven by construction.
+
+"""
+We believe that we are the largest domestic producer of PC strand and WWR. The markets in which our business is conducted are highly competitive. Some of our competitors, such as Nucor Corporation, Keystone Steel & Wire Co. and Gerdau Ameristeel Corporation, are vertically integrated companies that produce both wire rod and concrete reinforcing products and offer multiple product lines over broad geographic areas. Other competitors are smaller independent companies that offer limited competition in certain markets. Market participants compete on the basis of price, quality and service. Our primary competitors for WWR products are Nucor Corporation, Gerdau Ameristeel Corporation, Engineered Wire Products, Inc., Davis Wire Corporation, Oklahoma Steel & Wire Co., Inc., Concrete Reinforcements Inc. and Wire Mesh Corporation. Our primary competitors for PC strand are American Spring Wire Corporation, Sumiden Wire Products Corporation, Strand-Tech Martin, Inc. and Wire Mesh Corporation. Import competition is also a significant factor in certain segments of the PC strand market.
+"""
+
+Competition is fierce both domestic and overseas.  Margins should always be tiny.
+
+===
+
+I don't see the upside to this company.  It's certainly not a value play and even if it were cheap I don't see either growth or the assurance of consistent revenues.
+

@@ -1,0 +1,43 @@
+
+NAME: Community West Bancshares
+CID: 0001051343
+
+Dec 13, 2005
+
+Steve mentioned this stock.  He owned some a long time ago but thinks the company might be growing.
+
+11 Branches in Goleta, Santa Barbara, Santa Maria, Ventura, Roseville (Sacramento), and Tahoe.
+
+Income and revenue growth has been good for several years.  The last four quarters have also been good (sep05 to dec04)
+Rev: 9,647  	8,977  	8,153  	8,161 
+Inc: 2,151  	1,119  	978  	954
+
+The last quarter is a bit of an anomoly since $914K of the income was due to a tax reversal.  Discounting this the income would only be 1,237 which is an increase over the last quarter but not as spectacular.  I haven't been able to track this down on the income statement / cash flow so I'm assuming it needs to be pulled out of the reported earnings.  Loan growth accounts for the rest of the earning improvements in the past year.
+
+total diluted shares: 5.6M
+trailing income: 5,202
+trailing eps 0.93
+PE @13.8 = 14.8
+income minus one time tax break: 4288
+eps 0.77
+PE @13.8 = 17.9
+
+I find a lot of banks in the 15-19 PE range and the reasonably priced ones are 12-14.  I rely on PE more than PB when evaluating banks since some banks seem to be able to do a lot more with the same amount of money--but I'm still learning.  This bank seems a bit overpriced.
+
+There was practically no forward looking discussions in the 10Q.  If they have a hunch where the company is going, they're not saying.
+
+Sep 26, 2007
+
+The company has been squeaking along with low earnings and had one whopper loss in Mar09 of $7M.  If we average the other three quarters we get:
+
+inc: $1,061  	$26  	$675 
+shares: 5,915,130 
+price: 2.30
+==>
+Income $2.3M
+EPS $0.40
+PE 5.8
+MC $13.6M
+
+It seems if there's any hope of solvency then this is really cheap.  I glanced at the latest 10Q and it appears they have upped the standards for loan accounting and are confident about their risk exposure. Is it time to look at banks again? Sent steve an email re: this.
+

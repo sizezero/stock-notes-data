@@ -1,0 +1,75 @@
+
+NAME: INX
+CID: 0001020017
+
+Apr 18, 2005
+
+Recommended by Steve.
+
+Very strange company.  Looks like a holding company of three, semi
+related IT consulting/reseller companies.  10K talks about being a
+unified IP Telephony company but I don't see that on their web pages.
+IP Telephony is hugely competitive.  Tied to Cisco products when Cisco
+offers a (somewhat) competing product.
+
+Apr 20, 2005
+
+Steve said: Telephony is fragmented.  Looking to acquire other
+companies.
+
+Nov 7, 2005
+
+Showing at Westergaard conference.
+
+A loss in the third quarter cut the stock price in half.  They are now
+selling two smaller business units and concentrating on their Cisco IP
+product.  As mentioned earlier, I'm wary of them concentrating so much
+on Cisco.  In spite of this, focusing the company sounds good and I'd
+still be interested in hearing their story.
+
+Qs: What is the customer value of their Cisco product?  Why do Cisco's
+own products not have this functionality.
+
+May 3, 2006
+
+ticker ISR ==> INXI
+
+rev 20,333   	39,157   	34,348   	27,768
+inc ($723) 	($235) 	($418) 	($6,508)
+shares  5,706,323
+price 6.75
+==>
+MC $38.5M
+
+NOTIFY date May 4, 2006 conference call
+
+from 10K
+
+Custom IP products have yet to generate revenue.  The company is still a service company for installing IP networks for data/voice/video using Cisco's products.
+
+Continuing losses and "all their eggs in one Cisco basket" makes me want to stay out.
+
+May 6, 2006
+
+Steve is long in this stock.
+
+mar06 to jun05
+rev 26,822 20,333   	39,157   	34,348
+inc ($528) ($723) 	($235) 	($418)
+shares 6,047,840
+price 7.00
+==>
+MC $42.3M
+
+NOTIFY date off
+
+May 26, 2006
+
+Steve wanted me to read the latest analyst's report.  Nothing really new in the report.  Steve looks at the Cisco relationship as an asset and I look at it as a risk.
+
+Dec 12, 2009
+
+LD Microcap conference
+
+Virtualized data center.
+

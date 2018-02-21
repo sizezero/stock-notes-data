@@ -1,0 +1,39 @@
+
+NAME: International Paper
+CID: 0000051434
+
+May 28, 2017
+
+I feel like I should have looked at this for a while now but this is the first entry so I must have been lazy.
+
+Barrons first wrote about this in Jan 16 and later in their most recent issue.
+
+takeaways:
+- rising free cash flow and dividend
+- world's biggest producere of containerboard and corrugated packaging: makes one of every three boxes in north america
+- analysts estimate 6%-7% of products go to amazon up from 4% in 2015
+- once fragmented market is now consolidated
+- still cyclical
+- pulp business gives IP an edge over rivals PKG and WRK
+- 12.2 2018E PE
+
+mar17
+rev 5,322000 5,266000 5,381000 5,511000
+inc 40000 312000 218000 209000
+shares 412,899,011
+price 52.42
+div 1.85
+==>
+EPS $1.89
+PE 27.8
+MC $21644.2M
+Price $52.42
+Margins 3.6%
+Dividend $1.85
+Yield 3.5%
+Payout Ratio 98.1%
+
+Ugh.  This seems like suck a speculative play.  Put in a lowball number in case there is a pullback to start an entry level position. 4% yield
+
+BUY $46.00
+

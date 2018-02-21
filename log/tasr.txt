@@ -1,0 +1,25 @@
+
+NAME: TASER International Inc.
+CID: 0001069183
+
+Nov 7, 2005
+
+Showing at Westergaard conference.
+
+Zap, Zap.  Still staying out of this one.
+
+Jun 20, 2006
+
+mar06 to jun05
+rev 13,894  	12,608  	11,676  	13,207
+inc $806  	$109  	$330  	$663
+shares 64,053,031
+price 8.05
+==>
+EPS $0.03
+PE 270.2
+MC $515.6M
+Price $8.05
+Margins 3.7%
+
+Wow.  I can't believe there's still so much optimism in this stock.

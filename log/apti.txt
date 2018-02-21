@@ -1,0 +1,60 @@
+
+NAME: Advanced Power Technologies
+CID: 0001114973
+
+Mar 1, 2005
+
+$50 to $500 MC
+
+Earnings positive the last year.  Stock flat but still probably
+overpriced.
+
+May 10, 2005
+
+MC:72M
+
+From 1Q 2005 10Q:
+
+Produces power semicondoctors which are used in aircraft, MRIs,
+network base stations and many other products.  Specializes in high
+power (> 1 watt) high speed devices.
+
+Been acquiring other companies since 2002.
+
+Latest quarter earnings -$6.3M.  This is mostly due to the acquisition
+of PowerSicel, but also lower wafer yields, and greater than average
+product returns.  Management claims these problems are fixed and are
+only a singular occurence.  Check in on them next quarter.
+
+Co believes increased demand may result from customer demand for more
+efficient energy use. (energy play)
+
+From Forbes:
+Competitors in Electical Equipment:
+ Magnetek Incorporated,
+ C&D Technology *****,
+ Ixys, Artesyn Technologies ****,
+ Advanced Power Technology,
+ Fairchild Semicon Intl,
+ International Rectifier,
+ On Semiconductor ****,
+ Semtech Corporation,
+ Power-One,
+ Cherokee International,
+ Bel Fuse,
+ Power Integrations,
+ Sipex Corporation *****,
+ Vicor *****  
+
+Apr 12, 2006
+
+dec05 to sep05 (prev two quarters neg)
+inc $1,087   	$828
+shares 10,774K
+price 13.94
+==>
+EPS $0.36
+PE 39.2
+MC $150.2M
+
+Being sold to Microsemi by the end of April.

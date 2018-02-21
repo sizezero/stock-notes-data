@@ -1,0 +1,38 @@
+
+NAME: Imagenetix
+CID: 0000839441
+
+Dec 12, 2009
+
+LD Microcap conference
+
+product bioguard: a pill that coats throat and protects from flu.  Claims $20M next year and $40M the following year.  product Celedrine: like glucosamine for joint pain.
+
+Dec 27, 2009
+
+inc 553  	(415)	(356)	(0)
+shares 11,010,788
+price 0.51
+==>
+MC $5.6M
+
+If last quarter wasn't a fluke then it's trading at a PE of 2.5
+
+Dec 28, 2009
+
+Steve said fourth quarter won't be great (product doesn't sell well for xmas) but next quarter should be good.  Unable to place a trade via tdameritrade--telling me to call a broker.
+
+Apr 16, 2010
+
+Steve saw them at another conference.
+
+dec09
+rev 1,765  	1,901  	1,702  	1,326  
+inc ($294)	$553  	($415)	($356)
+shares 11,010,788
+price 0.48
+==>
+EPS ($0.05)
+PE N/A
+MC $5.3M
+

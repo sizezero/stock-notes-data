@@ -1,0 +1,105 @@
+
+NAME: Abaxis, Inc.
+CID: 0000881890
+KEYWORDS: great feb2016screen
+
+Mar 26, 2016
+
+Feb 2016 stock screen,
+
+Industry: Healthcare
+Sector: Medical Laboratories & Research
+CEO: Clinton H. Severson
+Year took office: 1996
+
+Annual Reports
+ read 5 yrs ago
+ read current
+
+Look for moat: brand, switching, cost, protected
+Look for CEO consistency
+Identify competitors
+
+=== 2010 10K ===
+
+Fewer products
+
+Revenue $125M
+EPS $0.58
+
+=== 2015 10K ===
+
+10-K/A Lots of talk of shareholder's rights and compensation that aligns management with shareholders.
+
+Manufacturer and marketer of portable blood analysis systems that are used in a broad range of medical specialties in human or veterinary patient care to provide clinicians with rapid blood constituent measurements.  Consumable products.  Competes worldwide.  Two segments: human and veterinary.
+
+Broad range of customers:
+"""
+Our products sold to the medical market are used by a diverse range of medical specialties requiring accurate, real time results to enable rapid clinical decisions in the area of human diagnostics. The current customer focus of our medical products include: physicians’ office practices across multiple specialties, urgent care, outpatient and walk-in clinics (free-standing or hospital-connected), health screening operations, home care providers (national, regional or local), nursing homes, ambulance companies, oncology treatment clinics, dialysis centers, pharmacies, hospital laboratories, military installations (ships, field hospitals and mobile care units) pharmaceutical clinical trials and cruise ship lines. Revenues in the medical market accounted for 17%, 17% and 18% of our total revenues for fiscal 2015, 2014 and 2013, respectively.
+"""
+
+Wide variety of products targeted for specific types of animals.
+Patent protection.
+582 employees; no collective bargaining; good employee relations
+
+Risk
+"""
+In the United States, we rely on Abbott as our exclusive distributor in certain medical market to sell our products. Our dependency on Abbott means that any failure to successfully develop products and maintain this relationship could adversely affect our business, financial condition and results of operations.
+"""
+
+Competitors:
+"""
+Our principal competitors in the point-of-care human medical diagnostic market are Alere, Alfa Wassermann S.P.A., Johnson & Johnson, Ortho-Clinical Diagnostics, Inc. and F. Hoffmann-La Roche Ltd. Additionally, in certain segments of the human medical diagnostic market, we compete with Abbott’s i-STAT division. Many of our competitors in the human medical diagnostic market have significantly larger product lines to offer and greater financial and other resources than we do. In particular, many of these competitors have large sales forces and well-established distribution channels and brand names.
+
+Our principal competitors in the veterinary diagnostic market are Idexx Laboratories, Inc. and Heska Corporation. Idexx has a larger veterinary product and service offering than we do and a large sales infrastructure network and brand name. Consequently, we must develop our distribution channels and significantly expand our direct sales force in order to compete more effectively in these markets.
+"""
+
+March 2015 sold Abaxis Veterinary Reference Laboratories "AVRL" division.
+
+"We have not granted any stock options since the beginning of fiscal 2007" switch to granting absolute shares "performance vesting"
+
+Vetenary market 80% of rev.  R&D 8% of rev.
+
+2012 patent infringment case involved one time $17M gain.
+
+Nothing fishy in the notes to the 10-K
+
+Revenue $203M
+EPS $1.20
+
+================
+
+Calc annualized 5 year eps growth: 15.7%
+
+Morningstar key ratios:
+2010
+Book Value per Share: 6.65
+2015
+book value per share: 9.24
+cumulative div per share: 0.40
+Calc annualized 5 year book value growth + divy: 7.7%
+
+Compare these numbers to 10 year note (1.9%) and each other.
+
+Company has consistent growth and good management.  Adding great.
+
+rev 52,876  	55,975  	53,090  	52,017 
+inc 7,958  	7,816  	6,995  	11,331 
+shares 22,642,000
+price 42.19
+div 0.44
+==>
+Income $34.1M
+Revenue $214.0M
+EPS $1.51
+PE 28.0
+MC $955.3M
+Margins 15.9%
+Yield 1.0%
+Payout Ratio 29.2%
+
+EPS growth is good but book+divy is what counts.  Growth is good but not great.  Buy at PE of 12, load truck at a PE of 9
+
+BUY $18.10 $13.60
+
+

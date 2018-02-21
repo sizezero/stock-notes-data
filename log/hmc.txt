@@ -1,0 +1,20 @@
+
+NAME: Honda Motor Co. Ltd.
+CID: 0000715153
+KEYWORDS: megacap2008
+
+Dec 15, 2008
+
+Rated zero in the latest megacap screen.  Steve felt all auto companies were going to have a rough time in the current economy.
+
+Nov 15, 2009
+
+inc 1,411,152
+price 32.18
+shares 1,834,828,430
+==>
+EPS $3.08
+PE 10.5
+MC $59044.8M
+
+Crap.  Since it's a foreign company, 20-F (annual) and 6-K (quarterly) lists all amounts in Yen.  I can get the converted values from Yahoo but do I want to trust Yahoo?  Do I just have to ignore companies like this?

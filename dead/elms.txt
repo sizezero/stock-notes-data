@@ -1,0 +1,20 @@
+
+Mar 1, 2005
+
+Elmer's diners and Mitzel's diners.  As of Feb28 undergoing a buyout
+at $7.50 per share.
+
+< $50M MC
+
+Dec 15, 2005
+
+The ticker has evaporated so the buyout apparently completed.  The company is now private.
+
+http://www.elmers-restaurants.com/
+
+I'm not sure what to do with these dead entries.  Delete the file?
+
+Sep 27,2009
+
+OK, I'm going to make a "dead" directory and move these there.  Use this for companies who's ticker has evaporated.  If a company was bought out then I have the choice of merging this log with that of the buyer's log.
+

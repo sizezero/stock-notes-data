@@ -1,0 +1,20 @@
+NAME: AT and T, Inc.
+CID: 0000732717
+KEYWORDS: megacap2008
+
+Dec 15, 2008
+
+Rated zero in the latest megacap screen.  I have a bad feeling about them since they have long squandered research.
+
+Nov 15, 2009
+
+inc $3,192,000  	$3,198,000  	$3,126,000  	$2,404,000
+shares  5,901M
+price 26.25
+==>
+EPS $2.02
+PE 13.0
+MC $154901.2M
+
+Rock solid earnings for the past three years.  PE seems a bit high for a company that is not really growing.  Trailing 6% div yield is attractive right now.  It sure doesn't seem like a deal.  The company is slowly turning into a wireless company (land very slowly going away).
+

@@ -1,0 +1,25 @@
+
+NAME: Telkonet Inc.
+CID: 0001094084
+
+Nov 7, 2005
+
+Showing at Westergaard conference.
+
+IP over power lines.  It's an interesting idea that has never
+succeeded.  My question to these guys is what would it take for them
+to be profitable?  How big was the Best Western contract announced on
+Oct31.  Market cap of $214M: maybe I should just ignore this company.
+
+Jun 20, 2006
+
+mar06 to jun05
+rev 1,944  	1,147  	622  	473
+inc ($4,247)	($5,146)	($3,768)	($3,780)
+shares 46,866,154
+price 2.74
+==>
+EPS ($0.36)
+MC $128.4M
+
+CFO resigned in June.

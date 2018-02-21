@@ -1,0 +1,29 @@
+
+NAME: The TJX Companies, Inc.
+CID: 0000109198
+
+Jan 2, 2010
+
+Barron's Dec09 value list
+
+Home furnishings
+
+oct09
+rev 5,244,946  	4,747,528  	4,354,224  	5,380,025 
+inc $347,799  	$261,561  	$209,214  	$250,696
+price 36.55
+shares 419,708,634
+==>
+EPS $2.55
+PE 14.3
+MC $15340.4M
+Margins 5.4%
+
+Earning estimates spot on.
+low
+eps 2.77
+PE 14.3
+==>
+Price $39.61
+
+yield 1.3%.  Lack of growth potential of the stock doesn't make it worth the multiple.

@@ -1,0 +1,23 @@
+
+NAME: EVCI Career Colleges Holding Corp.
+CID: 0001065591
+
+Feb 27, 2006
+
+"magic" screen feb 06
+
+A business college founded in Yonkers NY with campuses in Manhatten.
+
+Growing revenues and earnings for two years until last quarter where costs outgrew revenues.  Recent investors class action lawsuit.  It seems the school was unable to accomodate the growth in enrollment.  Stock tanked.  PE is held up by earnings of dec04 quarter
+
+recent earnings excluding dec04 quarter:
+inc ($1,493) 	$320   	$667
+shares 12,432,867
+price 1.48
+==>
+Income ($0.7M)
+EPS ($0.05)
+PE N/A
+MC $18.4M
+
+Nothing to see here.

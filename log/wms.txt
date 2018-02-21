@@ -1,0 +1,29 @@
+
+NAME: WMS Industries Inc.
+CID: 0000350077
+
+Jan 2, 2010
+
+Barron's Dec09 value list
+
+Sells gaming machines (slots, video poker, etc.)
+
+sep09
+rev 165,300  	195,800  	180,800  	178,400
+inc $19,800  	$28,400  	$24,400  	$23,700 
+price 40.00
+shares 58,708,588
+==>
+EPS $1.64
+PE 24.4
+MC $2348.3M
+Margins 13.4%
+
+avg 2010 est
+eps 2.23
+price 40.00
+==>
+PE 17.9
+
+Seems like a high multiple for this type of company.
+

@@ -1,0 +1,70 @@
+
+NAME: Mesa Laboratories Inc.
+CID: 0000724004
+KEYWORDS: feb2016screen
+
+May 30, 2016
+
+Feb 2016 stock screen,
+
+Industry: Medical Instruments & Supplies
+Sector: Healthcare
+CEO: Dr. John J. Sullivan Ph.D., 63
+Year took office: 2009 (at company since 2004)
+
+Annual Reports
+ read 5 yrs ago
+ read current
+
+Look for moat: brand, switching, cost, protected
+Look for CEO consistency
+Identify competitors
+
+=== 2010 10K ===
+
+=== 2015 10K ===
+
+quality control products, which are sold into niche markets that are driven by regulatory requirements.  Seek low competition, high margins
+
+3 divisions across 6 locations
+
+Our Instruments Division designs, manufactures and markets quality control instruments and disposable products utilized in connection with the healthcare, pharmaceutical, food and beverage, medical device, industrial hygiene, environmental air sampling and semiconductor industries.
+
+Our Biological Indicators Division manufactures and markets biological indicators and distributes chemical indicators used to assess the effectiveness of sterilization processes, including steam, hydrogen peroxide, ethylene oxide and radiation, in the hospital, dental, medical device and pharmaceutical industries.
+
+Our Continuous Monitoring Division designs, develops and markets systems which are used to monitor various environmental parameters such as temperature, humidity and differential pressure to ensure that critical storage and processing conditions are maintained in hospitals, pharmaceutical and medical device manufacturers, blood banks, pharmacies and a number of other laboratory and industrial environments.
+
+11 acquisitions in the last 3 years!  No customer is more than 10% of revenue.  276 employees. Since business is high margin, looking to get revenue from both sales an service.  Revenue split between 3 divisions with Continuous Monitoring significantly less.  Organic growth is low 4-6%
+
+================
+
+Calc annualized 5 year eps growth: $1.45 $2.63 12.7%
+
+Morningstar key ratios:
+2010
+Book Value per Share: $9.74
+2015
+book value per share: $20.14
+cumulative div per share: $2.70
+Calc annualized 5 year book value growth + divy: 18.6%
+
+A third of assets are goodwill.  Acquisitions are causing goodwill to grow significantly the past 3 years.
+
+All these acquisitions make it difficult to value the company.  I can't imagine the acquisitions can occur smoothly.
+
+dec 2015
+rev 19,913  	21,776  	18,158  	18,560
+inc 2,361  	1,752  	2,306  	2,239
+shares 3,626,528
+price 101.51
+div 0.64
+==>
+EPS $2.39
+PE 42.5
+MC $368.1M
+Margins 11.0%
+Dividend $0.64
+Yield 0.6%
+Payout Ratio 26.8%
+
+Hard to value and very high multiple.  I think owners consider acquisitions a safe way to grow.  I don't feel the same way.

@@ -1,0 +1,35 @@
+
+NAME: Amedia Networks
+CID: 0000933955
+
+Sep 28, 2005
+
+Showing at Edgewater Conference.
+
+Handles fiber to the home.  Includes telephony, video and ethernet.
+It's an interesting field but the two big risks I see are:
+
+1) Slowly developing market.  I'm not sure how long it will take
+   customers to demand fiber to the home.  I know that I am a somewhat
+   technical user and I have no interest in it.  It would have to
+   replace telephone and TV without sacrificing reliability in order
+   to be attractive.
+
+2) Competition.  There must be a ton of competition in this field.
+   Ask who their major competitors are and how they plan to compete.
+
+It looks like they're really burning through cash.
+
+Apr 24, 2006
+
+10K
+
+Lost $12M in 2005
+
+Fiber only needs to reach close to the individual homes before higher speed dsl can send data the rest of the way.
+5000 ft distance to fiber node yields 24Mbps
+ 500 ft distance to fiber node yields 100Mbps
+
+The rest of the 10K looks more like a prospectus.  I can't believe this immature company went public.
+
+No reason to bet on these guys.

@@ -1,0 +1,70 @@
+
+NAME: CalAmp Corp.
+CID: 0000730255
+
+Mar 14, 2006
+
+"magic" screen feb 06
+
+Manufactures microwave transmission equipment as well as smaller, two-way transmission equipment.  Main product is DBS satelite reception equipment which makes of 95%+ of all revenue.
+
+nov05 to feb05
+inc 5,439   	3,681   	1,977   	3,234
+shares 23,592K (diluted)
+price 9.83
+==>
+Income $14.3M
+EPS $0.61
+PE 16.2
+MC $231.9M
+
+Next quarter looks to be seasonably weak.  Also one customer is transitioning to a different product which should weaken next quarter a bit as well.  Waiting might provide a buying oportunity.
+
+Company sees brodband, PVRs, and HDTV as continuing to drive their businiess.  (Cable/satelite)
+
+10K/10Q
+
+Solid balance sheet cash:$36M equals total liabilities.
+
+Contracts out dish and circuit board manufacturing.  This allows them to easily swap suppliers to keep costs low.
+
+US sales represent 95%+ of revenue.
+
+Echostar (owns DISH) and DirectTV represents 60% of sales.  Losing either of these customers would be disastrous.
+
+Competitors: Sharp Corporation, Wistron NeWeb Corporation,
+Winegard Company, Andrew Corporation, Microelectronics Technology, Inc. and
+ProBrand.  Many other competitors in the solutions space including Wind River and BSQUARE.
+
+Company controls patents but doesn't seem to rely on them:
+"The Company's timely application of its technology and its design,
+development and marketing capabilities have been of substantially greater
+importance to its business than patents or licenses."
+
+Churn is an important aspect of the business model:
+"Demand for the Company's satellite television reception products is
+driven not only by the growth in the overall DBS subscriber base, but also by
+product upgrade cycles and subscriber "churn".  Churn, which is defined as
+subscribers whose service is disconnected for any reason, is an important
+factor driving demand for the Company's satellite products because the
+outdoor reception equipment typically is not redeployed by the service
+provider when churn occurs.  Average monthly churn in the U.S. DBS market was
+approximately 1.5% in calendar year 2004.  Given the average size of the U.S.
+satellite television market of about 23 million subscribers during calendar
+2004, this means that in calendar 2004 the aggregate churn amounted to
+approximately 4.4 million subscribers."
+
+More details on the expected first quarter downturn:
+"Subsequent to February 28, 2005, the Company experienced a significant
+reduction in orders from the U.S. DBS service providers, which are the two
+key customers of its Products Division.  Based on information obtained from
+these key customers, the Company believes that the primary reason for the
+decline in orders is that these key customers are adjusting their inventory
+holding levels.  The Company believes that this is a temporary situation and
+does not, in management's judgment, represent a fundamental shift either in
+its market share or the DBS industry as a whole.  The Company expects that
+this decline in orders will adversely affect sales and results of operations
+for the first quarter of fiscal 2006.  The Company believes that its DBS
+business will improve in the fiscal 2006 second quarter as these two key
+customers reach their target inventory levels and resume normal ordering
+patterns."

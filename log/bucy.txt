@@ -1,0 +1,22 @@
+
+NAME: Bucyrus International Inc.
+CID: 0000740761
+
+Jan 1, 2010
+
+Barron's Dec09 value list
+
+Mining equipment maker
+
+rev 675,767  	724,436  	605,744  	721,847
+inc 92,067  	$82,280  	$56,901  	$65,750
+price 56.37
+shares 75,133,869
+==>
+EPS $3.95
+PE 14.3
+MC $4235.3M
+Margins 10.9%
+
+Is a 14 PE high for a mining company like this?  If future growth is like the past then it is crazy cheap.  Estimates for next year are less than 2009.  Stay away
+

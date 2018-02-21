@@ -1,0 +1,36 @@
+
+NAME: Nobility Homes Inc.
+CID: 0000072205
+
+Mar 10, 2006
+
+"magic" screen feb 06
+
+Creates manufactured homes in Florida.  Sells via its' own network of retail centers as well as wholesale.
+
+Growing annual rev/inc for two years
+feb06 to may05 (strange quarter dates)
+inc $1,490 $1,907   	$1,501   	$1,692
+shares 4,134,923 (diluted)
+price 26.25
+==>
+Income $6.6M
+EPS $1.59
+PE 16.5
+MC $108.5M
+
+Steve is familiar with the company and claims that the company has had no real growth over the long term.  I don't have income data beyond two years but the stock has steadily grown with one large dip in 1999.
+
+Pays a modest (1.20% yield dividend)
+
+10Q
+
+Company is optimistic about 2006: Florida retirement is still strong and hurricane damage is increasing demand.  100% of 2005 sales were in Florida.  Dividend was raised each of the last 2 years.  Modest buy back of shares.
+
+"""
+Approximately 64% of our outstanding common stock is beneficially owned or
+controlled by our Chairman and CEO, Terry Trexler and our Executive Vice
+President and President of Prestige Home Centers, Tom Trexler.
+"""
+
+The management seems responsible but for this kind of company the trailing multiple should be lower.

@@ -1,0 +1,22 @@
+
+NAME: Atlantis Plastics Inc.
+CID: 0000811828
+
+Jul 25, 2006
+
+Found as "great" in value screen jun06
+
+Plastic injection molding company.  Used as padding and sealers for all kinds of products: cars, dishwashers,  etc.
+
+mar06 to jun05
+rev 109,785  	115,735  	106,585  	101,585
+inc 764  	2,612  	1,946  	2,445
+shares 8,256K
+price 7.60
+==>
+EPS $0.94
+PE 8.1
+MC $62.7M
+Margins 1.8%
+
+Even after some one time charges last quarter, operating income was still poor.

@@ -1,0 +1,88 @@
+
+NAME: Inter Parfums Inc.
+CID: 0000822663
+KEYWORDS: feb2016screen
+
+May 1, 2016
+
+Feb 2016 stock screen,
+
+Industry: Consumer Goods
+Sector: Personal Products
+CEO: Jean Madar 54
+Year took office: company founder in 1989; CEO since 1997
+
+Annual Reports
+ read 5 yrs ago
+ read current
+
+Look for moat: brand, switching, cost, protected
+Look for CEO consistency
+Identify competitors
+
+=== 20xx 10K ===
+
+=== 2015 10K ===
+
+Two segments: Europe and US
+
+73% of sales subsidiary located in Paris is owned by the company.  Subsidiary trades as a public company too?
+
+"""
+Our business is not capital intensive, and it is important to note that we do not own manufacturing facilities. We act as a general contractor and source our needed components from our suppliers. These components are received at one of our distribution centers and then, based upon production needs, the components are sent to one of several third party fillers which manufacture the finished product for us and deliver them to one of our distribution centers.
+"""
+
+Produce and distribute via licenses from brand owners (77%): Balmain, Boucheron, Coach, Jimmy Choo, Karl Lagerfeld, Lanvin, Montblanc, Paul Smith, S.T. Dupont, Repetto, Rochas and Van Cleef & Arpels
+
+Prestige brands are marketed (not produced?) (23%): Abercrombie & Fitch, Agent Provocateur, Anna Sui, Banana Republic, bebe, Dunhill, Hollister, French Connection, Oscar de la Renta, and Shanghai Tang
+
+5 to 12 year license for some brands.  Nice breakdown per license.  3 brands account for 55% of sales.  Many brands are 1-3% of sales.
+
+The company has a whole process to work with the brand to produce a new perfume.
+
+311 full-time employees worldwide
+
+Declining sales for 5 years!  Long term debt added in the last year. Variable dividends, mostly increasing.  It seems the loss of the Burberry license (23% of sales) caused the dip a couple years ago.
+
+Execs have stock options.  Lots of praise of stock options in 10-K.  I would prefer ownership. Execs get pensions as well.
+
+Strange consulting agreements with Exec's holding companies
+"""
+As part of our acquisition in 1991 of the controlling interest in Interparfums SA, now a subsidiary, we entered into an employment agreement with Philippe Benacin. The agreement provides that Mr. Benacin will be employed as Vice Chairman of the Board and President and Chief Executive Officer of Inter Parfums Holdings and its subsidiary, Interparfums SA. The initial term expired on September 2, 1992, and has subsequently been automatically renewed for additional annual periods. The agreement provides for automatic annual renewal terms, unless either party terminates the agreement upon 120 days’ notice. For 2016, Mr. Benacin presently receives an annual salary of €420,000 (approximately $466,000, and automobile expenses of €10,800 (approximately $11,985), which are subject to increase in the discretion of the board of directors. The agreement also provides for indemnification and a covenant not to compete for one year after termination of employment.
+ 
+In 2014, we entered into a consulting agreement with Mr. Benacin’s holding company, Philippe Benacin Holding SAS, which provides for review on an annual basis of the amount of compensation payable to such company. The agreement also provides for indemnification for Mr. Benacin and his holding company and a covenant not to compete for one year after termination of the agreement. The agreement was for one year, with automatic one year renewals unless either party terminates on 120 days’ notice or Mr. Benacin ceases to be the President of our company. For 2015, Mr. Benacin’s personal holding company received $250,000 for services rendered outside of the United States by Mr. Benacin in his capacity as President. This consulting agreement has been renewed at $250,000 for 2016.
+ 
+In 2013, we enter into a consulting agreement with Mr. Madar’s holding company, Jean Madar Holding SAS, which provides for review on an annual basis of the amount of compensation payable to such company. The agreement also provides for indemnification for Mr. Madar and his holding company and a covenant not to compete for one year after termination of the agreement. The agreement was for one year, with automatic one year renewals unless either party terminates on 120 days’ notice or Mr. Madar ceases to be the Chief Executive Officer of our company. For 2015, Mr. Madar’s personal holding company received $250,000 for services rendered outside of the United States by Mr. Madar in his capacity as Chief Executive Officer. This consulting agreement has been renewed at $250,000 for 2016.
+"""
+
+================
+
+Calc annualized 5 year eps growth: 2010 $0.88; 2016 $0.98; 2.2%
+
+Morningstar key ratios:
+2010
+Book Value per Share: 7.72
+2015
+book value per share: 12.10
+cumulative div per share: 2.12 
+Calc annualized 5 year book value growth + divy: 13%
+
+Compare these numbers to 10 year note (1.9%) and each other.
+
+It's not clearly great.  It would take more work to see the value that they add to the perfume making process.  It would also be good to see why they lost the contract with Burberry.
+
+rev 118,326  	138,944  	102,021  	109,249  
+inc 1,859  	14,220  	4,351  	10,007  
+shares 31,037,915
+price 30.62
+div 0.60
+==>
+EPS $0.98
+PE 31.2
+MC $950.4M
+Margins 6.5%
+Dividend $0.60
+Yield 2.0%
+Payout Ratio 61.2%
+
+Huge payout ratio and crazy valuation.  This is currently in the turnaround phase so there is no need to get into this.

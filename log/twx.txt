@@ -1,0 +1,22 @@
+NAME: Time Warner Inc.
+CID: 0001105705
+KEYWORDS: megacap2008
+
+Dec 15, 2008
+
+Rated zero in the latest megacap screen.  Much of their assets are in declining media which is of questionable value.
+
+Nov 15, 2009
+
+Staggering $13B loss in 2008.  2009 has greatly reduced revenues and modest profit.
+
+inc 621,000  	530,000  	690,000 
+price 31.95
+shares 1,167,577,951
+==>
+EPS $2.10
+PE 15.2
+MC $37304.1M
+
+PE still expects lots of growth.
+

@@ -1,0 +1,38 @@
+
+NAME: Shiloh Industries Inc.
+CID: 0000904979
+
+Feb 1, 2006
+
+"Good" company from value screen.
+
+Company makes blanks and stamping used in steel car parts.
+
+CEO pulls a salary of $3.5M  I can't see looking any further.
+
+Dec 1, 2012
+
+Yahoo says CEO is Mr. Ramzi Y. Hermiz , 47 who declares no earnings.  Last 10Q is signed by CEO Theodore K Zmpetis.  Salary and compensation $0.5M.  Looks like Ramzi was appointed in August.
+
+jul12
+rev 142,021  	 162,831  	 132,371  	 143,715 
+inc 2,415  	 5,905  	 1,579  	 2,199  
+price 11.39
+shares 16,865,668
+==>
+EPS $0.72
+PE 15.9
+MC $192.1M
+Margins 2.1%
+
+=== July 2012 10Q ===
+
+Company suplies stamped steel car parts to OEMs for North American Cars/Trucks to OEMs.  Winning the bid for a car is critical.  Plant utilization is critical (high capital costs).  Steel purchased via customers' steel program.  Scrap sold.
+
+===
+
+Estimates for next year are only $0.85  I can't see why it deserves this valuation.  Put in an alert for PE 7
+
+BUY $5.04
+
+

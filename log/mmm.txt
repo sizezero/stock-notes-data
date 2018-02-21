@@ -1,0 +1,215 @@
+
+NAME: 3M Company
+CID: 0000066740
+KEYWORDS: megacap2008 great
+
+Dec 15, 2008
+
+mega cap 2008
+
+TRADE buy 16@56.30 balance 16 commission 9.99
+
+Jan 12, 2009
+
+TRADE buy 16@57.10 balance 32 commission 9.99
+
+Mar 2, 2009
+
+TRADE buy 43@42.91 balance 75 commission 9.99
+
+May 7, 2009
+
+TRADE buy 35@57.80 balance 110 commission 9.99
+
+Jul 21, 2009
+
+TRADE buy 32@62.24 balance 142 commission 9.99
+
+Sep 2, 2009
+
+TRADE buy 28@70.86 balance 170 commission 9.99
+
+Nov 11, 2009
+
+TRADE buy 26@77.95 balance 196 commission 9.99
+
+Nov 29, 2009
+
+inc $957,000  	$783,000  	$518,000  	$536,000
+shares 710800K
+price 76.75
+==>
+EPS $3.93
+PE 19.5
+MC $54553.9M
+
+Growth is priced into the stock price.  Hold.
+
+Mar 13, 2010
+
+dec09
+rev 6,122,000  	6,193,000  	5,719,000  	5,089,000
+inc $935,000  	$957,000  	$783,000  	$518,000 
+shares 711,733,377
+price 81.38
+==>
+EPS $4.49
+PE 18.1
+Margins 13.8%
+
+Low estimate for 2010 is 4.95.  Still seems fairly priced.  Hold.
+
+Oct 23, 2010
+
+jun10
+rev 6,731,000   	6,348,000   	6,122,000   	6,193,000
+inc $1,121,000   	$930,000   	$935,000   	$957,000  
+shares 713,134,328
+price 90.44
+==>
+EPS $5.53
+PE 16.4
+Margins 15.5%
+
+Still has a slightly better valuation than GE.  Yield lower at 2.3%  Hold.
+
+Feb 26, 2011
+
+Industry: Industrial Goods / Diversified Machinery
+CEO: George W. Buckley
+Year took office: Dec 2005 (new to company)
+
+Annual Reports
+ read current
+ read 3 yrs ago
+ read 5 yrs ago
+
+=== 2006 10K ===
+
+Segments:
+  Industrial and Transportation Business
+    Tape, filters, fasteners, fluids, seals, gaskets
+    insulation, catalytic converters, films, graphics, paint, cleaners
+  Health Care
+    medical tapes, dressings, casting materials, electrodes, stethoscopes, dental, orthopedic, hospital software
+  Display and Graphics
+    LCD monitors (TVs, phones, notebooks) highway signs,
+  Consumer and Office
+    Scotch, Post-it, furnace filters
+  Safety, Security and Protection Services
+    respirators, films, stickers
+  Electro and Communication
+    lube for hard drives, fluids for chip manufacturing, conducting and insulating tape
+
+R&D
+2004 $1.246B
+2005 $1.274B
+2006 $1.522B
+
+"""
+3M’s strategy emphasizes a commitment to grow at a faster pace, using a four-pronged approach, which includes reinvesting in its core businesses, developing adjacent emerging business opportunities, expanding on the Company’s already world-class capabilities outside the United States, and acquiring companies in faster-growing industries.
+"""
+
+Closing out pharmaceutical business (requires too much R&D)
+
+Good breakdown of business by industry and %
+Industry and Transportation largest at 30% of rev.
+Healthcare largest income at 32% of inc
+All industries grew rev since 2005.  Healthcare grew income 65% !
+
+Changing stock options to performance based bonuses.
+
+1/3 of rev is from US.
+
+Great annual report with good breakdown of each industry along with great performance metrics.  Much better than, say, the MSFT annual report.
+
+2006 to 2004
+rev $22,923M $21,167M $20,011M
+inc $3,851 $3,111M $2,841M
+EPS (diluted) $5.06 $3.98 $3.56
+
+=== 2008 10K ===
+
+R&D
+2007 $1.368
+2008 $1.404
+
+Cost cutting in response to economic downturn.  Poor 4th quarter but 2008 was a record year.
+
+2008 to 2006
+rev $25,269 $24,462 $22,923
+inc $3,460 $4,096 $3,851
+EPS (diluted) $4.89 $5.60 $5.06
+
+=== 2010 10K ===
+
+Business segments unchanged
+
+R&D
+2009 $1.293B
+2010 $1.434B
+
+Rev up for all segments.  Income up most for (40-100%) for Industrial& Transportation, Display&Graphics, Safety-Security-Protection
+
+2010 to 2008
+rev $26,662 $23,123 $25,269
+inc $4,085 $3,193 $3,460
+EPS (diluted) $5.63 $4.52 $4.89
+
+Stockholder's equity $15,663M
+LT debt $4,183M
+
+================
+
+Latest feature article in Barons praises the company.  Lot's of R&D and product innovation.  Sales and business overseas and in emerging markets (including R&D). One negative, CEO is soon to hit mandatory retirement age of 65.  Still seems to not be cheap. i.e. the article talks about it looking cheap with respect to forward earnings.
+
+Competitive advantage
+ Company Moat
+  Brand - worth something in consumer segment; not sure about others
+  Switching - complex software is hard to switch; others are low level items
+  Cost - company does a good job of utilizing worldwide resources for all business aspects
+  Protected - lots of R&D and patents.  Strong IP culture.
+  Other - none
+ How likely will moat endure over the next 5 yrs? Cost and IP are a central aspect of the company.
+
+Competitors
+ For 3 competitors JNJ, DD
+  Read current annual report
+ What is the biggest risk to the company over the next 5 yrs? Not much; losing CEO and replaced with short term thinking management.
+ Probability of it happening.  Unlikely
+
+Financial Checklist
+ For company and industry
+  5 yr EPS growth. 42%
+  5 yr revenue growth. 26%
+  Current net profit margin (earnings/revenue). 15% (ind 7%)
+  Current ROE (earnings/stockholders_equity). 26% (ind 12%)
+  % long term debt to equity. 27%
+
+Seems to be a great company but this industry should not grow by much.  Current trailing PE is crazy unless the depressed economy is just striving to get back to a new normal.  Industry PE of 12 seems right.  30% discount for buy and 40% premium for sell comes out to: 8.4 and 16.8
+
+dec10
+rev 6,709,000   	6,874,000   	6,731,000   	6,348,000
+inc 928,000   	1,106,000   	1,121,000   	930,000
+price 90.25
+shares 711,805,978
+==>
+EPS $5.74
+PE 15.7
+MC $64240.5M
+Margins 15.3%
+
+BUY $48.22
+SELL $93.43
+
+Mar 9, 2011
+
+TRADE sell 196@93.43 commission 10.35 balance 0
+
+Mar 22, 2015
+
+No longer interested in the company.
+
+BUY None
+SELL None
+

@@ -1,0 +1,45 @@
+
+NAME: Cordia Corp.
+CID: 0000837342
+
+Feb 24, 2006
+
+"magic" screen feb 06
+
+Local phone company (long distance, internet, VOIP) for residential and small businesses in NY, NJ and PA.
+
+Growing revenues but operating lost the last couple years.  Starting to turn a profit.
+
+inc $459   	$438   	$423   	($21)
+shares 6,183,236
+price 2.56
+==>
+Income $1.3M
+EPS $0.21
+PE 12.2
+MC $15.8M
+
+10Q
+
+Business plan was put into question as in 2004 the FCC lessened the requirements of large telecoms to share bandwidth with smaller companies.  Company seems to be handling this transition.
+
+Expanding to Colorado and Washington.
+
+I need to understand how tight these guys can be squeezed by the large telecoms.
+
+Apr 4, 2006
+
+Earnings release today made the stock jump 10%  (still almost half of last years high).  10QSB only has whole year information on 2005 with no breakdown of the quarter ending December.
+
+inc 1,160 0 0 0
+shares 6,379,229
+price 1.98
+==>
+Income $1.2M
+EPS $0.18
+PE 10.9
+MC $12.6M
+
+Diluted shares now a million and a half over non-dilutive.  This is new in 2005.
+
+Still really cheap based on trailing earnings but I'm still not sure of the business and a little nervous about it being an OTC stock.

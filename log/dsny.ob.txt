@@ -1,0 +1,17 @@
+
+NAME: Destiny Media Technologies
+CID: 0001099369
+
+Jan 29, 2012
+
+Steve found this one.  Future profits are based on their video transcoder technology.  I'll take a look at it.
+
+Products:
+
+Clipstream is a java based streaming solution that they claim is more reliable than flash and other solutions and takes 90% less bandwidth (big claim) as well as watermarking.
+
+MPE: automated servers to securly distribute high quality pre-release music.  Prevents early piracy.
+
+The have a bunch of patents.  Some point to dead URLs.  Videos wouldn't run on my system (Ubuntu linux) while flash runs just fine.
+
+I wonder what the market is for digital rights management.  iTunes showed that making a simple and easy way to distribute media is of value to many people and makes a ton of money.  Is it worth it to have a restricted system like this that is unplayable for some users just to prevent a few pirates?  I think the new Music industry is smarter than this.

@@ -1,0 +1,29 @@
+
+NAME: LJ International Inc.
+CID: 0001046692
+
+Nov 7, 2005
+
+Showing at Westergaard conference.
+
+Asian jewelry manufacturer/marketer.  In spite of the great recent
+quarter I wouldn't touch this with a ten foot pole.
+
+May 3, 2006
+
+No quarterly data; only annual.
+
+05 to 03
+rev 94,612   	77,379   	58,167 
+inc $3,438   	$2,687   	$1,813
+profit margin 3.63%	3.47%	3.12%
+
+inc 3,438 0 0 0
+shares 14,321,884
+price 3.46
+==>
+EPS $0.24
+PE 14.4
+MC $49.6M
+
+Very reasonable multiple for the three year growth they've had.  I just can't get myself to trust a Chinese company.  I really have no idea how business works over there.

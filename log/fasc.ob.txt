@@ -1,0 +1,43 @@
+
+NAME: First Aamerican Scientific CORP
+CID: 0001002822
+
+May 5, 2006
+
+Steve is looking at this one.
+
+Yahoo has no profile info.  Company web site is:
+http://www.fasc.net/
+
+Produces waste processing and packaging machines that turn waste into solid pellets that can be burned, fed to livestock, or otherwise disposed depending on the waste.  Machine uses rotating chaihn pulverizer, centrifuge, and pneumatic packer to process.  Input waste can have up to 80% moisture.  The product seems to have a wide variety of uses.
+
+dec05 to mar05
+rev 197   	115   	455   	69 
+inc ($143) 	($117) 	$224   	($237)
+price 0.057
+shares 189,708,955
+==>
+MC $10.8M
+
+Management receiving options in lieu of salary.
+
+Forming Brazillian and Malaysian companies.  $1M deal for machine in UK pulp mill.  Other projects in Japan, Korea, Canada.
+
+10Q
+"""
+Sales efforts are beginning to bring results with five systems sold in the last six quarters and two new license agreements signed this fiscal year. Based upon the sale of a minimum of one machines per quarter, plus royalties and license fees, we have projected sales of at least $1,000,000 to $2,000,000 next fiscal year .
+"""
+
+What kind of margins can we expect from the $1M to $2M in sales?
+
+Web site
+"""
+EPA Certification
+The KDS Micronex™ is registered with the United States Environmental Protection as a Pesticide Device, certifying the ability of the KDS Micronex™ to destroy pathogens.
+"""
+
+What is their competition?  Their product does not seem terribly complicated.  What keeps competitors out?
+
+May 6, 2006
+
+Steve replied: "They plan on doing at least $1million by June so they are on track. They look to have 20 systems in place for 2007 which should result in sales of $5 million. With additional capital they could do better. They claim to have several patents one for the product and 3 for the process."

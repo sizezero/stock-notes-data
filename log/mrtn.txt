@@ -1,0 +1,88 @@
+
+NAME: Marten Transport Ltd.
+CID: 0000799167
+KEYWORDS: feb2016screen
+
+May 30, 2016
+
+Feb 2016 stock screen,
+
+Industry: Trucking
+Sector: Services
+CEO: Randolph L. Marten , 63
+Year took office: 2005, with company since 1986
+
+Annual Reports
+ read 5 yrs ago
+ read current
+
+Look for moat: brand, switching, cost, protected
+Look for CEO consistency
+Identify competitors
+
+=== 2010 10K ===
+
+=== 2015 10K ===
+
+Temperature controlled trucking in North America. Nearly all revenue comes from US.  Claims to be "one of the leading temperature sensitive truckload carriers in the US."  Strategy is to grow organically with significant service and freight capacity.  99% on time within narrow windows.
+
+Four segments: Truckload, Dedicated, Intermodal, Brokerage. Primary source of revenue is Truckload.  Other segments handle various operational activities instead of trucking.
+
+Largest customer was Wal-Mart.
+
+Employs various tech when it helps:
+
+Terrestrial- and satellite-based tracking and messaging that allows us to communicate with our drivers, obtain load position updates, provide our customers with freight visibility, and download operating information such as fuel mileage and idling time for the tractor engines and temperature setting and run time for the temperature-control units on our trailers.
+ 
+ 	
+* Freight optimization software that assists us in selecting loads that match our overall criteria, including profitability, repositioning, identifying capacity for expedited loads, driver availability and home time, and other factors.
+
+* Electronic data interchange and internet communication with customers concerning freight tendering, invoices, shipment status, and other information.
+
+* Electronic logging devices in our tractors to monitor drivers’ hours of service.
+
+* Auxiliary power units installed on our company-owned tractors that allow us to decrease fuel costs associated with idling our tractors.
+
+* Fuel-routing software that optimizes the fuel stops for each trip to take advantage of volume discounts available in our fuel network.
+
+"we had a non-revenue mile percentage of 7.5% during 2015, which points to the efficiency of our operations and we believe compares favorably to other temperature-sensitive and dry van trucking companies."  Is this a good metric?
+
+"top 30 customers accounted for approximately 59% of our revenue, and our top ten customers accounted for 38% of our revenue."  Has reduced dependence on few customers and will continue to do so.
+
+Has a method for selecting high quality drivers.  Driver pay increases with service.
+
+Operates new, standardized fleet of tractors for efficiency.
+
+Operations are heavily dependent on the price of diesel fuel.  Uses fuel sur-charge to pass high fuel costs to customers.
+
+Dividends started in 2010.
+
+================
+
+Calc annualized 5 year eps growth: $0.90 $1.06 3.33%
+
+Morningstar key ratios:
+2010
+Book Value per Share: $8.93
+2015
+book value per share: $12.71
+cumulative div per share: $0.39
+Calc annualized 5 year book value growth + divy: 8.0%
+
+Very slow growing company.  Added long term debt in the last couple years but still nothing compared to assets.  It better have a rock bottom valuation.  I would need to look at the competition to see if this company has any kind of moat.
+
+mar 2016
+rev 161,929  	168,773  	171,346  	163,588
+inc 8,193  	8,790  	8,410  	8,357
+shares 32,423,231
+price 19.83
+div 0.10
+==>
+EPS $1.04
+PE 19.1
+MC $643.0M
+Margins 5.1%
+Yield 0.5%
+Payout Ratio 9.6%
+
+Why would someone value this company so high?  It would have to drop to a 6 PE for me to consider it.

@@ -1,0 +1,152 @@
+
+NAME: Comstock Homebuilding Companies Inc.
+CID: 0001299969
+
+Jan 24, 2006
+
+"Great" company from value screen.
+
+Builds homes/condos in WA DC and Raleigh NC.  Business started in 1985.  Publicly traded for a year. 
+
+Huge growth.  Costs may be getting out of hand tho.
+sep05 to mar05
+rev 78,437  	39,911  	28,729
+inc $11,483  	$3,066  	$3,809  	
+shares 14,168K (diluted)
+price 12.79
+==>
+Income $24.5M (yearly average of last 3 quarters)
+EPS $1.73
+PE 7.4
+MC $181.2M
+
+Jan19 purchased Parker Chandler homes (Atlanta, Charlotte, Myrtle Beach)
+"The Parker Chandler acquisition is projected to generate approximately $75 million in total revenue for the Company in 2006."
+
+Low price may be due to the weakening of the DC real estate market.  Dec05 Company cut it's fourth quarter guidance and is looking to expand outside of DC.  Still looking at over $1 per share for Q4.  Plans to buy back 1M shares.
+
+Why is this company so cheap?  Expanding into profitable markets should offer excellent growth oportunities.  The management is looking to build affordable homes ($200K to $500K) because they still sell in poor real estate markets.
+
+Mar 16, 2006
+
+Steve has a friend who is interesting in the company for the long term.
+
+An article on thestreet.com mentioned that it's trading below book value ($10.29) and the low price is due to management's miscommunication with it's shareholders the last 6 months.
+http://www.thestreet.com/_yahoo/stocks/homebuilders/10273884.html?cm_ven=YAHOO&cm_cat=FREE&cm_ite=NA
+
+TRADE buy 400@9.87 commission 7.99
+TRADE buy 100@9.88 balance 500
+
+May 2, 2006
+
+dec05 to mar05
+rev 77,228   	78,437   	39,911   	28,729
+inc $9,204   	$11,483   	$3,066   	$3,809 
+shares 13,022K
+price 9.39
+==>
+EPS $2.12
+PE 4.4
+MC $122.3M
+
+Preliminary revenue for Q1 is $60M.  This will likely result in serious reduced earnings.  The company claims that they are still looking for net positive earnings for 2006.
+
+NOTIFY date May 10, 2006 earnings announcement
+
+May 10, 2006
+
+NOTIFY date off
+mar05 to jun05
+rev 36,365 77,228   	78,437   	39,911
+inc 1,240 $9,204   	$11,483   	$3,066
+shares 14,071K
+price 9.19
+==>
+EPS $1.78
+PE 5.2
+MC $129.3M
+Margins 10.8%
+
+Revenues increased but cost of sales increased so operating income dropped.
+
+May 11, 2006
+
+conference call
+
+"""
+growing backlock since the beginning of the year $216M sat Mar31
+two acquisitions in the first quarter
+Gross margin dropped to 25% (expected 20-28 through this year)
+expecting $400M to $450M rev in 2006
+expecting 14.5M dilutive shares for 2006
+2.05 to 2.55 guidance for 2006
+
+Qs
+
+DC inventories are up
+difficulty in securing building, materials, labor
+some of the existing projects involve yesterday's (higher) prices for land
+shareholders equity 146.2
+"""
+
+PE on guidance is still around 4.5
+Time to double down.
+
+TRADE buy 1000@8.72 commission 7.99 balance 1500
+
+Jun 6, 2006
+
+TRADE buy 1000@7.00 commission 7.99 balance 2500
+
+Jul 25, 2006
+
+Found as "great" in value screen jun06
+
+Housing market just seems to be getting worse.
+
+Aug 10, 2006
+
+jun06 to sep05
+rev 50,697 36,595  	77,228  	78,437
+inc (7,123) $1,240  	$9,204  	$11,483  	
+shares 15,034K
+price 3.75
+==>
+Income $14.8M
+Revenue $243.0M
+EPS $0.98
+PE 3.8
+MC $56.4M
+Price $3.75
+Shares 15.0M
+Margins 6.1%
+
+Actually had a negative opinc of $11M before tax write off.
+
+conference call
+
+Thinks Raleigh market may pick up.
+Monitoring other states but not eager to expand.
+
+book value of $9.  Share repurchase is ongoing.
+
+removing guidance for the year.
+
+Qs
+
+No layoffs yet.  Hiring freeze and sometimes no replacements of voluntary reduction.
+
+shares 16.8M
+priority of cash flow: repurchase shares; stipulating that options are open
+
+The stock seems _really_ cheap but I don't know if I want to own more of it.
+
+Oct 2, 2006
+
+TRADE sell 500@5.2708 commission 8.08
+TRADE sell 1200@5.25 commission 0.20
+TRADE sell 100@5.23 commission 0.02
+TRADE sell 100@5.27 commission 0.02
+TRADE sell 400@5.22 commission 0.07
+TRADE sell 100@5.26 commission 0.02
+TRADE sell 100@5.24 commission 0.02 balance 0

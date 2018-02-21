@@ -1,0 +1,38 @@
+
+NAME: Jewett-Cameron Trading Co Ltd
+CID: 0000885307
+
+Mar 1, 2005
+
+Lumber wholesaler and various other timber related stuff (tools,
+seeds).  Not sure why PE and eps are NA and 0 when the the recent
+statements have a positive income.
+
+< $50M MC
+
+Apr 23, 2005
+
+Strange earnings announcement yesterday.  6 months ending 28 feb 05.
+
+P:6 EPS:0.42 PE:14.7 PB:1.06 MC:8.9M
+
+Listed on Toronto exchange plus OTC boards.  Donald Boone is
+President/CEO/Treasurer/Director of the Company.  Smells fishy.
+Revenue is growing but earnings stay low.  Canadian company.
+
+Apr 5, 2006
+
+nov05 to feb05
+inc $550   	$316   	$343   	$105  
+shares 1,567,581
+price 18.15
+==>
+EPS $0.84
+PE 21.7
+MC $28.5M
+
+based on last quarter ==> EPS $1.40 PE 12.9
+
+Good last quarter is all due to reduction in the cost of revenue.  Not sure if this is a one time event.
+
+Crazy low exec compensation.  CEO pulls in $36K; owns 30% of the company.  Haven't fully looked into stock options.

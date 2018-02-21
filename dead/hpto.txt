@@ -1,0 +1,16 @@
+
+NAME: HopTo Inc.
+CID: 0001021435
+
+Jul 29, 2015
+
+"Public company GOJO
+steve owns 470K shares outright
+warrants expire aug 9, 2013 (today!) but may be worthless
+Talked with both Bill Gibson (participant in offering) and Bob Clifford (works for brokerage firm that holds shares) Both say there's no rush.
+Fri Oct 11: sent email to investor relations; bounced; asked Bob for contact info
+Oct 14: bob@hopto.com responded ""235,000 warrants to purchase common stock at an exercise price of $0.26 per share. The warrants were issued to the Trust on September 1, 2011, and are exercisable for 5 years; thus, they will expire on September 1, 2016. No warrants have been exercised to date."""
+
+SELL $0.26
+
+

@@ -1,0 +1,46 @@
+
+NAME: Synthetech Inc
+CID: 0000749290
+
+Mar 1, 2005
+
+Supplies chemicals (amino acids, peptides) to pharmaceutical companies
+and researchers.  Few, large customers seems to cause revenue
+fluctuations.
+
+< $50M MC
+
+Jan 2, 2006
+
+Declining revenues and negative gross profit for 3 out of 4 of the last quarters.
+
+Lot's of stock options and equity incentive plans.  Executives will milk this thing to the grave.
+
+Feb 15, 2010
+
+Dec09
+shares 14,650,614
+rev 2,402 4,001  	4,664  	6,617  
+inc (650) 639  	$969  	$657
+price 0.57
+==>
+Income $1.6M
+Revenue $17.7M
+EPS $0.11
+PE 5.2
+MC $8.4M
+Margins 9.1%
+
+$1.3M in cash.  $1.6M Accounts Receivables.  Current liabilities $1.9M  $1M retained earnings.  The company seems to be self sustaining.  If there's an upside it doesn't get much cheaper than this.
+
+Note: this is not a biotech but a chemical manufacturer.
+
+New R&D
+"""
+During the fourth quarter of fiscal 2010 we expect to open a small laboratory facility in San Diego, California.  The facility will be designed for the manufacture of small-scale laboratory projects. The leased laboratory facility is in the process of being identified and will initially be staffed by two newly-hired chemists with experience in the synthesis of small molecules.  We believe that some of the small-scale business generated from this new facility will have the potential to mature into larger drug development projects which can be manufactured in our facility in Albany, Oregon.
+
+Our primary competition is from a variety of fine chemical companies headquartered in Western Europe.  We occasionally encounter competition from developing countries in Asia that have substantially lower cost structures.
+"""
+
+Looks interesting.  Mention to Steve.
+

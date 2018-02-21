@@ -1,0 +1,92 @@
+
+NAME: Buckle Inc.
+CID: 0000885245
+KEYWORDS: maybe_great
+
+Jan 1, 2010
+
+Barron's Dec09 value list
+
+last quarter oct09
+rev 231,238  	192,906  	199,697  	251,414 
+inc 33,305  	$24,994  	$26,862  	$34,340
+price 29.28
+shares 46,294,580
+==>
+EPS $2.58
+PE 11.3
+MC $1355.5M
+Margins 13.7%
+
+cheaply priced.  Carries a huge number of brands for young adults (skinny jeans, loud shirts)  Nice dividend yield 2.7%
+
+Jan 10, 2010
+
+Can't remember Steve's opinion about this.  It will be good to have a little retail exposure.
+
+2010 megacap
+rank 3
+
+Feb 2, 2010
+
+TRADE buy 77@32.30 balance 77 commission 11.99
+
+Mar 13, 2010
+
+Fourth quarter beat analysts projections.
+
+May 6, 2010
+
+TRADE buy 67@37.10 balance 144 commission 11.99
+
+Aug 2, 2010
+
+TRADE buy 91@27.60 balance 235 commission 9.99
+
+Nov 10, 2010
+
+TRADE buy 73@34.0499 balance 308 commission 9.99
+
+Jan 8, 2012
+
+Oct11 10Q
+
+Three keys to performance:
+Comparable Store Sales
+Merchandise Margins
+Operating Margin (affected by above)
+Cash Flow and Liquidity (working capital)
+
+Previous year 10K has last 5 years of comp store sales and working capital.  Stores have been steadily increasing but comp store sales percent increase is slowing.  Perhaps they are running out of improvments and the only way to grow is to open new stores.
+
+Expect 10K in late March.
+
+oct11
+rev 273,400  	 212,378  	 240,092  	 303,056
+inc 38,349  	 23,558  	 33,469  	 49,454
+price 41.47
+shares 47,423,165
+==>
+EPS $3.05
+PE 13.6
+MC $1966.6M
+Margins 14.1%
+
+PE up, EPS up, Margins up, yield down.  At 17 PE, yield gets down to 1.5% so sell around there: $52.  Don't buy until single digit PE of 9 (yield 2.8%): $28
+
+BUY $28
+SELL $52
+
+Oct 3, 2012
+
+Sold a little under my price.  I think the market is a little overvalued and will buy this back at a lower price if possible.
+
+TRADE sell 308@46.70 commission 10.32 balance 0
+
+Mar 22, 2015
+
+No longer interested in the company.
+
+BUY None
+SELL None
+

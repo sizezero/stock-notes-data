@@ -1,0 +1,118 @@
+
+NAME: ArcelorMittal
+CID: 0001243429
+KEYWORDS: megacap2008 not_great
+
+Dec 15, 2008
+
+mega cap 2008
+
+TRADE buy 25@24.19 balance 25 commission 9.99
+
+Jan 12, 2009
+
+TRADE buy 23@25.80 balance 48 commission 9.99
+
+Mar 2, 2009
+
+TRADE buy 69@17.72 balance 117 commission 9.99
+
+May 8, 2009
+
+TRADE buy 48@27.53 balance 165 commission 9.99
+
+Jul 21, 2009
+
+TRADE buy 39@34.09 balance 204 commission 9.99
+
+Sep 02, 2009
+
+TRADE buy 39@34.14 balance 243 commission 9.99
+
+Nov 11, 2009
+
+TRADE buy 37@37.54 balance 280 commission 9.99
+
+Nov 29, 2009
+
+Can't find SEC filings past 2007.  Yahoo only has earnings through 2008.  Sell when purchases become long term gains.
+
+Mar 13, 2010
+
+Still no visibility.  Sell after Nov2010
+
+Oct 23, 2010
+
+No visibility.  Low yield at 1.8%  Sell in Nov.
+
+Mar 6, 2011
+
+It seems I had the wrong CIK.  Fixed and now it looks like a normal foreign company.  Might as well do deep research.
+
+Industry Basic Materials / Steel & Iron
+CEO Mr. Lakshmi N. Mittal
+Year took office: founded the company in the 70s.  He's the third richest person on the planet.  His wikipedia entry is amusing.  Merger with Arcelor occured in 2006,
+
+=== 2006 20-F ===
+
+No 20-F on edgar before 2006
+
+=== 2008 20-F ===
+
+Huge sales growth (acquisitions) but narrow margins produce up and down EPS.  Explosion in shars outstanding from 643M in 2004 to 1.3B in 2008.  Acquisitions are a major aspect of the business strategy.
+
+Makes steel in many forms (plates, rods, etc) as well as DRI (direct reduced iron) which is a by product of steel making.
+
+Company owns mindes, mills, distributions centers, R&D facilities.
+
+Very detailed doc covering every region.  Skimming.
+
+2004-2008
+Revenue $20,612 $28,132 $58,870 $105,216 $124,936
+Diluted EPS $8.10 $4.79 $5.30 $7.40 $6.78
+
+=== 2010 20-F ===
+
+2009-2010
+Revenue $61,021 $78,025
+Diluted EPS (0.04) (0.31)
+
+Noting:
+* poor economic recovery
+* excess capacity (esp. China/India)
+
+================
+
+Competitive advantage
+ Company Moat
+  Brand: don't see value here
+  Switching: steel is as much a commodity as anything
+  Cost: should be able to reduce costs once acquisition costs are resolved
+  Protected: some patents, mine monopolies?
+  Other
+ How likely will moat endure over the next 5 yrs? Not much of a moat.
+
+Competitors
+ For 3 competitors (POSCO, Nippon Steel, US Steel)
+  Read current annual report
+ What is the biggest risk to the company over the next 5 yrs? Difficulty of handling acquisitions.  Overpaying of acquisitions. Reduced demand for Steel.
+ Probability of it happening. No point in evaluating this since the company isn't earning money.
+
+Financial Checklist
+ For company and industry
+  5 yr EPS growth. -106%
+  5 yr revenue growth. 177%
+  Current net profit margin (earnings/revenue). 0%
+  Current ROE (earnings/stockholders_equity). negative.
+  % long term debt to equity. $19.3B/$62.4B = 31%
+
+This company may do well when steel rebounds, but there's no reason to wait.  Don't own a company this big that can't make money.
+
+Mar 19, 2011
+
+I missed a nice sell opportunity last week.  There was a big drop followed by a recovery.  I suppose I should at least have a high sell order in.
+
+Mar 24, 2011
+
+TRADE sell 280@36.15 commission 10.19 balance 0
+
