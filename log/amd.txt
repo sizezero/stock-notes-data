@@ -15,5 +15,5 @@ TRADE buy 1980@10.10 balance 3630 commission 6.95
 
 Keep laddering down.
 
-BUY 8.00
+BUY $8.00
 
