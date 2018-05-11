@@ -453,3 +453,11 @@ TRADE buy 445@17.79 commission 6.95 balance 7467
 
 BUY 14.0
 
+May 10, 2018
+
+TRADE buy 800@12.50 commission 6.95 balance 8267
+
+The above trade was bought in the Roth IRA not the standard IRA.
+
+BUY 11.50
+
