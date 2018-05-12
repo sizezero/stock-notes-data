@@ -1,9 +1,13 @@
 
 NAME: Canadian Solar Inc.
 CID: 0001375877
-KEYWORDS: new
+KEYWORDS: solar
 
 Feb 1, 2017
 
 I thought it would be worth looking at Solar.
+
+May 12, 2018
+
+This guy is less than a billion MC and has a PE of under 10. $3.5B of debt vs. $1.4B cash explains this. It's also a Canadian stock so the reporting is different.
 

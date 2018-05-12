@@ -1,7 +1,6 @@
 
 NAME: Fabrinet
 CID: 0001408710
-KEYWORDS: new
 
 Feb 1, 2017
 
@@ -16,4 +15,6 @@ Black: New business represents 25% to 30%, and demand is growing in existing mar
 
 Fabrinet had $19M of free cash flow last year. This year, it will be between zero and $5M, because the company is more than doubling production capacity in Thailand. North American accounts for 54% of revenue; Asia/Pacific is 36%; and Europe, 10%. To sum up, Fabrinet offers 30%-plus revenue growth and a 19% return on equity, at a PE of 11 or so.
 """
+
+I'm worried about the trust in a Caymen based company operating mostly in Thailand with lots of stock-based compensation. Pass
 

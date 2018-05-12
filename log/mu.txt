@@ -60,3 +60,27 @@ TRADE buy 220@40.80 balance 6725 commission 6.95
 May 3, 2018
 
 TRADE buy 220@45.4 balance 6945 commission 6.95
+
+May 12, 2018
+
+rev 7,351,000	6,803,000	6,138,000	5,566,000
+inc 3,309,000	2,678,000	2,368,000	1,647,000
+shares 1,159,764,549
+price 51.82
+==>
+EPS $8.62
+PE 6.0
+MC $60099.0M
+Margins 38.7%
+
+While these last years numbers are fantastic and will continue through 2018, it makes no sense to believe that the current margins are maintainable. Still trailing PE of 6 is also rediculous and this will continue to drop in the next few quarters. Now that there are significantly fewer players in the market, there's a reasonable chance that cyclicality is gone. With all of the outside positives (IoT, 3dXPoint) and the current valuation a double from here is reasonable. In spite of this do I worry about the percentage this is in my portfolio. I think the key factor in whether to take some profits on this or not is to see what (if any) shareholder friendly steps management takes throughout 2018, dividends, buybacks, less dilution, or even more visibility would all help. Keep watching through 2018. If there are no steps to be more shareholdere friendly then a large chunk.
+
+10Q
+
+Dilution: "As of March 1, 2018, 94 million shares of our common stock were available for future awards under our equity plans."
+
+"Consolidation of industry competitors could put us at a competitive disadvantage."
+
+BUY none
+SELL $100
+
