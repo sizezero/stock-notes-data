@@ -84,3 +84,27 @@ Dilution: "As of March 1, 2018, 94 million shares of our common stock were avail
 BUY none
 SELL $100
 
+May 22, 2018
+
+Analyst meeting and slide show.
+
+"the demand trends in our market are secular in nature growing fast"
+
+crazy long talk about the growing needs of memory and all its applications.
+
+Key markets driving growth: data center, mobile, auto, iot
+
+memory industry will have larger ROI. Somehow claims that supply will remain moderate.
+
+Mention of 3DXP in both tech and product development. 10x denser than dram. 1000X endurance of nand. 1000X faster than nand. Products launched in latter 2019.
+
+Transitioning from debt reduction to capital returns via $10B buyback.  Starting FY-19 (sep) targeting 50% of free cash flow.
+Cost reductions. They talk about 30% of sales as a target of capex. They also want to remain net cash positive. Not quite sure what that means.
+
+"""
+On the dividend, I certainly wouldn’t rule it out. When we were thinking about a cash return, we started with the cash return philosophy, and then started to think about the vehicles and versus survey all new characters, and half of you want dividends, half of you want buy back. So there’s nothing really consistent. So what we did -- we chose buyback, mainly because the stock price was fairly attractive with the multiple being relatively low. And so that seem to make more sense. It’s not -- it's certainly not a commentary on our confidence around our cash flows, I would tell you.
+
+So I do think overtime we will phase that in and provide a balance. It’s kind of a way we evolved in prior company that I’ve been at. And I think given the cash flow profile of this business, we can definitely do both over time. We just -- we went with the buyback because -- mainly because of where the stock was and our ability to modulate it based on how we’re doing on the cash flow side.
+"""
+
+
