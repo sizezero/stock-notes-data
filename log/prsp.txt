@@ -1,0 +1,10 @@
+
+NAME: Perspecta Inc.
+CID: 0001724670
+
+Feb 26, 2017
+
+Average price of all HP acquisitions. If we want better average annual returns we should input all associated buys.
+
+TRADE buy 97@17.7476 balance 97 commission 0.00
+
