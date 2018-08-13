@@ -205,3 +205,30 @@ Wow.  Crash on Monday picked this up $5 under my limit order.  Next buy is even 
 
 BUY $65
 
+Aug 12, 2018
+
+Reviewing the company again after a few years.
+
+Income has roared back supported by cash flow.
+
+June 2018
+rev 40,491,000	35,968,000	34,507,000	32,025,000
+inc 3,409,000	3,638,000	3,111,000	1,952,000
+shares 1,916,147,100
+div 4.48
+price 123.34
+==>
+EPS $6.32
+PE 19.5
+MC $236337.6M
+Margins 8.5%
+Yield 3.6%
+Payout Ratio 70.9%
+
+Stock is still priced for improvements. I don't think oil companies should have double digit valuations. Maybe cost cutting has occurred and will continue to increase earnings? Next years eps estimates are double which would bring it back to single digit valuations.
+
+This is a hard problem. Part of me wants to buy into the "never sell" behavior and not trade in and out of companies but companies don't last forever.  Let's say the EPS doubles in a year and the stock maintains a significantly above single digit PE of 15. That should be a clue to sell some of this.  EPS 12.64 + PE 12 ==> Price 152
+
+SELL 152
+
+

@@ -88,3 +88,31 @@ May 4, 2017
 
 TRADE buy 190@52.418 commission 6.95 balance 1223
 
+Aug 12, 2018
+
+Let's review this company again. Sum of A and B shares from latest 20-F is 8312762919
+
+Mar 2018
+rev 89,235,000	85,422,000	75,830,000	72,131,000
+inc 5,899,000	3,807,000	4,087,000	1,545,000
+shares 8312762919
+price 64.87
+div 3.76
+==>
+Income $15338.0M
+Revenue $322618.0M
+EPS $1.85
+PE 35.2
+MC $539248.9M
+Price $64.87
+Shares 8312.8M
+Margins 4.8%
+Dividend $3.76
+Yield 5.8%
+Payout Ratio 203.8%
+
+Same number problems as the previous post. I'll continue to use yield. Sell at yield of 3.5% since there is less visibility here.  Buy at a yield of 7%
+
+BUY 54
+SELL 107
+

@@ -1,0 +1,21 @@
+
+NAME: LyondellBasell Industries N.V.
+CID: 0001489393
+
+Aug 11, 2018
+
+Barrons did a write up. The company makes polyethylene which makes bags, bottles, etc. It's a US player so it can take advantage of the shale / natural gas boom. This gives it an advantage over other companies that use oil. A drop in oil prices would change this. Stock has risen because a predicted plastics glut didn't happen. Forward PE is only 10.
+
+"""
+Patel (CEO) says that acquisitions come last in a list of uses for cash that includes plant maintenance, dividends, buybacks, and organic growth. He vows to be careful to maintain Lyondell's investment-grade credit rating through the economic cycle.
+"The objective isn't size or market share," he says. "It's maximizing returns."
+"""
+
+risks:
+- drop in oil
+- commodity seller?
+
+Add a low watch
+
+BUY 90
+
