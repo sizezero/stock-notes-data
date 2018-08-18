@@ -42,3 +42,41 @@ TRADE buy 225@44.60 balance 225 commission 6.95
 
 BUY $40.50
 
+Aug 18, 2018
+
+Barrons had a recent article. Talks about the company mostly selling a standard phone service and not getting into other businesses.
+
+June 2018
+rev 32,203,000	31,772,000	33,955,000	31,717,000
+inc 4,120,000	4,545,000	18,669,000	3,620,000
+price 54.79
+shares 4,131,935,606
+div 2.36
+==>
+EPS $7.49
+PE 7.3
+MC $226388.8M
+Margins 23.9%
+Yield 4.3%
+Payout Ratio 31.5%
+
+Crazy Dec ending quarter has a big tax writeoff. Removing that $16M difference.
+
+June 2018
+rev 32,203,000	31,772,000	33,955,000	31,717,000
+inc 4,120,000	4,545,000	2,669,000	3,620,000
+price 54.79
+shares 4,131,935,606
+div 2.36
+==>
+EPS $3.62
+PE 15.1
+MC $226388.8M
+Margins 11.5%
+Yield 4.3%
+Payout Ratio 65.2%
+
+Seems pretty average company. I would need to buy it at a discount since phone companies feel like commodities to me. It's very easy to switch. PE 9
+
+BUY 32.50
+
