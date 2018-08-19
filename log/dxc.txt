@@ -1,12 +1,12 @@
 
 NAME: DXC Technology Company Common S 
-CID: 0000000000
+CID: 0001688568
 
 Apr 3, 2017
 
-Spun off of shares in HPE
+Spun off of shares in HPE. Complicated cost basis but using the average.
 
-TRADE buy 195@0.0 balance 195 commission 0.0
+TRADE buy 195@55.85 balance 195 commission 0.0
 
 I actually own 195.3457 shares but my program only handles integer share values.
 
