@@ -8,61 +8,81 @@ mega cap 2008
 
 adjust for company split
  TRADE buy 26@35.20 balance 26 commission 9.99
-TRADE buy 26@18.4448 balance 26 commission 9.99
+adjust for spin-offs
+ TRADE buy 26@18.4448 balance 26 commission 9.99
+TRADE buy 26@10.7021 balance 26 commission 9.99
 
 Jan 12, 2009
 
 adjust for company split
  TRADE buy 25@36.58 balance 51 commission 9.99
-TRADE buy 25@19.16792 balance 51 commission 9.99
+adjust for spin-offs
+ TRADE buy 25@19.16792 balance 51 commission 9.99
+TRADE buy 25@11.1217 balance 51 commission 9.99
 
 Mar 2, 2009
 
 adjust for company split
  TRADE buy 65@28.45 balance 116 commission 9.99
-TRADE buy 65@14.9078 balance 116 commission 9.99
+adjust for spin-offs
+ TRADE buy 65@14.9078 balance 116 commission 9.99
+TRADE buy 65@8.6498 balance 116 commission 9.99
 
 May 8, 2009
 
 adjust for company split
  TRADE buy 55@36.65 balance 171 commission 9.99
-TRADE buy 55@19.2046 balance 171 commission 9.99
+adjust for spin-offs
+ TRADE buy 55@19.2046 balance 171 commission 9.99
+TRADE buy 55@11.1429 balance 171 commission 9.99
 
 Jul 21, 2009
 
 adjust for company split
  TRADE buy 51@39.20 balance 222 commission 9.99
-TRADE buy 51@20.5408 balance 222 commission 9.99
+adjust for spin-offs
+ TRADE buy 51@20.5408 balance 222 commission 9.99
+TRADE buy 51@11.9182 balance 222 commission 9.99
 
 Sep 2, 2009
 
 adjust for company split
  TRADE buy 46@44.06 balance 268 commission 9.99
-TRADE buy 46@23.08744 balance 268 commission 9.99
+adjust for spin-offs
+ TRADE buy 46@23.08744 balance 268 commission 9.99
+TRADE buy 46@13.3958 balance 268 commission 9.99
 
 Nov 11, 2009
 
 adjust for company split
  TRADE buy 40@49.89 balance 308 commission 9.99
-TRADE buy 40@26.14236 balance 308 commission 9.99
+adjust for spin-offs
+ TRADE buy 40@26.14236 balance 308 commission 9.99
+TRADE buy 40@15.1684 balance 308 commission 9.99
 
 Aug 10, 2010
 
 adjust for company split
  TRADE buy 70@42.60 balance 378 commission 9.99
-TRADE buy 70@22.3224 balance 378 commission 9.99
+adjust for spin-offs
+ TRADE buy 70@22.3224 balance 378 commission 9.99
+TRADE buy 70@12.9520 balance 378 commission 9.99
 
 Dec 28, 2010
 
 adjust for company split
  TRADE buy 470@42.30 commission 9.99 balance 848
-TRADE buy 470@22.1652 commission 9.99 balance 848
+adjust for spin-offs
+ TRADE buy 470@22.1652 commission 9.99 balance 848
+TRADE buy 470@12.8607 commission 9.99 balance 848
 
 June 23, 2011
 
 adjust for company split
  TRADE buy 289@34.60 commission 9.99 balance 1137
-TRADE buy 289@18.1304 commission 9.99 balance 1137
+adjust for spin-offs
+ TRADE buy 289@18.1304 commission 9.99 balance 1137
+TRADE buy 289@10.5197 commission 9.99 balance 1137
 
 Feb 4, 2017
 
@@ -132,5 +152,7 @@ Feb 6, 2017
 
 Amazing stupidity.  I entered a buy order instead of a sell order.  Let's ride this out for a year.
 
-TRADE buy 1137@23.25 balance 2274 commission 9.99
+adjust for spin-offs
+ TRADE buy 1137@23.25 balance 2274 commission 9.99
+TRADE buy 1137@13.582 balance 2274 commission 9.99
 
