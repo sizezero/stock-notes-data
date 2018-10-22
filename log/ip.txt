@@ -33,7 +33,14 @@ Dividend $1.85
 Yield 3.5%
 Payout Ratio 98.1%
 
-Ugh.  This seems like suck a speculative play.  Put in a lowball number in case there is a pullback to start an entry level position. 4% yield
+Ugh.  This seems like such a speculative play.  Put in a lowball number in case there is a pullback to start an entry level position. 4% yield
 
 BUY $46.00
+
+Oct 22, 2018
+
+TRADE buy 244@41.00 balance 244 commission 6.95
+
+much lower buy since I'm low on cash
+BUY $36.00
 
