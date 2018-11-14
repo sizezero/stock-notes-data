@@ -41,3 +41,9 @@ Dropped some more. Drop to 85% of original $17.10
 
 BUY $14.54
 
+Nov 5, 2018
+
+TRADE buy 834@11.9265 balance 2689 commission 6.95
+
+BUY $10.00
+
