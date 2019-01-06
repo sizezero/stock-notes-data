@@ -11,3 +11,19 @@ TRADE buy 195@55.85 balance 195 commission 0.0
 I actually own 195.3457 shares but my program only handles integer share values.
 
 I should really research this one since there will likely be a lot of sell pressure over the next few months to drive the price down.
+
+Jan 6, 2019
+
+Barrons had a write up of DXC in an article of low P/E stocks
+
+"""
+
+DXC Technology helps companies shift computing to the cloud, build applications, and digitize back-office work, among other services. It was created by the 2017 merger of CSC and the enterprise-services division of HPE. The company has partered with amazon and MSFT on cloud products and with traditional rivals like PwC to turn business strategies into tech overhauls. But its exposure to legacy services is much greater than to newer digital ones, so revenue has been declining. In early November, DXC reported an 8% drop in quarterly revenue, missing estimates. Shares lost 12% in a day.
+
+"Do we expect this to be a smooth and rapid transition from here?" wrote Cowen analyst Bryan Bergin in a November note to investors. "No, but there is a coherent plan where previously it was lacking."
+
+That plan includes scaling up newly developed tech platforms and using significant free cash flow--equal to 14% of the company's market value each year--to roll up service providers. Bergin upgraded the stock to Outperform from Market Perform while lowering his price target to $80 from $90, vrersus a recent $57. He calls DXC's stock a "best idea for 2019"
+
+"""
+
+Lots of caveats in the above analysis.
