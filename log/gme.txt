@@ -461,3 +461,15 @@ The above trade was bought in the Roth IRA not the standard IRA.
 
 BUY 11.50
 
+Jan 30, 2019
+
+Stock crashed after they announced that they are stopping their search for a buyer. They now need to look for a new CEO to see what to do with the cash from their phone sale. There's still a chance this is a bargain so follow the plan.
+
+TRADE buy 870@11.1945 commission 6.95 balance 9137
+
+The above trade was bought in the standard IRA not the Roth IRA.
+
+20% haircut to previous buy price.
+
+BUY 9.20
+
