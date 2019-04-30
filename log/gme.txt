@@ -473,3 +473,13 @@ The above trade was bought in the standard IRA not the Roth IRA.
 
 BUY 9.20
 
+Apr 29, 2019
+
+TRADE buy 1124@8.89 commission 6.95 balance 10261
+
+The above trade was bought in the Roth IRA.
+
+25% haircut to the previous buy price.
+
+BUY 6.67
+
