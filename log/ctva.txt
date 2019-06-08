@@ -1,0 +1,11 @@
+
+NAME: Corteva, Inc.
+CID: 0001755672
+KEYWORDS: tax_free
+
+Aug 28, 2016
+
+Split from DWDP (now DD). Cost basis in other stocks.
+
+TRADE BUY 125@0.00 balance 125 commission 0.0
+

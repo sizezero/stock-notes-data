@@ -1,6 +1,6 @@
 
-NAME: The Dow Chemical Company
-CID: 0000029915
+NAME: DuPont de Nemours Inc
+CID: 0001666700
 KEYWORDS: tax_free
 
 Aug 28, 2016
@@ -25,8 +25,9 @@ I need to pick this up.
 
 Aug 31, 2016
 
-TRADE buy 375@53.60 commission 9.99 balance 375
+modified trade to allow for split from DWDP to DOW, DD, CTVA
 
-Pick up another $20K at a 10% discount
+#TRADE buy 375@53.60 commission 9.99 balance 375
 
-BUY $48.25
+TRADE buy 125@108.5889 commission 9.99 balance 125
+

@@ -1,9 +1,10 @@
-NAME: Dow Chemical Company (The) (DOW)
-CID: 0000029915
+NAME: Dow Inc.
+CID: 0001751788
 
 Apr 2, 2019
 
-Split from DWDP. All cost basis is in DWDP.
+Split from DWDP (now DD)
 
-TRADE BUY 125@0.0 balance 125 commission 0.0
+TRADE BUY 125@52.2111 balance 125 commission 0.0
+
 
