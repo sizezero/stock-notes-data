@@ -368,3 +368,24 @@ May 25, 2016
 
 Earnings came in today with $11.6B rev.  Only per share earnings reported but in line with the last low quarter.  Valuation is not significantly changed.
 
+Sep 8, 2019
+
+rev 14,603,000	14,036,000	14,710,000	15,366,000
+inc 1,179,000	782,000	803,000	1,451,000
+shares 1,481,913,639
+price 19.10
+div 0.64
+==>
+EPS $2.84
+PE 6.7
+Margins 7.2%
+Yield 3.4%
+Payout Ratio 22.5%
+
+Increasing revenue and income over the past three years. Modest growth, low valuation, decent yield, low payout ratio, good valuation. Difficultly with toner/ink could cause problems in the future. Upside could come from 3D printing.
+
+I'd like to get more of this but I've committed to raising my cash position. Leave this as a buy and put a cap of this based on my portfolio size. I currently have 1.1% of this. Don't go above 4%. Make next purchase $20K if there is a market pullback.
+
+BUY $19.00
+SELL None
+
