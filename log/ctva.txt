@@ -9,3 +9,14 @@ Split from DWDP (now DD). Cost basis in other stocks.
 
 TRADE BUY 125@0.00 balance 125 commission 0.0
 
+Sep 8, 2019
+
+jun19
+rev 5,556,000	4,476,000	1,392,000	1,046,000
+inc -608,000	-222,000	-152,000	-170,000
+shares 
+price 
+div 0.52
+==>
+
+In spite of negative earnings and cash flow the balance sheet has been relatively flat for the last couple years. I could hang onto this for the yield for a couple years and see what story develops.
