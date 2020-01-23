@@ -17,3 +17,17 @@ Keep laddering down.
 
 BUY $8.00
 
+Jan 23, 2020
+
+This thing has turned into a rocket. The product and growth are great
+but the price is way beyond the current fundementals. I saw a longs on
+seeking alpha discuss this "problem". One investor who bought in 2012
+said he was going to hold for at least ten years and only evaluate to
+sell when:
+
+1. pc cpu share 40%
+2. data center cpu share 20+ %
+3. dGPU share 45+%
+
+This seems like a good strategy since continued growth should justify
+the multiples.
