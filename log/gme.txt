@@ -483,3 +483,7 @@ The above trade was bought in the Roth IRA.
 
 BUY 6.67
 
+Jan 13, 2021
+
+TRADE sell 4000@33.00 commission 0.00 balance 6261
+
