@@ -487,3 +487,7 @@ Jan 13, 2021
 
 TRADE sell 4000@33.00 commission 0.00 balance 6261
 
+Jan 21, 2021
+
+TRADE sell 4337@41.00 commission 0.00 balance 1924
+TRADE sell 1924@42.00 commission 0.00 balance 0
