@@ -7,4 +7,7 @@ Split from DWDP (now DD)
 
 TRADE BUY 125@52.2111 balance 125 commission 0.0
 
+May 16, 2021
+
+TRADE BUY 430@69.63 balance 555 commission 0.0
 

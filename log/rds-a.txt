@@ -116,3 +116,10 @@ Same number problems as the previous post. I'll continue to use yield. Sell at y
 BUY 54
 SELL 107
 
+May 19, 2021
+
+TRADE buy 750@39.55 commission 0.0 balance 1973
+
+BUY 30
+SELL 107
+

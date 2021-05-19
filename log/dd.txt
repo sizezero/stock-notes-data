@@ -31,3 +31,7 @@ modified trade to allow for split from DWDP to DOW, DD, CTVA
 
 TRADE buy 125@108.5889 commission 9.99 balance 125
 
+May 19, 2021
+
+TRADE buy 360@83.50 commission 0.0 balance 485
+
