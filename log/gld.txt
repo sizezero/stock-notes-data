@@ -1,0 +1,10 @@
+
+NAME: SPDR Gold Shares
+CID: 0001222333
+
+Jun 25, 2021
+
+Arbitrary purchase date since it's in the bene IRA.
+
+TRADE BUY 944@165.54 balance 944 commission 0.0
+

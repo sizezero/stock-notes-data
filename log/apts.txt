@@ -60,3 +60,10 @@ Feb 4, 2018
 
 The big run up and collapse this last year means a lot of losers own the stock and may put more downward pressure on this. I really need a way to judge the value of this thing so I can buy more if necessary.
 
+Jun 25, 2021
+
+Arbitrary purchase date since it's in the bene IRA.
+
+TRADE buy 21055@9.77 balance 34921 commission 0.0
+
+
