@@ -1,0 +1,13 @@
+NAME: PIMCO Short-Term Fund Class A
+CID: 0000810893
+
+Jun 25, 2021
+
+Arbitrary purchase date since it's in the bene IRA.
+
+TRADE buy 3246@9.82 balance 3246 commission 0.0
+
+Actual shares are 3246.587
+
+I was going to sell this but it seems there could be a transaction fee if I have held it for less than six months. Wait a bit more to be sure.
+
