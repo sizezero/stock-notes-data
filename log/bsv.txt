@@ -1,0 +1,26 @@
+
+NAME: Vanguard Short-Term Bond Index Fund ETF Shares
+CID: 00000000
+
+Jul 22, 2021
+
+I'm not sure if this ETF has a CIK registered with Edgar.
+
+I guess I will make separate buys for each account.
+
+etrade primary
+TRADE buy 6000@82.3092 balance 6000 commission 0.0
+TRADE buy 6000@82.3075 balance 12000 commission 0.0
+TRADE buy 6000@82.2992 balance 18000 commission 0.0
+TRADE buy 6000@82.2976 balance 24000 commission 0.0
+etrade ira
+TRADE buy 3100@82.3075 balance 27100 commission 0.0
+etrade roth
+TRADE buy 1100@82.3076 balance 28200 commission 0.0
+
+tda primary
+TRADE buy 9500@82.32 balance 37700 commission 0.0
+tda bene ira
+TRADE buy 5500@82.32 balance 43200 commission 0.0
+TRADE buy 2000@82.32 balance 45200 commission 0.0
+
