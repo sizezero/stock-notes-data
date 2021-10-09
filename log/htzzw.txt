@@ -1,0 +1,33 @@
+
+NAME: Hertz Global Holdings, Inc.
+CID: 0001657853
+
+Oct 7, 2021
+
+The ticker is actually for Hertz warrants not the actual stock. If I ever buy the stock I'll need a different log file. Maybe I'll make one just so I can bring it up and take notes there.
+
+TRADE buy 300@11.75 balance 300 commission 0.0
+TRADE buy 2000@11.75 balance 2300 commission 0.0
+TRADE buy 300@11.75 balance 2600 commission 0.0
+TRADE buy 600@11.75 balance 3200 commission 0.0
+TRADE buy 1000@11.75 balance 4200 commission 0.0
+
+The details of the warrant are in an 8K filed on 2021-07-07. Here are some details:
+
+Warrants are exercisable until June 30, 2051.
+
+Exercise price is $13.80
+
+"The Exercise Price is subject to adjustment from time to time upon the occurrence of certain dilutive events, including stock splits, reverse stock splits, recapitalizations, reclassifications of the New Common Stock, consolidations, mergers..."
+This is wide open but it is not worded as a guarantee.
+
+Warrants don't give a right to voting or dividends but the strike price is reduced by dividends.
+
+There are approximately 90M warrants issued.
+
+Exercising the warrant is not a taxable event.
+
+Somehow warrants are exercised by going through broker. I don't see anything in the web page so I might have to send a message to the broker to ask about it.
+
+Due to the long life of the warrants, the Hertz stock should allways be $14 more than the stock. Why is this different? It's possible that the new stock is difficult to short. It's also possible that the stock is not reflective of the intrinsic value of the company and the warrants reflect the true price.
+
