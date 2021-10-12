@@ -113,3 +113,8 @@ The buyback is not resulting in a lot of share repurchases and slightly negative
 
 TRADE buy 323@30.8061 balance 7268 commission 6.95
 
+Oct 12, 2021
+
+TRADE buy 732@66.3096 balance 8000 commission 0.0
+
+
