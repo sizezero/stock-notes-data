@@ -10,7 +10,7 @@ TRADE buy 300@11.75 balance 300 commission 0.0
 TRADE buy 2000@11.75 balance 2300 commission 0.0
 TRADE buy 300@11.75 balance 2600 commission 0.0
 TRADE buy 600@11.75 balance 3200 commission 0.0
-TRADE buy 1000@11.75 balance 4200 commission 0.0
+TRADE buy 1000@11.75 balance 4200 commission 6.95
 
 The details of the warrant are in an 8K filed on 2021-07-07. Here are some details:
 
@@ -30,4 +30,10 @@ Exercising the warrant is not a taxable event.
 Somehow warrants are exercised by going through broker. I don't see anything in the web page so I might have to send a message to the broker to ask about it.
 
 Due to the long life of the warrants, the Hertz stock should allways be $14 more than the stock. Why is this different? It's possible that the new stock is difficult to short. It's also possible that the stock is not reflective of the intrinsic value of the company and the warrants reflect the true price.
+
+Oct 22, 2021
+
+There's a lot of volatility in both the warrants and the stock. Let's stick in a buy order 20% under the last purchase price for the same dollar amount $49350. I'll also put a limit order in.
+
+BUY 9.4
 
