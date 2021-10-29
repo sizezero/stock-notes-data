@@ -389,3 +389,7 @@ I'd like to get more of this but I've committed to raising my cash position. Lea
 BUY $19.00
 SELL None
 
+Oct 28, 2021
+
+TRADE buy 663@30.55 balance 1800 commission 0.0
+

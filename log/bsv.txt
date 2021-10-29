@@ -24,3 +24,8 @@ tda bene ira
 TRADE buy 5500@82.32 balance 43200 commission 0.0
 TRADE buy 2000@82.32 balance 45200 commission 0.0
 
+Oct 25, 2021
+
+# sell from etrade
+TRADE sell 306@81.47 balance 44894 commission 0.0
+
