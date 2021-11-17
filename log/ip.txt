@@ -39,7 +39,9 @@ BUY $46.00
 
 Oct 22, 2018
 
-TRADE buy 244@41.00 balance 244 commission 6.95
+spinoff of SLVM in Oct 2021 reduced the cost basis from 41.00 to 38.8038
+#TRADE buy 244@41.00 balance 244 commission 6.95
+TRADE buy 244@38.8038 balance 244 commission 6.95
 
 much lower buy since I'm low on cash
 BUY $36.00

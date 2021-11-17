@@ -1,0 +1,9 @@
+NAME: Sylvamo Corporation
+CID: 0001856485
+
+Oct 1, 2021
+
+Spinoff from international paper.
+
+TRADE BUY 22@24.18 balance 22 commission 0.0
+
