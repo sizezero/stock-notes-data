@@ -98,4 +98,10 @@ Jun 8, 2017
 
 TRADE buy 715@14.00 balance 5695 commission 6.95
 
+Dec 2, 2021
+
+Bought out by another company. Maybe I lost some upside but maybe I got lucky. These guys carried a lot of debt.
+
+TRADE SELL 5695@20.25 balance 0 commission 0.0
+
 
