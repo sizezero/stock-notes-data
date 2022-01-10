@@ -1,0 +1,36 @@
+
+NAME: Duolingo, Inc.
+CID: 0001562088
+
+Jan 10, 2022
+
+2021-09-30 10-Q notes
+
+Two classes of stock A and B. Near equal amounts of both.
+
+Goal is to become the key online education provider. Languages are just a start.
+
+Key metrics:
+Monthly active users (42M) This is what they consider their community.
+Daily active users (just under 10M)
+paid users
+
+paid users increased 50% for the previous nine months.
+
+Covid helped their metrics.
+
+Monthly and annual subscriptions. Family plan. Advertising.
+
+From seeking alpha:
+
+High gross margins. Right now, Duolingo is losing money because it's focused on product development and growth. But its underlying ~70% pro forma gross margins gives it ample room to scale profitably like many other software and internet peers.
+
+"I learned Spanish with it (and a verb program for verbs and grammar). But when you are beyond basics it gets useless pretty fast."
+
+I'm a little worried about the stickiness of the subscribers. The lack of history makes it difficult to project this too far into the future.
+
+Emma said Ashley said he started learning Japanese in this but had to leave because it was too basic.
+
+Is there any expertise they have in creating an app for languages that can be applied to other education topics?
+
+Maybe look at this again in a year or two?
