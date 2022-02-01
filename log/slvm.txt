@@ -7,3 +7,30 @@ Spinoff from international paper.
 
 TRADE BUY 22@24.18 balance 22 commission 0.0
 
+Jan 29, 2022
+
+Recommended by Meryl Witmer in Barrons.
+
+"""
+My next pic, Sylvamo [SLVM], was spun out of International Paper in October. It has abourt 44M shares outstanding and a stock price of $29.75, for a market cap of $1.3B. Net debt is about 1.4B. International Paper could have been kinder when it spun out Sylvamo, but Sylvamo can handle the debt and pay it down.
+
+Sylvamo produces uncoated free-sheet paper, or UFS, used to make copy paper and envelopes, and used in commercial printing. It also produces pulp for tissue and specialty paper, and coated paperboard for liquid packaging. It has operations in Latin America, North America, and Europe.
+
+We think Sylvamo is a free-cash-flow machine. UFS is a much better business than people perceive. The company only has sparse coverage among securities analysts, which sets up the opportunity. We became familiar with UFS when we owned Packaging Corp. of America [PKG] which owns some UFS mills. While demand in North America may be declining long run, the industry structure is good. High-cost mills get converted to containerboard mills or are closed, keeping supply and demand in balance. In North America, Sylvamo has the lowest-cost mill. The other big player Domtar, was acquired by Paper Excellence in Canada, which is converting UFS mills to containerboard.
+
+In Latin America, Sylvamo is the largest UFS producer, with 34% share. It owns forest plantations near its mills for a low cost source of fiber. About 70% of this paper is sold in 26 countries in Latin America, and the rest is exported, mainly to Europe. Demand for UFS is expected to grow in Latin America, and as this occurs, all things being equal, Sylvamo will export less and make more money selling locally. In Europe, Sylvamo has a great mill in Russia, on the border with Finland, and a good mill in France.
+
+While Sylvamo saw decreasing demand during the pandemic, demand is so strong now that it and the industry are running full-out, increasing prices and passing along cost increases. We see normalized Ebita in the $600M to $700M range, and captial expenditures are about $140M. Picking the midpoint of our Ebita range, and after $140M of depreciation, we see operating income of about $60M and taxes of 30%, for normalized earnings of $7 a share. Over the next couple of years, the catalysts for a higher stock price are paying down a lot of debt, proving how good the business is, and paying a large dividend.
+
+Sylvamo has a fantastic management team. Insiders have purchased shares, and I can see a dividend of $3 a share in a couple years from a company earning over $7 a share and trading at more than $50 a share.
+"""
+
+Lots of positives above. The other big positive is that after a spin-off, lots of investors just sell which depresses the stock price.
+
+Negatives:
+- Lot's of debt is bad
+- I can't help thinking that IP gave them debt and the worst parts of the business
+- These Barron's recommendations in their panel discussion are often pump and dump.
+
+The stock is up almost 8% today. Is it just this recommendation?
+
