@@ -1,0 +1,7 @@
+NAME: Farmland Partners Inc.
+CID: 0001591670
+
+Jan 19, 2022
+
+TRADE buy 2080@12.00 balance 2080 commission 0.0
+
