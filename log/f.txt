@@ -1,0 +1,28 @@
+
+NAME: Ford Motor Company
+CID: 0000037996
+
+Mar 14, 2022
+
+Looking at 10K
+
+Three segments: auto, mobility, and financing.
+
+Patents.
+
+Trucks and SUVs are the majority of sales.
+
+Mobility is not producing revenue yet.
+
+Future Ford+ will take a lot of money.
+
+Risk: if America no longer wants big vehicles, there could be a problem.
+
+2021/12
+rev 37,678,000	35,683,000	26,752,000	36,228,000
+inc 12,282,000	1,832,000	561,000	3,262,000
+shares 4,036,000,000
+price 15.74
+div 0.40
+==>
+
