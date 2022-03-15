@@ -25,4 +25,35 @@ shares 4,036,000,000
 price 15.74
 div 0.40
 ==>
+Income $17937.0M
+Revenue $136341.0M
+EPS $4.44
+PE 3.5
+MC $63526.6M
+Price $15.74
+Shares 4036.0M
+Margins 13.2%
+Dividend $0.40
+Yield 2.5%
+Payout Ratio 9.0%
+
+Here is a different calculation with the last huge quarter nerfed a bit.
+
+rev 37,678,000	35,683,000	26,752,000	36,228,000
+inc 2,082,000	1,832,000	561,000	3,262,000
+shares 4,036,000,000
+price 15.74
+div 0.40
+==>
+Income $7737.0M
+Revenue $136341.0M
+EPS $1.92
+PE 8.2
+MC $63526.6M
+Price $15.74
+Shares 4036.0M
+Margins 5.7%
+Dividend $0.40
+Yield 2.5%
+Payout Ratio 20.9%
 
