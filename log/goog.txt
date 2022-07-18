@@ -46,4 +46,7 @@ Just looking at the value of youtube alone, this looks undervalued.
 
 TRADE buy 37@795.00 balance 172 commission 9.99
 
+Jul 18, 2022
+
+TRADE split 20:1 balance 3440
 
