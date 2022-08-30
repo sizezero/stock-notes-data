@@ -29,3 +29,7 @@ Oct 25, 2021
 # sell from etrade
 TRADE sell 306@81.47 balance 44894 commission 0.0
 
+Aug 24, 2022
+
+# buy from etrade roth ira
+TRADE buy 1290@76.55 balance 46184 commission 0.0
