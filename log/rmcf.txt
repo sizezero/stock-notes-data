@@ -278,3 +278,9 @@ Arbitrary purchase date since it's in the bene IRA.
 
 TRADE buy 2500@7.63 balance 4005 commission 0.0
 
+Sep 9, 2022
+
+sold out of normal account
+
+TRADE sell 9@6.44 balance 3996
+

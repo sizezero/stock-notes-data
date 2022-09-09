@@ -8,4 +8,14 @@ This spinoff has mad a rather complicated cost basis in my account. I'm keeping 
 
 TRADE buy 312@29.35016 balance 312
 
+Apr 30, 2019
+
+There was some split that happened here. I'm not sure of the details but it doesn't match the current shares.
+--TRADE split 4:5 balance 285
+
+Sep 8, 2022
+
+--selling some share for zero to make of for lost split
+TRADE sell 54@0.0 balance 258
+TRADE sell 258@5.95 balance 0
 

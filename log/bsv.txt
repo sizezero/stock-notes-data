@@ -33,3 +33,9 @@ Aug 24, 2022
 
 # buy from etrade roth ira
 TRADE buy 1290@76.55 balance 46184 commission 0.0
+
+Sep 9, 2022
+
+# buy from bene ira
+TRADE buy 10382@76.09 balance 56566
+
