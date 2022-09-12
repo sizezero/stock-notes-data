@@ -47,3 +47,7 @@ TRADE buy 834@11.9265 balance 2689 commission 6.95
 
 BUY $10.00
 
+Sep 12, 2022
+
+TRADE sell 2689@10.05 balance 0 commission 0.0
+

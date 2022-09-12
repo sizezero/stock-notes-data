@@ -11,3 +11,9 @@ Actual shares are 3246.587
 
 I was going to sell this but it seems there could be a transaction fee if I have held it for less than six months. Wait a bit more to be sure.
 
+Sep 22, 2022
+
+TRADE sell 3246@9.59 balance 0 commission 0.0
+
+Actual shares sold are 3246.587
+
