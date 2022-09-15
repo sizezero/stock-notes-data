@@ -3,5 +3,6 @@ Jun 25, 2022
 
 Etrade IRA
 
-BALANCE: $7,577.56
+BALANCE: $8,847.00
+
 
