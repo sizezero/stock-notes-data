@@ -284,3 +284,26 @@ sold out of normal account
 
 TRADE sell 9@6.44 balance 3996
 
+Sep 14, 2022
+
+sold out of normal account
+
+TRADE sell 2@6.44 balance 3994
+
+Sep 15, 2022
+
+sold out of normal account
+
+TRADE sell 3@6.44 balance 3991
+TRADE sell 2@6.44 balance 3989
+
+Sep 16, 2022
+
+sold out of normal account
+
+TRADE sell 107@6.44 balance 3882
+TRADE sell 143@6.44 balance 3739
+TRADE sell 100@6.44 balance 3639
+TRADE sell 1139@6.44 balance 2500
+
+
