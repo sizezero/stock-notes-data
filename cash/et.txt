@@ -3,5 +3,5 @@ Jun 25, 2022
 
 Etrade Primary
 
-BALANCE: $65,734.32
-
+#BALANCE: $65,734.32
+BALANCE: $70,664.04

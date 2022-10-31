@@ -3,5 +3,6 @@ Jun 25, 2022
 
 Etrade Roth IRA
 
-BALANCE: $1,552.76
+#BALANCE: $1,552.76
+BALANCE: $1,907.71
 
