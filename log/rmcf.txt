@@ -314,3 +314,7 @@ Oct 31, 2022
 
 TRADE sell 212@6.69 commission 0.06 balance 2165
 
+Nov 9, 2022
+
+TRADE sell 2165@6.69 commission 0.61 balance 0
+
