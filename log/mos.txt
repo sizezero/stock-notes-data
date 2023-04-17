@@ -66,3 +66,32 @@ Not sure how to value this.  The management seems to be doing the right thing bu
 BUY $21.00
 SELL $45.00
 
+Apr 16, 2023
+
+This has been a roller coaster bottoming at less than $10 during the pandemic and soaring to $76 at the beginning of the Ukraine war. This really is a wild commodity play.
+
+dec22
+rev 4,481,300	5,348,500	5,373,100	3,922,300
+inc 700,600	1,154,700	1,674,200	1,255,800
+price 46.99
+shares 336,486,715
+div 0.80
+==>
+Income $4785.3M
+Revenue $19125.2M
+EPS $14.22
+PE 3.3
+MC $15811.5M
+Price $46.99
+Shares 336.5M
+Margins 25.0%
+Dividend $0.80
+Yield 1.7%
+Payout Ratio 5.6%
+
+These numbers look crazy good. Let me look at some analysis to see what's going on.
+
+I a little torn. It looks like this company got a bit ahead of its skis but the potash market is still favorable. With the low yield relative to short term bonds this would remain a commodity play. I can't see buying this unless I got a big pullback and even then I'd probably be looking to sell it. Still, it raise its dividend in December which is a good sign.
+
+BUY 30
+

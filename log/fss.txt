@@ -85,4 +85,31 @@ Need a higher yield and/or lower PE. $9.20 for PE 9.  $8 for a Divy 3.5%. Split 
 
 BUY $8.50
 
+Apr 16, 2023
+
+These guys soared like a rocket for 7 years.
+
+dec22
+rev 1,434,800 0 0 0
+inc 120,000.4 0 0 0
+shares 60,754,664
+price 51.35
+div 0.36
+==>
+Income $120.0M
+Revenue $1434.8M
+EPS $1.98
+PE 26.0
+MC $3119.8M
+Price $51.35
+Shares 60.8M
+Margins 8.4%
+Dividend $0.36
+Yield 0.7%
+Payout Ratio 18.2%
+
+Yahoo didn't have the December numbers for some reason so I had to get it from the 10K. Income growth has been phenomenal. Lots of seeking alpha analysts think it's fairly or over valued. I can't see owning this at the current price in this economy.
+
+BUY None
+
 

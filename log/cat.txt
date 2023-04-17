@@ -29,3 +29,31 @@ The story is bad enough, I wouldn't buy until a yield of 5%
 
 BUY $62.00
 
+Apr 16, 2023
+
+I thought I bought this some time ago and sold it on the way up. I guess not.
+
+rev 16,597,000	14,994,000	14,247,000	13,589,000
+inc 2,605,000	2,425,000	1,944,000	1,855,000
+shares 516,345,490
+price 223.68
+div 4.80
+==>
+Income $8829.0M
+Revenue $59427.0M
+EPS $17.10
+PE 13.1
+MC $115496.2M
+Price $223.68
+Shares 516.3M
+Margins 14.9%
+Dividend $4.80
+Yield 2.1%
+Payout Ratio 28.1%
+
+The trailing year looks pretty reasonable. Have they had an unusually good year? Is the projected construction slump going to cause them problems?
+
+Pick a low buy point, get an entry position of 20-30K and re-evaluate.
+
+BUY $180
+

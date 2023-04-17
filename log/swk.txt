@@ -59,10 +59,39 @@ Payout Ratio 35.5%
 
 I like the simplicity of the business and the whole company seems to be run fairly efficiently. Pretty pricy for a tool maker although the growth looks good and margins are decent.  Buy some if PE drops to 11.
 
+
+
 EPS $5.52
 PE 11
 ==>
 Price $60.72
 
 BUY $61
+
+Apr 19, 2023
+
+Reading some articles about debt and reduced margins. The stock has pulled back to a point that it hasn't been in a decade. EPS is the lowest it's been for 10+ years.
+
+rev 3,986,800	4,119,600	4,393,000	4,448,000
+inc -68,300	149,200	275,300	283,100
+shares 153,023,886
+price 79.42
+div 3.20
+==>
+Income $639.3M
+Revenue $16947.4M
+EPS $4.18
+PE 19.0
+MC $12153.2M
+Price $79.42
+Shares 153.0M
+Margins 3.8%
+Dividend $3.20
+Yield 4.0%
+Payout Ratio 76.6%
+
+With the debt and high payout ratio I suppose I should stay away from this one unless the next couple quarters rebound significantly. I think people are buying the name/reputation so I'll be unlikely to get this thing cheap unless there are a lot of problems.
+
+BUY none
+SELL none
 
