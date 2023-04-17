@@ -74,3 +74,27 @@ I don't see this slow growth worth a multiple of 20.  I would pick up some at ha
 
 BUY $9.00
 
+Apr 17, 2023
+
+Revenue has continued to increase but costs have as well finally resulting in a negative quarter with its dividend under threat. They have a new CFO and changed auditors. A post in seeking alpha said the old CFO always answered questions but the new one is silent. Talks of acquisitions are hopeful but desperate.
+
+I don't see any reason to risk jumping into this one unless I'm going to play some charting game. It's not clear if they have a profitable business model.
+
+dec22
+rev 148,613	138,703	147,933	143,582
+inc 2,194	-12,719	-26,675	5,230
+shares 16,495,730
+price 7.92
+div 0.56
+==>
+Income ($32.0M)
+Revenue $578.8M
+EPS ($1.94)
+PE N/A
+MC $130.6M
+Shares 16.5M
+Margins N/A
+Yield 7.1%
+
+Buy None
+
