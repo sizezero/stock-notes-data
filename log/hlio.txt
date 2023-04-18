@@ -88,3 +88,29 @@ Crazy PE for a company that is not growing revenue.  Maybe there is a story for 
 
 BUY $14.00
 
+Apr 17, 2023
+
+June 2019 changed the name to Helios and ticker from SNHY to HLIO. The company has gone on an acquisition spree over the last four years or so and grabbed four other companies exposing the company to some high debt. Acquisitions rarely pay off.
+
+dec22
+rev 196,000	207,205	241,668	240,547
+inc 17,500	20,378	30,036	30,478
+shares 32,583,549
+price 60.43
+div 0.36
+==>
+Income $98.4M
+Revenue $885.4M
+EPS $3.02
+PE 20.0
+MC $1969.0M
+Margins 11.1%
+Yield 0.6%
+Payout Ratio 11.9%
+
+This is definitely not a buy.
+
+BUY None
+
+
+
