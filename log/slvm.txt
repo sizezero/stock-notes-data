@@ -34,3 +34,20 @@ Negatives:
 
 The stock is up almost 8% today. Is it just this recommendation?
 
+Jul 15, 2023
+
+Another glowing review of Sylvamo from Barron's Meryl Witmer.
+
+"""
+I recommeended Sylvamo last year, and the stock did well. But it has been volatile, and after a recent pullback to $40 or so, it looks undervalued. The company makes uncoated freesheet paper, used mainly in copy paper and envelopes. It has some the the best and lowest cost assets in the world, and keeeps them in good condition. The mills are in the U.S. Brazil, and Europe.
+
+Sylvamo has guided Wall Street to expect $720M to $770M in Ebitda this year. It lowered its number earlier in the year because some imports flooded the market, but that situation has normalized. Running the midpoint of Ebitda guidance through the income statement gets me to estimated earnings of $9 a sharem, which means Sylvamo is selling for 4.4 times earnings. The balance sheet is realtively unlevered. It is possible that this is a sustainable run rate for earnings but I like to stress test it by taking Ebitda estimates down to $600M. Doing so still yields $6 of earnings, or a multiple of 6.7 times.
+
+[catalyst]
+Yes. Atlas Holdings, a private equity firm with other paper mill holdings has two representatives on the Sylvamo board. They really understand the industry and how to manage these companies. They are good capital allocators and will make sure Sylvamo's value is realized.
+"""
+
+I have a tiny portion of this company and it yields 2% and has a 5% payout ratio. I'm not sure how that's possible. The location is the Roth IRA so I only have $5K to invest. I might as well add a tiny bit to the already tiny position.
+
+BUY $45.00
+
