@@ -39,3 +39,8 @@ Sep 9, 2022
 # buy from bene ira
 TRADE buy 10382@76.09 balance 56566
 
+Oct 18, 2023
+
+# buy from traditional irs
+TRADE buy 210@74.6761 balance 56776
+
