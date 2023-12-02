@@ -44,3 +44,8 @@ Oct 18, 2023
 # buy from traditional irs
 TRADE buy 210@74.6761 balance 56776
 
+Nov 20, 2023
+
+# sell from bene ira
+TRADE sell 150@75.6546 balance 56626
+
