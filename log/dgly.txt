@@ -21,24 +21,24 @@ I should put a low bid for $10K
 
 Sep 24, 2010
 
-TRADE buy 1225@1.60 commission 7.00 balance 1225
+TRADE buy 1225@1.60 balance 1225 commission 7.00
 
 Low bid only picked up 1/5 of what I wanted.
 
 Nov 11, 2010
 
-TRADE buy 1875@1.60 commission 7.00 balance 3100
+TRADE buy 1875@1.60 balance 3100 commission 7.00
 
 Jan 11, 2011
 
-TRADE buy 2923@1.71 commission 7.00 balance 6023
+TRADE buy 2923@1.71 balance 6023 commission 7.00
 
 Aug 24, 2012
 
 Not sure what happens to the odd shares after a reverse split.  Calculations blow up when I try to sell it for $0
 
 TODO: this blows up the gain calculator with a div by zero error
-TRADE sell 7@1.0 commission 0.0 balance 6016
+TRADE sell 7@1.0 balance 6016 commission 0.0
 TRADE split 1:8 balance 752
 
 Aug 28, 2014
@@ -47,5 +47,5 @@ I think I got lucky with one small Michigan order and the Ferguson shooting bump
 
 TODO: add commission data when it becomes available
 
-TRADE SELL 752@17.32 commission 7.29 balance 0
+TRADE sell 752@17.32 balance 0  commission 7.29 
 

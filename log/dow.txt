@@ -5,9 +5,9 @@ Apr 2, 2019
 
 Split from DWDP (now DOW)
 
-TRADE BUY 125@52.2111 balance 125 commission 0.0
+TRADE buy 125@52.2111 balance 125 commission 0.0
 
 May 16, 2021
 
-TRADE BUY 430@69.63 balance 555 commission 0.0
+TRADE buy 430@69.63 balance 555 commission 0.0
 

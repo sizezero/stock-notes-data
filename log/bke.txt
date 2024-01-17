@@ -81,7 +81,7 @@ Oct 3, 2012
 
 Sold a little under my price.  I think the market is a little overvalued and will buy this back at a lower price if possible.
 
-TRADE sell 308@46.70 commission 10.32 balance 0
+TRADE sell 308@46.70 balance 0 commission 10.32 
 
 Mar 22, 2015
 

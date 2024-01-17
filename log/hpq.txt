@@ -254,13 +254,13 @@ Buy $20K more.
 
 adjust for company split
  TRADE buy 470@42.30 commission 9.99 balance 848
-TRADE buy 470@20.1348 commission 9.99 balance 848
+TRADE buy 470@20.1348 balance 848 commission 9.99
 
 June 23, 2011
 
 adjust for company split
  TRADE buy 289@34.60 commission 9.99 balance 1137
-TRADE buy 289@16.4696 commission 9.99 balance 1137
+TRADE buy 289@16.4696 balance 1137 commission 9.99
 
 May 27, 2013
 

@@ -37,9 +37,7 @@ EPS 2.40 price 24.69 ==> PE 10.3
 
 A very low PE considering how much this company is growing.
 
-Mar 2, 2006
-
-TRADE buy 400@24.40 commission 7.99 balance 400
+TRADE buy 400@24.40 balance 400 commission 7.99
 
 Apr 24, 2006
 
@@ -70,7 +68,7 @@ Earnings guidance for a loss next quarter pummeled the stock by 42%.  Steve says
 
 Oct 2, 2006
 
-TRADE sell 400@11.55 commission 8.14 balance 0
+TRADE sell 400@11.55 balance 0 commission 8.14
 
 June 13, 2009
 

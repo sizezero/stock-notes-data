@@ -105,9 +105,7 @@ Talked to Steve again.  Inventory reported in a 10Q is cost of goods
 plus labor, not retail value.  The margins on the disposable is higher
 than Steve had earlier thought.  Closer to 5x or 10x cost.
 
-Dec 9, 2005
-
-TRADE Buy 1000@4.6 Balance 1000 commission 7.95
+TRADE buy 1000@4.6 balance 1000 commission 7.95
 
 Dec 13, 2005
 
@@ -119,7 +117,7 @@ Units sell for $30K per piece.  20-30% gross margin, installed base of 12 units.
 
 1K units could generate $20-25M gross for disposables.
 
-TRADE Buy 1000@4.4 Balance 2000 commission 7.95
+TRADE buy 1000@4.4 balance 2000 commission 7.95
 
 In an attempt to find customer opinions, I searched for both products on the web and found a few references.
 
@@ -157,4 +155,5 @@ Steve talk with PBIO this morning.  Just starting a larger production run of 25 
 
 Oct 2, 2006
 
-TRADE sell 2000@3.3513 commission 8.20 balance 0
+TRADE sell 2000@3.3513 balance 0 commission 8.20
+

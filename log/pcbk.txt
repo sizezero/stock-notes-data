@@ -36,7 +36,7 @@ The growth potential in being able to expand from Eugene to Seattle seems like i
 
 Jan 9, 2006
 
-TRADE buy 500@15.6 commission 7.95 balance 500
+TRADE buy 500@15.6 balance 500 commission 7.95
 
 Jan 24, 2006
 
@@ -75,11 +75,11 @@ Press release:
 
 Apr 21, 2006
 
-TRADE buy 500@16.90 commission 7.99 balance 1000
+TRADE buy 500@16.90 balance 1000 commission 7.99
 
 Jul 17, 2006
 
-TRADE buy 130@16.30 commission 7.99 balance 1130
+TRADE buy 130@16.30 balance 1130 commission 7.99
 
 Jul 19, 2006
 
@@ -98,9 +98,9 @@ PE dropped a bit.  Hold.
 
 Jul 21, 2006
 
-TRADE buy 370@16.30 commission 7.99 balance 1500
+TRADE buy 370@16.30 balance 1500 commission 7.99
 
 Oct 2, 2006
 
-TRADE sell 1500@18.2513 commission 8.84 balance 0
+TRADE sell 1500@18.2513 balance 0 commission 8.84
 

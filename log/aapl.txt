@@ -42,11 +42,11 @@ BUY $53.71
 
 Aug 29, 2014
 
-TRADE sell 252@102.55 commission 9.99 balance 252
+TRADE sell 252@102.55 balance 252 commission 9.99
 
 Nov 20, 2014
 
-TRADE sell 252@116.40 commission 9.99 balance 0
+TRADE sell 252@116.40 balance 0 commission 9.99
 
 Mar 22, 2015
 

@@ -230,11 +230,11 @@ BUY $12.76
 
 Sep 19, 2012
 
-TRADE sell 637@22.35 commission 9.99 balance 637
+TRADE sell 637@22.35 balance 637 commission 9.99
 
 Oct 3, 2012
 
-TRADE sell 637@22.97 commission 9.99 balance 0
+TRADE sell 637@22.97 balance 0  commission 9.99
 
 Mar 22, 2015
 

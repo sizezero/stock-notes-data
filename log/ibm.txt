@@ -143,5 +143,5 @@ Summary: not a great company due to the lack of any real competitive advantage a
 
 Dec 13, 2010
 
-TRADE sell 75@144.66 commission 10.27 balance 0
+TRADE sell 75@144.66 balance 0 commission 10.27
 

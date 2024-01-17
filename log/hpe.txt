@@ -74,7 +74,7 @@ adjust for company split
  TRADE buy 470@42.30 commission 9.99 balance 848
 adjust for spin-offs
  TRADE buy 470@22.1652 commission 9.99 balance 848
-TRADE buy 470@12.8607 commission 9.99 balance 848
+TRADE buy 470@12.8607 balance 848  commission 9.99
 
 June 23, 2011
 
@@ -82,7 +82,7 @@ adjust for company split
  TRADE buy 289@34.60 commission 9.99 balance 1137
 adjust for spin-offs
  TRADE buy 289@18.1304 commission 9.99 balance 1137
-TRADE buy 289@10.5197 commission 9.99 balance 1137
+TRADE buy 289@10.5197 balance 1137  commission 9.99
 
 Feb 4, 2017
 

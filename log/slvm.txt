@@ -5,7 +5,7 @@ Oct 1, 2021
 
 Spinoff from international paper.
 
-TRADE BUY 22@24.18 balance 22 commission 0.0
+TRADE buy 22@24.18 balance 22 commission 0.0
 
 Jan 29, 2022
 
@@ -53,5 +53,5 @@ BUY $45.00
 
 Aug 9, 2023
 
-TRADE BUY 120@42.00 balance 142 commission 0.0
+TRADE buy 120@42.00 balance 142 commission 0.0
 

@@ -23,11 +23,11 @@ Profitable two quarters now.  Worth getting in a little.
 
 Jun 23, 2010
 
-TRADE buy 4000@1.25 commission 1.99 balance 4000
+TRADE buy 4000@1.25 balance 4000 commission 1.99
 
 Aug 30, 2014
 
 Without Steve's advice, I need to get out of this issue.
 
-TRADE sell 4000@2.05 commission 10.18 balance 0
+TRADE sell 4000@2.05 balance 0 commission 10.18
 

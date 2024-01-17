@@ -1,7 +1,6 @@
 
 NAME: Verizon Communications Inc.
 CID: 0000732712
-KEYWORDS: 
 
 Aug 28, 2016
 
@@ -82,5 +81,5 @@ BUY 32.50
 
 Oct 29, 2021
 
-TRADE BUY 875@52.95 balance 1100 commission 0.0
+TRADE buy 875@52.95 balance 1100 commission 0.0
 

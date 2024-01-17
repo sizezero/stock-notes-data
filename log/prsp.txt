@@ -12,5 +12,5 @@ May 01, 2021
 
 It looks like this was acquired in 2021. (now Dec 2023)
 
-TRADE SELL 97@29.35 balance 0 commission 0.00
+TRADE sell 97@29.35 balance 0 commission 0.00
 

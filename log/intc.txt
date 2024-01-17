@@ -219,7 +219,7 @@ Yield has dropped significantly.  Margins are still fairly high and should drop 
 SELL $31.20
 BUY $22.50
 
-TRADE sell 1424@34.90 commission 9.99 balance 0
+TRADE sell 1424@34.90 balance 0 commission 9.99
 
 Mar 22, 2015
 

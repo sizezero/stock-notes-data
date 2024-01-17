@@ -105,7 +105,7 @@ BUY $57.50
 
 Apr 30, 2015
 
-TRADE buy 293@68.20 commission 9.99 balance 293
+TRADE buy 293@68.20 balance 293 commission 9.99
 
 Picked up $20K.  Next $20K should be bought at a 5% discount
 
@@ -113,7 +113,7 @@ BUY $64.80
 
 Jul 1, 2015
 
-TRADE buy 320@62.6 commission 9.99 balance 613
+TRADE buy 320@62.6 balance 613 commission 9.99
 
 Picked up $20K.  Discounted further
 
@@ -121,7 +121,7 @@ BUY $50 $56
 
 Aug 24, 2015
 
-TRADE buy 360@53.15 commission 9.99 balance 973
+TRADE buy 360@53.15 balance 973 commission 9.99
 
 Picked up $20K.  Discounted further
 
@@ -129,11 +129,11 @@ BUY $45
 
 Jan 20, 2016
 
-TRADE buy 445@44.52 commission 9.99 balance 1418
+TRADE buy 445@44.52 balance 1418 commission 9.99
 
 BUY $35
 
 Feb 6, 2017
 
-TRADE buy 380@52.90 commission 9.99 balance 1798
+TRADE buy 380@52.90 balance 1798 commission 9.99
 

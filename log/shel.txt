@@ -70,23 +70,23 @@ SELL $117
 
 Jul 10, 2015
 
-TRADE buy 182@55.00 commission 7.00 balance 643
+TRADE buy 182@55.00 balance 643 commission 7.00
 
 BUY $49.00
 
-TRADE buy 160@49.00 commission 7.00 balance 803
+TRADE buy 160@49.00 balance 803 commission 7.00
 
 BUY $44.00
 
 Dec 17, 2015
 
-TRADE buy 230@44.00 commission 7.00 balance 1033
+TRADE buy 230@44.00 balance 1033 commission 7.00
 
 BUY $40.00
 
 May 4, 2017
 
-TRADE buy 190@52.418 commission 6.95 balance 1223
+TRADE buy 190@52.418 balance 1223 commission 6.95
 
 Aug 12, 2018
 
@@ -118,7 +118,7 @@ SELL 107
 
 May 19, 2021
 
-TRADE buy 750@39.55 commission 0.0 balance 1973
+TRADE buy 750@39.55 balance 1973 commission 0.0
 
 BUY 30
 SELL 107

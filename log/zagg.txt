@@ -29,7 +29,7 @@ Background on product, first developed to protect military helicopter rotors.  I
 
 Apr 28, 2010
 
-TRADE buy 3278@3.05 commission 9.99 balance 3278
+TRADE buy 3278@3.05 balance 3278 commission 9.99
 
 Dec 4, 2010
 
@@ -100,4 +100,4 @@ Sell.
 
 Dec 6, 2010
 
-TRADE sell 3278@7.39 commission 10.40 balance 0
+TRADE sell 3278@7.39 balance 0 commission 10.40

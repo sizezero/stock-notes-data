@@ -133,5 +133,5 @@ I'd like to keep going through this checklist but I can't seem to get over the c
 
 Dec 13, 2010
 
-TRADE sell 762@21.1332 commission 10.27 balance 0
+TRADE sell 762@21.1332 balance 0 commission 10.27
 

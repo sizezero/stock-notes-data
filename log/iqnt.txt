@@ -50,7 +50,7 @@ Before tndm, ILECs provide tandem switching between competitive carriers and cha
 
 Jan 12, 2010
 
-TRADE buy 467@21.3999 commission 11.99
+TRADE buy 467@21.3999 balance 467 commission 11.99
 
 Jan 24, 2010
 
@@ -201,5 +201,5 @@ Feb 18, 2017
 
 Company bought out.
 
-TRADE sell 467@23.00 commission 0.00
+TRADE sell 467@23.00 balance 0 commission 0.00
 

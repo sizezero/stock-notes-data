@@ -204,7 +204,7 @@ SELL $93.43
 
 Mar 9, 2011
 
-TRADE sell 196@93.43 commission 10.35 balance 0
+TRADE sell 196@93.43 balance 0 commission 10.35
 
 Mar 22, 2015
 

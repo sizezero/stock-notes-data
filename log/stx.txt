@@ -32,11 +32,11 @@ Apr 15, 2012
 
 Only bought $15K; not enough cash in the account.
 
-TRADE BUY 530@$28.30 commission 9.99 balance 530
+TRADE buy 530@$28.30 balance 530 commission 9.99
 
 Jun 19, 2012
 
-TRADE BUY 425@$23.5299 commission 9.99 balance 955
+TRADE buy 425@$23.5299 balance 955 commission 9.99
 
 Aug 5, 2012
 
@@ -72,19 +72,19 @@ pretty tight balance sheet.  Shareholder equity up $4.0B to $4.8B in the last ye
 
 Nov 30, 2012
 
-TRADE BUY 397@25.20 balance 1352 commission 9.99
+TRADE buy 397@25.20 balance 1352 commission 9.99
 
 Jan 24, 2013
 
-TRADE SELL 600@37.10 balance 752 commission 10.49
+TRADE sell 600@37.10 balance 752 commission 10.49
 
 Apr 2, 2014
 
-TRADE SELL 400@57.00 balance 352 commission 10.50
+TRADE sell 400@57.00 balance 352 commission 10.50
 
 Jul 3, 2014
 
-TRADE SELL 352@58.90 balance 0 commission 10.45
+TRADE sell 352@58.90 balance 0 commission 10.45
 
 Mar 22, 2015
 

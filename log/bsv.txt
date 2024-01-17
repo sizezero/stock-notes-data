@@ -37,15 +37,15 @@ TRADE buy 1290@76.55 balance 46184 commission 0.0
 Sep 9, 2022
 
 # buy from bene ira
-TRADE buy 10382@76.09 balance 56566
+TRADE buy 10382@76.09 balance 56566 commission 0
 
 Oct 18, 2023
 
 # buy from traditional irs
-TRADE buy 210@74.6761 balance 56776
+TRADE buy 210@74.6761 balance 56776 commission 0
 
 Nov 20, 2023
 
 # sell from bene ira
-TRADE sell 150@75.6546 balance 56626
+TRADE sell 150@75.6546 balance 56626 commission 0
 

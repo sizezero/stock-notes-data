@@ -146,7 +146,7 @@ Payout Ratio 10.7%
 
 May 15, 2013
 
-TRADE sell 722@35.45 commission 10.57 balance 0
+TRADE sell 722@35.45 balance 0 commission 10.57
 
 Mar 22, 2015
 

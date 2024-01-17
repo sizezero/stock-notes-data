@@ -30,5 +30,5 @@ Lots of caveats in the above analysis.
 
 Sep 9, 2022
 
-TRADE sell 195@26.63 balance 0
+TRADE sell 195@26.63 balance 0 commission 0
 

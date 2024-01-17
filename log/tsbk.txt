@@ -1,4 +1,4 @@
-
+;   
 NAME: Timberland Bancorp Inc.
 CID: 0001046050
 
@@ -46,12 +46,12 @@ It's time to buy a bit of this stock.
 
 Dec 30, 2005
 
-TRADE Buy 43@23.4 Balance 43 commission 7.95
+TRADE buy 43@23.4 balance 43 commission 7.95
 
 Jan 3, 2006
 
-TRADE Buy 200@23.4 commission 3.47
-TRADE Buy 257@23.4 commission 4.48 balance 500
+TRADE buy 200@23.4 balance 243 commission 3.47
+TRADE buy 257@23.4 balance 500 commission 4.48
 
 Jan 24, 2006
 
@@ -67,7 +67,7 @@ PE 14 ==> Price $27.58
 
 Try to buy some more below $27.50
 
-TRADE buy 500@23.85 commission 7.99
+TRADE buy 500@23.85 balance 1000 commission 7.99
 
 Feb 3, 2006
 
@@ -75,11 +75,11 @@ Feb 3, 2006
 
 Feb 7, 2006
 
-TRADE buy 30@24.14 commission 7.99
+TRADE buy 30@24.14 balance 1030 commission 7.99
 
 Feb 8, 2006
 
-TRADE buy 470@25.80 commission 7.99
+TRADE buy 470@25.80 balance 1500 commission 7.99
 
 Apr 26, 2006
 
@@ -116,4 +116,4 @@ latest quarter revenue is the combined interest and non-interest income.
 
 Oct 2, 2006
 
-TRADE sell 1500@35.0319 commission 9.61 balance 0
+TRADE sell 1500@35.0319 balance 0 commission 9.61

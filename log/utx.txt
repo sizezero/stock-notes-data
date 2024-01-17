@@ -57,19 +57,19 @@ rank 4
 
 Feb 2, 2010
 
-TRADE buy 49@68.10 balance 172
+TRADE buy 49@68.10 balance 172 commission 0
 
 May 3, 2010
 
-TRADE buy 44@75.60 commission 9.99 balance 216
+TRADE buy 44@75.60 balance 216 commission 9.99
 
 Aug 2, 2010
 
-TRADE buy 46@72.50 commission 9.99 balance 262
+TRADE buy 46@72.50 balance 262 commission 9.99
 
 Nov 10, 2010
 
-TRADE buy 44@75.95 commission 9.99 balance 306
+TRADE buy 44@75.95 balance 306 commission 9.99
 
 Jul 28, 2012
 
@@ -119,7 +119,7 @@ SELL $85.60
 
 Jan 15, 2013
 
-TRADE sell 306@85.80 commission 9.99 balance 0
+TRADE sell 306@85.80 balance 0 commission 9.99
 
 Mar 22, 2015
 

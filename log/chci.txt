@@ -34,8 +34,8 @@ Steve has a friend who is interesting in the company for the long term.
 An article on thestreet.com mentioned that it's trading below book value ($10.29) and the low price is due to management's miscommunication with it's shareholders the last 6 months.
 http://www.thestreet.com/_yahoo/stocks/homebuilders/10273884.html?cm_ven=YAHOO&cm_cat=FREE&cm_ite=NA
 
-TRADE buy 400@9.87 commission 7.99
-TRADE buy 100@9.88 balance 500
+TRADE buy 400@9.87 balance 400 commission 7.99
+TRADE buy 100@9.88 balance 500 commission 0
 
 May 2, 2006
 
@@ -92,11 +92,11 @@ shareholders equity 146.2
 PE on guidance is still around 4.5
 Time to double down.
 
-TRADE buy 1000@8.72 commission 7.99 balance 1500
+TRADE buy 1000@8.72 balance 1500 commission 7.99
 
 Jun 6, 2006
 
-TRADE buy 1000@7.00 commission 7.99 balance 2500
+TRADE buy 1000@7.00 balance 2500 commission 7.99
 
 Jul 25, 2006
 
@@ -143,10 +143,10 @@ The stock seems _really_ cheap but I don't know if I want to own more of it.
 
 Oct 2, 2006
 
-TRADE sell 500@5.2708 commission 8.08
-TRADE sell 1200@5.25 commission 0.20
-TRADE sell 100@5.23 commission 0.02
-TRADE sell 100@5.27 commission 0.02
-TRADE sell 400@5.22 commission 0.07
-TRADE sell 100@5.26 commission 0.02
-TRADE sell 100@5.24 commission 0.02 balance 0
+TRADE sell 500@5.2708 balance 2000 commission 8.08
+TRADE sell 1200@5.25 balance 800 commission 0.20
+TRADE sell 100@5.23 balance 700 commission 0.02
+TRADE sell 100@5.27 balance 600 commission 0.02
+TRADE sell 400@5.22 balance 200 commission 0.07
+TRADE sell 100@5.26 balance 100 commission 0.02
+TRADE sell 100@5.24 balance 0 commission 0.02

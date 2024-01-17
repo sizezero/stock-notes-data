@@ -168,11 +168,11 @@ Jan 18, 2011
 
 I visited the Seattle stores.  The location selection was perfect: #1 one block from Pikes market, #2 on the corner of 1st and Yestler smack in the middle of Pioneer Square.  Pike store was always busy, Pioneer Square store less so.  Latest earnings report came out with lot's of global stores opening including one in Dubai.  I have a lowball buy order in but decided to buy some more at market.
 
-TRADE buy 815@10.20 commission 9.99 balance 1340
+TRADE buy 815@10.20 balance 1340 commission 9.99
 
 Jan 19, 2011
 
-TRADE buy 165@10.20 commission 9.99 balance 1505
+TRADE buy 165@10.20 balance 1505 commission 9.99
 
 Feb 6, 2011
 
@@ -282,39 +282,39 @@ Sep 9, 2022
 
 sold out of normal account
 
-TRADE sell 9@6.44 balance 3996
+TRADE sell 9@6.44 balance 3996 commission 0
 
 Sep 14, 2022
 
 sold out of normal account
 
-TRADE sell 2@6.44 balance 3994
+TRADE sell 2@6.44 balance 3994 commission 0
 
 Sep 15, 2022
 
 sold out of normal account
 
-TRADE sell 3@6.44 balance 3991
-TRADE sell 2@6.44 balance 3989
+TRADE sell 3@6.44 balance 3991 commission 0
+TRADE sell 2@6.44 balance 3989 commission 0
 
 Sep 16, 2022
 
 sold out of normal account
 
-TRADE sell 107@6.44 balance 3882
-TRADE sell 143@6.44 balance 3739
-TRADE sell 100@6.44 balance 3639
-TRADE sell 1139@6.44 balance 2500
+TRADE sell 107@6.44 balance 3882 commission 0
+TRADE sell 143@6.44 balance 3739 commission 0
+TRADE sell 100@6.44 balance 3639 commission 0
+TRADE sell 1139@6.44 balance 2500 commission 0
 
 Oct 28, 2022
 
-TRADE sell 123@6.69 commission 0.04 balance 2377
+TRADE sell 123@6.69 balance 2377 commission 0.04
 
 Oct 31, 2022
 
-TRADE sell 212@6.69 commission 0.06 balance 2165
+TRADE sell 212@6.69 balance 2165 commission 0.06
 
 Nov 9, 2022
 
-TRADE sell 2165@6.69 commission 0.61 balance 0
+TRADE sell 2165@6.69 balance 0 commission 0.61
 

@@ -16,11 +16,11 @@ DDIM (Data Dimensions) transaction history.  Bought as a private placement and a
 
 Each DDIM share turned into 0.19 LIOX shares.  Translates into 10K pre-acquisition shares.  Cost basis is 0.33 of ddim shares.  0.33/0.19 == 1.74
 
-TRADE buy 1908@1.74 Balance 1908
+TRADE buy 1908@1.74 balance 1908 commission 0
 
 Apr 5, 2006
 
 Increasing revenues but the company is still not profitable.  It seems risky for a company with a $465M MC.  I should sell this one.
 
-TRADE sell 1908@7.7771 commission 230.01 balance 0
+TRADE sell 1908@7.7771 balance 0 commission 230.01
 

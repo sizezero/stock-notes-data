@@ -4,7 +4,7 @@ CID:
 
 Jan 15, 2011
 
-TRADE buy 14@0.00 commission 0 balance 14
+TRADE buy 14@0.00 balance 14 commission 0
 
 Mar 19, 2011
 
@@ -14,5 +14,5 @@ There is no visibility into this guy.  Should I just sell?
 
 Oct 15, 2013
 
-TRADE sell 14@17.80 commission 9.99 balance 0
+TRADE sell 14@17.80 balance 0 commission 9.99 
 

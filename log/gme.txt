@@ -201,7 +201,7 @@ Margins 4.2%
 
 Jun 23, 2010
 
-TRADE buy 538@18.6 commission 9.99 balance 944
+TRADE buy 538@18.6 balance 944  commission 9.99
 
 Apr 2, 2011
 
@@ -394,7 +394,7 @@ Oct 27, 2016
 
 Bought $20K (810 shares) today.  We have room to buy more on a drop.  Let's see if this turns into an ulcer stock.
 
-TRADE buy 810@24.579 commission 9.99 balance 810
+TRADE buy 810@24.579 balance 810 commission 9.99
 
 Oct 30, 2016
 
@@ -406,18 +406,18 @@ Nov 2, 2016
 
 A crash in guidance caused a sell off.  Bought 900@$20.83
 
-TRADE buy 900@20.827 commission 9.99 balance 1710
+TRADE buy 900@20.827 balance 1710 commission 9.99
 
 BUY $17.00
 
 Mar 24, 2017
 
-TRADE buy 1182@21.515 commission 0 balance 2892
-TRADE buy 100@21.52 commission 9.99 balance 2992
+TRADE buy 1182@21.515 balance 2892 commission 0
+TRADE buy 100@21.52 balance 2992 commission 9.99
 
-TRADE buy 940@21.16 commission 6.95 balance 3932
+TRADE buy 940@21.16 balance 3932 commission 6.95
 
-TRADE buy 950@20.9462 commission 6.95 balance 4882
+TRADE buy 950@20.9462 balance 4882 commission 6.95
 
 Article from Barrons:
 
@@ -437,25 +437,25 @@ GameStop's well-regarded management needs time to pull off its planned transitio
 
 Mar 27, 2017
 
-TRADE buy 1000@20.92 commission 6.95 balance 5882
+TRADE buy 1000@20.92 balance 5882  commission 6.95
 
 Nov 1, 2017
 
-TRADE buy 540@18.62 commission 6.95 balance 6422
+TRADE buy 540@18.62 balance 6422 commission 6.95
 
 Nov 13, 2017
 
-TRADE buy 600@16.5162 commission 6.95 balance 7022
+TRADE buy 600@16.5162 balance 7022 commission 6.95
 
 Jan 12, 2018
 
-TRADE buy 445@17.79 commission 6.95 balance 7467
+TRADE buy 445@17.79 balance 7467 commission 6.95
 
 BUY 14.0
 
 May 10, 2018
 
-TRADE buy 800@12.50 commission 6.95 balance 8267
+TRADE buy 800@12.50 balance 8267 commission 6.95
 
 The above trade was bought in the Roth IRA not the standard IRA.
 
@@ -465,7 +465,7 @@ Jan 30, 2019
 
 Stock crashed after they announced that they are stopping their search for a buyer. They now need to look for a new CEO to see what to do with the cash from their phone sale. There's still a chance this is a bargain so follow the plan.
 
-TRADE buy 870@11.1945 commission 6.95 balance 9137
+TRADE buy 870@11.1945 balance 9137 commission 6.95
 
 The above trade was bought in the standard IRA not the Roth IRA.
 
@@ -475,7 +475,7 @@ BUY 9.20
 
 Apr 29, 2019
 
-TRADE buy 1124@8.89 commission 6.95 balance 10261
+TRADE buy 1124@8.89 balance 10261 commission 6.95
 
 The above trade was bought in the Roth IRA.
 
@@ -485,9 +485,10 @@ BUY 6.67
 
 Jan 13, 2021
 
-TRADE sell 4000@33.00 commission 0.00 balance 6261
+TRADE sell 4000@33.00 balance 6261 commission 0.00
 
 Jan 21, 2021
 
-TRADE sell 4337@41.00 commission 0.00 balance 1924
-TRADE sell 1924@42.00 commission 0.00 balance 0
+TRADE sell 4337@41.00 balance 1924  commission 0.00
+TRADE sell 1924@42.00 balance 0  commission 0.00
+

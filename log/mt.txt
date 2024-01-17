@@ -114,5 +114,5 @@ I missed a nice sell opportunity last week.  There was a big drop followed by a 
 
 Mar 24, 2011
 
-TRADE sell 280@36.15 commission 10.19 balance 0
+TRADE sell 280@36.15 balance 0 commission 10.19
 

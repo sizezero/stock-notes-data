@@ -27,7 +27,7 @@ prices between 1990 and 1995 were between 0 and 4.
 
 Dec 23, 2005
 
-TRADE sell 500@26.6 Balance 2284 commission 13.36
+TRADE sell 500@26.6 balance 2284 commission 13.36
 
 Mar 24, 2006
 
@@ -35,7 +35,7 @@ TRADE sell 1000@27.05 balance 1284 commission 13.79
 
 Oct 2, 2006
 
-TRADE sell 1284@27.41 commission 18.30 balance 0
+TRADE sell 1284@27.41 balance 0 commission 18.30
 
 Dec 15, 2008
 
@@ -221,11 +221,11 @@ SELL $38.08
 
 Mar 4, 2011
 
-TRADE buy 382@26.13 commission 9.99 balance 1299
+TRADE buy 382@26.13 balance 1299 commission 9.99
 
 Jun 16, 2011
 
-TRADE buy 417@23.95 commission 9.99 balance 1716
+TRADE buy 417@23.95 balance 1716 commission 9.99
 
 Jul 29, 2012
 
@@ -250,11 +250,11 @@ BUY $16.00
 
 Sep 20, 2012
 
-TRADE sell 858@31.35 commission 9.99 balance 858
+TRADE sell 858@31.35 balance 858 commission 9.99
 
 Oct 25, 2013
 
-TRADE sell 858@36.10 commission 9.99 balance 0
+TRADE sell 858@36.10 balance 0 commission 9.99
 
 Mar 22, 2015
 

@@ -175,31 +175,31 @@ SELL $171.20
 
 Jul 7, 2015
 
-TRADE buy 106@94.32 commission 9.88 balance 564
+TRADE buy 106@94.32 balance 564 commission 9.88
 
 BUY $90.00
 
 Jul 31, 2015
 
-TRADE buy 110@89.66 commission 9.99 balance 674
+TRADE buy 110@89.66 balance 674 commission 9.99
 
 BUY $85.00
 
 Aug 4, 2015
 
-TRADE buy 120@85.00 commission 9.99 balance 794
+TRADE buy 120@85.00 balance 794 commission 9.99
 
 BUY $80.00
 
 Aug 21, 2015
 
-TRADE buy 125@78.93 commission 9.99 balance 919
+TRADE buy 125@78.93 balance 919 commission 9.99
 
 BUY $75.00
 
 Aug 24, 2015
 
-TRADE buy 135@70.50 commission 9.99 balance 1054
+TRADE buy 135@70.50 balance 1054 commission 9.99
 
 Wow.  Crash on Monday picked this up $5 under my limit order.  Next buy is even lower.
 

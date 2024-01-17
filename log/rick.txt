@@ -20,12 +20,12 @@ Jun 4, 2010
 
 The market crash makes this look attractive.
 
-TRADE buy 1136@8.8 commission 7 balance 1136
+TRADE buy 1136@8.8 balance 1136 commission 7
 
 Jul 7, 2010
 
-TRADE buy 424@7.55 commission 0 balance 1560
-TRADE buy 900@7.55 commission 7 balance 2460
+TRADE buy 424@7.55 balance 1560 commission 0
+TRADE buy 900@7.55 balance 2460 commission 7
 
 Dec 19, 2010
 
@@ -115,7 +115,7 @@ Restaurant "sector" currently has a PE of 19.  If we take a fair PE of 15 and di
 
 Dec 27, 2010
 
-TRADE buy 1212@8.25 commission 7 balance 3672
+TRADE buy 1212@8.25 balance 3672 commission 7
 
 Feb 6, 20100
 
@@ -124,11 +124,11 @@ SELL $19.00
 
 Mar 4, 2011
 
-TRADE buy 925@10.79 commission 7.00 balance 4597
+TRADE buy 925@10.79 balance 4597 commission 7.00
 
 Jun 16, 2011
 
-TRADE buy 1257@7.95 commission 7.00 balance 5854
+TRADE buy 1257@7.95 balance 5854 commission 7.00
 
 Mar 11, 2012
 
@@ -198,11 +198,11 @@ SELL $19.19
 
 Jul 24, 2014
 
-TRADE buy 1800@11.10 commission 7.00 balance 7654
+TRADE buy 1800@11.10 balance 7654 commission 7.00
 
 Feb 12, 2015
 
-TRADE buy 1870@10.70 commission 7.00 balance 9524
+TRADE buy 1870@10.70 balance 9524 commission 7.00
 
 Feb 13, 2015
 
@@ -238,13 +238,13 @@ Feb 12, 2016
 
 Finally initiated a dividend.  Bought some more.
 
-TRADE buy 1240@8.01 commission 7.00 balance 10764
+TRADE buy 1240@8.01 balance 10764 commission 7.00
 
 Feb 10, 2017
 
 Capital allocation plan looks great.  Maybe Eric has figured out how to manage.  According to the plan the company will continue to buy shares up to $19.  I'll pick up a few more at the current price.
 
-TRADE buy 1000@17.5912 commission 7.00 balance 11764
+TRADE buy 1000@17.5912 balance 11764 commission 7.00
 
 Feb 11, 2017
 
@@ -313,7 +313,7 @@ SELL none
 
 Feb 15, 2017
 
-TRADE buy 1150@17.45 commission 7.00 balance 12914
+TRADE buy 1150@17.45 balance 12914 commission 7.00
 
 BUY $12
 
@@ -358,7 +358,7 @@ This is bad in that it makes me think this can happen any year and that there is
 
 The good news is that with no cause, this will likely get resolved sooner than later. He also hinted that if they file by Monday then they are technically not late. I can't put a lot of trust in this but it's probably a reason to pick up a few more shares at this exremely depressed price.
 
-TRADE buy 250@19.9391 commission 7.00 balance 13164
+TRADE buy 250@19.9391 balance 13164 commission 7.00
 
 Jan 1, 2019
 
@@ -376,7 +376,7 @@ Next conference call on Jan 10 to discuss sales. Hoping to include people that c
 
 Apr 29, 2019
 
-TRADE buy 438@22.9 commission 7.00 balance 13602
+TRADE buy 438@22.9 balance 13602 commission 7.00
 
 Aug 20, 2023
 
