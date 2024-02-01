@@ -11,3 +11,24 @@ Online income tax software problems lost a lot of customers.  Will require resta
 "The company said it now expects to earn between $1.65 to $1.85 per share, down from earlier guidance of $1.90 to $2.15 per share. Analysts expected annual earnings of $1.86 per share."
 
 Shares down 10% on the news.  It looks interesting, but the shares need to drop a little further.  Accurate numbers need to be reported as well.  Watch over the next couple days.
+
+Feb 1, 2024
+
+Wow. Eighteen years and these guys are still chugging away in spite of turbotax dominating the market. Nearly a double which amounts to 5.6% annual yield without divs.
+
+Sep 2023
+rev 183,800 1,032,146 2,093,649 166,405
+inc -163,482 302,271 643,429 -223,579
+shares 143,931,084
+price 46.24
+div 1.28
+==>
+EPS $3.88
+PE 11.9
+MC 6655.4M
+Margin 16.07%
+Dividend Yield 2.77%
+Payout Ratio 32.98%
+
+It still has the crazy cyclical earnings. I just don't see what the customers are getting from this. I need to stay away from this value trap.
+
