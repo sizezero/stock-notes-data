@@ -32,3 +32,26 @@ Another well priced growing company.
 Feb 24, 2006
 
 Steve looked at it.  At first he was very impressed with the margins but he didn't like how a large portion of the earnings (from the "Joint Venture") is cut off into other income.  He called the company but received no response in a couple days which is a bad sign.
+
+Feb 1, 2024
+
+Let's start with the numbers.
+
+Sep 2023
+rev 3,717.4550 6,698.7710 5,927.7670 5,758.6610
+inc -186.43 165.13 284.64 341.31
+price 1.45
+shares  2,312,887
+==>
+Income 0.6M
+Revenue 22.1M
+EPS $0.26
+PE 5.5
+MC 3.4M
+Margin 2.74%
+
+They're slow to publish the last 10Q
+
+They're still in the same business and haven't gone anywhere in eighteen years. At least now their market cap has collapsed to a more reasonable level. Reading the 10Q makes it looks like nothing in the company has changed. It's not a great or even good company and I don't see what catalyst would change that.
+
+
