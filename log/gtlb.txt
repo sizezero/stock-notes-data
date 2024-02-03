@@ -1,0 +1,28 @@
+
+NAME: GitLab Inc.
+CID: 0001653482
+KEYWORDS:
+
+Feb 3, 2024
+
+Jonathan Curtis was interviewed in Barrons. He's really into AI and the interviewer asked if there were smaller plays that interested him. He mentioned GitLab.
+
+There are two classes of stock.
+Class A:  107.9M
+Class B: 47.8M
+Digging into the lates 10Q shows total diluted shares at 52,961,000 up 450K from a year ago. Seeking alpha says there are 155.70 million shares outstanding. I'm not sure where they got that number.
+
+Oct 2023
+rev 149,668 139,581 126,878 122,907
+inc 15,084 14,696 13,939 14,238
+price 72.35
+shares 155,700,000
+==>
+EPS $0.37
+PE 194.4
+MC 11264.9M
+Margin 10.75%
+
+The fact that they are actually making money is good but I don't like the fishy share count and the crazy multipl. Maybe I'll stick my next project on gitlab and play around with it a bit.
+
+Revenue has more than doubled in a couple years and they have beat every year. It's definitely a growth story but at 11B MC, there's a lot of growth baked in.
