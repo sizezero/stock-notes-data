@@ -24,3 +24,32 @@ MC $79.0M
 Stock jumped 50% in the last year.  I don't see what news would have caused that.  
 
 10Q.  Running to catch a plane.  Didn't have time to go over it in detail.
+
+Feb 2, 2024
+
+They're still around. I guess they've been in business since 1916 so they must have figured out how to sell a hotdog.
+
+They just filed their 10Q yesterday.
+
+dec 2023
+rev 28,890	 	  38,744 41,985 27,414
+inc 2,607	  5,711 7,388 3,265 
+shares  4,084,615
+price 68.24
+div 2.00
+==>
+Income 19.0M
+Revenue 137.0M
+EPS $4.64
+PE 14.7
+MC 278.7M
+Margin 13.84%
+Dividend Yield 2.93%
+Payout Ratio 43.06%
+
+The price really took off in 2012 and have been remarkably volatile in the dozen years since then. The PE is in line with a normal restaurant but isn't cheap.
+
+I don't know if it's worth looking at until it get's really cheap. Let's put low watch on this.
+
+BUY $45
+
