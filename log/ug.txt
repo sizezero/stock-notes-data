@@ -24,3 +24,24 @@ From Motley Fool article: Insiders own 43% of the company but management has low
 No forward looking statements in the 10Q
 
 I like the management but the stock isn't nearly cheap enough for a value play.  There is no real growth story either.
+
+Feb 14, 2024
+
+sep 2023
+rev 3,057.52 2,650.30 2,570.32 2,762.95
+inc 626.76 461.09 756.08 679.21
+shares 4,594,319
+div 0.35
+price 8.35
+==>
+EPS $0.54
+PE 15.2
+MC 38.4M
+Margin 22.85%
+Dividend Yield 4.19%
+Payout Ratio 63.73%
+
+Somehow this company is not making more money that it was 18 years ago. The stock is lower due to a reduced multiple but 15 is way to expensive for a company doing so poorly.
+
+It's now paying an unsustainable dividend as well. There's a lot of chatter on seekingalpha about dividend cuts. It looks like a lot of those folks are owning it jsut for the dividend.
+
