@@ -28,3 +28,22 @@ Sales are to a few large OEM customers (e.g. Motorolla)
 No forward looking statements in 10Q.
 
 Looks like a tough business and not valued low enough.  Solid balance sheet $15M cash, little debt, but no significant asset play.
+
+Feb 24, 2024
+
+Still in the same business.
+
+Losing money for years. I'm not sure how long the balance sheet will hold up. Price is languishing around 0.67
+
+dec 2023
+rev 7,151.9510 5,093.4890 10,127.1590 10,657.9800
+inc -354.22 -1,898.69 -536.74 -870.95
+shares 10,061,185
+price 0.67
+==>
+Income -3.7M
+Revenue 33.0M
+EPS ($0.36)
+MC 6.7M
+
+
