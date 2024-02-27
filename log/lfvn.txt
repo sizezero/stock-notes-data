@@ -13,3 +13,30 @@ Recently public.  No earnings.  $60M MC.
 Investment info is prominent on the company's home page.  $50 for a 30 day supply of pills.  Would anyone pay for this when the company's chief scientist Mccord claims that this still needs to be tested for years to know if it really works or not?  I'm staying out of this one.
 
 Mccord was on a Denver based radio show about consumer protection.  The host, Tom Martino, also runs a consumer protection web sight called troubleshooter.com which features (you guessed it) Protandim as a contributing sponsor on the home page.  This whole thing just reeks of scam.
+
+Feb 26, 2024
+
+changed name from Lifeline Therapeutics Inc. to LifeVantage Corporation. Ticker from LFLT.OB to  LFVN. Same CID.
+
+I can't imagine buying into a supplement company. They're all frauds so how do I judge them.
+
+dec 2023
+rev 51,624 51,364 54,221 53,741
+inc -656 629 1,966 1,022
+shares 12,868,462
+div 0.14
+price 6.98
+==>
+Income 3.0M
+Revenue 211.0M
+EPS $0.23
+PE 30.3
+MC 89.8M
+Margin 1.40%
+Dividend Yield 2.01%
+Payout Ratio 60.84%
+
+Why pay 30 PE for a company that is paying out 60% of the earnings as dividends?
+
+Seeking alpha comments make it seem like a sleazy LLM company.
+
