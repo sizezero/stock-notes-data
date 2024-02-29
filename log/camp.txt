@@ -68,3 +68,21 @@ for the first quarter of fiscal 2006.  The Company believes that its DBS
 business will improve in the fiscal 2006 second quarter as these two key
 customers reach their target inventory levels and resume normal ordering
 patterns."
+
+Feb 28, 2024
+
+Still in business after all this time.
+
+Nov 2023
+rev 53,625 61,714 70,891 78,506
+inc -85,004 -4,225 -4,032 -8,090
+shares 37,996,457
+price 3.07
+==>
+Income -101.4M
+Revenue 264.7M
+EPS ($2.66)
+MC 116.6M
+
+They've lost money for the past three years and the stock has plummeted. It's got an even tinier market cap than it had in 2006. Nothing to see here.
+
