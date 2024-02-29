@@ -63,3 +63,27 @@ estimated workers' compensation expense.
 """
 
 Bottom line: yes the company is growing but the trailing valuation is just too high.
+
+Feb 29, 2024
+
+Sep 2023
+rev 273,328 264,630 254,667 271,950
+inc 18,219 17,016 819 11,528
+shares 6,616,653
+price 121.97
+div 1.20
+==>
+Income 47.6M
+Revenue 1064.6M
+EPS $7.19
+PE 17.0
+MC 807.0M
+Margin 4.47%
+Dividend Yield 0.98%
+Payout Ratio 16.69%
+
+Resonably valued and offering a small dividend. MC only 2.5x what it was 18 years ago so that's not much growth but the multiple has dropped a ton. The stock has run up a ton in the last six months. This may be worth keeping an eye on.
+
+BUY $90.00
+
+
