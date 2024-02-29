@@ -16,3 +16,25 @@ price 13.65
 Doesn't really matter as these are such inconsistent earnings.
 
 Huge revenue falloff.  Much of the past performance seems to be due to a new regulation requirement for Jan 2005.  New orders are slow because of the recent forced upgrade.
+
+Feb 29, 2024
+
+Still in business!
+
+dec 2023
+rev 9,308.06 12,992.60 7,959.21 7,340.45
+inc 1,057.35 2,634.62 1,423.38 1,271.10
+shares 17,459,983
+price 8.14
+==>
+Income 6.4M
+Revenue 37.6M
+EPS $0.36
+PE 22.3
+MC 142.1M
+Margin 16.99%
+
+Last dividend was in 2020. It was either a one time or they stopped it.
+
+It hasn't really done much in all this time. I could do some research to see if there is a catalyst but it doesn't look worth it, especially at this valuation.
+
