@@ -36,7 +36,7 @@ FY 2010 expect rev 17M-25M.  Steve expects 20M to 22M.  2011 expect rev 40M-45M.
 
 Apr 26, 2010
 
-TRADE buy 15384@0.65 commission 11.99 balance 15384
+TRADE buy 15384@0.65 balance 15384 commission 11.99
 
 Oct 23, 2010
 
@@ -44,5 +44,5 @@ Awaiting profitability.  Cheerleading letter to shareholders in Sep didn't do mu
 
 Feb 19, 2015
 
-TRADE sell 15384@0.0007 commission 0.0 balance 0
+TRADE sell 15384@0.0007 balance 0 commission 0.0
 

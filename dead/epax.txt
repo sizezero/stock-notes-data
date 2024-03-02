@@ -128,5 +128,5 @@ Oct 29, 2015
 
 Company liquidated.  Not selling this earlier shows my irrational fear of loss.
 
-TRADE sell 600@2.85 commission 0.00 balance 0
+TRADE sell 600@2.85 balance 0 commission 0.00
 

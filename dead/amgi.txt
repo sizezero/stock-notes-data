@@ -28,13 +28,13 @@ Jul 11, 2006
 
 Dad talked with the company and has done a lot of work.  The company is looking for 12M rev this year, 24M next year.  Hopes to be profitable next year.  Their product is currently in a tiny portion of the construction market so construction lull should not harm their business.  Maybe it's time to buy a little.
 
-TRADE buy 1000@3.90 commission 12.95 balance 1000
+TRADE buy 1000@3.90 balance 1000 commission 12.95
 
 Jul 12, 2006
 
-TRADE buy 400@3.90 commission 5.18
-TRADE buy 600@3.90 commission 7.77 balance 2000
+TRADE buy 400@3.90 balance 1400 commission 5.18
+TRADE buy 600@3.90 balance 2000 commission 7.77
 
 Oct 2, 2006
 
-TRADE sell 2000@2.28 commission 28.09 balance 0
+TRADE sell 2000@2.28 balance 0 commission 28.09
