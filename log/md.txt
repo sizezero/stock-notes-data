@@ -27,3 +27,18 @@ Mar 2, 2024
 
 Something happened and this ticker and CID is now PIMCO Dynamic Income Strategy fund. The ticker is now "MD"
 
+dec 2023
+rev 1,994,640 1,972,021 1,911,191 1,733,951
+inc -60,408 66,335 130,964 -796,488
+shares 84,122,979
+price 8.77
+==>
+Income -659.6M
+Revenue 7611.8M
+EPS ($7.84)
+MC 737.8M
+Price $8.77
+
+Wow. MC is less than a third of what it was 18 years ago. Revenue has been going down the last ten years and so have earnings. I'm not sure what problems their running into but I don't think it's worth it to look into this.
+
+Net debt has been going down since 2018. Net debt has dropped in the last decade but have remained static for the past few years.
