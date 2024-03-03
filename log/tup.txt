@@ -19,3 +19,30 @@ Sales are global with Europe steadily rising and North America steadily declinin
 Been giving quarterly divideds of $0.88 per share since 1996.  This dividend was 35% of the trailing 4 quarters.  In spite of increased income, the dividend has not been raised.  The company claims it would take a significant event to reduce the dividend.
 
 There was no breakdown of sales by product type. (tupperware, cosmetics, etc)  I'd like to see this breakdown as I feel the sales of high end tupperware in North America is doomed with products like gladware.
+
+Mar 3, 2024
+
+dec 2022
+rev 1,304,000 0 0 0
+inc -232,500 0 0 0
+shares 46,269,320
+price 1.31
+==>
+Income -232.5M
+Revenue 1304.0M
+EPS ($5.02)
+MC 60.6M
+Price $1.31
+
+Wow. This company has cratered. I guess it makes sense. No one needs expensive tupperware anymore.
+
+The last 10K/Q was from Oct 2023. Here is the statement for the late filing of an new ones:
+
+"""
+The Company previously disclosed that it incurred significant delays in the filing of its Annual Report on Form 10-K for the fiscal year ended December 31, 2022 (the “2022 Form 10-K”) due to the identification of multiple prior period misstatements and material weaknesses in internal control over financial reporting for the periods covered by the 2022 Form 10-K. The Company filed the 2022 Form 10-K on October 13, 2023 and is continuing its work to complete the consolidated financial statements for the Quarterly Report on Form 10-Q for the quarter ended April 1, 2023 (the “Q1 Form 10-Q”), and the quarter ended July 1, 2023 (the “Q2 Form 10-Q”). Furthermore, as previously disclosed in its 2022 Form 10-K, as a result of the Company’s challenging financial condition and extensive efforts to complete the restatement of the historical Consolidated Financial Statements, the Company’s accounting department has experienced, and continues to experience, significant attrition, including recent departures in key control positions within the accounting department and other supporting departments. The employee attrition has resulted in resource and skill set gaps, strained resources, and a loss of continuity of knowledge – all of which have contributed to delays in the filing of the Q1 Form 10-Q and the Q2 Form 10-Q.
+"""
+
+Read an article on seeking alpha which brings up debt as the biggest problem facing the company.
+
+It will be interesting to see how long this company remains a going concern. I'm guessing a year?
+
