@@ -36,3 +36,30 @@ based on last quarter ==> EPS $1.40 PE 12.9
 Good last quarter is all due to reduction in the cost of revenue.  Not sure if this is a one time event.
 
 Crazy low exec compensation.  CEO pulls in $36K; owns 30% of the company.  Haven't fully looked into stock options.
+
+Mar 2, 2024
+
+Nov 2023
+rev 9,805.84 14,622.65 18,945.74 8,143.42
+inc 1,291.54 290.22 734.95 -972.04
+shares 3,504,802
+price 5.24
+==>
+Income 1.3M
+Revenue 51.5M
+EPS $0.38
+PE 13.7
+MC 18.4M
+Price $5.24
+Margin 2.61%
+
+The company is a little different than it used to be. From a seeking alpha article:
+
+"""
+JCTCF is a company that operates primarily out of 3 business segments. They make specialty metal products for fencing and pet related products such as kennels. Jewett-Cameron is also a wholesale distributor of industrial wood products for the transportation industry. Jewett-Cameron's third business segment was engaged in selling, processing, and cleaning grass seed but had halted business operations in their fiscal 2023. As of December 2023 all of the seed stored by customers in this 105,000 square foot facility used to run this business segment has been moved out and JCTCF has begun selling off their equipment used in that business segment.
+"""
+
+Much of the article is talking about the value of the seed part company which they are trying to sell.
+
+The new CEO pulls in $350K for such a tiny struggling company. I don't think I need to get into this.
+
