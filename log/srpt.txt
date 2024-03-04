@@ -1,0 +1,46 @@
+
+NAME: AVI BIOPHARMA INC
+CID: 0000873303
+
+Mar 1, 2005
+
+$50 to $500 MC
+
+Another biotech trying to cure cancer, heart disease, etc.  No
+earnings.
+
+Nov 7, 2005
+
+Showing at Westergaard conference.
+
+Still no earnings.  Stock is making a run up after the announcement
+that the company thinks it has a new anti-flu drug.
+
+Apr 26, 2006
+
+No earnings.  Stock up.  MC $330M
+
+Mar 4, 2024
+
+Change ticker from avii to srpt. Changed name to Sarepta Therapeutics, Inc.
+
+It now has a number of products that treat MS.
+
+dec 2023
+rev 396,781 331,817 261,238 253,500
+inc 45,655 -40,937 -23,940 -516,755
+shares 93,855,410
+price 124.03
+==>
+Income -536.0M
+Revenue 1243.3M
+EPS ($5.71)
+MC 11640.9M
+Price $124.03
+
+The market cap dilution makes this look like a 20 bagger but stock price says 7x in 18 years. Not so great.
+
+It's only had a couple years of positive earnings in a decade. Revenues have gone up 4x in the last 6 years.
+
+I guess I still can't handle buying individual biotech companies.
+
