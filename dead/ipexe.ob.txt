@@ -21,3 +21,8 @@ Apr 24, 2006
 ticker is now IPEXE.OB and SEC data is split between two CIDs: 0001258383 and 0001324980
 
 No need to waste time one this.
+
+Mar 4, 2024
+
+The first CIK listed in the last entry has some info. Last 10Q was submitted in 2006 but the ticker wasn't terminated until 2011. 
+
