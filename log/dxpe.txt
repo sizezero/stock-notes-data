@@ -24,3 +24,23 @@ PE 37.1
 MC $261.3M
 
 Crazy valuation.
+
+Mar 4, 2024
+
+Still in business and doing more or less the same thing.
+
+sep 2023
+rev 419,249 428,040 424,267 406,295
+inc 16,172 19,054 17,580 7,152
+shares 16,176,412
+price 35.70
+==>
+Income 60.0M
+Revenue 1677.9M
+EPS $3.70
+PE 9.6
+MC 577.5M
+Margin 3.57%
+
+At least its multiple has dropped to a more reasonable valuation. Market cap has doubled but the share count has gone from 5.6M to 16.2M. What a terrible return for investors. Stay away from this thing.
+
