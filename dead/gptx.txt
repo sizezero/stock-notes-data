@@ -19,3 +19,8 @@ shares 6,218,201
 price 2.19
 ==>
 MC $13.6M
+
+Mar 4, 2024
+
+8K from 2008 says that the company issued a notice of termination of registration. There were no other financial reports but strangely the ticker still appears on yahoo finance and seeking alpha with a price of $0.002 per share.
+
