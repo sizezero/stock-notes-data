@@ -1,0 +1,58 @@
+
+NAME: Alto Ingredients, Inc.
+CID: 0000778164
+
+Nov 7, 2005
+
+Showing at Westergaard conference.
+
+Markets ethanol in western states.  Hasn't made money in four years
+and has a huge market cap.  Is this just an energy play gone nuts?
+
+Jun 19, 2006
+
+mar06 to jun05
+rev 38,239  	36,068  	26,414  	22,814
+inc ($612)	($5,117)	($923)	($2,226)
+shares 31,447,705
+price 21.36
+==>
+EPS ($0.28)
+MC $671.7M
+
+No need to pay a premium for a company that can't make money.
+
+Mar 19, 2024
+
+Name changed from Pacific Ethanol, Inc. to Alto Ingredients, Inc. in 2021. Ticker changed from PEIX to ALTO.
+
+Still in business!
+
+dec 2023
+rev 273,625 318,127 317,297 313,891
+inc -18,945 -3,489 7,595 -13,166
+shares 75,697,150
+price 1.93
+==>
+Income -28.0M
+Revenue 1222.9M
+Shares 75697150
+EPS ($0.36)
+MC 146.1M
+Price $1.93
+
+Shares doubled, price plummeted, market cap dropped, and the company is still not profitable. 2021 was profitable.
+
+I'm they make both ethanol for fuel as well as medical and industrial alcohol.
+
+Breakdown of revenue:
+ 2% Health, Home & Beauty
+ 4% Food & Beverage
+ 6% Industry & Agriculture
+??? Essential Ingredients
+??? Renewable Fuels
+
+It looks like most of the revenue comes from renewable fuels. Alcohol is a commodity business but they claim there are some barriers to entry. I'm worried that much of their business profits are determined by regulation of both carbon capture and ethanol fuel subsidies.
+
+Seeking alpha sentiment is negative. Most of them talk about the core problems of a small company trying to transition from ethanol fuel to these other businesses. It doesn't seem like a good bet. I don't think there's any reason to keep watching this one.
+
