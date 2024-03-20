@@ -1,0 +1,49 @@
+
+NAME: TASER International Inc.
+CID: 0001069183
+
+Nov 7, 2005
+
+Showing at Westergaard conference.
+
+Zap, Zap.  Still staying out of this one.
+
+Jun 20, 2006
+
+mar06 to jun05
+rev 13,894  	12,608  	11,676  	13,207
+inc $806  	$109  	$330  	$663
+shares 64,053,031
+price 8.05
+==>
+EPS $0.03
+PE 270.2
+MC $515.6M
+Price $8.05
+Margins 3.7%
+
+Wow.  I can't believe there's still so much optimism in this stock.
+
+Mar 20, 2024
+
+Ticker changed from TASR to AXON. Name from TASER International Inc. to AXON Enterprise, Inc.
+
+dec 2023
+rev 432,142 413,601 374,605 343,043
+inc 57,271 59,397 12,420 45,139
+shares 75,302,832
+price 314.11
+==>
+Income 174.2M
+Revenue 1563.4M
+EPS $2.31
+PE 135.8
+MC 23653.4M
+Margin 11.14%
+
+Seeking alpha lists the PE at 70. Maybe I'm missing recent quarerly data or they are using a different share count. It seems like a big discrepancy.
+
+It was stuck in the 20s through 2018 and then had a skyward tragectory. It looks like they have expanded beyond TASER stun guns and are now in body cams, software, and cloud.
+
+Revenue is screaming upwards and earnings just came in for the last two years. I don't think I can value this growth play. I'm a little nervous when all a company's revenue comes from government organizations.
+
