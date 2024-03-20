@@ -53,3 +53,23 @@ Margins 10.4%
 The company is certainly no longer a bargain from an earnings perspective.  Balance sheet still shows 16M in current assets with only 3.2M in total liabilities.  Knock off a couple million for the fall in RTEC.  That still leaves a very small price to book value.
 
 Steve called.  I thinks the company is interesting as a value play but is concerned that 70% of the stock is owned by one person.
+
+Mar 20, 2024
+
+Still in business!
+
+sep 2023
+rev 2,057 2,137 2,045 2,114
+inc 8 116 -44 271
+shares 3,428,021
+price 4.05
+==>
+Income 0.4M
+Revenue 8.4M
+EPS $0.10
+PE 39.6
+MC 13.9M
+Margin 4.20%
+
+Market cap is almost completely unchanged in 18 years. I'm not sure why this thing is still a public company.
+
