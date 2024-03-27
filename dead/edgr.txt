@@ -24,3 +24,12 @@ When I look at their product I just don't see it as being _that_ much better tha
 The cheap version of their product only allows the user to search 25 filings in a month.  On a full day of research I may look at 30+ sec filings from sec.gov.  This makes the cheap version nothing more than a trial toy.
 
 I thought this company made it easier for businesses to file SEC documents but I wasnt't able to find anything from the web site.
+
+Mar 27, 2024
+
+"""
+On August 14, 2012, EDGAR Online, Inc. (“EDGAR Online”) , a Delaware corporation, completed its merger (the “Merger”) with Leo Acquisition Sub, Inc. (“Merger Sub”), a wholly-owned subsidiary of R.R. Donnelley & Sons Company (“RR Donnelley”), pursuant to the terms of the Agreement and Plan of Merger, dated as of May 21, 2012 (the “Merger Agreement”), among EDGAR Online, RR Donnelley and Merger Sub. As a result of the Merger, EDGAR Online is now wholly-owned by RR Donnelley.
+"""
+
+I think the new parent is private although they have an investor relations page and have published a quarterly report for 2022. Shareholders got $1.092 per share. Preferred share holders got 50% more. If no splits occurred then investors got burned. Acquisition cost was $70.5M
+
