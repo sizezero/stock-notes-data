@@ -28,3 +28,27 @@ Margins 7.5%
 There's very little product information on the web site.  Five largest customers account for 70% of sales.  There seems to be huge, fragmented competition in this market.
 
 Stock contracted a bit but still is way too high for this stock market.
+
+Mar 27, 2024
+
+Still in business!
+
+nov 24
+rev 21,431 20,624 22,269 17,206
+inc 6,089 4,674 6,111 4,132
+shares 28,849,237
+price 12.19
+==>
+Income 21.0M
+Revenue 81.5M
+EPS $0.72
+PE 16.7
+MC 351.7M
+Margin 25.76%
+
+Since 2006 the eps growth is 5.5% and the MC growth is 4.6%. These aren't great numbers.
+
+Stock broke out to $50 in Sep 2023 before returning to current price which is still higher than the ~$2 price it's been hanging out in for the past decade.
+
+A seekingalpha article talks about how management has unexpectedly guided down for the past two quarters indicating that they don't understand their industry. It's difficult to determine what the real floor on this valuation is.
+
