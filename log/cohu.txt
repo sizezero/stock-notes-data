@@ -70,3 +70,27 @@ Margins 11.5%
 """
 Net income for the second quarter of 2006 benefited from a gain on the sale of our Littleton facility of approximately $3.0 million, offset by $0.7 million of stock compensation expense.
 """
+
+Mar 29, 2024
+
+Still in business!
+
+dec 2023
+rev 137,226 150,804 168,921 179,371
+inc -2,028 3,915 10,584 15,685
+shares 47,076,499
+price 33.33
+==>
+Income 28.2M
+Revenue 636.3M
+EPS $0.59
+PE 55.7
+MC 1569.1M
+Margin 4.42%
+
+EPS growth was negative during that time so there must have been something that happened with stock splits or offerings. Market cap grew at 4.5% annually. Stock price looks to have doubled since 2006 so the MC increase is just due to dilution: terrible for shareholders.
+
+Seekingalpha article changed rating from buy to hold due to weakness in the auto and industrial segments.
+
+If these guys haven't figured out how to grow the business in thirty years then either their in a bad business, they don't know how to run it, or they aren't serving the shareholders.
+
