@@ -117,3 +117,26 @@ latest quarter revenue is the combined interest and non-interest income.
 Oct 2, 2006
 
 TRADE sell 1500@35.0319 balance 0 commission 9.61
+
+Apr 15, 2024
+
+Still in business!
+
+dec 2023
+rev 17,772 18,767 18,462 18,914
+inc 6,296 6,642 6,306 6,663
+shares 8,122,908
+price 24.70
+div 0.96
+==>
+Income 25.9M
+Revenue 73.9M
+EPS $3.18
+PE 7.7
+MC 200.6M
+Margin 35.05%
+Dividend Yield 3.89%
+Payout Ratio 30.10%
+
+This would have been a terrible investment had I hung onto it. There might be a market where it makes sense to own banks but currently a six month treasury looks far superior.
+
