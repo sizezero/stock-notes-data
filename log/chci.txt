@@ -150,3 +150,28 @@ TRADE sell 100@5.27 balance 600 commission 0.02
 TRADE sell 400@5.22 balance 200 commission 0.07
 TRADE sell 100@5.26 balance 100 commission 0.02
 TRADE sell 100@5.24 balance 0 commission 0.02
+
+Apr 15, 2024
+
+Still in business!
+
+9,370,616 (Class A) and 220,250 (Class B) shares = 9600000
+
+dec 2023
+rev 11,016 14,463 8,967 10,275
+inc 1,870 4,685 475 754
+shares 9600000
+price 6.42
+==>
+Income 7.8M
+Revenue 44.7M
+EPS $0.81
+PE 7.9
+MC 61.6M
+Price $6.42
+Margin 17.41%
+
+This stock hasn't done anything fundemental in 16 years. Even the stock price has been flat.
+
+It looks like revenue is growing but management is negating that by diluting shares away with "incentive fees". There's no reason to be a part of this.
+
