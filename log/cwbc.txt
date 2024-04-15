@@ -41,3 +41,28 @@ MC $13.6M
 
 It seems if there's any hope of solvency then this is really cheap.  I glanced at the latest 10Q and it appears they have upped the standards for loan accounting and are confident about their risk exposure. Is it time to look at banks again? Sent steve an email re: this.
 
+Apr 15, 2024
+
+The business is still around.
+
+dec 2023
+rev 22,010 21,812 21,508 22,825
+inc 5,894 6,390 6,282 6,970
+shares 8,909,279
+price 18.69
+div 0.48
+==>
+Income 25.5M
+Revenue 88.2M
+Shares 8909279
+EPS $2.86
+PE 6.5
+MC 166.5M
+Margin 28.97%
+Dividend Yield 2.57%
+Payout Ratio 16.75%
+
+The price laddered up 2015-2017 and has been pretty volatile since then. Growth has been modest. Since 2006, EPS, MC, and price have also grown at 5% to 5.5%.
+
+I still don't think it's worth it to look at banks.
+
