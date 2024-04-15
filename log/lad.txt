@@ -129,3 +129,28 @@ Full year guidance lowered to $2.20 - $2.28
 Oct 2, 2006
 
 TRADE sell 500@24.6524 balance 0 commission 8.37
+
+Apr 15, 2024
+
+Still in business!
+
+dec 2023
+rev 7,674,300 8,277,000 8,111,500 6,973,800
+inc 213,500 261,500 297,200 228,700
+shares 27,530,936
+price 258.76
+div 2.00
+==>
+Income 1000.9M
+Revenue 31036.6M
+EPS $36.35
+PE 7.1
+MC 7123.9M
+Margin 3.22%
+Dividend Yield 0.77%
+Payout Ratio 5.50%
+
+Just after the pandemic this took off like a rocket before settling at just under three hundred. There's still a lot of volatility.
+
+In spite of what looks like stupendous recent growth, since 2006 it's only grown EPS by 5.6% annually and MC 5.2% annually. The dividend adds a little. Not a great return over the long haul. The recent upswing might have investors a little too optimistic on the stock.
+
