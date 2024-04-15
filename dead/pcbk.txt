@@ -104,3 +104,12 @@ Oct 2, 2006
 
 TRADE sell 1500@18.2513 balance 0 commission 8.84
 
+Apr 15, 2024
+
+"""
+On January 9, 2017, Pacific Continental Corporation entered into a definitive agreement to merge with Columbia Banking System, Inc., headquartered in Tacoma, Washington (“Columbia”). Upon completion of the merger, the combined company will operate under the Columbia Bank name and brand. The agreement was approved by the Board of Directors of each company. Closing of the transaction, which occurred on November 1, 2017 was contingent on satisfaction of customary closing conditions.
+"""
+
+Purchased for $644M. Analysis think this was a high price. I wouldn't have lost my shirt on this if I had held onto it but it still wouldn't have been a good investment.
+
+
