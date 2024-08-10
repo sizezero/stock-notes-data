@@ -37,3 +37,11 @@ There's a lot of volatility in both the warrants and the stock. Let's stick in a
 
 BUY 9.4
 
+Aug 6, 2024
+
+The stock has cratered mostly due to the EV disaster. No one wanted to rent EVs and now the company is unloading them at whatever price they could get. Old CEO out, new CEO in. More funds were raised so they are not in imminent danger of going bankrupt.
+
+I've decided to dollar cost average in to (hopefully) take advantage of the correcction.
+
+TRADE buy 20400@2.45 balance 24600 commission 0
+
