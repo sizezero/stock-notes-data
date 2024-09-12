@@ -1,0 +1,12 @@
+
+NAME: Sprott Physical Gold Trust (PHYS)
+CID: 0001477049
+
+Sep 12, 2024
+
+Some talking heads say this trust is safer than GLD since it actually stores physical gold instead of relying on options to track the price. I think both of these have risk if everything goes crazy and there are huge systematic disruptions. Bitcoin or actual gold might be better in that case.
+
+In any case, I'm finding so few assets that are worth buying and the interest payments on the debt are growing so rapidly that I'm worried about having too much cash. As a result, I'm going to dollar cost average some cash into this over the next year.
+
+TRADE buy 2530@19.75 balance 2530 commission 0.00
+
