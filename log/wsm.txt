@@ -7,3 +7,7 @@ Recommended by Tobias on investor's podcast mastermind. All the numbers are good
 
 TRADE buy 125@159.1668 balance 125 commission 0.0
 
+Jul 10, 2024
+
+TRADE split 2:1 balance 250
+
