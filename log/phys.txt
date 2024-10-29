@@ -10,3 +10,7 @@ In any case, I'm finding so few assets that are worth buying and the interest pa
 
 TRADE buy 2530@19.75 balance 2530 commission 0.00
 
+Oct 22, 2024
+
+TRADE buy 2350@21.30 balance 4880 commission 0.00
+
