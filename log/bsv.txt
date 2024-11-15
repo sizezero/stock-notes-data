@@ -52,5 +52,5 @@ TRADE sell 150@75.6546 balance 56626 commission 0
 Nov 11, 2024
 
 # sell from bene ira
-TRADE sell 1410@77.3501 balance 55116 commission 0
+TRADE sell 1410@77.3501 balance 55216 commission 0
 
