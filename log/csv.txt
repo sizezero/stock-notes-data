@@ -7,3 +7,37 @@ June 6, 2009
 value screen june 2009
 
 Funeral home operator based in Houston.  Acquiring other businesses.
+
+Jan 26, 2025
+
+
+Sep 2024
+rev 100,687 102,318 103,493 98,834
+inc 9,739 6,166 6,872 11,526
+shares 15,223,104
+price 39.63
+div 0.45
+==>
+Income 34.3M
+Revenue 405.3M
+EPS $2.25
+PE 17.6
+MC 603.3M
+Margin 8.46%
+Dividend Yield 1.14%
+Payout Ratio 19.97%
+
+Revenue has steadily increased over the last decade but earnings have been bumpy but cash flow has been a little more solid.
+Market cap is under a billion which is good but top executives have $1-2M salaries which is on the high side.
+M&A has stalled but some analysis think it will resume in 2025.
+PE seems high for a company like this but in this bull market it might be on the cheap side.
+Buy a token amount of the stock ($10K) on a pullback. PE 12 ==> Price $27.00. The latest quarter is supposed to have muted earnings so that could provide an opportunity.
+
+BUY $27.00
+
+From latest 10Q
+
+"""
+Our operations are reported in two business segments: Funeral Home Operations, which currently accounts for approximately 65% of our total revenue, and Cemetery Operations, which currently accounts for approximately 35% of our total revenue. At September 30, 2024, we operated 162 funeral homes in 26 states and 31 cemeteries in 11 states.
+"""
+
