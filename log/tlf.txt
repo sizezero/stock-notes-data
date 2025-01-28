@@ -69,3 +69,26 @@ It would be worth visiting a retail store.  Closest stores are Portland and Spok
 
 BUY $5.85
 
+Jan 28, 2025
+
+Sep 2024
+rev 17,351 17,286 19,275 20,845
+inc 7,329 7,268 8,355 9,359
+shares 8,422,296
+price 4.44
+==>
+Income 32.3M
+Revenue 74.8M
+EPS $3.83
+PE 1.2
+MC 37.4M
+Margin 43.22%
+
+Margins seems crazy high and PE seems crazy low. There must be some kind of one one time earnings. It looks like they sold their headquarters for $26M and gave it to shareholders as a one time dividend. It reeks of liquidation.
+
+CEO resigned in early January.
+
+There are some talks about how this is now a Ben Graham play since the liquidation value is around $5.71 per share. The counter is that they have a new CEO (previously from a much larger company) and most CEOs want to create monuments to themselves instead of blowing things up and returning value to shareholders. I think I'll pass on this one.
+
+BUY None
+
