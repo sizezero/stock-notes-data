@@ -7,3 +7,76 @@ June 7, 2009
 value screen june 2009
 
 In the best years made a tiny margin of of revenues.  No revenues are declining.  Ancient CEO pulls in $1M
+
+Jan 31, 2025
+
+It's still around, moderate multiple, low MC, and offers a dividend. This may be worth looking at.
+
+Sep 2024
+rev 417,600 432,600 417,600 389,300
+inc 9,800 11,900 9,600 -14,500
+shares 14,041,891
+price 25.24
+div 0.50
+==>
+Income 16.8M
+Revenue 1657.1M
+EPS $1.19
+PE 21.1
+MC 354.4M
+Margin 1.01%
+Dividend Yield 1.98%
+Payout Ratio 41.79%
+
+Hmmmm...seeking alpha eps is 3.55 and PE is 7.16.
+
+Revenue and income have been bumpy the last five years. Top executives are still pulling in multi-millions from this company. These are bad signs but it's probably still worth it to do a bit of research just for an exercise.
+
+Sep 2024 10-Q
+
+"""
+Lots of acquisitions:
+
+In February 2024, the Company acquired all of the outstanding shares of EMA Indutec GmbH (“EMA”), headquartered in Meckesheim, Germany, from the Aichelin Group, headquartered in Modling, Austria. EMA, which is included in our Engineered Products segment, is a leading manufacturer of induction heating equipment and converters and operates through its two locations in Meckesheim, Germany and Beijing, China. The purchase price, net of cash acquired for the acquisition, was $11.0 million.
+
+
+During the first nine months of 2024, the Company paid $2.2 million related to the deferred purchase price for the 2022 acquisitions of Charter Automotive (Changzhou) Co. Ltd. (“Charter”) and Southern Fasteners & Supply, Inc.
+
+During the fourth quarter of 2024, the Company is scheduled to pay $0.7 million related to the remaining deferred purchase price for the 2022 acquisition of Charter.
+
+EXECUTIVE OVERVIEW
+
+We are a diversified international company providing world-class customers with a supply chain management outsourcing service, capital equipment used on their production lines, and manufactured components used to assemble their products. We operate through three reportable segments: Supply Technologies, Assembly Components and Engineered Products.
+
+Supply Technologies provides our customers with Total Supply Management™, a proactive solutions approach that manages the efficiencies of every aspect of supplying production parts and materials to our customers’ manufacturing floor, from strategic planning to program implementation. Total Supply Management™ includes such services as engineering and design support, part usage and cost analysis, supplier selection, quality assurance, bar coding, product packaging and tracking, just-in-time and point-of-use delivery, electronic billing services and ongoing technical support. Our Supply Technologies business services customers in the following principal industries: heavy-duty truck; power sports and recreational equipment; aerospace and defense; semiconductor equipment; electrical distribution and controls; consumer electronics; bus and coaches; automotive; agricultural and industrial equipment; HVAC; lawn and garden; plumbing; and medical devices.
+
+nine months
+rev: $594M
+inc: $59M
+inc margin: 9.9%
+
+This seems like the most significant part of the business consisting of 62% of the income as well as the highest margins.
+
+Assembly Components manufactures products oriented towards fuel efficiency and reduced emission standards. Assembly Components designs, develops and manufactures aluminum products and highly efficient, high pressure direct fuel injection fuel rails and pipes; fuel filler pipes that route fuel from the gas cap to the gas tank; flexible multi-layer plastic and rubber assemblies used to transport fuel from the vehicle's gas tank and then, at extreme high pressure, to the engine's fuel injector nozzles. Our product offerings include gasoline direct injection systems and fuel filler assemblies, and industrial hose and injected molded rubber and plastic components. Our products are primarily used in the following industries: including automotive and light-vehicle; agricultural equipment; construction equipment; heavy-duty truck; and bus.
+
+nine months
+rev: $309M
+inc: $21.6M
+inc margin: 7.0%
+
+Engineered Products operates a diverse group of niche manufacturing businesses that design and manufacture a broad range of highly-engineered products, including induction heating and melting systems, pipe threading systems and forged and machined products. Engineered Products also produces and provides services and spare parts for the equipment it manufactures. The principal customers of Engineered Products are OEMs, sub-assemblers and end users in the following industries: ferrous and non-ferrous metals; coatings; forging; foundry; heavy-duty truck; construction equipment; automotive; oil and gas; rail; aerospace and defense; and power generation.
+
+nine months
+rev: $364.8M
+inc: $14.6M
+inc margin: 4.0%
+"""
+
+I didn't pull much out of the conference call. There was discussion about reducing the "roofs" from 130 to 110 which makes it seem like this business is in consolidation mode. Not very growthy.
+
+The last SA analyst report in Nov 2023 was predicting growth with a $3 EPS and price of $38 by thee end of 2024. That definitely didn't happen.
+
+Debt has been going up the last five years. When that matures it's got to hurt this low margin business.
+
+This looks like a bad business. To have any advantage, I need to understand their customers which are Aerospace and a whole bunch of other cyclical companies. I don't think this is worth being on the watch list.
+
