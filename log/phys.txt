@@ -18,3 +18,7 @@ Dec 13, 2024
 
 TRADE buy 2440@20.49 balance 7320 commission 0.00
 
+Feb 14, 2025
+
+TRADE buy 2240@22.32 balance 9560 commission 0.00
+
