@@ -53,3 +53,7 @@ Mar 12, 2025
 
 TRADE buy 850@2.05 balance 27267 commission 0
 
+Mar 13, 2025
+
+TRADE buy 21723@2.05 balance 48990 commission 0
+
