@@ -45,3 +45,11 @@ I've decided to dollar cost average in to (hopefully) take advantage of the corr
 
 TRADE buy 20400@2.45 balance 24600 commission 0
 
+Mar 11, 2025
+
+TRADE buy 1817@2.05 balance 26417 commission 0
+
+Mar 12, 2025
+
+TRADE buy 850@2.05 balance 27267 commission 0
+
