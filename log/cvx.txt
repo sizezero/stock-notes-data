@@ -231,4 +231,7 @@ This is a hard problem. Part of me wants to buy into the "never sell" behavior a
 
 SELL 152
 
+May 6, 2025
+
+TRADE buy 366@136.50 balance 1420 commission 0
 

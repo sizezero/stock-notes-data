@@ -1,6 +1,6 @@
 
-#Oct 29, 2024
-Dec 17, 2024
+#Dec 17, 2024
+May 6, 2025
 
 Etrade Roth IRA
 
@@ -22,5 +22,8 @@ Etrade Roth IRA
 #BALANCE: $10294.00
 # treasuries+cash: 11523.83
 # BSV: 185189.15
-BALANCE: $11523.83
+#BALANCE: $11523.83
+# treasuries+cash: 11813.98+979.34+808.47=13601.79
+# BSV: 187005.55
+BALANCE: $13601.79
 

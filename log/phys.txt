@@ -22,3 +22,7 @@ Feb 14, 2025
 
 TRADE buy 2240@22.32 balance 9560 commission 0.00
 
+May 6, 2025
+
+TRADE buy 1914@26.12 balance 11474 commission 0.00
+

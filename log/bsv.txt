@@ -54,3 +54,8 @@ Nov 11, 2024
 # sell from bene ira
 TRADE sell 1410@77.3501 balance 55216 commission 0
 
+May 6, 2025
+
+# sell from schwab individual
+TRADE sell 640@78.20 balance 54576 commission 1.51
+
