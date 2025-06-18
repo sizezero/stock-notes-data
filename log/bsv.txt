@@ -59,3 +59,8 @@ May 6, 2025
 # sell from schwab individual
 TRADE sell 640@78.20 balance 54576 commission 1.51
 
+Jun 18, 2025
+
+# sell from etrade primary
+TRADE sell 2560@78.215 balance 52016 commission 0.82
+
