@@ -26,3 +26,7 @@ May 6, 2025
 
 TRADE buy 1914@26.12 balance 11474 commission 0.00
 
+Jun 23, 2025
+
+TRADE buy 1930@25.9267 balance 13404 commission 0.00
+
