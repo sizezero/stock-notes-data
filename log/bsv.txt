@@ -64,3 +64,8 @@ Jun 18, 2025
 # sell from etrade primary
 TRADE sell 2560@78.215 balance 52016 commission 0.82
 
+Jun 25, 2025
+
+# sell from etrade primary
+TRADE sell 1274@78.48 balance 50742 commission 0
+
