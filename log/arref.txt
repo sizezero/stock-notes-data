@@ -17,3 +17,11 @@ TRADE buy 6000@1.44 balance 6500 commission 0
 
 This amounted to $9,365.00 so if I still want $100K of it I have $90,600.00 to go.
 
+Jun 26, 2025
+
+It skyrocketed to $1.60 today, a 52 week high. There's a large ask position at 1.59 I think I'll try to get half of my position at that price.
+
+TRADE buy 29200@1.59 balance 35700 commission 6.95
+TRADE buy 300@1.5881 balance 36000 commission 0
+TRADE buy 500@1.582 balance 36500 commission 0
+
