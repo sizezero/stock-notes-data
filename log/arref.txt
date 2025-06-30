@@ -25,9 +25,17 @@ TRADE buy 29200@1.59 balance 35700 commission 6.95
 TRADE buy 300@1.5881 balance 36000 commission 0
 TRADE buy 500@1.582 balance 36500 commission 0
 
-June 27, 2025
+Jun 27, 2025
 
 TRADE buy 20000@1.56 balance 56500 commission 0
 
 Near the end. I could buy $12K more to have $100K in it.
+
+Jun 30, 2025
+
+TRADE buy 500@1.596 balance 57000 commission 6.95
+TRADE buy 6700@1.6 balance 63700 commission 0
+
+I've got my initial position.
+
 
