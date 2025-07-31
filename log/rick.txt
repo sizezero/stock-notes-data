@@ -426,3 +426,15 @@ Aug 5, 2024
 
 TRADE buy 1130@44.30 balance 14732 commission 0
 
+Jul 21, 2025
+
+After looking at the latest earnings call, they seem to be going through a rough patch but they are following their capital allocation plan and acquiring clubs and accelerating their stock repurchases. This is has usually been a good signal to buy more.
+
+TRADE buy 1317@37.845 balance 16049 commission 0
+TRADE buy 1316@37.9867 balance 17365 commission 0
+
+Jul 31, 2025
+
+TRADE buy 1390@35.8367 balance 18755 commission 0
+
+
