@@ -23,3 +23,26 @@ Low valuation, low payout ratio.  It may be worth taking a low entry point and h
 
 BUY $30
 
+Aug 25, 2025
+
+It hit the BUY and I never picked any up. I should keep a better eye on it.
+
+May 2025
+rev 842,700 762,100 875,900 1,053,000
+inc 60,100 51,900 55,300 61,600
+shares 30,883,672
+price 46.21
+div 1.28
+==>
+EPS $7.41
+PE 6.2
+MC 1427.1M
+Price $46.21
+Margin 6.48%
+Dividend Yield 2.77%
+Payout Ratio 17.27%
+
+This isn't much growth in 9 years even with the dividend. I'm going to take this off the watch list.
+
+BUY None
+
