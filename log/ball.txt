@@ -1,0 +1,59 @@
+
+NAME: Ball Corporation
+CID: 9389
+KEYWORDS: emma
+
+Sep 24, 2025
+
+Emma wanted me to look into this one.
+
+Company profile:
+Ball Corporation supplies aluminum packaging products for the beverage, personal care, and household products industries in the United States, Brazil, and internationally. The company manufactures and sells aluminum beverage containers to fillers of carbonated soft drinks, beer, energy drinks, and other beverages. It manufactures and sells extruded aluminum aerosol containers, recloseable aluminum bottles, aluminum cups, and aluminum slugs. Ball Corporation was founded in 1880 and is headquartered in Westminster, Colorado.
+
+Jun 2025
+rev 3,338,000 3,097,000 2,880,000 3,082,000
+inc 212,000 179,000 -32,000 197,000
+shares 282,822,891
+price 48.66
+div 0.80
+==>
+Income 556.0M
+Revenue 12397.0M
+EPS $1.96
+PE 24.8
+MC 13762.2M
+Margin 4.48%
+Dividend Yield 1.64%
+Payout Ratio 40.69%
+
+Strangely PE matches yahoo finance but is twice that of seekingalpha.
+
+If we take out the bad quarter:
+rev 3,338,000 3,097,000 3,097,000 3,082,000
+inc 212,000 179,000 179,000 197,000
+shares 282,822,891
+price 48.66
+==>
+Income 767.0M
+Revenue 12614.0M
+EPS $2.71
+PE 17.9
+Margin 6.08%
+
+10K
+"""
+The company got out of the aerospace business by 2024.
+
+Sustainability (recycled aluminum) is a big part of the company. 71% of global aluminum is recycled.
+
+three reportable segments outlined below: (1) beverage packaging, North and Central America; (2) beverage packaging, Europe, Middle East and Africa (beverage packaging, EMEA) and (3) beverage packaging, South America. Ball also has investments in the U.S., Guatemala, Panama and Vietnam that are accounted for using the equity method of accounting and, accordingly, those results are not included in segment sales or earnings.
+
+48% of sales are in the NA segment, beverage packaging EMEA 29%, and beverage packaging SA segment 17%
+"""
+
+I don't know if that high PE is the leftovers of one bad quarter. Traditionally I would expect a company like this to be valued at a single digit PE. In this market maybe 15. I don't expect the company to grow much so it would need to have a low valuation and high yield to make it worth it.
+
+I read a buy review on seekingalpha. Lots of vague talk about improving efficiency, innovation, cost control. Not much talk of growth. Risks include the beer segment.
+
+The payout ratio is moderate for a tiny yield.
+
