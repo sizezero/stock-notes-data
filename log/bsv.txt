@@ -89,4 +89,8 @@ Aug 18, 2025
 sell from etrade primary
 TRADE sell 508@78.645 balance 47907 commission 0
 
+Oct 30, 2025
+
+sell from etrade roth ira
+TRADE sell 120@78.9601 balance 47787 commission 0.0199
 

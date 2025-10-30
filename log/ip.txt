@@ -54,5 +54,29 @@ Over the years it's delivered a measly 5.6% annual return but the 3-5% divided h
 
 BUY $50.00
 
+Oct 30, 2025
 
+Market expected earnings of $0.31 but instead got a loss of $0.81. The stock tanked. I'm going to reflexively act on my watch and buy another $10K to double my position while I see what's going on.
+
+"""
+Chief Executive Officer Andy Silvernail in a statement said the company is making “substantial progress on our transformation journey,” noting a 28% sequential improvement in adjusted ebitda across its packaging businesses, helped by price gains, lower fiber costs and disciplined cost management. However, he acknowledged continued soft demand in both North America and Europe.
+
+Silvernail reaffirmed the company’s focus on reshaping its portfolio and executing a long-term transformation plan to build a “differentiated, sustainable global packaging company.”
+
+International Paper (IP) recently announced plans to sell its Global Cellulose Fibers business to American Industrial Partners for $1.5 billion, with the transaction expected to close following regulatory approvals.
+"""
+
+TRADE buy 260@38.7014 balance 504 commission 0
+
+BUY $30.00
+
+The earnings call will be this afternoon.
+
+"""
+CEO: Post the GCF sale and the exit of some specialty businesses and low-margin export we will be exclusively a sustainable packaging business. This is a major milestone in our transformation.
+
+CFO: Third, with the signed transaction, we've written down the GCF business to fair market value and the associated impairment of approximately $1 billion is reflected in the discontinued operations line this quarter.
+"""
+
+The big hurdle was sector demand which was thought to be up 1-1.5% and was actually down 1%. They think going forward, they can capture more of the market and thus still do well with dropping demand. Getting rid of the lower marging business still seems to be going well so I'll continue to hold and maybe pick up more if it drops.
 
