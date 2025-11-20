@@ -36,3 +36,7 @@ The market sounds interesting and I like those margins. Put in a low buy price.
 
 BUY $80
 
+Nov 10, 2025
+
+TRADE buy 837@95.56 balance 1079 commission 0.0
+

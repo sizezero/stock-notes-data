@@ -38,3 +38,9 @@ Sep 22, 2025
 
 TRADE buy 1740@28.695 balance 17091 commission 0.00
 
+Nov 10, 2025
+
+TRADE buy 406@31.1055 balance 17497 commission 0.0
+TRADE buy 1100@31.105 balance 18597 commission 0.0
+TRADE buy 100@31.11 balance 18697 commission 0.0
+
