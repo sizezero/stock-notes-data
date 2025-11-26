@@ -104,3 +104,8 @@ Nov 19, 2025
 sell from schwab bene ira
 TRADE sell 2200@78.8702 balance 44953 commission 0.37
 
+Nov 25, 2025
+
+sell from etrade ira
+TRADE sell 391@79.17 balance 44562 commission 0
+
