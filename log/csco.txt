@@ -324,3 +324,12 @@ PE looks crazy overvalued but margins, dividend growth, share buybacks all look 
 
 SELL 55
 
+Dec 19, 2025
+
+Dan Niles noted that this can be considered an undervalued AI play. Growth has been slow and steady but the PE is low relative to the rest of the industry.
+
+TRADE buy 640@78.101 balance 2367 commission 0
+
+I'm not confident on this sell price but the PE is going up.
+SELL 125
+
