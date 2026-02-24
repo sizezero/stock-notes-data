@@ -114,3 +114,8 @@ Dec 19, 2025
 sell from etrade primary
 TRADE sell 635@78.72 balance 43927 commission 0.1054
 
+Feb 20, 2026
+
+sell from etrade ira
+TRADE sell 154@79.0601 balance 43773 commission 0.03
+
