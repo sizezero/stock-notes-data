@@ -117,4 +117,9 @@ Oct 12, 2021
 
 TRADE buy 732@66.3096 balance 8000 commission 0.0
 
+May 11, 2026
+
+This stock is 35% of my portfolio. I need to trim it without exceeding the $275K WA state cap gain tax.
+
+TRADE sell 342@791.2851 balance 7658 commission 5.65
 
