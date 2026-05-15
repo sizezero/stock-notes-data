@@ -86,3 +86,7 @@ The Iran war has pushed energy prices up which has hurt IP. Buying the dip. I mi
 
 TRADE buy 32@31.13 balance 536 commission 0
 
+May 15, 2026
+
+TRADE buy 85@30.55 balance 621 commission 0
+
