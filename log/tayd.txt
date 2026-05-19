@@ -99,3 +99,22 @@ Apr 30, 2017
 
 Latest new from company shows severely reduced revenue until 2018.
 
+May 19, 2026
+
+2/26
+rev 11,173.20 11,603.47 9,918.35 15,561.15
+inc 2,498.14 2,008.62 2,190.08 3,688.08
+shares 3,219,112
+price 50.17
+==>
+Income 10.4M
+Revenue 48.3M
+EPS $3.22
+PE 15.6
+MC 161.5M
+Price $50.17
+Margin 21.52%
+
+The multiple seems as good as it's ever been. Re-evaluate in July when the tbills mature and consider buying.
+
+BUY none
