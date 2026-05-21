@@ -123,3 +123,31 @@ TRADE buy 750@39.55 balance 1973 commission 0.0
 BUY 30
 SELL 107
 
+May 21, 2026
+
+3/26
+rev 69,691,000 64,093,000 68,153,000 65,406,000
+inc 10,366,000 3,159,000 7,734,000 6,013,000
+shares 5,689,891,670
+price 87.13
+div 2.96
+==>
+Income 27272.0M
+Revenue 267343.0M
+Shares 5689891670
+EPS $4.79
+PE 18.2
+MC 495760.3M
+Price $87.13
+Margin 10.20%
+Dividend $2.96
+Dividend Yield 3.40%
+Payout Ratio 61.76%
+
+net operating income: -1,101,000 -811,000 -816,000 -516,000
+
+Ugh. High PE, Payout ratio, and low growth but I don't want the cap gains hit and I don't really have a good use of the cash. Hold.
+
+BUY none
+SELL none
+
