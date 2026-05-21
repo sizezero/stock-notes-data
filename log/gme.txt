@@ -492,3 +492,24 @@ Jan 21, 2021
 TRADE sell 4337@41.00 balance 1924  commission 0.00
 TRADE sell 1924@42.00 balance 0  commission 0.00
 
+Jul 22, 2022
+
+TRADE split 4:1 balance 0
+
+May 21, 2026
+
+1/26
+rev 1,104,300 821,000 972,200 732,400
+inc 127,900 77,100 168,600 44,800
+shares 448,375,157
+price 22.32
+==>
+EPS $0.93
+PE 23.9
+MC 10007.7M
+Margin 11.53%
+
+I'm not even sure what the strategy of this company is anymore. They've raised a bunch of cash and are trying to invent a business to invest it in. The price is still decent ($88 pre split). I don't need to look at this company anymore.
+
+BUY none
+
