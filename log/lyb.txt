@@ -19,3 +19,28 @@ Add a low watch
 
 BUY 90
 
+May 20, 2026
+
+The stock dropped to $41 in Jan but has bounced back. It's still below my buy price, which I ignored.
+
+Cut dividend in Feb from $1.37 to $0.69. Note: seeking alpha had the correct dividend and yahoo's was incorrect.
+
+3/26
+rev 7,197,000 7,091,000 7,727,000 7,658,000
+inc 123,000 -143,000 -893,000 114,000
+shares 322,784,773
+price 71.30
+div 2.76
+==>
+Income -799.0M
+Revenue 29673.0M
+Shares 322784773
+EPS ($2.47)
+MC 23014.6M
+Dividend Yield 3.87%
+Payout Ratio -111.50%
+
+Cutting the dividend must put a lot of negative pressure on the price. I can't see owning this now.
+
+BUY none
+
