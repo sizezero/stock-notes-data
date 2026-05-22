@@ -1,5 +1,5 @@
 
-NAME: American Axle & Manufacturing Holdings, Inc.
+NAME: Dauch Corp
 CID: 0001062231
 
 Jun 17, 2018
@@ -50,4 +50,14 @@ BUY $10.00
 Sep 12, 2022
 
 TRADE sell 2689@10.05 balance 0 commission 0.0
+
+Jan 26, 2026
+
+Changed name from American Axel to Dauch. Ticker from AXL to DCH.
+
+May 22, 2026
+
+This is now a European company so I'm going to stop watching it.
+
+BUY none
 
