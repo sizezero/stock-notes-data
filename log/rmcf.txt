@@ -318,3 +318,20 @@ Nov 9, 2022
 
 TRADE sell 2165@6.69 balance 0 commission 0.61
 
+May 22, 2026
+
+11/25
+rev 7,543 6,823 6,373 8,899
+inc -155 -662 -324 -2,895
+shares 6,092,626
+price 1.92
+==>
+Income -4.0M
+Revenue 29.6M
+Shares 6092626
+EPS ($0.66)
+MC 11.7M
+
+BUY none
+SELL none
+
