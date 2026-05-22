@@ -55,3 +55,29 @@ Aug 9, 2023
 
 TRADE buy 120@42.00 balance 142 commission 0.0
 
+May 22, 2026
+
+Yahoo had bad data. Seeking Alpha and Morning Star was similar.
+
+12/25
+rev yahoo 3,351,000 3,773,000 3,721,000 3,628,000
+inc yahoo 132,000 302,000 253,000 118,000
+
+3/26
+rev 755,000 890,000 846,000 794,000
+inc -3,000 33,000 57,000 15,000
+shares 39,736,136
+price 38.10
+div 1.80
+==>
+EPS $2.56
+PE 14.8
+MC 1513.9M
+Margin 3.11%
+Dividend Yield 4.72%
+Payout Ratio 70.12%
+
+It's a turnaround now with a decent amount of debt. I don't like the payout ratio either. I think I'm just going to hold.
+
+BUY none
+
