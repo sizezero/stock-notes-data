@@ -393,3 +393,21 @@ Oct 28, 2021
 
 TRADE buy 663@30.55 balance 1800 commission 0.0
 
+May 22, 2026
+
+1/26
+rev 14,438,000 14,639,000 13,932,000 13,220,000
+inc 545,000 795,000 763,000 406,000
+shares 914,550,199
+price 25.39
+div 1.20
+==>
+EPS $2.74
+PE 9.3
+MC 23220.4M
+Margin 4.46%
+Dividend Yield 4.73%
+Payout Ratio 43.74%
+
+Hmmm. This thing hit the buy target many times in the last year and I never picked any up. Super cheap, good dividend. I should leave the buy in case I end up using it.
+
