@@ -57,3 +57,23 @@ Pick a low buy point, get an entry position of 20-30K and re-evaluate.
 
 BUY $180
 
+May 22, 2026
+
+3/26
+rev 17,415,000 19,133,000 17,638,000 16,569,000
+inc 2,549,000 2,402,000 2,300,000 2,179,000
+shares 460,637,026
+price 890.76
+div 6.04
+==>
+EPS $20.47
+PE 43.5
+MC 410317.0M
+Margin 13.33%
+Dividend Yield 0.68%
+Payout Ratio 29.50%
+
+I wish I had bought and hung onto this one. No need to look at it at this valuation.
+
+BUY none
+
