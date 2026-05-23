@@ -90,3 +90,24 @@ Jun 14, 2024
 
 TRADE split 4:1 balance 0
 
+May 22, 2026
+
+3/26
+rev 307,005 321,126 318,949 307,657
+inc -14,803 16,396 20,619 18,454
+shares 24,559,649
+price 31.52
+div 0.32
+==>
+EPS $1.65
+PE 19.0
+MC 774.1M
+Margin 3.24%
+Dividend Yield 1.02%
+Payout Ratio 19.33%
+
+Earnings, price, dividend, PE, all barely changed in two years. The stock has made a round trip in that time. I'm not sure why I should be interested in this. I don't see what the upside could be.
+
+BUY none
+
+
