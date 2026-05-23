@@ -81,4 +81,21 @@ Reading a few seekingalpha articles it seems much of the growth came from acquis
 
 BUY $12.00
 
+May 22, 2026
+
+3/26
+rev 58,583 74,677 58,435 79,239
+inc 605 3,083 1,877 4,052
+shares 8,899,729
+price 23.53
+==>
+EPS $1.08
+PE 21.8
+MC 209.4M
+Margin 3.55%
+
+Wow. Lower earnings, higher PE, and higher price. I think I can stop watching.
+
+BUY none
+
 
