@@ -53,3 +53,21 @@ I don't know if it's worth looking at until it get's really cheap. Let's put low
 
 BUY $45
 
+May 22, 2026
+
+12/25
+rev 34,312 45,687 46,998 30,787
+inc 3,084 5,199 8,928 4,235
+shares 4,094,405
+price 101.07
+div 2.00
+==>
+EPS $5.23
+PE 19.3
+MC 413.8M
+Margin 13.59%
+Dividend Yield 1.98%
+Payout Ratio 38.18%
+
+Decent eps growth in a couple years but a bunch of the growth was just the PE. It's more expensive than it used to be. Keep watching.
+
