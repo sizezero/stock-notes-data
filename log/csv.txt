@@ -10,7 +10,6 @@ Funeral home operator based in Houston.  Acquiring other businesses.
 
 Jan 26, 2025
 
-
 Sep 2024
 rev 100,687 102,318 103,493 98,834
 inc 9,739 6,166 6,872 11,526
@@ -40,4 +39,26 @@ From latest 10Q
 """
 Our operations are reported in two business segments: Funeral Home Operations, which currently accounts for approximately 65% of our total revenue, and Cemetery Operations, which currently accounts for approximately 35% of our total revenue. At September 30, 2024, we operated 162 funeral homes in 26 states and 31 cemeteries in 11 states.
 """
+
+May 23, 2026
+
+3/26
+rev 106,120 105,482 102,742 102,147
+inc 13,310 12,176 6,474 11,564
+shares 15,872,328
+price 43.73
+div 0.45
+==>
+EPS $2.74
+PE 15.9
+MC 694.1M
+Margin 10.45%
+Dividend Yield 1.03%
+Payout Ratio 16.41%
+
+Seeking alpha reports generic revenue as "operating revenue" while yahoo reports the total and operating. Using total.
+
+I read a seeking alpha article that mentions that it's a predictable business (people keep dying) and the company has 155 funeral homes in 28 states and 28 cemetaries in 9 states. This is both decent diversification and room for growth. I think to take a bite of this I'd have to get it at a discount, maybe 12 PE.
+
+BUY $33.00
 
