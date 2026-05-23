@@ -42,3 +42,21 @@ Only put $20K into this, maybe $50K when treasuries next mature. We will load up
 
 BUY $38
 
+May 23, 2026
+
+3/26
+rev 106,427 138,316 130,912 145,494
+inc -134,839 -133,016 15,232 14,267
+shares 21,371,237
+price 18.05
+div 0.48
+==>
+EPS ($11.15)
+MC 385.8M
+Dividend Yield 2.66%
+Payout Ratio -4.30%
+
+Negative income in the last two quarters. Negative operating income for at least the past year. Two Kentucky distilleries are idled. I don't know how to predict a turnaround for this thing. Why are they still paying a dividend?
+
+BUY none
+
