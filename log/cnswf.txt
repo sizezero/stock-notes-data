@@ -1,0 +1,31 @@
+
+NAME: Constellation Software, Inc.
+CID: 0001113678
+
+May 24, 2026
+
+CID does not show all financial statements. I think I may have to rely on Seeking Alpha and Yahoo finance to convert them.
+
+3/26
+rev 3,181,000 3,177,000 2,947,000 2,843,000
+inc 367,000 110,000 210,000 56,000
+shares 21,200,000
+price 1970
+div 4.00
+==>
+EPS $35.04
+PE 56.2
+MC 41764.0M
+Margin 6.12%
+Dividend Yield 0.20%
+Payout Ratio 11.41%
+
+I was turned onto this by a Mohnish Pabrai video:
+https://youtu.be/FjWY1-gZ0Cs
+
+Some of his points:
+
+Invest in the pickaxe makers of AI. All AI companies have pass through TSMC, ASML, Micron. All these are too hard or too expensive right now. Vertical SAS is a better bet. Betsy in HR will not fire up AI to code a new Workday. Mark Leonard has a unique style. There are 70K to 100K vertical model private software companies in the US. They have a bizteam that touches base with all these companies twice a year and can act independently to purchase them. They have no competitors for these acquisitions (too small for private equity) and they are very accretive. They're like Berkshire Hathway but focused on software so they can bring more expertise to bear. Their only competition is if somone came in and cloned them but the industry could easily handle five clones.
+
+The static numbers are not favorable to me so I'll just have to trust Mohnish's growth numbers. I'll start an initial position tomorrow at $100K and put in a lower buy price in case I get lucky and the market corrects.
+
