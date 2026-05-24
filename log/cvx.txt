@@ -235,3 +235,23 @@ May 6, 2025
 
 TRADE buy 366@136.50 balance 1420 commission 0
 
+May 24, 2026
+
+3/26
+rev 47,556,000 45,787,000 48,169,000 44,375,000
+inc 2,210,000 2,770,000 3,539,000 2,490,000
+shares 1,991,597,732
+price 191.43
+div 7.12
+==>
+EPS $5.52
+PE 34.6
+MC 381251.6M
+Margin 5.92%
+Dividend Yield 3.72%
+Payout Ratio 128.81%
+
+The recent price appreciation has all come from forward looking. It's not in the current numbers. I'm still not selling because I have even richer, higher portfolio percentage companies to sell.
+
+SELL none
+
