@@ -29,3 +29,9 @@ Invest in the pickaxe makers of AI. All AI companies have pass through TSMC, ASM
 
 The static numbers are not favorable to me so I'll just have to trust Mohnish's growth numbers. I'll start an initial position tomorrow at $100K and put in a lower buy price in case I get lucky and the market corrects.
 
+May 26, 2026
+
+TRADE buy 50@1950.00 balance 50 commission 0.0
+
+BUY 1755.00 1852.5
+
