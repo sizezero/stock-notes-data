@@ -123,3 +123,6 @@ This stock is 35% of my portfolio. I need to trim it without exceeding the $275K
 
 TRADE sell 342@791.2851 balance 7658 commission 5.65
 
+Setting sell to none since I'll be trimming this every year as long as it's over 25% of my portfolio.
+SELL none
+
