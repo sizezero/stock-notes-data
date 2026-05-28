@@ -33,5 +33,5 @@ May 26, 2026
 
 TRADE buy 50@1950.00 balance 50 commission 0.0
 
-BUY 1755.00 1852.5
+BUY 1852.5 1755.00
 
