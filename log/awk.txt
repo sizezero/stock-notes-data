@@ -1,0 +1,30 @@
+NAME: American Water Works Company, Inc.
+CID: 0001410636
+
+Jul 11, 2026
+
+Barrons mentioned this one in their latest roundtable:
+
+"""
+Do you want to make any changes to your January recommendations?
+
+No. Keep them all on the list. We particularly like American Water Works. It has nothing to do with power generation. Its underlying growth continues. The stock trades for 20 to 21 times earnings. That doesn’t seem like a bargain, but when you consider that earnings per share have grown by 8% to 9% a year for the past five years and can continue to grow at a similar rate, it is almost like a bond.
+"""
+
+
+Mar 26
+rev 1,207,000	1,271,000	1,451,000	1,276,000	
+inc 196,000	238,000	379,000	289,000	
+shares 195,280,521 
+price 130.69
+div 3.58
+==>
+EPS $5.64
+PE 23.2
+MC 25521.2M
+Margin 21.17%
+Dividend Yield 2.74%
+Payout Ratio 63.44%
+
+I don't like the payout ratio. I guess that is what the analyst meant by bond-like. There's no reason to buy these mature companies. I should pick them up when they are less mature.
+
