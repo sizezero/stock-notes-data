@@ -43,4 +43,10 @@ Nov 4, 2025
 
 Modified previous trades to allow for spinoff of Q
 
+Jun 24, 2026
+
+Reverse split was uneven so I got cash for one share.
+
+TRADE split 1:3 balance 162
+TRADE sell 1@88.92 balance 161 commission 0
 
