@@ -124,3 +124,8 @@ Mar 14, 2026
 sell from etrade ira
 TRADE sell 587@77.992 balance 43186 commission 0.0
 
+Aug 28, 2026
+
+sell from etrade ira
+TRADE sell 1262@77.59 balance 41924 commission 0.0
+
