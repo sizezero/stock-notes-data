@@ -62,3 +62,15 @@ I read a seeking alpha article that mentions that it's a predictable business (p
 
 BUY $33.00
 
+Oct 3, 2026
+
+I picked up $200K will double down if it drops enough.
+
+TRADE buy 60@31.68 balance 60 commission 0
+TRADE buy 100@31.69 balance 160 commission 0
+TRADE buy 342@31.71 balance 502 commission 0
+TRADE buy 598@31.70 balance 1100 commission 0
+TRADE buy 5250@31.72 balance 6350 commission 0
+
+BUY $25.00
+

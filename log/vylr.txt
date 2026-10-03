@@ -1,0 +1,10 @@
+
+NAME: Vylor, Inc.
+CID: 2128626
+
+Oct 2, 2026
+
+Spun out of Corteva. Cost basis doesn't really matter since it's in an IRA.
+
+TRADE buy 125@67.26 balance 125 commission 0
+
