@@ -73,3 +73,7 @@ Oct 2, 2026
 
 TRADE buy 1596@31.33 balance 29033 commission 0.0
 
+Nov 23, 2026
+
+TRADE buy 1823@27.429 balance 30856 commission 0.0
+
